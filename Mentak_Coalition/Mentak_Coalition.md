@@ -314,27 +314,7 @@ Your fleet composition is unique—cruisers operate independently from your main
 
 With Mirror Computing economy, you can afford expensive ships like dreadnoughts for slice defense while your mobile cruisers operate independently across the map. Cruisers do the pirate work, capital ships defend territory.
 
-### B. Point Planning
-
-**Mentak Christmas-Land Strategy Cards:**
-
-| Round | Card        | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|-------------|---------------|---------------|-----------|-------|-------|
-| One   | Construction| 0             | 0             | 0         | 0     | 0     |
-| Two   | Technology  | 1             | 0             | 0         | 0     | 1     |
-| Three | Leadership  | 2             | 1             | 0         | 0     | 3     |
-| Four  | Imperial    | 4             | 2             | 1         | 0     | 7     |
-| Five  | Leadership  | 6             | 3             | 1         | 2     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- **Construction → Technology** - Setup expansion and tech path to Mirror Computing
-- **Leadership** - Spam production and positioning for Pillage
-- **Imperial** - Score points (you probably won't control MR—focus on public objectives instead)
-- Your weak economy R1-R2 means you'll score slower than other factions. Accelerate to Mirror Computing to catch up mid-game
-
-### C. Game Plan
+### B. Game Plan
 
 **Focus on Economic Development and Board Presence:**
 

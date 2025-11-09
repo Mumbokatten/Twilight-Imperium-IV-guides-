@@ -322,27 +322,7 @@ Your ideal fleet composition in each system:
 
 This composition gives you strong ANTI-FIGHTER BARRAGE, affordable production, and invasion capability. The mech's free capacity makes destroyer-based invasions viable without needing lots of carrier capacity.
 
-### B. Point Planning
-
-**Argent Flight Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Trade/Leadership | 0             | 0             | 0         | 0     | 0     |
-| Two   | Tech/Construction| 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 0         | 0     | 4     |
-| Four  | Politics/Tech    | 4             | 2             | 1         | 0     | 7     |
-| Five  | Tech/Construction| 5             | 3             | 2         | 2     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). One Imperial is enough in R3/R4 to double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Argent can score early R2-R3 with combat objectives and structure objectives
-- Develop Weaponry (2 unit upgrades) is easy—you get Strike Wing Alpha II and Aerie Hololattice/PDS II in your tech path
-- Tech and Construction priority R1-R2 sets up your engine
-- Politics R3 is great if you want to secure Imperial R4
-
-### C. Custodian Strategy
+### B. Custodian Strategy
 
 Argent Flight is an excellent "get in, get out" custodian faction. You can easily afford the 6 influence to claim Mecatol Rex R2-R3—your home system provides 3 influence, your destroyers cost only 1 resource (leaving influence available for MR), and you'll have expanded to influence-heavy planets by then. Take MR early, grab the Custodians token for a free 1 VP, then evaluate whether holding it is worth the commitment. Your ANTI-FIGHTER BARRAGE and Raid Formation make you dangerous enough that opponents might not immediately contest MR, giving you breathing room. If going the Aerie Hololattice route, you can lock down MR with structure placement on adjacent planets and PDS networks—but be realistic: if you abandon MR, you probably won't see it again. Once you leave, another faction will take it and likely hold it for the rest of the game. The key insight: don't feel obligated to hold MR forever, but understand that walking away means giving it up permanently. Evaluate whether the custodians point is worth the eventual loss of MR access.
 

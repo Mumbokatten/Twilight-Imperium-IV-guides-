@@ -279,27 +279,7 @@ Your ideal fleet composition in each system:
 
 Build up your capital ship count with Armada. With 3 fleet pool tokens, you can have 5 non-fighter ships per system instead of 3. Fill those extra slots with more dreadnoughts as your economy allows.
 
-### B. Point Planning
-
-**Letnev Christmas-Land Strategy Cards:**
-
-| Round | Card               | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|-------------------|---------------|---------------|-----------|-------|-------|
-| One   | Trade             | 1             | 0             | 0         | 0     | 1     |
-| Two   | Leadership        | 2             | 0             | 0         | 0     | 2     |
-| Three | Imperial          | 4             | 1             | 1         | 0     | 6     |
-| Four  | Leadership/Politics| 5             | 2             | 1         | 1     | 9     |
-| Five  | Leadership        | 7             | 3             | 1         | 2     | 13    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- **Leadership/Trade** - Setup economy and production
-- **Imperial** - Score points
-- **Politics** - Setup win
-- Try to keep up in scoring early—you have decent chances to score early with your breakthrough (Gravleash Maneuvers gives mobility)
-
-### C. Game Plan
+### B. Game Plan
 
 **Focus on Neutral Objectives, Not Aggression:**
 

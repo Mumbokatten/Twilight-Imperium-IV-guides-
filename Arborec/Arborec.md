@@ -327,21 +327,7 @@ This composition gives you staying power in space combat (dread/flagship for hit
 
 **Note:** If you have a heavy influence slice, Destroyer II can replace dreadnoughts in your fleet composition. Heavy influence gives you more fleet pool to support destroyers, while having less resources makes dreads (cost 4) harder to afford. Destroyer II becomes the better choice in this economic profile.
 
-### B. Point Planning
-
-**Arborec Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Leadership/Trade | 0             | 0             | 0         | 0     | 0     |
-| Two   | Trade/Leadership | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 1         | 0     | 5     |
-| Four  | Leadership       | 4             | 2             | 1         | 0     | 7     |
-| Five  | Imperial         | 6             | 3             | 2         | 2     | 13    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-### C. Game Plan
+### B. Game Plan
 
 **Strategic Paths - Mecatol Rex vs Neighbor vs Fracture:**
 
