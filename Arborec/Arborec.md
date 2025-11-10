@@ -40,7 +40,7 @@ Opponents will underestimate you until suddenly they realize you have 30+ infant
 - 1 Space Dock
 - 1 PDS
 
-**Notes:** You can use your Agent (Letani Ospha) to upgrade your cruiser into either a 2nd carrier (for more capacity) or a dreadnought (for combat power), depending on your needs. This flexibility lets you easily capture 3 systems on your first round with proper ship distribution.
+**Notes:** You can use your Agent (Letani Ospha) to upgrade your cruiser into either a 2nd carrier (for more capacity) or a dreadnought (for combat power), depending on your needs. Combined with your breakthrough (Psychospore) for an additional movement, this lets you easily reach and capture 3 systems on your first round with proper ship distribution.
 
 ### C. Starting Tech
 
