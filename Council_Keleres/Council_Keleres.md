@@ -43,7 +43,7 @@ Opponents will struggle to predict your moves. That moment when they realize how
 
 **Commodities:** 2
 
-**Notes:** Your home system choice fundamentally changes your economy and playstyle. **Mentak is the clear #1 choice** - one-planet home systems are far superior (easier to defend in space combat), you get 4 resources (best for production), and Mentak hero (Harka Leeds) is by far the best of the three, giving you 3 component action cards that combo with your commander for extra actions. Always pick Mentak if available.
+**Notes:** Your home system choice fundamentally changes your economy and playstyle. **Mentak is the clear #1 choice** - one-planet home systems are far superior (easier to defend), you get 4 resources (best for production), and Mentak hero (Harka Leeds) is by far the best of the three, giving you 3 component action cards that combo with your commander for extra actions. Always pick Mentak if available.
 
 Xxcha and Argent are a bit of a tossup. Multi-planet home systems are rough - if you lose space combat, you're defending multiple planets which is nearly impossible (Xxcha has 2 planets, Argent has 3). Argent has better total optimal value (2.5 + 2.5 = 5 optimal vs Xxcha's 0.5 + 3.5 = 4 optimal) and a better hero (Overwing Zeta gives you instant flagship + 2 cruisers/destroyers in combat), but both offer similar influence.
 
@@ -182,7 +182,7 @@ Keleres needs Mecatol Rex access above all else. Choose your home system (Argent
 
 ### A. First Turn Priorities
 
-Your R1 is rough due to limited ground forces. The priority order is:
+Your Round 1 (R1) is rough due to limited ground forces. The priority order is:
 
 1. **Breakthrough Expedition** - Getting I.I.H.Q. Modernization (Y<>G) done early is very solid for value and peace of mind. You can unlock your breakthrough with your starting 2 commodities + 1 TG from Council Patronage (3 total), using your agent to spend commodities as trade goods. This lets you surprise the Trade holder and grab your breakthrough immediately using the Trade secondary.
 2. **Expansion** - Poor. You only have 2 infantry, which severely limits your ability to take multiple planets R1. You'll struggle to expand beyond 2 systems. This can be solved with Construction primary (building structures with infantry) or Warfare secondary (redeploying units). Production is part of the same problem - you have a space dock and decent production capacity, but limited ground forces means you can't capitalize on it fully.
@@ -250,7 +250,7 @@ You have a straightforward and strong tech path that allows for multiple objecti
 ### A. Round 1 Priority
 
 1. **Construction** - Probably your top option. Get bonus space dock and solve early expansion problems (you only have 2 infantry).
-2. **Trade** - Afford your R1-R2 tech research. The TG gives you flexibility.
+2. **Trade** - Afford your Round 1-2 (R1-R2) tech research. The TG gives you flexibility.
 3. **Technology** - Get started on your tech path early.
 4. **Leadership** - Command tokens for expansion.
 5. **Politics** - Solid. Speaker token and agenda control.
@@ -260,7 +260,7 @@ You have a straightforward and strong tech path that allows for multiple objecti
 
 For strategy token spending: Warfare secondary is critical (token spending part for producing infantry), Technology secondary to get expansion flex, Diplomacy secondary to afford to get all goodies R1.
 
-### B. Round 2+ Priority
+### B. Round 2+
 
 **Love:**
 - **Politics** - Agenda control is your strength. Always value Politics.
@@ -430,6 +430,6 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ## X. End Notes
 
-Council Keleres is a top-tier faction that excels at winning from ahead. Solve your R1 expansion problem with Construction or Warfare secondary, get Executive Order R2 and Agency Supply Network R3 to unlock your insane production scaling, take Mecatol Rex R3 or later once you have your tech and armada setup, and use your production advantage to outproduce everyone and maintain multiple fronts simultaneously.
+Council Keleres is a top-tier faction that excels at winning from ahead. Solve your Round 1 (R1) expansion problem with Construction or Warfare secondary, get Executive Order R2 and Agency Supply Network R3 to unlock your insane production scaling, take Mecatol Rex R3 or later once you have your tech and armada setup, and use your production advantage to outproduce everyone and maintain multiple fronts simultaneously.
 
 You control the political game through Executive Order (force opponents to exhaust influence on agendas), dominate economically with up to 8 productions per round once you have ASN, and turn every trade good into more units on the board. Your mobility lets you hit objectives efficiently, your production lets you maintain pressure everywhere, and your Mecatol Rex control gives you consistent VP. Play smart, convert all income into board presence, and demonstrate why you have one of the highest ceilings in the game.

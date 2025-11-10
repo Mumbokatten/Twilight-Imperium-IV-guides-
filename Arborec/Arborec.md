@@ -149,7 +149,7 @@ When drafting your slice and choosing speaker order as Arborec:
 
 ### A. First Turn Problems
 
-Your R1 is all about setting up your engine. The priority order is:
+Your Round 1 (R1) is all about setting up your engine. The priority order is:
 
 1. **Breakthrough Expedition** - Secure Psychospore (R<>G) for mobility and production benefits. This is mandatory.
 2. **Scoring** - Expand to capture 1-3 systems to score your R1 Stage I objective. Don't sacrifice your economy for hard objectives.
@@ -166,7 +166,7 @@ You will burn through command counters producing everywhere. Leadership becomes 
 
 ### C. Slow Start
 
-You don't score easy R1-R2 points like other factions. Accept this. Your scoring curve is R3-R5, where you suddenly have the board state to score 2-3 points per round.
+You don't score easy Round 1-2 (R1-R2) points like other factions. Accept this. Your scoring curve is R3-R5, where you suddenly have the board state to score 2-3 points per round.
 
 ---
 
@@ -270,11 +270,11 @@ Alternative path focused on economy and ground force power. No blue techs requir
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
-Your R1 priority is securing **Psychospore breakthrough expedition** (R<>G) for command token economy and enabling your engine. This drives your strategy card choices.
+Your Round 1 (R1) priority is securing **Psychospore breakthrough expedition** (R<>G) for command token economy and enabling your engine. This drives your strategy card choices.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Trade** - You have 3 commodities and desperately need the economy to fund expansion and securing breakthrough expedition. Best pick.
 
@@ -292,7 +292,7 @@ Your R1 priority is securing **Psychospore breakthrough expedition** (R<>G) for 
 
 8. **Imperial** - Never pick this R1. You're not scoring and you don't want first pick R2.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
 - **Leadership** - Spam production all turn. This is your best friend R3-R5.
@@ -331,7 +331,7 @@ This composition gives you staying power in space combat (dread/flagship for hit
 
 **Strategic Paths - Mecatol Rex vs Neighbor vs Fracture:**
 
-You have three main strategic paths to choose from R2-R3:
+You have three main strategic paths to choose from Round 2-3 (R2-R3):
 
 1. **Go for Mecatol Rex** - Your default path. Your massive infantry production and board presence make you excellent at holding MR. If you can secure a planet next to Mecatol Rex, build PDS and infantry to defend approaches.
 
@@ -493,6 +493,6 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ## X. End Notes
 
-Arborec is a powerhouse disguised as a slow faction. Expand aggressively R1-R2 (preferably 6+ planets), decide on your path R2-R3 (Mecatol Rex or neighbor pressure), get Imperial R3/4 to maintain scoring tempo, use your Hero R4 to build a massive army across multiple systems, and adapt R5 to solve whatever situation comes at you with your overwhelming production.
+Arborec is a powerhouse disguised as a slow faction. Expand aggressively Round 1-2 (preferably 6+ planets), decide on your path R2-R3 (Mecatol Rex or neighbor pressure), get Imperial R3/4 to maintain scoring tempo, use your Hero R4 to build a massive army across multiple systems, and adapt R5 to solve whatever situation comes at you with your overwhelming production.
 
 Don't let anyone tell you Arborec is weak. You're an S-tier control faction with unmatched production potential. Play patient, play smart, and grow your forest across the galaxy.

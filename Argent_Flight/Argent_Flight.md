@@ -80,11 +80,11 @@ Useful for helping players with flexible ground force placement. Trade incentive
 
 When 1 or more of your units make a roll for a unit ability: You may choose 1 of those units to roll 1 additional die.
 
-Easy to unlock with destroyers and PDS. Significantly boosts your ANTI-FIGHTER BARRAGE, SPACE CANNON, and BOMBARDMENT effectiveness. Aim to unlock R2-R3.
+Easy to unlock with destroyers and PDS. Significantly boosts your ANTI-FIGHTER BARRAGE, SPACE CANNON, and BOMBARDMENT effectiveness. Aim to unlock Round 2-3 (R2-R3).
 
 **Hero - Mirik Aun Sissiri:** *Unlock: Have 3 scored objectives.* **Helix Protocol** - ACTION: Move any number of your ships from any systems to any number of other systems that contain 1 of your command tokens and no other players' ships. Then, purge this card.
 
-Massive repositioning tool. Use for surprise attacks, defensive regrouping, or scoring movement objectives. Save for a critical moment—usually R4-R5 when positioning matters most for victory.
+Massive repositioning tool. Use for surprise attacks, defensive regrouping, or scoring movement objectives. Save for a critical moment—usually Round 4-5 (R4-R5) when positioning matters most for victory.
 
 ### F. Promissory Note - **Strike Wing Ambuscade**
 
@@ -155,7 +155,7 @@ Argent is one of the most flexible factions in draft. You can adapt to any slice
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Scoring > Tech > Production > Breakthrough**
+Your Round 1 (R1) priority order: **Scoring > Tech > Production > Breakthrough**
 
 Argent needs a quick start to capitalize on their strong early game. Focus on:
 1. **Scoring** - Expand to score your R1 Stage I objective while you're strong. Use your early power to get points on the board.
@@ -324,7 +324,7 @@ This composition gives you strong ANTI-FIGHTER BARRAGE, affordable production, a
 
 ### B. Custodian Strategy
 
-Argent Flight is an excellent "get in, get out" custodian faction. You can easily afford the 6 influence to claim Mecatol Rex R2-R3—your home system provides 3 influence, your destroyers cost only 1 resource (leaving influence available for MR), and you'll have expanded to influence-heavy planets by then. Take MR early, grab the Custodians token for a free 1 VP, then evaluate whether holding it is worth the commitment. Your ANTI-FIGHTER BARRAGE and Raid Formation make you dangerous enough that opponents might not immediately contest MR, giving you breathing room. If going the Aerie Hololattice route, you can lock down MR with structure placement on adjacent planets and PDS networks—but be realistic: if you abandon MR, you probably won't see it again. Once you leave, another faction will take it and likely hold it for the rest of the game. The key insight: don't feel obligated to hold MR forever, but understand that walking away means giving it up permanently. Evaluate whether the custodians point is worth the eventual loss of MR access.
+Argent Flight is an excellent "get in, get out" custodian faction. You can easily afford the 6 influence to claim Mecatol Rex Round 2-3 (R2-R3)—your home system provides 3 influence, your destroyers cost only 1 resource (leaving influence available for MR), and you'll have expanded to influence-heavy planets by then. Take MR early, grab the Custodians token for a free 1 VP, then evaluate whether holding it is worth the commitment. Your ANTI-FIGHTER BARRAGE and Raid Formation make you dangerous enough that opponents might not immediately contest MR, giving you breathing room. If going the Aerie Hololattice route, you can lock down MR with structure placement on adjacent planets and PDS networks—but be realistic: if you abandon MR, you probably won't see it again. Once you leave, another faction will take it and likely hold it for the rest of the game. The key insight: don't feel obligated to hold MR forever, but understand that walking away means giving it up permanently. Evaluate whether the custodians point is worth the eventual loss of MR access.
 
 ---
 
@@ -458,7 +458,7 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 Argent Flight is a powerhouse combat faction with flexible builds. Your job is to:
 
-1. **Expand aggressively R1-R2** (use cheap destroyers and 3 home planets to claim territory)
+1. **Expand aggressively Round 1-2** (use cheap destroyers and 3 home planets to claim territory)
 2. **Decide on your path R2-R3** - Destroyer rush (AFB spam) or Aerie Hololattice (PDS networks + structure lockdown)
 3. **Leverage AFB dominance** - Make fighter screens worthless with Raid Formation, shred capital ships with excess hits
 4. **Stay ahead on points** - Find a way to be in the running points-wise. Hopefully your slice setup is enough of a deterrent to keep you alive when playing from ahead.

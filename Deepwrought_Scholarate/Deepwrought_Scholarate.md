@@ -150,7 +150,7 @@ You're very flexible with speaker order. Just grab value strategy cards (Trade, 
 
 ### A. First Turn Priorities
 
-Your R1 priority order:
+Your Round 1 (R1) priority order:
 1. **Score** - Flexible start, so get started on points early
 2. **Breakthrough** - Get the tech train started via cheaper tech acquisition (better than researching normally)
 3. **Produce and Expand** - Add expansion capability to be more flexible in round 2
@@ -251,11 +251,11 @@ You have incredible tech flexibility. Never be afraid to research a tech yoursel
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
-Your R1 priority is flexible - grab value cards (Trade, Leadership) and start executing your game plan.
+Your Round 1 (R1) priority is flexible - grab value cards (Trade, Leadership) and start executing your game plan.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Trade** - Solid economy. Flexible TGs to smooth out early game.
 

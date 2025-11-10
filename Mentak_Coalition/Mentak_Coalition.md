@@ -95,7 +95,7 @@ ACTION: Place this card faceup in your play area. While this card is in your pla
 Pillage immunity. Give a player immunity from your Pillage as long as they don't activate systems with your units.
 
 **Strategic Usage:**
-- **R1-R2: Extract a good deal for your PN.** Find a neighbor that won't generate many TGs (low commodities, poor economy) but still wants to pay for your PN. Get value from a neighbor you wouldn't be pillaging much anyway.
+- **Round 1-2 (R1-R2): Extract a good deal for your PN.** Find a neighbor that won't generate many TGs (low commodities, poor economy) but still wants to pay for your PN. Get value from a neighbor you wouldn't be pillaging much anyway.
 - **Example:** Trade PN to Sardakk/Arborec/Last Bastion for alliance or support for throne. They have low commodity counts so you'd barely pillage them, but they still fear Pillage and will pay for immunity.
 - **Better use:** Befriend aggressive neighbors to let you focus on pirate things elsewhere.
 - If you can't pillage your best target, the value must be very solid before giving up that Pillage income.
@@ -173,7 +173,7 @@ Cruiser super-upgrade. Requires Cruiser II first, then expedition this breakthro
 
 ### A. First Turn Priorities
 
-Your R1 priority order:
+Your Round 1 (R1) priority order:
 1. **Production** - Great priority
 2. **Technology** - Great priority
 3. **Scoring** - Will have to be 3rd priority
@@ -320,14 +320,14 @@ With Mirror Computing economy, you can afford expensive ships like dreadnoughts 
 
 Mentak is weak early game but scales into a rich, mobile menace with cruiser swarms. Your game plan:
 
-**R1-R2: Survival and Setup**
+**Round 1-2: Survival and Setup**
 - Expand with Construction and grab systems near rich neighbors
 - Tech to Neural Motivator → Cruiser II
 - Position yourself adjacent to wealthy factions (Hacan, Empyrean, Jol-Nar, Deepwrought)
 - Start Pillaging TGs from neighbor transactions
 - **Priority: Keep your ships out on the board.** More ships on board = more Pillage opportunities and threat projection
 
-**R3-R4: Acceleration**
+**Round 3-4: Acceleration**
 - Get Salvage Operations and Mirror Computing
 - Build cruiser swarms with Ambush
 - **Cruiser II gives excellent opportunity to find value in Fracture.** Use move 3 cruisers to reach Fracture for relics and legendary planets
