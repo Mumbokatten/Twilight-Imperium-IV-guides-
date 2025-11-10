@@ -18,7 +18,17 @@
         .subtitle {
             text-align: center;
             color: #666;
-            margin-bottom: 40px;
+            margin-bottom: 20px;
+        }
+        .prelude {
+            max-width: 700px;
+            margin: 0 auto 40px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-left: 4px solid #1976d2;
+            border-radius: 4px;
+            font-style: italic;
+            color: #555;
         }
         .faction-grid {
             display: grid;
@@ -52,8 +62,8 @@
             color: #1976d2;
         }
         .status.unavailable {
-            background-color: #f5f5f5;
-            color: #999;
+            background-color: #ffebee;
+            color: #c62828;
         }
         .footer {
             text-align: center;
@@ -68,6 +78,10 @@
 <body>
     <h1>Twilight Imperium 4 Faction Guides</h1>
     <p class="subtitle">Comprehensive strategy guides for all TI4 factions</p>
+
+    <div class="prelude">
+        <p>These guides are designed to help you understand each faction's strengths and strategic paths, but Twilight Imperium is an incredibly complex and varied game that rewards creativity and adaptation. No guide can capture every situation or possibility you'll encounter at the table. The strategies presented here are starting points—not rigid rules. Every game unfolds differently based on the map, objectives, opponents, and countless other factors. Above all, remember that the goal is to enjoy the journey. Whether you're executing a perfectly optimized strategy or improvising your way through chaos, the most important thing is that you and your table are having a great time exploring this amazing game together.</p>
+    </div>
 
     <div class="faction-grid">
         <div class="faction-card">
@@ -88,7 +102,7 @@
         </div>
         <div class="faction-card">
             <a href="Council_Keleres/Council_Keleres.html">Council Keleres</a>
-            <span class="status unavailable">Unavailable</span>
+            <span class="status">✓ Available</span>
         </div>
         <div class="faction-card">
             <a href="Crimson_Rebellion/Crimson_Rebellion.html">Crimson Rebellion</a>
