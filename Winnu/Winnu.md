@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Winnu Guide
 
 ![Winnu](WinnuArt.webp)
@@ -6,17 +8,17 @@
 
 ## I. Introduction
 
-The Winnu are TI4's Mecatol Rex specialists—designed to take and hold MR faster and more efficiently than any other faction. However, they're widely considered one of the weakest factions in the game due to poor starting position (choose-1 tech), average economy, and over-reliance on controlling Mecatol Rex. Winnu demands exceptional political skill, perfect timing, and opportunism to overcome structural weaknesses and leverage their Mecatol Rex advantages.
+The Winnu are TI4's Mecatol Rex specialists—a faction with exactly one strategy: take Mecatol Rex early and hold it. Their quirky, all-in nature makes them a fan favorite to love (or hate). You're racing to MR, fortifying it with free structures, and defending the throne with everything you've got.
 
-The payoff? Watching opponents realize you took Mecatol Rex R2 without spending influence (Blood Ties), seeing your Commander give +2 combat in MR system making you nearly unkillable there, and using your Hero to perform any strategy card primary at the perfect moment. When you control Mecatol Rex and defend it successfully, victory comes through Imperial points and superior MR positioning.
+This faction has surprising power when piloted correctly. Despite appearing weak on paper, their MR bonuses can snowball into victory if you execute the rush perfectly and survive the inevitable backlash.
 
 ## II. Playstyle
 
-Playing Winnu is like being the rightful heir to an empty throne. Your Blood Ties lets you remove custodians from Mecatol Rex without spending 6 influence, your Reclamation places free PDS + space dock on MR after taking it, and your Commander gives +2 combat rolls when fighting in/near MR. You're not conquering the galaxy—you're racing to Mecatol Rex, fortifying it, and holding it while scoring Imperial points repeatedly.
+Playing Winnu is like being the rightful heir to an empty throne. You start weak—limited tech, modest fleet—but you overcome it by claiming what's rightfully yours. You take Mecatol Rex for free while others pay dearly, fortify it instantly, and become a defensive powerhouse when fighting for key targets like Mecatol Rex and legendaries. You're not conquering the galaxy—you're claiming the throne and daring anyone to take it from you.
 
-The key strength of Winnu is Mecatol Rex efficiency. Taking MR costs you 0 influence (vs 6 for others), you get free structures on it (PDS + space dock), and your Commander makes you extremely difficult to dislodge (+2 combat = massive advantage). IF you can take and hold MR, you can win. If you can't, you're probably losing.
+Expect massive swing turns—dominating one round, then getting ganged up on the next. Once you take Mecatol Rex, you become everyone's problem. It's king of the hill, and you're standing on top with every other player trying to knock you off.
 
-Opponents will contest Mecatol Rex aggressively once they realize you're racing for it. That moment when you arrive at MR R2 with Blood Ties, take it for free, and immediately place PDS + space dock to fortify? That's your power spike.
+If you secure and hold Mecatol Rex, you win. If you can't, you lose. It's that simple.
 
 ---
 
@@ -24,11 +26,13 @@ Opponents will contest Mecatol Rex aggressively once they realize you're racing 
 
 ### A. Home System & Commodities
 
-**Home System:** Winnu (3 resources / 4 influence = 3 optimal resources / 4 optimal influence)
+**Home System:**
+- **Winnu:** 3 resources / 4 influence
+- **Total: 3 resources / 4 influence (0 optimal resources / 4 optimal influence)**
 
 **Commodities:** 3
 
-**Notes:** Balanced home system with 3/4 split. The 4 influence is decent for political plays and removing custodians from other planets (not MR—Blood Ties makes that free). Single-planet home system is easier to defend. Your 3 commodities provide decent trade economy.
+**Notes:** You need resources to improve your dire plastic situation early game, but you only have a 4 influence home system which you often have to spend as early resources. This creates early economic tension. However, single-planet home with starting PDS + Commander (unlocked after taking MR) creates crazy strong defense later.
 
 ### B. Starting Fleet
 
@@ -39,32 +43,41 @@ Opponents will contest Mecatol Rex aggressively once they realize you're racing 
 - 1 Space Dock
 - 1 PDS
 
-**Notes:** Modest starting fleet. Your 1 carrier (capacity 4) + 2 infantry gives you limited R1 expansion capability compared to dual-carrier factions. The cruiser provides speed (move 2) and combat power. The 1 PDS can be used at home for defense or moved forward toward MR.
+**Notes:** Very modest fleet. Low ship count, poor infantry (only 2), and only 1 capacity ship is terrible for expansion. Your Round 1 expansion is a key feature for your success—sell your soul to get plastic on the board. Trade aggressively, use Construction, do whatever it takes to expand to 3+ systems and build more units early.
 
-### C. Starting Technologies
+### C. Faction Abilities
+
+**Blood Ties (Faction Ability):** You do not have to spend influence to remove the custodians token from Mecatol Rex.
+
+Your signature ability. Normally, taking Mecatol Rex costs 6 influence to remove custodians. You spend 0 influence. This makes you the strongest custodian faction. Problem is, this puts a bullseye on you so very clearly—everyone knows you're going for MR. At the same time, gotta risk it for the biscuit.
+
+**Reclamation (Faction Ability):** After you resolve a tactical action during which you gained control of Mecatol Rex, you may place 1 PDS and 1 space dock from your reinforcements on Mecatol Rex.
+
+Free structures on Mecatol Rex. Instant fortification. Once you take it, you should try to hold it—you have bonus combat power and structures to help. Easiest way to hold it is with mechs and infantry. Very hard to hold the space.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
 
 **Choose any 1 technology that has no prerequisites (0 cost techs only)**
 
 **Best Options:**
-1. **Sarween Tools (Y)** - Economy boost. Most common choice.
-2. **Neural Motivator (G)** - +2 command counters. Excellent for expansion and MR race.
-3. **Antimass Deflectors (B)** - Mobility through asteroids, -1 to enemy SPACE CANNON.
-4. **Psychoarchaeology (0)** - Action card draw from Politics/Imperial.
-5. **Scanlink Drone Network (0)** - Exploration bonuses.
+1. **Dark Energy Tap** - For value and action-heavy playstyle.
+2. **AI Development Algorithm** - For defensive and slow roll playstyle.
 
-**Recommended:** **Sarween Tools** for economic consistency, OR **Neural Motivator** for R1 expansion + MR race speed.
+**Notes:** Being able to pick any tech is flexible, but not all techs are made equal. These 2 offer differing playstyles—DET for more value and actions, AI DEV for more defensive and slow rolling your way to victory.
 
-**Notes:** You start with only 1 tech (weak position). Most factions start with 1-2 techs; you're behind technologically but get complete flexibility in choosing your starting tech.
+**Faction Technologies:**
 
-### D. Faction Abilities
+**Lazax Gate Folding (BB):**
+*During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole. ACTION: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.*
 
-**Blood Ties (Faction Ability):** You do not have to spend influence to remove the custodians token from Mecatol Rex.
+Very situational. Only useful in weird slices where it's problematic to get to MR but happens to have a well-placed wormhole. Very niche.
 
-Your signature ability. Normally, taking Mecatol Rex costs 6 influence to remove custodians. You spend 0 influence. This is a MASSIVE advantage—you save 6 influence that can be used for voting, Diplomacy plays, or expansion. This makes you the fastest faction to Mecatol Rex (R2 takeover is realistic).
+**Hegemonic Trade Policy (YY):**
+*Exhaust this card when 1 or more of your units use PRODUCTION; swap the resource and influence values of 1 planet you control until the end of your turn.*
 
-**Reclamation (Faction Ability):** After you resolve a tactical action during which you gained control of Mecatol Rex, you may place 1 PDS and 1 space dock from your reinforcements on Mecatol Rex.
-
-Free structures on Mecatol Rex. After taking MR, immediately place 1 PDS (defensive SPACE CANNON) and 1 space dock (production facility) for free. This instantly fortifies MR—the PDS deters attacks, and the space dock lets you produce defensive fleets directly at MR. Incredible value (saves 4 resources).
+Really weird tech that seems incredibly niche. When would you need this? If you want flexibility, just use your trade goods—they're already flexible. This does nothing for you and is costly on a bad tech path.
 
 ### E. Leaders
 
@@ -72,33 +85,29 @@ Free structures on Mecatol Rex. After taking MR, immediately place 1 PDS (defens
 
 When 1 or more of a player's units use PRODUCTION: You may exhaust this card to reduce the combined cost of the produced units by 2.
 
-Economic support agent. When any player (including you or opponents) produces, exhaust this to reduce their production cost by 2 resources. Use on yourself for economic boost or trade to others for favors. Solid political leverage.
+Big solve for your early production and defense, but 2 resources only for production is not overly useful. Good to have any economy, but agent is on the weaker side. Rarely sold.
 
 **Commander - Rickar Rickani:** *Unlock: Control Mecatol Rex or enter into a combat in the Mecatol Rex system.*
 
 During combat: Apply +2 to the result of each of your unit's combat rolls in the Mecatol Rex system, your home system, and each system that contains a legendary planet.
 
-Your power spike. Easy unlock (just control MR or fight near MR). Once unlocked, you get +2 combat in MR system, your home system, AND legendary planet systems. This makes you EXTREMELY difficult to remove from Mecatol Rex—your infantry hit on 6 instead of 8, your cruisers hit on 5 instead of 7. Massive combat advantage.
+Easy unlock. Combat powerhouse for defending Mecatol Rex, your home, and legendaries. Great if you have a lot of legendary planets. Activates before you fight on Mecatol if you didn't get there first. Key aspect of your game.
 
 **Hero - Mathis Mathinus:** *Unlock: Have 3 scored objectives.* **Imperial Seal** - ACTION: Perform the primary ability of any strategy card. Then, choose any number of other players. Those players may perform the secondary ability of that strategy card. Then, purge this card.
 
-Incredibly flexible hero. Perform ANY strategy card primary at any time, then let other players do the secondary. Use this R4-R5 for critical moments:
-- Imperial primary to score 2 points from MR + 1 secret
-- Technology primary to research 2 techs
-- Leadership primary to gain 3 CCs + ready planets
-- Diplomacy primary to ready 2 planets + protect MR
+Almost always used for Imperial to make a big point swing, especially assuming you'll often be behind or trying to make a big rush for the finish if people didn't put you down early.
 
 ### F. Promissory Note - **Acquiescence**
 
 When the Winnu player resolves a strategic ACTION: You do not have to spend or place a command token to resolve the secondary ability of that strategy card. Then, return this card to the Winnu player.
 
-Useful promissory. Holder can use strategy card secondaries for free (no CC cost). Trade value: 2-3 TG or political favors. Best for factions with CC scarcity (Nomad, Titans).
+Useful promissory. Try to sell for 2 TG every round. Does affect Leadership a bit (since they spend no token), so effectively giving you -2 TG.
 
 ### G. Alliance
 
-When you produce ships, you may produce 1 additional fighter or infantry for its cost.
+Whoever holds your alliance card has your Commander (Rickar Rickani - +2 combat in Mecatol Rex, home system, and legendary planet systems).
 
-Standard production bonus. Useful for economic factions. Trade value: 3-4 TG or equivalent.
+Very valuable. If you already have control of MR, you can consider selling since the person attacking you will lose it before getting bonus value. Before that, never risk someone having your big bonus on MR.
 
 ### H. Mech - **Reclaimer**
 
@@ -106,7 +115,11 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 After you resolve a tactical action during which you gained control of this planet, you may place 1 PDS or 1 space dock from your reinforcements on this planet.
 
-Excellent expansion mech. After conquering a planet, place a free PDS or space dock on it. This accelerates your infrastructure—every conquered planet can immediately become a production facility or defensive position. Very strong for rapid expansion.
+Excellent expansion mech. After conquering a planet, place a free PDS or space dock on it. This accelerates your infrastructure—every conquered planet can immediately become a production facility or defensive position. Very strong for slow expansion.
+
+Try to make a few early mechs (2 minimum), then use them to walk towards Mecatol for a very safe and structure-filled slice.
+
+**Special Note:** Hope's End attachment can give you early mechs, which is huge for Winnu.
 
 ### I. Flagship - **Salai Sai Corian**
 
@@ -114,7 +127,7 @@ Cost: 8 | Combat: 7 (x?) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 When this unit makes a combat roll, it rolls a number of dice equal to the number of your opponent's non-fighter ships in this system.
 
-Scaling flagship. Rolls dice equal to opponent's non-fighter ship count. Against 5 enemy ships, your flagship rolls 5 dice at 7 (hits on 7-10 = 40% each = average 2 hits). Against 10 enemy ships, rolls 10 dice = 4 hits average. Excellent against large fleets, weak against small fleets.
+One of the best flagships in the game. Always get it. Rolls dice equal to opponent's non-fighter ship count. If put on Mecatol with Commander, it hits on 5 (7 - 2 = 5). Excellent against large fleets.
 
 ### J. Breakthrough - **Imperator (B<>R)**
 
@@ -122,35 +135,26 @@ Apply +1 to the results of each of your unit's combat rolls for each "Support fo
 
 **B<>R Synergy:** Blue and red technologies count as each other for prerequisites.
 
-**Combat Bonus:** For each Support for the Throne your opponent has, your units get +1 combat. If fighting someone with 2 Supports, your units get +2 combat rolls. This stacks with Commander (+2 in MR) for potential +4 combat bonus—absolutely devastating.
-
-**Movement Bonus:** When activating legendary planet systems, +1 move to one ship. Helps reach distant legendary planets.
-
-**B<>R synergy:** Opens flexible tech paths (blue/red interchangeable).
-
-**Note:** The combat bonus scales with how many Supports opponents have. Late game (R4-R5), opponents typically have 1-2 Supports each, giving you +1 to +2 combat universally.
+If planning to get custodian, very helpful to get this instead of tech. Functions as Gravity Drive for legendary planets. Combat bonus for each Support for the Throne opponents have.
 
 ### K. Slice and Draft Considerations
 
 Winnu needs access to Mecatol Rex and resources for fleet production:
 
 **Speaker Order:**
-- **Prefer positions 2-4** - Lets you grab Warfare or Politics early for MR race.
-- **Last position is acceptable** - Can grab Warfare for MR assault.
+Loves speaker. Trade is your very best tool—makes a huge difference. Otherwise, any early value is helpful, so try to be early.
 
 **Slice Priorities:**
-- **Direct path to Mecatol Rex** - CRITICAL. You MUST be able to reach MR easily R2-R3.
-- **Resources for fleet production** - Need 6-8 resources minimum for building fleets to take/hold MR.
-- **Tech skips (any helpful)** - You start with 1 tech; any skips accelerate your tech path.
-- **Planet count (4-5 planets ideal)** - More planets = more resources for MR race.
+- **Clear path to Mecatol Rex** - Critical for your MR rush.
+- **Resource-heavy planets** - You need resources for fleet production.
+- **Legendary planets** - Synergize with Commander combat bonus.
+- **Rich slice** - You're quite poor, so a rich slice is good.
+- **Hope's End** - Gives you early mechs, which is huge.
 
-**Slice Features to Avoid:**
-- **No access to Mecatol Rex** - UNPLAYABLE. If you can't reach MR by R3, you're crippled.
-- **Resource-starved slices** - Can't build enough fleets to take/hold MR.
-- **Extremely contested MR approaches** - If 2-3 aggressive neighbors all have equal MR access, you'll struggle to secure it.
-
-**Summary:**
-Winnu's entire gameplan revolves around Mecatol Rex. You MUST have a clear path to MR, sufficient resources to build fleets, and ideally some defensive positioning to avoid being overwhelmed early. Your slice selection is make-or-break for Winnu.
+**Avoid:**
+- **Asteroid fields on the way to Mecatol** - Slows you down.
+- **Gravity rift on the way to Mecatol** - Dangerous and costly.
+- **Entropic Scar** - Not good for you. Let someone else get it. Both your faction techs are niche.
 
 ---
 
@@ -158,38 +162,27 @@ Winnu's entire gameplan revolves around Mecatol Rex. You MUST have a clear path 
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Expansion > Economy > Tech**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Expansion toward Mecatol Rex** - Every R1 action should position you closer to MR.
-2. **Build fleet for MR assault** - Need 5-7 ships by R2 for MR takeover.
-3. **Economy** - Trade for commodities, secure resource planets.
-4. **Technology** - Fourth priority. Begin tech path if possible.
+1. **Expansion + Production** - Most important. Solving early production with Construction or Warfare might be necessary. You have to spread out in some way. Build fleet and claim systems toward MR.
 
-**Expansion Notes:** You have 1 carrier (capacity 4), 1 cruiser, and 2 infantry. Limited expansion capability (can take 2-3 systems R1 realistically). Prioritize systems on the path to Mecatol Rex—don't expand away from MR.
+2. **Breakthrough** - Get Imperator if possible. Tech is more costly in general.
+
+3. **Technology** - Lower priority than breakthrough.
+
+4. **Scoring** - Scoring early with Winnu is almost impossible and I would highly refrain from it. Your start is so weak you need others to spend resources and effort to score while you get back up to even.
+
+**Expansion Notes:** You have 1 carrier (capacity 4), 1 cruiser, and 2 infantry. 2 systems is realistic. If you have a handy legendary planet in a good spot, you might be able to get 3.
 
 ### B. Mecatol Rex Dependency
 
-Your Commander only unlocks after controlling MR or fighting near it. Your Reclamation only triggers on MR. Your entire faction is built around Mecatol Rex. If you don't take MR by R3, you're playing a severely weakened faction.
+All your abilities point toward Mecatol. Your Commander only unlocks after controlling MR or fighting near it. Your Reclamation only triggers on MR. Your entire faction is built around Mecatol Rex.
 
-**Mitigation:** You MUST take Mecatol Rex R2 or R3. Plan every R1-R2 action toward this goal. This is non-negotiable for Winnu.
+If you play with people/factions that also like Mecatol, it will be a tough battle. Small note: with the new fracture, less people might be in the way of your Mecatol control.
 
-### C. Universal Target After Taking MR
+### C. Universal Target
 
-Once you control Mecatol Rex, everyone at the table knows:
-- You have Commander (+2 combat in MR)
-- You have PDS + space dock on MR (Reclamation)
-- You'll be scoring Imperial points from MR
-
-You become the primary target. Expect 2-3 players to coordinate attacks on MR.
-
-**Mitigation:** Political deals. "I'll leave MR vulnerable to Player X (creating conflict between opponents)" or "Attack Player Y first, then we can negotiate about MR." Create uncertainty and conflict among opponents.
-
-### D. Weak Early Economy
-
-1 starting tech, 1 space dock, 3/4 home system = you're economically average at best. You're not generating massive resources or influence R1-R2.
-
-**Mitigation:** Take Trade R1 or negotiate favorable trade agreements. Use Agent to reduce production costs. Focus on efficient spending.
+People know that if you get rolling, it's surprisingly hard to stop you. You can have massive swingy turns with Imperial x2. They might screw you early or team up later to take you down.
 
 ---
 
@@ -197,130 +190,100 @@ You become the primary target. Expect 2-3 players to coordinate attacks on MR.
 
 ### A. Overview
 
-You start with **one technology of your choice** (0-cost tech only).
+You start with **one technology of your choice** (0-cost tech only). **Dark Energy Tap** or **AI Development Algorithm** are the best choices.
 
-Your main tech path should focus on reaching Mecatol Rex quickly (mobility), defending it (PDS/fleet upgrades), and maintaining production (economic techs).
+Your starting tech determines your path: fast blue path or slow red path. Fast blue path gets you mobile early with Gravity Drive. Slow red path focuses on defensive tech and unit upgrades.
 
-### B. Tech Path 1: MR Rush (Standard)
+### B. Tech Path 1: Blue Path (Fast)
 
-**Starting Tech:** Sarween Tools (Y) OR Neural Motivator (G)
+**Starting Tech:** Dark Energy Tap
 
-**Round 1: (Secure starting tech, no R1 research unless critical)**
+**Round 1:** Gravity Drive (B) - if you can afford tech
+- After you activate a system, apply +1 to the move value of 1 of your ships
+- **Why:** Reach Mecatol faster. Critical for early MR assault.
 
-**Round 2: Gravity Drive (BB) - WITH BLUE SKIP**
-- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Why:** Reach Mecatol Rex faster. Carrier move 1 → move 2 with Gravity Drive. Critical for R2 MR assault.
-- **Prerequisites:** 2 blue (need blue skip OR 2 blue techs)
+**Round 2:** Carrier II (BB)
+- Cost 3, Combat 9, Move 2, Capacity 6
+- **Why:** Better transport for armies and reinforcements to MR.
 
-**Round 3: PDS II (RY)**
-- Planetary Shield | SPACE CANNON 5 | Shoots adjacent systems
-- **Why:** Fortify Mecatol Rex. With Reclamation's free PDS, upgrading to PDS II makes MR much harder to attack.
-- **Prerequisites:** 1 red + 1 yellow
-
-**Round 4: Carrier II (BBBB) OR Fleet Logistics (BB)**
-- **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Prerequisites:** 2 blue + Gravity Drive
-  - **Why:** Transport armies for MR reinforcement.
+**Round 3:** Sling Relay (B) OR Fleet Logistics (BB)
+- **Sling Relay:** ACTION: Exhaust to produce 1 ship in any system with your space docks
 - **Fleet Logistics:** Perform 2 actions per turn
-  - **Prerequisites:** 2 blue
-  - **Why:** Double actions for MR defense + expansion.
+- **Why:** Production flexibility or double actions for positioning.
 
-**Round 5+:** Flex techs based on objectives
+**Round 4:** Fleet Logistics (BB) OR Light/Wave Deflector (BBB)
+- **Light/Wave Deflector:** Your ships can move through systems that contain other players' ships
+- **Why:** Bypass blockades, extreme mobility.
 
-**Tech Requirements:**
-- **Blue skip (very helpful):** Accelerates Gravity Drive significantly
-- **Yellow skip (helpful):** Speeds Sarween/PDS path
-- **Red skip (helpful):** Accelerates PDS II
+**Round 5+:** Flex techs
 
-**Pros:**
-- Early Gravity Drive (R2) for fast MR assault
-- PDS II R3 for MR defense
-- Mobility and defensive focus
+Together with your breakthrough, this path offers great mobility to make some moves.
 
-**Cons:**
-- Delays economic/production techs
-- Heavy tech investment early
-
-**Best For:** Most games. Speed to MR is critical—Gravity Drive R2 enables R2 MR takeover.
+**Best For:** Flexibility and movement objectives. Slightly weaker defensively. Good in general.
 
 ---
 
-### C. Tech Path 2: Economic Build (Alternative)
+### C. Tech Path 2: Red Path (Slow)
 
-**Starting Tech:** Sarween Tools (Y)
+**Starting Tech:** AI Development Algorithm
 
-**Round 1: Neural Motivator (G)**
-- You have +2 starting command counters
-- **Why:** More CCs for MR race and expansion.
-- **Prerequisites:** 1 green
+**Round 1:** Gravity Drive (B) - if you can afford tech
+- After you activate a system, apply +1 to the move value of 1 of your ships
+- **Why:** Mobility for reaching targets.
 
-**Round 2: Lazax Gate Folding (BB)**
-- If you don't control Mecatol Rex, treat its system as if it contains alpha and beta wormhole. ACTION: If you control MR, exhaust to place 1 infantry on MR.
-- **Why:** Your faction tech. Makes MR system adjacent via wormholes (treat as wormhole system). ACTION to spawn free infantry on MR for defense.
-- **Prerequisites:** 2 blue
+**Round 2:** Magen Defense Grid (R)
+- When any player activates a system with your structures, place 1 infantry with each structure. At start of ground combat on planet with your structures, produce 1 hit
+- **Why:** Free infantry when systems activated, plus ground combat hit. Strong defensive tech.
 
-**Round 3: PDS II (RY)**
-- Defend MR with upgraded PDS
+**Round 3:** PDS II (RY)
+- Planetary Shield, SPACE CANNON 5. Can shoot ships adjacent to this unit's system
+- **Why:** Upgrade your PDS network. Strong defense.
 
-**Round 4: Hegemonic Trade Policy (YY)**
-- Exhaust when using PRODUCTION; swap resource/influence values of 1 planet until end of turn
-- **Why:** Your other faction tech. Flexibility for production or voting.
-- **Prerequisites:** 2 yellow
+**Round 4:** Destroyer II (RR)
+- Cost 1, Combat 8, Move 2, ANTI-FIGHTER BARRAGE 6 (x3)
+- **Why:** Cheap upgraded destroyers with AFB.
 
-**Round 5+:** Flex
+**Round 5:** Carrier II (BB)
+- Cost 3, Combat 9, Move 2, Capacity 6
+- **Why:** Better transport capacity.
 
-**Pros:**
-- Both faction techs (Lazax Gate Folding + Hegemonic Trade Policy)
-- Economic flexibility
-- Infantry spawn on MR (defensive)
+More unit focused. Tons of PDS defending your slice. Best utilized if you have multiple mechs walking out in your slice over 2 turns to fill out with structures.
 
-**Cons:**
-- Delays Gravity Drive (slower MR assault)
-- Faction techs are situational
-
-**Best For:** Games where you can take MR R3 instead of R2. More economic/political focus.
+**Best For:** Defensive play and combat objectives. Weaker mobility. Good if you want more structures and ground forces.
 
 ---
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
-Your R1 priority is building fleet and moving toward Mecatol Rex.
+**Round 1 Priority Ranking:**
 
-**R1 Priority Ranking:**
+1. **Trade** - Very best card. Get resources to not be seen as a target.
+2. **Technology** - Useful to save resources. Early tech is useful to get the best systems in slice.
+3. **Politics** - For setting up custodian and MR Round 2, but can be resource starved.
+4. **Construction** - If you need to produce (risk of no Warfare).
+5. **Leadership** - Just for breakthrough and bonus tokens can give some bonuses early.
+6. **Diplomacy** - Resources and unlock breakthrough. Taking your slice without mechs is sad.
+7. **Warfare** - If someone took Construction.
+8. **Imperial** - Never Round 1.
 
-1. **Warfare** - Redistribution + fleet unlock. Excellent for MR assault preparation.
+**Strategy Token Priority:** Warfare and Diplomacy as strategy tokens.
 
-2. **Leadership** - Command counters for expansion and MR race.
-
-3. **Trade** - 3 commodities. Decent economy.
-
-4. **Technology** - If going for fast Gravity Drive.
-
-5. **Politics** - Speaker for agenda control, less critical for MR race.
-
-6. **Construction** - Forward dock toward MR is fine.
-
-7. **Diplomacy** - Protect home while racing to MR.
-
-8. **Imperial** - Never R1.
-
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
-- **Warfare** - Redistribution after taking MR. Unlock fleets for reinforcement.
-- **Imperial** - MANDATORY once you control MR. Score 2 points per Imperial from MR control.
-- **Leadership** - CCs for defending MR and expansion.
-- **Trade** - Consistent economy from 3 commodities.
+- **Imperial** - Score points from Mecatol Rex control. Your win condition.
+- **Trade** - Make more plastic and not appear like an easy target. Always good to make friends and have a flexible economy.
 
 **Good:**
-- **Politics** - Speaker and agenda control.
-- **Technology** - Stay on tech path.
-- **Diplomacy** - Protect MR system once you control it.
+- **Leadership** - Command tokens for actions and defense.
+- **Politics** - To be able to secure Imperial.
 
 **Situational:**
-- **Construction** - Only if needing structures or forward docks.
+- **Diplomacy** - Bonus economy or protecting a key system.
+- **Construction** - Almost useless if you took your slice properly and got structures from mech and MR.
+- **Warfare** - Redistribution or fleet unlock if necessary.
 
 ---
 
@@ -328,111 +291,81 @@ Your R1 priority is building fleet and moving toward Mecatol Rex.
 
 ### A. Unit Composition
 
-Your ideal fleet composition for taking/holding Mecatol Rex:
+**Blue Path Composition:**
+- **Carriers** - Your main transport. Upgrade to Carrier II (BB) for move 2 and capacity 6. Essential for moving armies to Mecatol and reinforcing it.
+- **Infantry** - Your ground forces. With Commander (+2 combat), they hit on 6 instead of 8 on Mecatol. Cheap and effective defenders.
+- **Mechs** - Sustain Damage ground forces. Use Reclaimer ability to place free structures when conquering planets. Critical for building your infrastructure.
+- **Flagship** - Rolls dice equal to opponent's non-fighter ships. With Commander, hits on 5 instead of 7 on Mecatol. Devastating against large fleets.
+- **Fighter screen** - Cheap fleet support. Absorb hits and provide fleet presence.
 
-**Taking MR (R2-R3):**
-- **6-8 ships total** (mix of cruisers, carriers, destroyers)
-- **4-6 infantry** (for ground invasion)
-- **1 PDS** (can bring starting PDS if needed)
+**Red Path Composition:**
+- **Carriers** - Transport for infantry and mechs. Upgrade to Carrier II (BB) for move 2 and capacity 6.
+- **Destroyers** - Cheap ships with AFB. Upgrade to Destroyer II (RR) for combat 8 and AFB 6 (x3). More cost-effective than cruisers or dreadnoughts.
+- **Infantry** - Your ground forces. With Commander (+2 combat), hit on 6 on Mecatol. Essential for holding the planet.
+- **Mechs** - Sustain Damage ground forces. Reclaimer ability places free structures. Build 2-4 mechs early and walk them toward Mecatol.
+- **Flagship** - Scales with opponent's fleet size. Hits on 5 with Commander on Mecatol. Excellent defensive ship.
+- **Fighter screen** - Cheap units for fleet presence and absorbing hits.
 
-**Holding MR (R3-R5):**
-- **PDS II on MR** (via Reclamation + upgrade)
-- **Space dock on MR** (via Reclamation)
-- **8-10 ships in MR system** (carriers, cruisers, destroyers)
-- **6-8 ground forces on MR** (infantry + mechs)
-- **Flagship (optional)** - Scales with enemy fleet size
+**General Note:** Try to avoid expensive ships like dreadnoughts. With Commander combat bonus, cheaper units become very effective.
 
-With Commander (+2 combat in MR), your defenders are extremely powerful. Infantry hit on 6 instead of 8, cruisers hit on 5 instead of 7. This makes you very difficult to dislodge.
+### B. Game Plan
 
-### B. Point Planning
+**Early Game (Round 1):**
 
-**Winnu Christmas-Land Strategy Cards:**
+Your early game is about surviving your weak start and positioning for Mecatol Rex. Expand to 2-3 systems, prioritize Trade for economy, and build plastic to not look like an easy target. If you can afford tech Round 1, grab Gravity Drive for mobility. Build mechs early (2 minimum) and walk them toward Mecatol to create a structure-filled path.
 
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Warfare          | 0             | 0             | 0         | 0     | 0     |
-| Two   | Leadership       | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 2         | 0     | 6     |
-| Four  | Politics         | 4             | 2             | 2         | 1     | 9     |
-| Five  | Imperial         | 6             | 3             | 4         | 1     | 14    |
+**Round 2 - Custodian Grab:**
 
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
+Take custodians on Mecatol Rex using Blood Ties (free 6 influence cost removal). This is your optimal play—you're the best custodian faction and should leverage it. Place free PDS and space dock with Reclamation immediately. Your Commander unlocks, giving you +2 combat in the MR system, making you nearly unkillable there. Politics Round 1 helps set this up. Start building your defensive fleet on MR to prepare for inevitable attacks.
 
-**Notes:**
-- Winnu's point path is MR-dependent. R3 Imperial scores 2 MR points + public + secret = 4 points
-- R5 Imperial scores 2 MR points + public + secret = 4 more points
-- Total from MR: 4 MR points + 2 bonus public points from Imperial = 6 points from MR alone
-- Hero R4 can be used for critical strategy card (Imperial, Technology, Leadership)
+**Mid Game (Rounds 3-4):**
 
-### C. Game Plan
+If you secured custodians Round 2, focus on holding Mecatol Rex and scoring Imperial points. Take Imperial when possible to score 2 points from MR control. Make political deals to avoid getting ganged up on—you're now everyone's problem.
 
-**Strategic Approach:**
+If you didn't get custodians Round 2, take Mecatol Rex now using Blood Ties. By this point, your slice should be carefully defended with mechs and structures, allowing you to make greedy moves toward MR without exposing your home system. Place free PDS and space dock with Reclamation. Your Commander unlocks, giving you combat power on Mecatol and legendaries.
 
-**Rounds 1-2: Race to Mecatol Rex**
-- Take Warfare or Leadership R1
-- Expand toward MR with 3-4 systems
-- Build fleet (6-8 ships by R2)
-- Research Gravity Drive R2 (if possible)
-- Take Mecatol Rex R2 using Blood Ties (0 influence cost)
-- Reclamation: Place free PDS + space dock on MR
-- Commander unlocks!
+**Late Game (Round 5+):**
 
-**Rounds 3-4: Hold MR & Score Imperial**
-- Take Imperial R3 (score 2 points from MR + public + secret)
-- Research PDS II R3 (fortify MR with SPACE CANNON 5)
-- Produce defensive fleet at MR space dock
-- Make political deals to deter attacks
-- Use Agent to reduce production costs (help yourself or trade to others)
-- Hero R4 for critical strategy card (Imperial again, Technology for 2 techs, or Leadership for 3 CCs)
-
-**Round 5: Final Push & Victory**
-- Take Imperial R5 (score 2 more points from MR)
-- Commander (+2 combat) makes MR nearly unkillable
-- Produce reinforcements at MR space dock
-- Win via MR control (6 points total from MR) + objectives
-
-**Key Strategic Principles:**
-1. **Take Mecatol Rex R2** - Non-negotiable. Every R1 action should prepare for this.
-2. **Defend MR ruthlessly** - PDS II + space dock + Commander (+2 combat) = fortress
-3. **Score Imperial 2-3 times** - 2 points per Imperial from MR = 4-6 points total
-4. **Use Hero R4-R5** - Perform any strategy card primary at critical moment
-5. **Political deals** - "Attack Player X instead of me" or "Let me keep MR, I'll support you"
-6. **Commander advantage** - +2 combat in MR makes you extremely difficult to remove
+Hold Mecatol Rex and keep scoring Imperial. Your Commander makes you surprisingly hard to dislodge. Use your Hero for a massive point swing when needed. Win through MR control and Imperial scoring.
 
 ---
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Excels at MR objectives with Blood Ties and natural positioning on Mecatol Rex. Reclamation provides free structures for structure objectives, and Commander helps defend key positions.
+
+**Weaknesses:** Poor early expansion and weak economy (3/4 home) make planet control and spending objectives challenging. Tech objectives are difficult with 1 starting tech, and losing MR removes most advantages.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
 | Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Sway the Council (Spend 8 influence)                                    | 🟡     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🔴     |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🔴     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
+| Build Defenses (Have 4 or more structures)                              | 🟢     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟡     |
+| Push Boundaries (Control more planets than each neighbor)               | 🔴     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-Winnu excels at MR-adjacent objectives (Intimidate the Council, Make History if MR system has anomaly/legendary nearby) and fleet objectives (Raise a Fleet on MR).
-
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -440,120 +373,116 @@ Winnu excels at MR-adjacent objectives (Intimidate the Council, Make History if 
 | Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
 | Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
 | Become a Martyr (Lose control of planet in home system)                 | 🔴     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
-| Brave the Void (Win combat in anomaly)                                  | 🟡     |
+| Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🔴     |
 | Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
 | Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
 | Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
 | Form a Spy Network (Discard 5 action cards)                             | 🟡     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
 | Fuel the War Machine (Have 3 space docks)                               | 🟢     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
 | Fight With Precision (AFB destroy last fighter)                         | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
+| Hoard Raw Materials (Control planets with 12+ resources)                | 🔴     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
 | Prove Endurance (Last to pass)                                          | 🔴     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-**Notes:**
-- **Occupy the Seat of the Empire (Control MR with 3+ ships)** is EASY—you naturally control MR
-- **Fuel the War Machine (3 space docks)** is EASY—home dock + MR dock (Reclamation) + 1 forward dock
-- **Produce en Masse (8+ PRODUCTION)** is EASY—MR space dock (PRODUCTION 3) + fleet with Sarween
-- Commander's +2 combat makes combat secrets easier
-
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🔴     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟡     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🔴     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
-| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
+| Construct Massive Cities (Have 7+ structures)                            | 🟢     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-**Notes:**
-- **Achieve Supremacy (Flagship/War Sun in HS or MR)** is EASY—your flagship on MR
-- **Command an Armada (8+ non-fighter ships)** is EASY—your MR defensive fleet
-- **Galvanize the People (6 CCs)** is EASY with Neural Motivator start + CC usage
-- Winnu struggles with resource/influence-heavy objectives and structure spam
-
 ---
 
 ## IX. Alliance Priority
 
-Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
+Alliance preference ranking based on commander utility:
 
-**Super Top Tier:**
-1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources for MR fleet production.
-2. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. You produce constantly at MR space dock = constant TG income.
-3. **Hacan (Carth of Golden Sands)** - After you roll dice for combat/SPACE CANNON/AFB, reroll any number. Boosts your Commander combat rolls.
-4. **Jol-Nar (Ta Zern)** - When units use PRODUCTION/AFB/BOMBARDMENT/SPACE CANNON, reroll any dice. Boosts PDS and production.
+**Top Tier:**
+1. **Nomad** (Navarch Feng) - Produce flagship without spending resources. Saves 8 resources for MR fleet.
+2. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income you desperately need.
+3. **Crimson Rebellion** (Ahk Siever) - Gain 1 TG after any combat (all players' fights). Constant passive income.
+4. **Empyrean** (Xuange) - Return tokens when others move into your systems. Critical for coordinating MR retakes.
 
-**Really Useful:**
-5. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces, commit 1 ground force from each planet in active/adjacent systems. Helps MR invasions.
-6. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. CC usage = TG income.
-7. **Empyrean (Xuange)** - After player moves ships into system with your tokens, return token. Useful for MR defense.
-8. **L1Z1X (Il Na Viroset)** - During tactical actions, activate systems with your tokens and return both tokens. Flexibility for MR defense.
+**Good:**
+5. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Passive income boost.
+6. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. Income at MR space dock.
+7. **Jol-Nar** (Ta Zern) - Reroll unit ability dice (BOMBARDMENT, AFB, SPACE CANNON). Insane with Magen/PDS defense.
+8. **Argent Flight** (Trrakan Aun Zulok) - Roll 1 additional die for unit abilities. Insane with Magen/PDS defense.
+9. **Vuil'raith** (That Which Molds Flesh) - 2 fighters/infantry don't count against production. More plastic.
+10. **Yssaril** (So Ata) - Look at cards when activating systems with your units. Intel for MR defense planning.
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
 
-Winnu is one of the weakest factions in TI4, but with perfect execution and favorable board state, they can win by controlling Mecatol Rex R2-R5. Your job is to:
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-1. **Take Mecatol Rex R2** - Use Blood Ties (0 influence cost) to remove custodians for free
-2. **Fortify MR with Reclamation** - Place free PDS + space dock on MR immediately
-3. **Unlock Commander R2** - Get +2 combat in MR system, making you nearly unkillable there
-4. **Research PDS II R3** - Upgrade MR's PDS for SPACE CANNON 5 defensive coverage
-5. **Score Imperial 2-3 times** - Take Imperial R3 and R5, score 2 points per Imperial from MR
-6. **Use Hero R4-R5** - Perform any strategy card primary at critical moment (Imperial, Technology, Leadership)
-7. **Defend MR ruthlessly** - Commander (+2 combat) + PDS II + space dock + fleet = fortress
+### A. High-Value Action Cards
 
-You're not favored to win, but:
-- Blood Ties saves 6 influence (massive advantage for MR race)
-- Reclamation gives free PDS + space dock on MR (instant fortification)
-- Commander (+2 combat in MR) makes you extremely difficult to remove
-- Hero flexibility can swing critical moments
-- Imperator breakthrough scales with opponent Supports (+1 per Support)
+### B. Relic Priorities
 
-Play patiently, secure Mecatol Rex early, defend it ruthlessly, score Imperial repeatedly, and you can overcome your weaknesses through MR dominance.
+### C. Agenda Awareness
 
-**THE THRONE IS OURS.**
+---
+
+## XI. End Notes
+
+Winnu is TI4's ultimate king-of-the-hill faction—weak on paper, terrifying when executed correctly. You're playing an all-or-nothing game: claim the throne early and hold it, or lose trying.
+
+**The Winnu Experience:**
+Your early game is fragile. Poor starting fleet, terrible economy, limited expansion. You're racing to Mecatol Rex Round 2 while everyone knows it's coming. Blood Ties lets you take custodians for free (saving 6 influence), Reclamation gives you instant fortification with free structures, and your Commander makes you nearly unkillable on MR with +2 combat.
+
+**The Challenges:**
+You're everyone's problem the moment you take Mecatol. Expect massive backlash, constant threats, and political maneuvering. You need to make deals, spread favors, and convince the table that someone else is the real threat. Your Mecatol dependency means losing it can end your game. You live and die by that throne.
+
+**What Makes It Fun:**
+Massive swing turns. Holding Mecatol against overwhelming odds. Free custodian removal when everyone else pays dearly. Scoring Imperial multiple times while daring anyone to take it from you. Your Hero can copy any strategy card primary at a critical moment—perfect for clutch plays. When you're defending that throne with Commander (+2), PDS, structures, and your fleet, you feel invincible.
+
+Play aggressively, claim what's yours, defend ruthlessly, and prove the rightful heirs can reclaim their throne.
+
+**Your Emperor commands you to take your fleet to Mecatol Rex.**
