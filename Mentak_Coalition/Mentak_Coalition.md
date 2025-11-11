@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Mentak Coalition Guide
 
 ![Mentak Coalition](MentakArt.webp)
@@ -353,7 +355,13 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Mentak excels at spending objectives once Pillage and Mirror Computing economies kick in mid-game. Combat objectives are easy with Ambush pre-combat hits and cruiser-focused fleets, and mobile cruisers provide good map presence for territorial objectives.
+
+**Weaknesses:** Early game spending objectives are challenging before Pillage accumulates trade goods. Influence spending is difficult with only 1 home influence, requiring aggressive planet conquest to compensate.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -380,7 +388,7 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -426,7 +434,7 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -478,7 +486,23 @@ Alliance preference ranking based on commander utility:
 
 ---
 
-## X. End Notes
+## X. Bonus
+
+### A. Action Cards
+
+(To be filled)
+
+### B. Relics
+
+(To be filled)
+
+### C. Agendas
+
+(To be filled)
+
+---
+
+## XI. End Notes
 
 Mentak Coalition is a low-tier faction that makes people mad. You thrive on economic theft and mobile cruiser warfare. Your success depends on:
 

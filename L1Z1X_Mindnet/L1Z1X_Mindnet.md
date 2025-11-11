@@ -1,735 +1,470 @@
-# The L1Z1X Mindnet Comprehensive Strategy Guide
+[← Back to Index](../index.html)
+
+# L1Z1X Mindnet Guide
 
 ## I. Introduction
 
-The L1Z1X Mindnet are Twilight Imperium's **premier dreadnought faction and ruthless assimilation machine**. You replace standard dreadnoughts with Super Dreadnought I (capacity 2, bombardment 5), start with both Neural Motivator and Plasma Scoring technologies, and possess Assimilate (steal enemy space docks and PDS when conquering planets) and Harrow (bombardment after each ground combat round). Your commander ignores planetary shields for bombardment, and your hero teleports your entire dreadnought fleet to a single system. This faction rewards aggressive conquest, overwhelming firepower, and leveraging bombardment to soften ground defenses. You are the galaxy's most feared war machine—relentless, efficient, and unstoppable once your dreadnought armada reaches critical mass.
+The L1Z1X Mindnet is Twilight Imperium's **premier dreadnought faction**. Deploy massive Super Dreadnoughts, unleash devastating BOMBARDMENT against enemy ground forces, and conquer planets across the galaxy. Your faction excels at territorial expansion through overwhelming military force, stealing enemy infrastructure when you conquer their worlds, and projecting unstoppable late-game power. L1Z1X isn't about subtle diplomacy—it's about building the most terrifying fleet in the galaxy and using it to dominate through conquest.
 
 ## II. Playstyle
 
-**Early Game (Rounds 1-2):**
-Your opening is defined by your starting Super Dreadnought I and aggressive expansion. Use your bombardment advantage (5-rolled hits) to soften planets before invasions, reducing infantry losses. Assimilate is your economic engine: every conquered enemy planet with a space dock or PDS gives you those structures for free, accelerating your production infrastructure. Target neighbors with early space docks (Sol, Jol-Nar, Arborec) to steal their production facilities. Your 5-resource home system supports early builds, but your 0 influence creates severe political weakness. Focus on territorial control through military force, not diplomacy. Build more dreadnoughts immediately—you need 4 to unlock your commander.
+Playing L1Z1X Mindnet is about methodical territorial expansion backed by overwhelming military force. Build dreadnoughts, conquer planets, steal enemy structures, and gradually expand your empire.
 
-**Mid Game (Rounds 3-4):**
-This is when L1Z1X becomes terrifying. Unlock your commander (4 dreadnoughts on board) to ignore planetary shields with bombardment, making PDS networks and planetary shield action cards worthless. Build Super Dreadnought II (upgrade requires 2 blue, 1 yellow) for movement 2, combat 4, bombardment 4, and immunity to Direct Hit. Mass-produce dreadnoughts using your assimilated space docks; each conquest adds more production capacity. Harrow ability lets you bombardment AFTER EACH ROUND of ground combat, wearing down defenders over multiple rounds. Research Inheritance Systems (2 yellow) to ignore tech prerequisites, opening any technology path. Control Mecatol Rex through overwhelming force—your bombardment softens it before invasion.
+Early game you establish your production and build your dreadnought fleet. Mid-game you unlock your Commander and start making aggressive moves on fortified worlds. Late game you leverage your massive fleet to make decisive swings across the map—teleporting fleets with your Hero, conquering key planets, and securing objectives through military superiority.
 
-**Late Game (Rounds 5-6+):**
-Your hero (The Helmsman) becomes a game-ending ability: move your flagship and ALL dreadnoughts from anywhere on the board to a single system. This creates unstoppable force concentration—6-8 dreadnoughts appearing instantly to conquer critical objectives, Mecatol Rex, or deny opponents' scoring. Your Fealty Uplink breakthrough (red/green) grants free infantry equal to planet influence when conquering, solving your ground force sustainability. By this stage, you should control 3-4 assimilated space docks, field 6-10 dreadnoughts, and dominate through superior firepower. Victory comes from **territorial conquest**—you score objectives requiring planet control, combat victories, and spending resources easily. Opponents cannot match your military efficiency.
+Once you take something, it was always yours.
 
 ## III. The Basics
 
 ### A. Home System & Commodities
 
-**[0.0.0] (Home System):** 5 resources, 0 influence
-- A completely barren planet with ZERO influence
-- 5 resources is solid for early production
-- No influence creates severe political weakness
-- Cannot contribute to influence-based objectives early
-- One of the most resource-focused home systems in the game
+**Home System:**
+- **[0.0.0]:** 5 resources / 0 influence
+- **Total: 5 resources / 0 influence (5 optimal resources / 0 optimal influence)**
+
+**Notes:** One of the strongest home systems in the game. Easy to defend, and 5 resources provides great production for dreadnoughts. Zero influence makes political gameplay difficult but doesn't matter for your military strategy.
 
 **Commodities:** 2
-- Very low economic capacity
-- You're a war faction, not a trade faction
-- Trade when possible but don't rely on commodity economy
-- Focus on conquest for economic growth (Assimilate stolen structures)
 
-**Optimal Resource/Influence from Home Worlds:**
-- [0.0.0] contributes 5 optimally for resources, 0 for influence
-- Total: 5 optimal resources / 0 optimal influence from home
-- You DESPERATELY need influence-rich planets early
-- Politics is your weakest phase; plan accordingly
+Low commodity count reflects your non-economic focus. You're not a trading faction.
 
 ### B. Starting Fleet
 
-**1 Dreadnought (Super Dreadnought I):**
-- Your unique dreadnought replacement
-- Cost 4, Combat 5, Move 1, Capacity 2, Bombardment 5, Sustain Damage
-- CAPACITY 2 is critical (can transport infantry for invasions)
-- Bombardment 5 softens planets before ground combat
-- Forms the core of your early fleet
+**Fleet Composition:**
+- 1 Dreadnought (Super Dreadnought I)
+- 1 Carrier
+- 3 Fighters
+- 5 Infantry
+- 1 Space Dock
+- 1 PDS
 
-**1 Carrier:**
-- Standard capacity 6 carrier
-- Transports your 5 starting infantry
-- Less important than for other factions (dreadnoughts have capacity)
-- Still needed for large-scale invasions early
-
-**3 Fighters:**
-- Standard space combat fodder
-- Screening units for your dreadnoughts
-- Less emphasis than other factions; you favor capital ships
-
-**5 Infantry:**
-- Standard ground force complement
-- Adequate for early planet captures
-- Bombardment reduces losses, extending sustainability
-
-**1 Space Dock:**
-- Already built at [0.0.0]
-- Produce more dreadnoughts immediately
-- Assimilate will steal more space docks from enemies
-
-**1 PDS:**
-- Unusual starting structure
-- Provides early defensive coverage
-- Synergizes with Plasma Scoring (PDS hits on 7s)
+**Notes:** Very solid starting fleet. Having 5 infantry and 2 ships with capacity (Super Dreadnought with capacity 2, Carrier with capacity 6) gives you a solid start for expansion. Space dock and PDS on your home planet are standard.
 
 ### C. Starting Tech
 
-**Neural Motivator (Yellow):**
-- When you gain command tokens during the status phase, gain 1 additional command token
-- 3 tokens per status phase instead of 2
-- Critical for command-token-hungry war factions
-- Helps fund tactical actions for aggressive expansion
+**Starting Technologies:**
+- **Neural Motivator (G):** *During the status phase, draw 2 action cards instead of 1.*
+- **Plasma Scoring (R):** *When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.*
 
-**Plasma Scoring (Yellow):**
-- Your PDS units roll one additional die during space cannon offense or defense
-- Synergizes with your starting PDS
-- Less critical than Neural Motivator but still valuable
-- Supports defensive PDS networks if you build more
+**Strategic Analysis:**
 
-**Technology Specialties to Prioritize:**
-- **Industrial (Blue):** For Super Dreadnought II path
-- **Cybernetic (Yellow):** For Inheritance Systems (ignore prerequisites)
-- **Hazardous (Red):** For Fealty Uplink breakthrough and combat technologies
+**Neural Motivator** gives you action card advantage. Draw 2 action cards every status phase instead of 1, giving you more options and flexibility.
+
+**Plasma Scoring** boosts your BOMBARDMENT advantage. Your Super Dreadnoughts benefit massively from rolling extra dice. This also helps your PDS for SPACE CANNON defense.
+
+These are not the tech colors we deserve, but what we got. Your Super Dreadnought II is as far away as it is for the techless Sardakk.
 
 ### D. Faction Abilities
 
-**Assimilate:**
-*When you gain control of a planet, replace each PDS and space dock that is on that planet with a matching unit from your reinforcements.*
+**Assimilate:** *When you gain control of a planet, replace each PDS and space dock that is on that planet with a matching unit from your reinforcements.*
 
-- **STEAL** enemy space docks and PDS when conquering planets
-- Structures transfer to you from reinforcements (must have available)
-- Massive economic advantage: enemy investment becomes your infrastructure
-- Prioritize conquering planets with space docks (high-value targets)
-- Sol, Jol-Nar, Arborec, and other factions that build early space docks = premium targets
-- PDS networks also transfer, giving you defensive coverage
-- Does NOT work if you don't have structures in reinforcements (plan accordingly)
-- You still "destroy" original structures; Assimilate replaces them with yours
+Steal enemy structures when conquering planets. If your opponent has a space dock on the planet you invade, you take it—no need to build your own. Same for PDS. This is incredibly powerful for forward expansion. Taking an enemy's forward space dock gives you an instant production facility deep in their territory.
 
-**Harrow:**
-*After each round of ground combat, your ships in the active system may use their BOMBARDMENT abilities against your opponent's ground forces on the planet.*
+**Harrow:** *After each round of ground combat, your ships in the active system may use their BOMBARDMENT abilities against your opponent's ground forces on the planet.*
 
-- Bombardment happens AFTER EACH ROUND of ground combat
-- Normal bombardment: before ground combat starts
-- Harrow bombardment: after Round 1, after Round 2, etc., until combat ends
-- Wears down defenders over multiple rounds
-- Example: Round 1 ground combat → Harrow bombardment → Round 2 ground combat → Harrow bombardment
-- Works with ALL bombardment-capable ships (dreadnoughts, war suns, mechs)
-- Combined with commander (ignores planetary shields), this becomes devastating
-- Encourages sustained ground combats rather than quick alpha strikes
-- Your mech (Annihilator) has bombardment 8 and can bombard from ground
+Game-changing invasion ability. Unlike normal BOMBARDMENT (which only happens before invasion begins), Harrow lets you BOMBARDMENT after every ground combat round. Here's how it works:
+
+1. Pre-invasion BOMBARDMENT (normal timing)
+2. Round 1 of ground combat
+3. **Harrow BOMBARDMENT** (you roll BOMBARDMENT again)
+4. Round 2 of ground combat
+5. **Harrow BOMBARDMENT** (you roll again)
+6. Continue until invasion ends
+
+This means a Super Dreadnought with BOMBARDMENT can potentially roll multiple times during a single invasion, systematically destroying ground forces. Combined with your mech's BOMBARDMENT and Plasma Scoring (+1 die to BOMBARDMENT), you can obliterate defenders without risking your own infantry.
 
 ### E. Leaders
 
-**Agent: I48S**
-*After a player activates a system: You may exhaust this card to allow that player to replace 1 of their infantry in the active system with 1 mech from their reinforcements.*
+**Agent - I48S:** *After a player activates a system: You may exhaust this card to allow that player to replace 1 of their infantry in the active system with 1 mech from their reinforcements.*
 
-- Exhausts after ANY player activates a system
-- Replaces 1 infantry with 1 mech for that player
-- Trading tool: offer mech upgrades to other players for support
-- Can use on yourself for tactical mech deployment
-- Value varies by faction: high-value for Barony, Sardakk, Naalu (strong mechs)
-- Low transaction value compared to other agents
-- Primarily used for diplomatic deals
+Trade this to players who need mechs. Not particularly strong for you since mechs aren't your focus, but can be useful for making deals. You can also use it yourself to deploy your mech.
 
-**Commander: 2RAM**
-*Unlock: Have 4 dreadnoughts on the game board.*
-*Units that have Planetary Shield do not prevent you from using BOMBARDMENT.*
+**Commander - 2RAM:** *Unlock: Have 4 dreadnoughts on the game board. Units that have Planetary Shield do not prevent you from using BOMBARDMENT.*
 
-- Unlock: 4 dreadnoughts on board (easy for L1Z1X)
-- **IGNORES PLANETARY SHIELDS** for bombardment
-- Planetary Shield action cards become worthless against you
-- PDS structures grant planetary shields; commander bypasses them
-- Combined with Harrow, you bombardment after EVERY ground combat round regardless of shields
-- Unlock this as early as possible (Round 2-3 with aggressive dreadnought production)
-- Devastating against defensive factions (Xxcha, defensive PDS networks)
+**This is your key unlock.** Planetary Shield (from mechs, Magen Defense Grid tech, or faction abilities) normally prevents BOMBARDMENT entirely. With 2RAM unlocked, you ignore this restriction—you can BOMBARDMENT planets even if they have Planetary Shield. This removes the primary counter to your strategy. Aim to unlock Round 2-3 (R2-R3) by producing dreadnoughts early.
 
-**Hero: The Helmsman**
-*Unlock: Have 3 scored objectives.*
-*Dark Space Navigation:*
-*ACTION: Choose 1 system that does not contain other players' ships; you may move your flagship and any number of your dreadnoughts from other systems into the chosen system. Then, purge this card.*
+**Hero - The Helmsman:** *Unlock: Have 3 scored objectives.* **Dark Space Navigation** - ACTION: Choose 1 system that does not contain other players' ships; you may move your flagship and any number of your dreadnoughts from other systems into the chosen system. Then, purge this card.
 
-- One-time-use ability
-- Move flagship + ALL dreadnoughts from ANYWHERE to one target system
-- Target system cannot contain other players' ships (must be empty or only your ships)
-- Instant force concentration: 6-10 dreadnoughts appearing in one location
-- Applications:
-  - Conquer Mecatol Rex with overwhelming force
-  - Threaten critical objective planets
-  - Defend against coordinated attacks
-  - Score territorial objectives instantly
-- Use timing: Round 5-6 when game-deciding objectives appear
-- Leaves non-dreadnought ships behind (fighters, carriers stay)
-- Combined with Super Dreadnought II (move 2), you have incredible reach
+Teleport your dreadnought fleet across the galaxy. Use this for surprise Mecatol Rex takes, defensive regrouping, or positioning for critical objectives. The limitation (system cannot contain other players' ships) means you can't use it for direct attacks, but you can move to adjacent systems for next-turn strikes. Timing is crucial—save this for Round 4-5 (R4-R5) when positioning wins games.
 
-### F. Promissory Note
+### F. Promissory Note - **Cybernetic Enhancements Ω**
 
-**Cybernetic Enhancements Ω:**
 *When you gain command tokens during the status phase: Gain 1 additional command token. Then, return this card to the L1Z1X player.*
 
-- Grants +1 command token during status phase to holder
-- Effectively gives them Neural Motivator benefit for one round
-- Used during status phase, then returns to you
-- Moderate transaction value: worth 1-3 trade goods or commodities
-- Command-token-starved factions value this (Nekro, Sardakk, war-focused players)
-- Can be traded repeatedly after it returns
-- Useful diplomatic tool but not game-breaking
+Gives a player +1 command token during status phase. Very sellable—command tokens are always useful.
+
+Trade value: 2 TG. First person to ask usually gets it. Don't undersell—this is worth the command token they would buy from Leadership anyway.
 
 ### G. Alliance
 
-**Alliance Ability:**
-*While you are neighbors with the L1Z1X player, you gain the following alliance ability:*
-*Harrow - After each round of ground combat, your ships in the active system may use their BOMBARDMENT abilities against your opponent's ground forces on the planet.*
+Your alliance gives access to your Commander (2RAM). Players who take your alliance can ignore Planetary Shield for BOMBARDMENT, which is strong for invasion-focused factions. Trade this to military factions (Sardakk, Barony, Sol) who benefit from BOMBARDMENT, or use it as leverage in negotiations.
 
-- Grants Harrow ability to an ally
-- Neighbor must control or have units in systems adjacent to your units/controlled systems
-- Powerful for bombardment-capable factions (War Suns, Dreadnoughts)
-- Enables sustained ground combat bombardment for allies
-- Moderate value: helpful but not faction-defining like Creuss Quantum Entanglement
-- Best for aggressive factions that invade frequently (Sardakk, Sol, Barony)
+### H. Mech - **Annihilator**
 
-### H. Mech
+- **Cost:** 2
+- **Combat:** 6
+- **Sustain Damage**
+- **BOMBARDMENT 8**
+- **Special:** *While not participating in ground combat, this unit can use its BOMBARDMENT ability on planets in its system as if it were a ship.*
 
-**Annihilator:**
-*Cost: 2*
-*Combat: 6*
-*Sustain Damage*
-*BOMBARDMENT 8*
-*While not participating in ground combat, this unit can use its BOMBARDMENT ability on planets in its system as if it were a ship.*
+**BOMBARDMENT from orbit.** Your mech can BOMBARDMENT planets in its system without landing. Important: once you commit your mech to a planet for ground combat, you lose this ability.
 
-- Standard mech combat 6 with Sustain Damage
-- **BOMBARDMENT 8** (incredible for a ground force)
-- Can bombardment from ground IF not participating in ground combat
-- Scenario: Land mech on Planet A, invade Planet B in same system → mech can bombardment Planet B
-- Does NOT bombardment if the mech is fighting in the ground combat
-- Synergizes with Harrow: bombardment 8 after each ground combat round
-- Deploy multiple mechs in multi-planet systems for sustained bombardment
-- Expensive at cost 2 but extremely powerful utility
+In practice, mechs are usually better on the ground. Hitting on 6 and soaking damage with Sustain Damage is more valuable than keeping them in orbit for repeated BOMBARDMENT. Only leave mechs in orbit if you're trying to slowly siege a heavily defended planet without committing ground forces.
 
-### I. Flagship
+**Agent Synergy:** You'll have your mechs out early because of your Agent. Use I48S to replace one of your starting 5 infantry with a mech when you activate systems. This is why you start with 5 infantry—to leave one behind and convert the other 4 into two 2-capacity ship loads.
 
-**[0.0.1]:**
-*Cost: 8*
-*Combat: 5 (x2)*
-*Move: 1*
-*Capacity: 5*
-*Sustain Damage*
-*During a space combat, hits produced by this ship and by your dreadnoughts in this system must be assigned to non-fighter ships if able.*
+### I. Flagship - **[0.0.1]**
 
-- 2 dice at combat 5 (solid firepower)
-- Capacity 5 (large transport capability)
-- **Forces non-fighter ship hits**: Flagship and dreadnought hits bypass fighters
-- Opponents cannot use fighters as fodder against your flagship/dreadnoughts
-- Devastating against fighter-heavy fleets
-- Forces opponents to lose capital ships first
-- Synergizes with mass dreadnought fleets
-- Combined with Super Dreadnought II (combat 4), you shred enemy fleets efficiently
+- **Cost:** 8
+- **Combat:** 5 (x2)
+- **Move:** 1
+- **Capacity:** 5
+- **Sustain Damage**
+- **Special:** *During a space combat, hits produced by this ship and by your dreadnoughts in this system must be assigned to non-fighter ships if able.*
 
-### J. Breakthrough
+Forces hits to be assigned to non-fighter ships. This bypasses fighter screens—opponents must assign hits to carriers, cruisers, and dreadnoughts first. Makes your fleet lethal at chewing through capital ships, even when outnumbered by fighters.
 
-**Fealty Uplink (Red <> Green):**
+**Defensive Value:** Your flagship is an amazing defensive tool. Wherever it sits, opponents can't just send carriers—they need real fleet power to challenge you. You're more incentivized to build and use your flagship than most factions.
+
+**Win-Slaying:** Combines with your Hero to teleport your flagship + dreads for decisive Round 5 strikes.
+
+### J. Breakthrough - **Fealty Uplink (R<>G)**
+
 *When you gain control of a planet, place infantry from your reinforcements equal to that planet's influence value on that planet.*
 
-- Gain FREE infantry equal to planet's influence when conquering
-- Example: Conquer 3-influence planet → gain 3 free infantry on that planet
-- Solves ground force sustainability problem
-- High-influence planets become double-value: influence + free troops
-- Synergizes with conquest-heavy playstyle
-- Infantry must come from reinforcements (manage your reinforcements)
-- Late-game breakthrough requiring red + green prerequisites
-- Transforms you into a self-sustaining conquest machine
+When you conquer a planet, gain infantry equal to its influence value. A 3-influence planet gives you 3 free infantry immediately. This is strong for sustained invasions—you don't need to transport infantry, you generate them on conquest. The R<>G swap (red and green count as each other for prerequisites) opens tech path flexibility.
 
-### K. Slice Considerations
+**Unlock timing:** Secure this Round 1 or not at all. If you're unlocking your breakthrough later, you're probably not in an invasion-focused game and should skip Fealty Uplink entirely.
 
-**Critical Priorities:**
+### K. Slice and Draft Considerations
 
-1. **High Resources:**
-   - Your home gives 5 resources; you need more for dreadnought spam
-   - Target 12-15 total resources from slice
-   - Industrial planets (blue tech specialty) support Super Dreadnought II path
-   - Hazardous planets (red tech specialty) support Fealty Uplink breakthrough
+**Speaker Position:** Prefer 1-3 to secure breakthrough and get value from good strategy cards (Technology, Diplomacy).
 
-2. **INFLUENCE IS CRITICAL:**
-   - You start with ZERO influence
-   - Need influence-rich planets desperately
-   - Target 8-10 influence from slice minimum
-   - Cultural planets help with influence and objectives
-   - Without influence, you lose every political phase
+**Slice Preferences:**
+- **INFLUENCE-HEAVY SLICES (CRITICAL)** - You need influence to offset your 5/0 home system. Command tokens require influence. Fealty Uplink breakthrough generates infantry equal to influence value—high-influence planets = more free infantry. Don't fall into the trap of taking resource-heavy slices. You need influence desperately.
+- **Strong systems nearby home system** - Your dreadnoughts are slow (move 1 until upgraded) and you lack mobility early. You need valuable systems adjacent or close to home. Always nice to have a willing neighbor if Mecatol Rex is unavailable.
+- **High-value targets with structures** - Assimilate benefits from conquering planets that have space docks and PDS. If your slice has neighbors with developed infrastructure, you can steal it.
 
-3. **Neighbor Selection:**
-   - Prioritize neighbors with early space docks: Sol, Jol-Nar, Arborec
-   - Assimilate is most valuable against production-heavy factions
-   - Avoid isolated positions; you need conquest targets
+**Draft Considerations:**
+- **Tempesta Legendary** - Has to be nearby home system. Gives +1 movement to ships (once per round). Solves your mobility problem early.
+- **Entropic** - Turns you from a faction in trouble to a faction that is trouble.
 
-4. **Mecatol Access:**
-   - You conquer Mecatol through force, not speed
-   - Moderate Mecatol proximity acceptable
-   - Your hero teleports dreadnoughts, so distant Mecatol less punishing
-
-**Ideal Slice Characteristics:**
-- 12-15 resources, 8-10 influence (after [0.0.0])
-- 2-3 industrial/hazardous technology specialties
-- Neighbors with space docks to assimilate
-- Multi-planet systems for mech bombardment utility
+---
 
 ## IV. Structural Weaknesses
 
-**1. Zero Starting Influence:**
-Your [0.0.0] home system gives absolutely no influence, making you the weakest faction in early politics. You cannot spend influence for objectives, vote meaningfully in agendas, or compete with influence-rich factions (Xxcha, Winnu, Hacan) until you expand. Agenda phases Rounds 1-3 will punish you severely unless you aggressively conquer influence planets.
+### A. First Turn Priorities
 
-**2. Low Commodities (2):**
-With only 2 commodities, your trade economy is terrible. You cannot leverage Trade strategy card effectively, and other factions won't prioritize trading with you. Economic growth relies on Assimilate (stealing structures), not trade. You'll struggle to fund expensive technologies or large fleets without conquest.
+Your Round 1 (R1) is about establishing dreadnought production and expansion. The priority order is:
 
-**3. Slow Early Movement:**
-Super Dreadnought I has movement 1, and you don't start with Gravity Drive. Early expansion is slower than mobile factions (Naalu, Ghosts, Saar). You must research Super Dreadnought II (requires 2 blue, 1 yellow) to gain movement 2. Until then, you're vulnerable to faster opponents outpacing you territorially.
+1. **Breakthrough** - Secure Round 1 or not at all.
+2. **Scoring** - Expand to score Stage I objectives.
+3. **Technology** - Get on your tech path early.
+4. **Production & Expansion** - Build dreadnoughts and grab planets.
 
-**4. Commander Dependency:**
-Your commander (ignoring planetary shields) requires 4 dreadnoughts on board. If you cannot afford to build 4 dreadnoughts early (economic pressure, conflict, limited production), your commander unlock delays, and you lose critical bombardment utility. Against defensive factions, this delay is punishing.
+**Strategy Token Spending (Secondaries):**
+- **Diplomacy secondary** - Big value with your 5-resource home system.
+- **Technology secondary** - Important to get started on your tech path.
 
-**5. Ground Force Sustainability:**
-You start with only 5 infantry. Invasions cost ground forces, and without Fealty Uplink breakthrough (late-game), you struggle to sustain multi-planet conquests. Early wars can drain your infantry reserves, forcing expensive infantry production or reliance on risky bombardment-only invasions.
+### B. Low Mobility Early
 
-**6. Reinforcement Limitations:**
-Assimilate requires structures in your reinforcements. If all your space docks or PDS are on the board, you cannot assimilate enemy structures—they're simply destroyed. You must manage reinforcements carefully, sometimes sacrificing structures to free reinforcements for assimilation.
+Your dreadnoughts start with move 1. This severely limits mobility until you get Super Dreadnought II (move 2). You'll struggle to reach distant planets and Mecatol Rex quickly. Limits access to fractures early. Gravity Drive helps but costs a blue tech. Plan your expansion carefully—you can't reposition easily.
 
-**7. Political Weakness:**
-Zero influence, 2 commodities, and war-focused abilities make you diplomatically weak. Other players will gang up on the warmonger. You have few trading tools (weak promissory note, weak agent), making alliances harder to secure. You'll fight 2v1 or 3v1 scenarios frequently.
+### C. Influence Poverty
 
-**8. Technology Prerequisites:**
-Super Dreadnought II requires 2 blue + 1 yellow (3 total technologies). Inheritance Systems (prerequisite-ignoring tech) requires 2 yellow. Your starting technologies (Neural Motivator, Plasma Scoring) are both yellow (0-cost), meaning they DON'T count as prerequisites for most technologies. You must research additional prerequisite technologies, delaying critical upgrades.
+Zero home influence cripples your command token economy. You can't spend influence to buy command tokens, which severely limits tactical actions. This is your biggest economic weakness and must be addressed through slice selection and early expansion.
+
+Secondary issues: You can't claim Mecatol Rex easily and have no voting power during agendas.
+
+---
 
 ## V. Technology
 
-### A. Starting Technologies
+### A. Overview
 
-**Neural Motivator (Yellow - 0 Cost):**
-- +1 command token during status phase
-- Critical for war factions
-- Does NOT count as a prerequisite for technologies requiring "yellow"
-- Faction-defining economic technology
+**Starting Technologies:**
+- Neural Motivator (G) - Draw 2 action cards instead of 1 during status phase
+- Plasma Scoring (R) - +1 die to BOMBARDMENT or SPACE CANNON
+- **Note:** Impactful in New Age Path, kinda weak in Blue Path.
 
-**Plasma Scoring (Yellow - 0 Cost):**
-- PDS units roll +1 die during space cannon
-- Synergizes with starting PDS
-- Does NOT count as a prerequisite for technologies requiring "yellow"
-- Less impactful than Neural Motivator
+**Core Technologies:** Gravity Drive, Super Dreadnought II
 
-**Key Note on 0-Cost Technologies:**
-- Neural Motivator and Plasma Scoring do NOT count as prerequisites
-- To research technologies requiring "1 yellow," you must research Sarween Tools, Graviton Laser System, or another yellow tech
-- This delays your tech path compared to factions with normal starting technologies
+L1Z1X is very tech-dependent. You need multiple technologies to make your kit work. Successful L1Z1X games are the ones where people ask "Why does L1 have so much tech?" -SCPT. Don't be shy about investing in technology—your faction thrives when you over-tech.
 
-### B. Technology Paths
+### B. Tech Path 1: Blue Path (Oldie but Goldie)
 
-**Primary Path (Dreadnought Focus):**
+The classic path. Unfortunately, it requires you to move to blue without help from your starting techs. This path allows for higher mobility and flexibility by paying with firepower—you're investing in movement and positioning rather than raw combat upgrades. You have to double tech once during R1-R3.
 
-Round 1-2: **Antimass Deflectors (Blue) OR Sarween Tools (Yellow)**
-- Antimass Deflectors: +1 move capacity, opens blue path toward Super Dreadnought II
-- Sarween Tools: +1 fighter/infantry per production, economic efficiency
+**Note:** A blue skip allows faster progression but can be costly if you need to use it for every tech.
 
-Round 2-3: **Gravity Drive (Blue) + 1 Yellow Tech**
-- Gravity Drive: +1 movement for all ships (dreadnoughts move 2)
-- Yellow tech: Sarween Tools OR Neural Motivator (counts as prerequisite now)
-- This unlocks Super Dreadnought II prerequisites (2 blue, 1 yellow)
+**Round 1:** Dark Energy Tap (B) - Retreat flexibility, frontier exploration | OR Antimass Deflectors (B) - Move through asteroids, SPACE CANNON defense
 
-Round 3-4: **Super Dreadnought II (2 Blue, 1 Yellow)**
-- Upgrade: Cost 4, Combat 4, Move 2, Capacity 2, Bombardment 4, Sustain Damage
-- Immune to Direct Hit action cards
-- Movement 2 enables rapid conquest
-- Essential upgrade
+**Round 2:** Gravity Drive (BB) - +1 move to one ship per activation
 
-Round 4+: **Inheritance Systems (2 Yellow) OR Duranium Armor**
-- Inheritance Systems: Exhaust + spend 2 resources to ignore all prerequisites
-- Opens ANY technology path without prerequisites
-- Game-changing flexibility
-- Alternative: Duranium Armor (repair sustain damage during status phase)
+**Round 3:** AI Development Algorithm (R) - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II (BBY) - Move 2, immune to Direct Hit
 
-**Alternative Path (Fealty Uplink Breakthrough):**
+**Round 4:** Fleet Logistics (BBB) - 2 actions per turn | OR Lightwave Deflectors (BBBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
 
-Round 4-5: Research red and green prerequisites for Fealty Uplink (Red <> Green)
-- Red: Magen Defense Grid, Assault Cannon
-- Green: Hyper Metabolism, X-89 Bacterial Weapon
-- Fealty Uplink: Free infantry equal to influence when conquering planets
-- Solves ground force sustainability
+**Round 5:** Fleet Logistics (BBB) | Lightwave Deflectors (BBBB) | Carrier II (BB)
 
-**Technology Sequencing Example (Optimal Path):**
+**Note:** Destroyer II (RR) is a good 3rd unit upgrade option for anti-fighter coverage.
 
-1. **Round 1:** Sarween Tools (yellow - prerequisite)
-2. **Round 2:** Antimass Deflectors (blue - prerequisite) + movement boost
-3. **Round 3:** Gravity Drive (blue - 2nd prerequisite) + Carrier II movement
-4. **Round 3-4:** Super Dreadnought II (2 blue, 1 yellow) - Dreadnought upgrade
-5. **Round 4-5:** Inheritance Systems (2 yellow) - Ignore prerequisites
-6. **Round 5-6:** Use Inheritance Systems to research Duranium Armor, Fleet Logistics, or Fealty Uplink without prerequisites
+### C. Tech Path 2: New Age Path
 
-### C. Key Technologies
+This path requires securing Fealty Uplink breakthrough Round 1.
 
-**Super Dreadnought II (2 Blue, 1 Yellow Prerequisites):**
-*L1Z1X Dreadnought: Cost 4, Combat 4, Move 2, Capacity 2, BOMBARDMENT 4, Sustain Damage. This unit cannot be destroyed by "Direct Hit" action cards.*
+**Round 1:** Hyper Metabolism (GGG) - 3 command tokens per status phase (economy)
 
-- Your faction's most critical technology
-- Movement 2 (doubles dreadnought mobility)
-- Combat 4 (only needs 4+ to hit instead of 5+)
-- Bombardment 4 (still strong)
-- **Immune to Direct Hit** (opponents cannot destroy your sustain damage)
-- Cost remains 4 (same as Super Dreadnought I)
-- Research this by Round 3-4 minimum
+**Round 2:** AI Development Algorithm (R) - Skip unit upgrade prereqs, production cost reduction
 
-**Inheritance Systems (2 Yellow Prerequisites):**
-*You may exhaust this card and spend 2 resources when you research a technology; ignore all of that technology's prerequisites.*
+**Round 3:** War Sun (RRRY) - Massive capital ship, BOMBARDMENT 3 (x3), removes Planetary Shield
 
-- Exhaust + 2 resources = ignore ALL prerequisites for one technology
-- Opens any technology path without research investment
-- Example: Research War Sun (4 yellow prereqs) by exhausting Inheritance Systems + 2 resources
-- Extremely flexible
-- Late-game technology (requires 2 yellow, and you start with 0-cost yellows)
-- Enables tech-skipping strategies
+**Round 4:** X89 Bacterial Weapon (GGGG) - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
 
-**Duranium Armor (2 Yellow Prerequisites):**
-*During the status phase, repair all of your damaged units that are on the game board.*
+**Round 5:** Flexible as Round 4
 
-- Repair ALL damaged units during status phase
-- Sustain damage units (dreadnoughts, flagship, mechs) auto-repair
-- Incredible sustainability for dreadnought fleets
-- Synergizes with mass sustain damage units
-- Reduces need for space docks near front lines
+You become an unstoppable monster on the ground with Harrow, easy access to mechs, and tons of bonus infantry from Fealty Uplink. However, you might struggle in space combat. Consider prioritizing Destroyer II first to shore up your anti-fighter capabilities.
 
-**Fleet Logistics (Blue):**
-*During each of your turns in the action phase, you may perform 2 actions instead of 1.*
+**Note:** A blue skip allows you to get Gravity Drive in this path. Cruiser II (GYR) is a good 3rd unit upgrade option for bonus mobility.
 
-- 2 tactical actions per round instead of 1
-- Essential for aggressive expansion
-- Enables multi-front wars
-- Consider researching via Inheritance Systems if prerequisites expensive
+### D. Path Choices
 
-**Assault Cannon (Red):**
-*At the start of a space combat in a system that contains 3 or more of your non-fighter ships, your opponent must destroy 1 of their non-fighter ships.*
+**Resource-heavy slice:** War Sun path (New Age Path) allows you to leverage high resources for expensive War Suns.
 
-- Pre-combat kill if you have 3+ non-fighter ships
-- Dreadnought-heavy fleets easily trigger this
-- Devastating against capital ship fleets
-- Opens red path toward Fealty Uplink
+**Influence-heavy slice:** Blue Path is slightly better. More influence helps offset your 5/0 home system for command token economy.
+
+---
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** ⭐⭐⭐⭐ - High Value
-You need command tokens for aggressive tactical actions. Neural Motivator helps, but Leadership accelerates expansion. Secondary is excellent.
+**Round 1 Priority Ranking:**
 
-**Diplomacy (2):** ⭐⭐ - Low Value
-Planet readying is weak Round 1. You're not defending Mecatol yet. Skip unless desperate for ready planets.
+1. **Trade** - Trade goods > resources. Three TG + washing 2 commodities is solid value.
 
-**Politics (3):** ⭐⭐ - Low Value
-You have zero influence. Speaker token doesn't help you win votes. Action card draw is nice but not worth top pick.
+2. **Leadership** - Excellent for breakthrough path. Three command tokens enable strong Round 1 expansion.
 
-**Construction (4):** ⭐⭐⭐⭐⭐ - Maximum Value
-You need space docks to spam dreadnoughts. Assimilate works better if you have reinforcements available. Build PDS for defensive coverage. Top-tier Round 1.
+3. **Technology** - Solid. You're very tech-dependent.
 
-**Trade (5):** ⭐⭐ - Low Value
-Only 2 commodities. Trade economy is weak. Secondary refreshes commodities, but you won't get much value. Skip.
+4. **Diplomacy** - Five-resource home system is amazing. Spend 5 on tech, ready it, spend 5 on plastic. With blue skip, grab Gravity Drive immediately.
 
-**Warfare (6):** ⭐⭐⭐⭐ - High Value
-Remove command tokens from opponent systems to enable conquests. Redistribute your own fleet. Solid for aggressive play.
+5. **Politics** - Breakthrough access and bonus money for good speaker position Round 2.
 
-**Technology (7):** ⭐⭐⭐⭐⭐ - Maximum Value
-You NEED Super Dreadnought II. Early tech advantage accelerates your power spike. Secondary also valuable. Top-tier Round 1.
+6. **Warfare** - You start with 2C4i. Don't need to over-expand Round 1. Can be better than Construction depending on slice.
 
-**Imperial (8):** ⭐⭐⭐ - Moderate Value
-Scoring Round 1 is nice if you have scoreable objectives. Otherwise, skip for more aggressive picks.
+7. **Construction** - You can steal structures with Assimilate. Let your neighbors build, then take their stuff. Gives less value than other options.
 
-### B. General Strategy Card Priority
+8. **Imperial** - Never pick Round 1. You're not holding Mecatol Rex yet.
 
-**Rounds 2-3:**
-- **Technology (7):** Push toward Super Dreadnought II, Inheritance Systems
-- **Construction (4):** Build space docks for dreadnought production
-- **Warfare (6):** Remove tokens, redistribute fleets for conquest
-- **Leadership (1):** Command token replenishment for sustained aggression
+**Note:** If you're playing L1, you should probably not be bottom of speaker order. You need access to good strategy cards.
 
-**Rounds 4-5:**
-- **Warfare (6):** Multi-front wars, token removal for critical conquests
-- **Imperial (8):** Scoring from Mecatol control or Imperial Rider
-- **Technology (7):** Inheritance Systems, Duranium Armor, unit upgrades
-- **Construction (4):** PDS networks, forward space docks
+### B. Round 2+ Priority
 
-**Round 6+:**
-- **Imperial (8):** Score to close out the game
-- **Warfare (6):** Tactical flexibility, Mecatol control
-- **Leadership (1):** Command token pool management
+**Love:**
+- **Technology** - Keep investing in tech. You need 5-7 technologies to be good.
+- **Trade** - Trade goods solve your economy problems. Take it if available.
+- **Leadership** - Command token economy. Solid every round.
+
+**Good:**
+- **Imperial** - Very good for scoring points and actually winning.
+- **Politics** - Setting up flexibility for next round, but usually you have a hand full of action cards anyway.
+
+**Situational:**
+- **Diplomacy** - Only for scoring late.
+- **Warfare** - For specific aggressive play.
+- **Construction** - If you got forward dock.
+
+---
 
 ## VII. Intermediate
 
 ### A. Unit Composition
 
-**Early Game Fleet (Rounds 1-2):**
-- 3-4 Dreadnoughts (Super Dreadnought I → upgrade to II ASAP)
-- 1-2 Carriers (transport infantry for invasions)
-- 4-6 Fighters (screening, space combat fodder)
-- 8-12 Infantry (ground invasions)
-- 2 Space Docks ([0.0.0] + 1 assimilated OR built)
-- 1-2 PDS (defensive coverage)
+**Blue Path Composition:** **Dreadnoughts + Carrier + Fighters + Infantry**
 
-**Mid Game Fleet (Rounds 3-4):**
-- 6-8 Dreadnoughts (Super Dreadnought II ideally)
-- 2-3 Carriers (capacity for sustained invasions)
-- 6-8 Fighters (screening)
-- 12-16 Infantry (conquest sustainability)
-- 3-4 Space Docks (assimilated from conquests)
-- 2-4 PDS (defensive networks)
-- 1 Flagship (force hit assignment, capacity 5)
+- **Dreadnoughts:** Your core units. Build 4+ for Commander unlock, then keep producing. Upgrade to Super Dreadnought II for move 2. BOMBARDMENT with Harrow makes invasions trivial.
+- **Carrier:** Capacity for infantry transport. Upgrade to Carrier II for 6 capacity and move 2.
+- **Fighters:** Screen for dreadnoughts. Absorb hits in space combat.
+- **Infantry:** Ground forces for invasion.
+- **Mechs:** Deploy 1-2 mechs for BOMBARDMENT orbital support. Don't need many—they're expensive (2 resources) and niche.
 
-**Late Game Fleet (Rounds 5-6+):**
-- 10-12 Dreadnoughts (Super Dreadnought II)
-- 3-4 Carriers
-- 8-10 Fighters
-- 16-20 Infantry (supplemented by Fealty Uplink if researched)
-- 4-5 Space Docks (assimilated empire-wide)
-- 4-6 PDS (defensive coverage across territory)
-- 1 Flagship
-- 1-2 War Suns (if resources permit via Inheritance Systems)
-- 2-4 Mechs (bombardment utility in multi-planet systems)
+**New Age Path Composition:** **War Suns + Destroyers + Infantry + Mechs**
 
-**Key Principles:**
-- **Dreadnoughts are your core**: Build 4 ASAP for commander unlock, scale to 8-12 late-game
-- Carriers for transport, not combat (dreadnoughts have capacity 2)
-- Infantry sustainability via Fealty Uplink OR frequent production
-- Mechs for bombardment in multi-planet systems
-- Space docks from Assimilate, not Construction (ideal scenario)
+- **War Suns:** Your capital ships. Replace dreadnoughts as primary fleet power. BOMBARDMENT 3 (x3) removes Planetary Shield.
+- **Dreadnoughts:** Build 4 for Commander unlock, then transition to War Suns.
+- **Destroyer II:** Anti-fighter coverage. You struggle in space combat without this.
+- **Mechs:** Deploy 2-3 mechs. More important in this path with Fealty Uplink and ground focus.
+- **Infantry:** Fealty Uplink generates tons of free infantry. X89 Bacterial Weapon makes you unstoppable on the ground.
+- **Cruiser II (bonus):** Sneaky mobility for fast strikes. Move 3 with capacity 1.
 
-### B. Point Planning
+### B. Game Plan
 
-**"Christmas Land" Scoring Table:**
+**Round 1 is make or break.** Get everything rolling and fill out your slice for a strong Round 2. If you manage to establish production and secure your territory Round 1, the sky is the limit.
 
-| Round | Public Objective 1 | Public Objective 2 | Secret Objective | Mecatol/Other | Total Points | Running Total |
-|-------|-------------------|-------------------|------------------|---------------|--------------|---------------|
-| 1 | Spend 3 Resources (1) | - | - | - | 1 | 1 |
-| 2 | 6 Technologies (1) | Control 6 Planets (1) | Destroy 4 Units (1) | - | 3 | 4 |
-| 3 | Control 3 Hazardous (1) | 3 Ships in Non-Home (1) | - | Mecatol (1) | 3 | 7 |
-| 4 | 5+ Technologies (2) | Spend 8 Resources (2) | Win vs 3+ Ships (1) | - | 5 | 12 |
-| 5 | - | - | - | Imperial Point (1) | 1 | 13 |
-| 6 | Control 11 Planets (2) | Win vs 2 Ships (2 systems) (2) | - | Support Throne (1) | 5 | 18 |
+**Unlock breakthrough first thing** to leverage a safe slice later in game with tons of bonus infantry. Each planet on average will have 2 extra infantry from Fealty Uplink. 3 infantry isn't a quick drive-by compared to most people that will have 1.
 
-This scenario shows L1Z1X leveraging combat-based objectives, resource-spend objectives (high resources from conquests), and territorial control (Assimilate expansion) to reach 18+ points.
+**Round 2-3: Plan and execute.** Target fracture, Mecatol Rex, or a neighbor. Plan Round 2, execute latest Round 3. No silly ground forces will be enough to stop you. If you get through the air, you get through the ground.
 
-**Realistic Adjustments:**
-- Combat secrets (Destroy 4 Units, Win vs Ships) fit L1Z1X naturally
-- May not hold Mecatol Round 3 if contested by multiple players
-- Resource-spend objectives are easy with conquest economy
-- Stage II territorial objectives (11 planets, 5 hazardous/industrial) are achievable
+Even though your focus won't be on PDS, smashing through a silly "defensive faction" in Round 3 who relies on Planetary Shield will make it a nightmare later for them to grab it back. You won't have any PDS at home, so plenty of plastic left in the box to place in an opponent's slice.
 
-### C. Game Plan
+**Round 4: Plan for victory.** You need a realistic plan for how to win in Round 5. Assume bonus points from Styx. Position your fleet, secure objectives, and prepare for the final push.
 
-**Round 1:**
-- **Strategy Card:** Technology (7) or Construction (4)
-- **Objectives:** Score Spend 3 Resources OR Explore if available
-- **Expansion:** Claim 2-3 systems, prioritize resource planets and neighbors with space docks
-- **Production:** Build 2-3 more dreadnoughts to reach 4 total (commander unlock)
-- **Tech:** Sarween Tools OR Antimass Deflectors (prerequisite for Super Dreadnought II)
+**Round 5: Execute your win.** You have to solve your own win-slaying. Use The Helmsman to teleport your fleet for decisive strikes. Take what you need and win the game.
 
-**Round 2:**
-- **Strategy Card:** Technology (7) or Warfare (6)
-- **Objectives:** Score territorial objectives (6 planets, 3 ships in non-home)
-- **Commander Unlock:** Reach 4 dreadnoughts on board, gain bombardment ignoring shields
-- **Conquest:** Target neighbor with space dock, use Assimilate to steal it
-- **Tech:** Continue toward Super Dreadnought II (need 2 blue, 1 yellow)
+**Fracture opportunities:** Push fracture for relics and legendary planets. Your Hero teleports your fleet to Styx later in the game for decisive positioning.
 
-**Round 3:**
-- **Strategy Card:** Warfare (6) or Imperial (8)
-- **Objectives:** Conquer Mecatol Rex using bombardment + overwhelming dreadnoughts
-- **Tech:** Research Super Dreadnought II (critical upgrade)
-- **Assimilate:** Steal 2nd space dock from conquered neighbor
-- **Fleet:** Field 6+ dreadnoughts, position for multi-front expansion
-
-**Round 4:**
-- **Strategy Card:** Imperial (8) or Technology (7)
-- **Objectives:** Score Stage II objectives (5+ techs, spend 8 resources, control Mecatol)
-- **Hero Unlock:** Reach 3 scored objectives to unlock The Helmsman
-- **Tech:** Inheritance Systems OR Duranium Armor for fleet sustainability
-- **Production:** Use 3-4 assimilated space docks to mass-produce dreadnoughts
-
-**Round 5:**
-- **Strategy Card:** Imperial (8) or Warfare (6)
-- **Objectives:** Score Stage II objectives, leverage hero for critical conquests
-- **Hero Usage:** Teleport all dreadnoughts to conquer critical objective system or Mecatol
-- **Tech:** Fealty Uplink breakthrough OR War Sun via Inheritance Systems
-- **Expansion:** Control 10+ planets through sustained conquest
-
-**Round 6+:**
-- **Endgame:** Convert military dominance into points
-- **Imperial:** Hold Mecatol for scoring or Imperial Rider
-- **Combat:** Win space combats for combat objectives
-- **Territorial:** Control 11+ planets for Stage II objectives
-- **Close Out:** Reach 10+ points through conquest-based scoring
+---
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
 
-| Stage I Objective                                                       | Status |
-|-------------------------------------------------------------------------|--------|
-| Erect a Monument (Spend 8 resources)                                    | 🟢     |
-| Sway the Council (Spend 8 influence)                                    | 🔴     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟢     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟢     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
+**Strengths:** Decent economy but hard to access trade goods. Control objectives that require low mobility are a strong part of your kit. Very many possible Stage II objectives for swingy turns late game.
+
+**Weaknesses:** Structures can be hard and very neighbor dependent.
+
+### B. Stage I Objectives
+
+| Stage I Objective                                              | Status |
+|----------------------------------------------------------------|--------|
+| Erect a Monument (Spend 8 resources)                           | 🟢     |
+| Sway the Council (Spend 8 influence)                           | 🔴     |
+| Negotiate Trade Routes (Spend 5 trade goods)                   | 🟡     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)| 🟡     |
+| Diversify Research (Own 2 techs in each of 2 colors)           | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)             | 🟢     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)     | 🟢     |
+| Expand Borders (Control 6 planets in non-home systems)         | 🟢     |
+| Corner the Market (Control 4 planets with same trait)          | 🟡     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)   | 🟡     |
+| Build Defenses (Have 4+ structures)                            | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)    | 🔴     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)        | 🟢     |
+| Improve Infrastructure (Structures on 3 planets outside HS)    | 🔴     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Push Boundaries (Control more planets than each neighbor)      | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)               | 🟢     |
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-L1Z1X excel at combat and territorial objectives through bombardment and dreadnought spam. Zero influence is a weakness.
+### C. Secret Objectives
 
-### B. Secret Objectives
-
-| Secret Objective                                                         | Status |
-|--------------------------------------------------------------------------|--------|
-| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
+| Secret Objective                                                | Status |
+|----------------------------------------------------------------|--------|
+| Unveil Flagship (Win space combat with flagship)               | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)     | 🔴     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)          | 🟢     |
+| Spark a Rebellion (Win combat vs most VP player)               | 🟢     |
+| Threaten Enemies (Ships adjacent to another player's HS)       | 🟢     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟢     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟢     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟢     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟢     |
-| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
+| Cut Supply Lines (Ships in system with another's space dock)   | 🟢     |
+| Monopolize Production (Control 4 industrial planets)            | 🟡     |
+| Mine Rare Minerals (Control 4 hazardous planets)               | 🟡     |
+| Forge an Alliance (Control 4 cultural planets)                 | 🟡     |
+| Become a Martyr (Lose control of planet in HS)                 | 🔴     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟢     |
 | Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟡     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🔴     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟢     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)       | 🟢     |
+| Fight With Precision (AFB destroy last fighter)                | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                | 🟢     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)           | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
+| Prove Endurance (Last to pass)                                 | 🔴     |
+| Seize an Icon (Control legendary planet)                       | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
-| Strengthen Bonds (Have another player's PN)                             | 🟡     |
+| Strengthen Bonds (Have another player's PN)                    | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🔴     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🟢     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟢     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-L1Z1X dominate combat and territorial objectives through dreadnought spam and bombardment. Influence objectives are challenging.
+---
 
 ## IX. Alliance Priority
 
-Your alliance ability (granting Harrow bombardment after each ground combat round) is **moderately powerful** and best traded to aggressive factions.
+Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
-**High-Value Alliance Partners:**
+**Top Tier:**
+1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources. Always good value.
+2. **Crimson Rebellion (Ahk Siever)** - At end of combat, gain commodity/TG. Combat-focused faction, smooths out TG access weakness.
+3. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. Smooths out TG access weakness.
+4. **Deepwrought (Aello)** - When others research tech, gain commodity/TG if they take -1 discount. Smooths out TG access weakness.
+5. **Naaz-Rokha (Dart and Tai)** - After you gain control of planet from another player, explore that planet. Extra value from conquests.
 
-1. **Bombardment-Capable Factions:**
-   - **Sol Federation:** Lots of dreadnoughts; Harrow amplifies bombardment sustainability
-   - **Barony of Letnev:** Dreadnought-heavy; benefits from repeated bombardment rounds
-   - **Sardakk N'orr:** Aggressive ground combat faction; Harrow wears down defenders
-   - **Titans of Ul:** War Suns and dreadnoughts benefit from sustained bombardment
+**Good:**
+6. **Obsidian (Aroz Hollow)** - Apply +1 combat in The Fracture. Late game Styx plays with Hero teleport.
+7. **Nekro Virus (Nekro Acidos)** - After you gain tech, draw 1 action card. Tech-heavy faction.
+8. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, and legendary planet systems. Boosts fleet in key battles.
+9. **Empyrean (Xuange)** - After another player moves ships into system with your token, return token to reinforcements. Late game slaying tool.
 
-2. **Invasion-Focused Factions:**
-   - **Xxcha Kingdom:** Defensive but can invade; Harrow helps overcome fortified positions
-   - **Mentak Coalition:** Piracy and invasion; benefits from bombardment advantage
-   - **Yin Brotherhood:** Kamikaze + bombardment after ground combat rounds
+---
 
-3. **Ground-Combat-Heavy Factions:**
-   - **Arborec:** Sustained ground presence; Harrow wears down enemies
-   - **Naalu Collective:** Mech-focused; Harrow synergizes with ground combat
+## X. Bonus
 
-**Low-Value Alliance Partners:**
+### A. Action Cards
 
-- **Hacan:** Trade faction; doesn't invade frequently
-- **Jol-Nar:** Fragile; avoids combat
-- **Winnu:** Weak military; less bombardment utility
+(To be filled)
 
-**What to Demand in Exchange:**
+### B. Relics
 
-- **Economic Support:** Trade goods, commodities (you have low commodity economy)
-- **Political Support:** Votes on agendas (you have zero influence)
-- **Territory Agreements:** Non-aggression pacts, shared conquest targets
-- **Military Support:** Joint wars against defensive factions
+(To be filled)
 
-**Timing Considerations:**
+### C. Agendas
 
-- Early alliance (Rounds 1-2): Secures non-aggression, helps political weakness
-- Mid alliance (Rounds 3-4): Enables joint Mecatol conquest or multi-front wars
-- Late alliance (Rounds 5-6): Avoid empowering competitors; only if necessary for victory
+(To be filled)
 
-## X. End Notes
+---
 
-The L1Z1X Mindnet are Twilight Imperium's **most efficient war machine**, converting conquest into economic growth through Assimilate and leveraging overwhelming dreadnought firepower to dominate the galaxy. Your success depends on **aggressive expansion, dreadnought mass production, and leveraging bombardment to minimize losses**.
+## XI. End Notes
 
-**Key Principles for Success:**
+L1Z1X Mindnet is one of the most fun and flexible factions in Twilight Imperium. Want to bomb the shit out of your friends? L1Z1X has you covered. Build massive dreadnought fleets, unleash devastating orbital bombardment, and invade planets with overwhelming force. Your opponents build structures? You steal them. They fortify their planets? You ignore Planetary Shield and bomb them anyway. Need to make a surprise play across the galaxy? Teleport your entire fleet with The Helmsman.
 
-1. **Build 4 Dreadnoughts ASAP:** Commander unlock (ignoring planetary shields) is critical. Reach this by Round 2-3.
+L1Z1X is an excellent faction for learning Twilight Imperium. You have straightforward mechanics that teach core concepts: production, combat, territory control, and military objectives. Your faction excels at multiple strategies—whether you go for the classic dreadnought swarm or the experimental War Sun path. You're strong throughout the game, from early territorial expansion to late game win-slaying.
 
-2. **Prioritize Super Dreadnought II:** Movement 2, combat 4, immunity to Direct Hit transforms your fleet. Research this by Round 3-4 minimum.
-
-3. **Target Space Docks with Assimilate:** Sol, Jol-Nar, Arborec build early space docks. Conquer them to steal their production infrastructure.
-
-4. **Manage Reinforcements:** Keep space docks/PDS in reinforcements to assimilate. Don't deploy all structures early.
-
-5. **Leverage Harrow:** Bombardment after EACH ground combat round wears down defenders. Don't rush invasions; let bombardment soften planets over multiple rounds.
-
-6. **Conquer Influence Planets Early:** You start with zero influence. Prioritize high-influence planets (3-5 influence) to fix political weakness.
-
-7. **Use Inheritance Systems Strategically:** Ignore prerequisites to research War Suns, Fleet Logistics, or Fealty Uplink without expensive tech paths.
-
-8. **Time Hero Perfectly:** Teleport all dreadnoughts to conquer critical objectives, Mecatol, or deny opponents scoring. Round 5-6 optimal timing.
-
-9. **Spam Dreadnoughts:** Your faction scales with dreadnought count. Field 8-12 dreadnoughts late-game for unstoppable fleets.
-
-10. **Avoid Political Fights:** You have zero influence and 2 commodities. Focus on military dominance, not diplomacy or trade.
-
-L1Z1X rewards **ruthless aggression and efficient conquest**. You're not here to make friends or trade—your goal is total assimilation. Master bombardment timing, manage reinforcements for Assimilate, and unleash your dreadnought armada to crush all opposition. When played optimally, L1Z1X is unstoppable once the dreadnought ball reaches critical mass.
-
-**The Mindnet expands. Resistance is obsolete.**
+Most importantly, L1Z1X delivers on the power fantasy. You're not subtle. You're not diplomatic. You're the galaxy's most feared military force, and everyone knows it. When you show up in someone's home system with a fleet of Super Dreadnoughts, they know exactly what's about to happen. Play L1Z1X, build the biggest fleet in the galaxy, and show your table why nobody messes with the Mindnet.

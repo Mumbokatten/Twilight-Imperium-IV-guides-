@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Arborec Guide
 
 ![Arborec Letani Warrior](ARBOREC.webp)
@@ -368,7 +370,13 @@ You have three main strategic paths to choose from Round 2-3 (R2-R3):
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Arborec excels at planet control objectives due to widespread infantry production and natural expansion patterns. Your ability to produce units anywhere makes positioning objectives and control-based Stage II objectives trivial.
+
+**Weaknesses:** Tech diversity objectives are challenging due to limited tech paths, and spending objectives can be difficult early game before your engine is fully established. Structure objectives are also problematic since you rely on infantry PRODUCTION rather than building facilities.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -397,7 +405,7 @@ You have three main strategic paths to choose from Round 2-3 (R2-R3):
 
 Arborec excels at control-based Stage I objectives. Your natural expansion pattern makes planet control objectives trivial.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -442,7 +450,9 @@ Arborec excels at control-based Stage I objectives. Your natural expansion patte
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -491,7 +501,23 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus
+
+### A. Action Cards
+
+(To be filled)
+
+### B. Relics
+
+(To be filled)
+
+### C. Agendas
+
+(To be filled)
+
+---
+
+## XI. End Notes
 
 Arborec is a powerhouse disguised as a slow faction. Expand aggressively Round 1-2 (preferably 6+ planets), decide on your path R2-R3 (Mecatol Rex or neighbor pressure), get Imperial R3/4 to maintain scoring tempo, use your Hero R4 to build a massive army across multiple systems, and adapt R5 to solve whatever situation comes at you with your overwhelming production.
 

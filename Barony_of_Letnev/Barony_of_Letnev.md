@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Barony of Letnev Guide
 
 ![Barony of Letnev](BaronyArt.webp)
@@ -301,7 +303,13 @@ With your move 3 fleet (Gravleash + Gravity Drive), Styx is an easy point to acc
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Letnev excels at fleet composition objectives with massive capital ship armadas enabled by Armada ability. Combat objectives are trivial with Munitions Reserves rerolls, and movement objectives are easy with strong fleet mobility.
+
+**Weaknesses:** Influence spending objectives are nearly impossible with minimal home influence. Trade good spending objectives are challenging despite Munitions Reserves generating income, as you need those TGs for combat rerolls.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                              | Status |
 |----------------------------------------------------------------|--------|
@@ -328,7 +336,7 @@ With your move 3 fleet (Gravleash + Gravity Drive), Styx is an easy point to acc
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                | Status |
 |----------------------------------------------------------------|--------|
@@ -373,7 +381,9 @@ With your move 3 fleet (Gravleash + Gravity Drive), Styx is an easy point to acc
 | Stake Your Claim (Control planet in system with another's)     | 🟡     |
 | Strengthen Bonds (Have another player's PN)                    | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -424,7 +434,23 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus
+
+### A. Action Cards
+
+(To be filled)
+
+### B. Relics
+
+(To be filled)
+
+### C. Agendas
+
+(To be filled)
+
+---
+
+## XI. End Notes
 
 Barony of Letnev is the strongest fighting faction in TI4 with unmatched fleet dominance. Your job is to:
 

@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Argent Flight Guide
 
 ![Argent Flight Strike Wing](ArgentFlightArt.webp)
@@ -330,7 +332,13 @@ Argent Flight is an excellent "get in, get out" custodian faction. You can easil
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Argent Flight excels at combat-oriented objectives and can easily score fleet composition goals with cheap destroyer spam. Structure objectives are achievable when going the Aerie Hololattice path, and strong voting power helps with political objectives.
+
+**Weaknesses:** Planet control objectives can be challenging since you prioritize mobile fleets over territorial expansion. Late game capacity limitations from destroyer-focused fleets make large-scale invasions difficult without transitioning to carriers.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                              | Status |
 |----------------------------------------------------------------|--------|
@@ -357,7 +365,7 @@ Argent Flight is an excellent "get in, get out" custodian faction. You can easil
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                | Status |
 |----------------------------------------------------------------|--------|
@@ -402,7 +410,9 @@ Argent Flight is an excellent "get in, get out" custodian faction. You can easil
 | Stake Your Claim (Control planet in system with another's)     | 🟡     |
 | Strengthen Bonds (Have another player's PN)                    | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -454,7 +464,23 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus
+
+### A. Action Cards
+
+(To be filled)
+
+### B. Relics
+
+(To be filled)
+
+### C. Agendas
+
+(To be filled)
+
+---
+
+## XI. End Notes
 
 Argent Flight is a powerhouse combat faction with flexible builds. Your job is to:
 

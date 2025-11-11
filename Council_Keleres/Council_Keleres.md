@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Council Keleres Guide
 
 ![Council Keleres](KeleresArt.jpg)
@@ -308,7 +310,13 @@ Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade 
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Keleres excels at agenda and political objectives with flexible voting power and Council Patronage economy. Tech objectives are achievable with strong tech paths, and Mecatol Rex scoring is natural with Custodia Vigilia production ability.
+
+**Weaknesses:** Structure objectives are very difficult without natural production bonuses. Tech diversity objectives can be challenging depending on starting tech availability, and planet control objectives require more work than combat-focused factions.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                              | Status |
 |----------------------------------------------------------------|--------|
@@ -335,7 +343,7 @@ Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade 
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                | Status |
 |----------------------------------------------------------------|--------|
@@ -380,7 +388,9 @@ Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade 
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                    | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -428,7 +438,23 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus
+
+### A. Action Cards
+
+(To be filled)
+
+### B. Relics
+
+(To be filled)
+
+### C. Agendas
+
+(To be filled)
+
+---
+
+## XI. End Notes
 
 Council Keleres is a top-tier faction that excels at winning from ahead. Solve your Round 1 (R1) expansion problem with Construction or Warfare secondary, get Executive Order R2 and Agency Supply Network R3 to unlock your insane production scaling, take Mecatol Rex R3 or later once you have your tech and armada setup, and use your production advantage to outproduce everyone and maintain multiple fronts simultaneously.
 

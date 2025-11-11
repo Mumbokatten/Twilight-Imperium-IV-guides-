@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Deepwrought Scholarate Guide
 
 *Art credit: Fantasy Flight Games (Thunder's Edge)*
@@ -334,7 +336,13 @@ Your primary game plan revolves around spreading infantry across neighbor planet
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Deepwrought dominates all spending objectives with Aello commander's economic engine generating consistent trade goods from research. Tech objectives are trivial with research-focused abilities, and unit upgrade objectives are easy with flexible tech paths.
+
+**Weaknesses:** Combat objectives are harder without natural military bonuses, requiring investment in fleet composition. Planet control objectives need more effort than expansion-focused factions, though strong economy compensates.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -363,7 +371,7 @@ Your primary game plan revolves around spreading infantry across neighbor planet
 
 Deepwrought is extremely rich and flexible. You can make deals and borrow planets through coexistence without angering people.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -408,7 +416,9 @@ Deepwrought is extremely rich and flexible. You can make deals and borrow planet
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -435,6 +445,8 @@ Deepwrought is extremely rich and flexible. You can make deals and borrow planet
 
 Scoring Stage II objectives is very possible for Deepwrought. Your economic engine makes all spend objectives easy, and your tech flexibility means you should be planning and preparing for Stage II objectives throughout the game.
 
+---
+
 ## IX. Alliance Priority
 
 Alliance preference based on commander synergies with Deepwrought's entire kit:
@@ -451,7 +463,23 @@ Alliance preference based on commander synergies with Deepwrought's entire kit:
 7. **Winnu (Rickar Rickani)** - "Apply +2 to combat rolls in Mecatol Rex, your home system, and legendary planet systems" - Strong combat boost for key battles and home defense.
 8. **Empyrean (Xuange)** - "After another player moves ships into a system with your command tokens: Return that token to your reinforcements" - Command token efficiency for sneaky invasion plays from coexisting positions.
 
-## X. End Notes
+## X. Bonus
+
+### A. Action Cards
+
+(To be filled)
+
+### B. Relics
+
+(To be filled)
+
+### C. Agendas
+
+(To be filled)
+
+---
+
+## XI. End Notes
 
 Deepwrought Scholarate is one of the most intellectually satisfying factions in Twilight Imperium. Your coexistence mechanic creates a completely unique relationship with the board where you're simultaneously present on enemy planets and non-threatening to their control. This diplomatic flexibility, combined with your technological superiority from 2 starting techs, makes you a faction that wins through intelligence and adaptation.
 
