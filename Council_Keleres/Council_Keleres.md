@@ -59,15 +59,7 @@ Xxcha and Argent are a bit of a tossup. Multi-planet home systems are rough - if
 
 **Notes:** Rough starting fleet. While you have 2 carriers for capacity and a cruiser for combat, you only have 2 infantry, which greatly reduces your ability to expand early. You'll struggle to take multiple planets R1 compared to factions with more ground forces. Plan your expansion carefully.
 
-### C. Starting Technologies
-
-**Choose 2 non-faction technologies owned by other players**
-
-**Optimal:** **Sarween Tools (Y)** + **Gravity Drive (B)**
-
-**Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Sarween Tools gets you started on the yellow tech path, and Gravity Drive gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **The Tribunii:** During setup, choose an unplayed faction from among the Mentak, the Xxcha, and the Argent Flight; take that faction's home system, command tokens, and control markers. Additionally, take the Keleres hero that corresponds to that faction.
 
@@ -80,6 +72,28 @@ Incredible economic consistency. Every strategy phase, you refresh your 2 commod
 **Law's Order:** You may spend 1 Trade Good or Commodity to treat all laws as blank until the end of the turn.
 
 Ultimate law flexibility. Spend 1 TG/commodity to ignore ALL laws for the entire turn. Use this strategically when laws would hurt you.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Choose 2 non-faction technologies owned by other players**
+
+**Optimal:** **Sarween Tools** + **Gravity Drive**
+
+**Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Sarween Tools gets you started on the yellow tech path, and Gravity Drive gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
+
+**Faction Technologies:**
+
+**Executive Order (Y):**
+*ACTION: Draw and reveal 1 agenda card from the top of the agenda deck. Players may cast votes for or against this agenda as if it were the outcome of an agenda. You are the speaker for this agenda.*
+
+Your signature political control technology. Draw and vote on agendas whenever you want - devastating for controlling the game. Force opponents to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic weapon, exhausting opponents' influence planets while keeping yours fresh. High priority tech to get by Round 2.
+
+**Agency Supply Network (YY):**
+*Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system.*
+
+Game-changing production technology. Produce in two different systems in a single action. With Sarween Tools, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. With 3 space docks + Mecatol Rex (PRODUCTION 3 from Custodia Vigilia), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation). This lets you flood the board with units and reinforce multiple fronts simultaneously. Essential tech to get by Round 3.
 
 ### E. Leaders
 
@@ -215,11 +229,11 @@ You choose 2 non-faction techs owned by other players - this means you're limite
 
 **Recommended Starting Techs:**
 
-Get **Sarween Tools (Y)** and a **blue tech** (preferably **Gravity Drive (BB)**, but **Dark Energy Tap (B)**, **Antimass Deflectors (B)**, or **Sling Relay (BB)** also work). Sarween gets you started on the yellow tech path toward Executive Order and Agency Supply Network. **Sarween has great synergy with Agency Supply Network** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. Gravity Drive gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **Scanlink (Y)** is a fine replacement. **Predictive Intelligence (YY)** is also probably worth it as a yellow tech option.
+Get **Sarween Tools** and a **blue tech** (preferably **Gravity Drive (B)**, but **Dark Energy Tap**, **Antimass Deflectors**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward Executive Order and Agency Supply Network. **Sarween has great synergy with Agency Supply Network** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. Gravity Drive gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **Scanlink Drone Network** is a fine replacement. **Predictive Intelligence (Y)** is also probably worth it as a yellow tech option.
 
-**Green alternatives:** **Neural Motivator (G)** and **Bio-Stims (GG)** work with the Y<>G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
+**Green alternatives:** **Neural Motivator** and **Bio-Stims (G)** work with the Y<>G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
 
-**Last resort if there's truly no way to get to your blue/yellow path:** **AI Development Algorithm (R)**, **Self Assembly Routines (RR)**, or **Magen Defense Grid (RR)** can work, though these delay your core tech goals significantly.
+**Last resort if there's truly no way to get to your blue/yellow path:** **AI Development Algorithm**, **Self-Assembly Routines (R)**, or **Magen Defense Grid (R)** can work, though these delay your core tech goals significantly.
 
 ### B. Tech Paths
 
@@ -228,7 +242,7 @@ Get **Sarween Tools (Y)** and a **blue tech** (preferably **Gravity Drive (BB)**
 Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 **Round 1:**
-- **Gravity Drive (BB)** if needed for expansion, otherwise skip tech R1
+- **Gravity Drive (B)** if needed for expansion, otherwise skip tech R1
 
 **Round 2:**
 - **Executive Order (Y)** - You can now draw and vote on agendas whenever you want. This can be devastating - you force people to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic advantage, exhausting opponents' influence planets while keeping yours fresh.
@@ -438,19 +452,15 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 

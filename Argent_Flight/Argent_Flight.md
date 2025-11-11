@@ -49,16 +49,11 @@ Opponents will respect your firepower early. That moment when your 2 destroyers 
 
 **Notes:** One of the best starting fleets in the game. Your 2 destroyers each have capacity 1, and you have 5 infantry—this lets you send each destroyer 2 systems away from your home system to claim planets independently. You can take 2 systems that are 2-move away on R1, giving you incredible expansion reach. This makes it nearly impossible to find an unplayable slice for Argent—you can reach almost any planet configuration.
 
-### C. Starting Technologies
+**Strike Wing Alpha I (Destroyer):** Cost: 1 | Combat: 8 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 9 (x2)
 
-**Choose TWO of the following:**
-- **Neural Motivator (Green)** - Provides green prerequisite
-- **Sarween Tools (Yellow)** - Reduces production costs by 1 resource
-- **Plasma Scoring (Red)** - Provides red prerequisite and combat boost
+Your bread and butter. Cheap destroyers with AFB and capacity for transporting infantry. Mass produce these early game.
 
-**Recommended:** **Sarween Tools + Plasma Scoring** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to Aerie Hololattice (Y) if going structure path. Plasma Scoring leads to Strike Wing Alpha II (RR). Neural Motivator is bait—green doesn't lead to any techs Argent actually wants.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Zeal (Faction Ability):** You always vote first during the agenda phase. When you cast at least 1 vote, cast 1 additional vote for each player in the game, including you.
 
@@ -68,9 +63,36 @@ Strong voting power with a downside. In a 6-player game, casting 1 vote becomes 
 
 This makes your ANTI-FIGHTER BARRAGE terrifying. After destroying all fighters, excess hits go straight to capital ships with Sustain Damage. Fighter screens become a liability against you.
 
-**Strike Wing Alpha I (Destroyer):** Cost: 1 | Combat: 8 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 9 (x2)
+### D. Starting and Faction Technologies
 
-Your bread and butter. Cheap destroyers with AFB and capacity for transporting infantry. Mass produce these early game.
+**Starting Technologies:**
+
+**Choose TWO of the following:**
+- **Neural Motivator** - Provides green prerequisite
+- **Sarween Tools** - Reduces production costs by 1 resource
+- **Plasma Scoring** - Provides red prerequisite and combat boost
+
+**Recommended:** **Sarween Tools + Plasma Scoring** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to Aerie Hololattice (Y) if going structure path. Plasma Scoring leads to Strike Wing Alpha II (RR). Neural Motivator is bait—green doesn't lead to any techs Argent actually wants.
+
+**Faction Technologies:**
+
+You typically acquire both faction technologies during the game.
+
+**Strike Wing Alpha II (RR):**
+*Cost: 1 | Combat: 7 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 6 (x3)*
+
+When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry in the space area of the active system.
+
+- Upgraded destroyer with better combat (7 instead of 8) and improved AFB (6 instead of 9, but x3 instead of x2)
+- Strong upgrade that makes your destroyers even more lethal against fighters and now kills infantry in space
+- High priority tech for combat-focused builds
+
+**Aerie Hololattice (Y):**
+*Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION: 1 ability as if it were a unit.*
+
+- Blocks enemy movement through systems with your structures (space docks, PDS), creating defensive zones
+- Gives PRODUCTION 1 to planets with structures, synergizes with Sarween Tools for cost reduction
+- Expands your production capacity across multiple planets
 
 ### E. Leaders
 
@@ -464,19 +486,15 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 

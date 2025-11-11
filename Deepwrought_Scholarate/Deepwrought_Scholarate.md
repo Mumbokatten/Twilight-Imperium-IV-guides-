@@ -43,19 +43,7 @@ Your home system is 4/4, but you can only spend resources from one of the two pl
 
 You start with a dreadnought, which gives you strong early combat capability and Sustain Damage. However, you only have 3 infantry, which limits your ability to establish widespread coexistence relationships early. You'll need to produce more infantry quickly to maximize your ocean card economy.
 
-### C. Starting Tech
-
-**During Setup, research Technology twice**
-
-This is the strongest starting tech advantage in the game. You can research ANY two technologies, but must respect prerequisites (you need blue to get second blue, etc.). Your main paths:
-
-**Blue Path:**
-- **Antimass Deflectors + Dark Energy Tap (or Gravity Drive):** Movement flexibility and economy, sets up Fleet Logistics or Lightwave Deflector
-
-**Green Path:**
-- **Neural Motivator + Bio-Stims:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap Bio-Stims for Hyper Metabolism later for token economy
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Research Team:** When ground forces are committed, if your units on that planet are not already coexisting, you may choose for your units to coexist.
 
@@ -66,6 +54,24 @@ This is your core mechanic and it's insanely valuable. Instead of invading plane
 **Oceanbound:** When your units begin coexisting on a planet, gain an ocean card and ready it. Any time you have more ocean cards than there are planets that contain your coexisting units, discard ocean cards until you do not.
 
 Ocean cards provide various benefits (resources, influence, trade goods, movement, etc.) and **come into play readied**. This is crucial: whenever you have exhausted ocean cards, you should be looking for coexistence opportunities because the new ocean card comes in ready, giving you immediate value. Ocean cards are the engine that funds your strategy.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**During Setup, research Technology twice**
+
+This is the strongest starting tech advantage in the game. You can research ANY two technologies, but must respect prerequisites (you need blue to get second blue, etc.). Your main paths:
+
+**Blue Path:**
+- **Antimass Deflectors + Dark Energy Tap (or Gravity Drive):** Movement flexibility and economy, sets up Fleet Logistics (BB) or Light/Wave Deflector (BBB)
+
+**Green Path:**
+- **Neural Motivator + Bio-Stims:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap Bio-Stims for Hyper Metabolism later for token economy
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -121,7 +127,7 @@ Your flagship can move through contested systems as long as you have units there
 
 Look, people are gonna see this as poison after one game against Deepwrought. They're not stupid. So you gotta sweeten the deal - offer back promissory notes, maybe split the cost (PN back plus you pay 1 TG for techs you actually want). If you can get 3 players to bite, you're getting 3 free technologies. Having access to every tech in the game? Pretty, pretty, pretty good.
 
-### K. Slice Considerations
+### K. Slice and Draft Considerations
 
 You really want your faction breakthrough, so position can have some importance for accessing those tech skips. But damn if this faction isn't easy to slice with - it's probably the most flexible faction in the game. Any high value and safe slice will do you good.
 
@@ -463,19 +469,15 @@ Alliance preference based on commander synergies with Deepwrought's entire kit:
 7. **Winnu (Rickar Rickani)** - "Apply +2 to combat rolls in Mecatol Rex, your home system, and legendary planet systems" - Strong combat boost for key battles and home defense.
 8. **Empyrean (Xuange)** - "After another player moves ships into a system with your command tokens: Return that token to your reinforcements" - Command token efficiency for sneaky invasion plays from coexisting positions.
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 

@@ -46,14 +46,7 @@ Opponents will fear engaging your fleets. That moment when they count your ships
 
 **Notes:** Decent starting fleet with a dreadnought for early combat power. The variety of ships (dread, carrier, destroyer) gives you flexibility for R1 expansion. Only 3 infantry limits your ground force options early.
 
-### C. Starting Technologies
-
-- **Antimass Deflectors (Blue)** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
-- **Plasma Scoring (Red)** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
-
-**Notes:** Blue and red starting techs open multiple tech paths. Antimass helps with mobility through asteroids, Plasma Scoring boosts your BOMBARDMENT (important for dreadnought-heavy builds).
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Munitions Reserves:** At the start of each round of space combat, you may spend 2 trade goods; you may reroll any number of your dice during that combat round.
 
@@ -62,6 +55,27 @@ Incredible combat ability. Spending 2 TG to reroll ALL your dice in a combat rou
 **Armada:** The maximum number of non-fighter ships you can have in each system is equal to 2 more than the number of tokens in your fleet pool.
 
 Your signature ability. If you have 3 fleet pool tokens, you can have 5 non-fighter ships per system instead of 3. This lets you build absolutely massive capital ship fleets that no one else can match—dreadnought armadas that dominate every system. Fighters still count against capacity, but capital ships get +2 headroom.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+- **Antimass Deflectors** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
+- **Plasma Scoring** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+
+**Notes:** Blue and red starting techs open multiple tech paths. Antimass helps with mobility through asteroids, Plasma Scoring boosts your BOMBARDMENT (important for dreadnought-heavy builds).
+
+**Faction Technologies:**
+
+**Non-Euclidean Shielding (RR):**
+*When 1 of your units uses Sustain Damage, cancel 2 hits instead of 1.*
+
+Makes all your units with Sustain Damage incredibly durable. Combined with Duranium Armor (which repairs 1 unit per combat round), your capital ships become nearly unkillable.
+
+**L4 Disruptors (R):**
+*During space combat, after you roll dice, you may reroll any number of your dice; your opponent must choose and destroy 1 of their ships for each result of 1 or 2 you produce.*
+
+Rarely researched. Forces opponent to destroy ships for your bad rolls. Situational and not worth the tech investment for most Letnev builds.
 
 ### E. Leaders
 
@@ -187,7 +201,7 @@ However, being the strongest fighting faction makes you a threat to everyone. Th
 
 ### A. Overview
 
-You start with **Antimass Deflectors (B)** and **Plasma Scoring (R)**.
+You start with **Antimass Deflectors** and **Plasma Scoring**.
 
 Your main tech path focuses on:
 1. **Gravity Drive (B)** - Essential for mobility
@@ -196,27 +210,27 @@ Your main tech path focuses on:
 
 ### B. Tech Path
 
-**Starting Tech:** Antimass Deflectors (B) + Plasma Scoring (R)
+**Starting Tech:** Antimass Deflectors + Plasma Scoring
 
 **Round 1: Gravity Drive (B)**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** ESSENTIAL. Combos with your Gravleash Maneuvers breakthrough to give your entire fleet move 3. Your destroyer becomes move 3 (2+1), and all your non-fighter ships move 3 with it. Must-have tech.
-- **Prerequisites:** 1 blue (Antimass Deflectors)
+- **Prerequisites:** 1 blue
 
 **Round 2: Destroyer II (RR)**
 - Cost: 1 | Combat: 8 | Move: 2 | ANTI-FIGHTER BARRAGE 6 (x3)
 - **Why:** Better destroyers with improved combat (8 instead of 9) and devastating ANTI-FIGHTER BARRAGE. Critical for your fleet composition.
-- **Prerequisites:** 2 red (Plasma Scoring + Gravity Drive counts as red with B<>R synergy)
+- **Prerequisites:** 2 red
 
 **Round 3: Non-Euclidean Shielding (RR)**
 - When one of your units uses Sustain Damage, cancel 2 hits instead of 1.
 - **Why:** Your signature faction tech. Dreadnoughts, carriers, flagship—all take 2 hits to damage instead of 1. Makes your fleets incredibly durable.
-- **Prerequisites:** 2 red (Plasma Scoring + Destroyer II or Gravity Drive)
+- **Prerequisites:** 2 red
 
 **Round 4: Duranium Armor (RR)**
 - During each combat round, after you assign hits to your units, repair 1 of your damaged units that did not use Sustain Damage during this combat round.
 - **Why:** Repairs a ship each combat round. Stacks with Non-Euclidean Shielding for nearly unkillable fleets.
-- **Prerequisites:** 2 red (any two red techs you already have)
+- **Prerequisites:** 2 red
 
 **Round 5+:** Flex techs based on objectives and game state
 
@@ -225,7 +239,7 @@ Your main tech path focuses on:
 **Carrier II (BB) - For Unit Upgrade Objectives:**
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** If you need a 2nd unit upgrade for "Develop Weaponry" objective (2 unit upgrade technologies), Carrier II works fine. The extra capacity is useful.
-- **Prerequisites:** 2 blue (Antimass + Gravity Drive)
+- **Prerequisites:** 2 blue
 
 **Note on Dreadnought II:** Not recommended. The extra movement on dreadnoughts (move 2 instead of move 1) is not helpful with Gravleash Maneuvers breakthrough—your breakthrough already makes dreadnoughts move at the same speed as your destroyer (move 2, or move 3 with Gravity Drive). Skip Dreadnought II.
 
@@ -434,19 +448,15 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 

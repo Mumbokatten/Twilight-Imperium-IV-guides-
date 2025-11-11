@@ -44,18 +44,7 @@ Opponents will underestimate you until suddenly they realize you have 30+ infant
 
 **Notes:** You can use your Agent (Letani Ospha) to upgrade your cruiser into either a 2nd carrier (for more capacity) or a dreadnought (for combat power), depending on your needs. Combined with your breakthrough (Psychospore) for an additional movement, this lets you easily reach and capture 3 systems on your first round with proper ship distribution.
 
-### C. Starting Tech
-
-**Magen Defense Grid (Red):**
-*At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces.*
-
-- Starting red technology
-- Defensive ground combat advantage
-- Triggers when defending planets with structures (space docks, PDS)
-- Opens red technology path
-- Synergizes with Psychospore breakthrough (R<>G) to count as green prerequisite
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Mitosis (Faction Ability):** Your space docks cannot produce infantry. At the start of the status phase, place 1 infantry from your reinforcements on any planet you control.
 
@@ -64,6 +53,38 @@ Opponents will underestimate you until suddenly they realize you have 30+ infant
 **Letani Warrior I (Infantry):** Cost: 1 (x2) | Combat: 8 | PRODUCTION 1
 
 This is your secret weapon. Every infantry has PRODUCTION 1, making them mobile production facilities. Let that sink in.
+
+### D. Starting and Faction Technologies
+
+**Starting Technology:**
+
+**Magen Defense Grid Ω (RR):**
+*When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures. At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent's ground forces.*
+
+- Allows for 2 bonus infantry with your 2 starting structures (space dock and PDS) which is superb
+- Free infantry placement when systems with your structures are activated
+- Defensive hit in ground combat on planets with structures
+- Synergizes with Psychospore breakthrough (R<>G) to count as green prerequisite
+
+**Faction Technologies:**
+
+**Letani Warrior II (GG):**
+*Cost: 1 (x2) | Combat: 7 | PRODUCTION 2*
+
+After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
+
+- Upgraded infantry with better combat (7 instead of 8) and PRODUCTION 2 (double the base)
+- PRODUCTION 2 can feel like too much (is there such a thing?), but gives flexibility to produce where your main armies aren't
+- Resurrection ability: 50% chance to return destroyed infantry next turn
+- Requires 2 green prerequisites (green skip or Bio-Stims (G) with Psychospore R<>G synergy)
+- Non-blue tech path prioritizes this upgrade
+
+**Bioplasmosis (GG):**
+*At the end of the status phase, you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.*
+
+- Skip this tech - you're already spread out with your mobile production
+- Your infantry have PRODUCTION 1, making them natural production facilities wherever they are
+- Rarely need to reposition armies since you produce everywhere
 
 ### E. Leaders
 
@@ -134,7 +155,7 @@ When drafting your slice and choosing speaker order as Arborec:
 **Slice Priorities:**
 1. **Fracture access** - Positioning that lets you reach The Fracture easily. Fracture provides valuable planets and relics for expansion and objectives.
 2. **Scoring opportunities** - Access to Mecatol Rex, legendary planets, or objective-friendly systems. You need points to win.
-3. **Tech skip (blue preferred)** - Blue skip enables the blue tech path (Gravity Drive, Carrier II, Fleet Logistics), which is your strongest option. Green/red skips can work for non-blue paths but are less impactful.
+3. **Tech skip (blue preferred)** - Blue skip enables the blue tech path (Gravity Drive (B), Carrier II (BB), Fleet Logistics (BB)), which is your strongest option. Green/red skips can work for non-blue paths but are less impactful.
 
 **Slice Features to Avoid:**
 - **Asteroid fields on the way to Mecatol Rex** - Slows movement and disrupts expansion paths. Very annoying.
@@ -176,11 +197,11 @@ You don't score easy Round 1-2 (R1-R2) points like other factions. Accept this. 
 
 ### A. Overview
 
-**Starting Technology:** Magen Defense Grid (Red) - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces.
+**Starting Technology:** Magen Defense Grid - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces.
 
-You start with **Magen Defense Grid (red)**. Your R1 priority is securing **Psychospore breakthrough expedition (R<>G)**.
+You start with **Magen Defense Grid**. Your R1 priority is securing **Psychospore breakthrough expedition (R<>G)**.
 
-**Critical Synergy:** Psychospore's R<>G synergy allows your red and green techs to count as each other for prerequisites. The breakthrough itself is NOT a tech and does NOT count as a prerequisite. It simply enables your **Magen Defense Grid (red)** to count as **green** when researching green techs, allowing you to get **Letani Warrior II (GG) on R2** with just 1 green skip!
+**Critical Synergy:** Psychospore's R<>G synergy allows your red and green techs to count as each other for prerequisites. The breakthrough itself is NOT a tech and does NOT count as a prerequisite. It simply enables your **Magen Defense Grid** to count as **green** when researching green techs, allowing you to get **Letani Warrior II (GG) on R2** with just 1 green skip!
 
 After securing Psychospore breakthrough R1, your tech path splits based on objectives and slice.
 
@@ -191,16 +212,16 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 **Round 1:** Sarween Tools (Y) if you teched R1 and have influence slice (value pick), otherwise skip tech R1 and secure Psychospore breakthrough only
 - **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
 
-**Round 2:** Dark Energy Tap (RR) or Antimass Deflectors (RR) - Prefer Dark Energy Tap for resources. **With blue skip:** Can skip this and go Sarween Tools (Y) if greedy, or straight to Gravity Drive (BB)
+**Round 2:** Dark Energy Tap or Antimass Deflectors - Prefer Dark Energy Tap for resources. **With blue skip:** Can skip this and go Sarween Tools if greedy, or straight to Gravity Drive (B)
 - **Dark Energy Tap:** After you perform a tactical action in a system with a frontier token, if you have ships there, explore that token. Your ships can retreat into adjacent systems that don't contain other players' units
 - **Antimass Deflectors:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units
 
-**Round 3:** Gravity Drive (BB) if you skipped DET/Antimass, otherwise Carrier II (BBBB) - Magen (counts as blue) + Gravity Drive (BB) + blue skip
-- **Gravity Drive:** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Carrier II:** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
+**Round 3:** Gravity Drive (B) if you skipped DET/Antimass, otherwise Carrier II (BB) - Magen (counts as blue) + Gravity Drive (B) + blue skip
+- **Gravity Drive (B):** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
+- **Carrier II (BB):** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
 
-**Round 4:** Carrier II (BBBB) if skipped R3, otherwise Fleet Logistics (BB)
-- **Fleet Logistics:** During each of your turns in the action phase, you may perform 2 actions instead of 1
+**Round 4:** Carrier II (BB) if skipped R3, otherwise Fleet Logistics (BB)
+- **Fleet Logistics (BB):** During each of your turns in the action phase, you may perform 2 actions instead of 1
 
 **Round 5:** Fleet Logistics (BB) if skipped R4, otherwise flex for objectives
 
@@ -208,12 +229,12 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 - Yellow skip (for Sarween R1 if you tech early)
 - Red skip (helpful but not required)
 - Green skip (bonus)
-- Blue skip (nice): Allows you to skip Dark Energy Tap/Antimass and go straight to Gravity Drive or take greedy Sarween path
+- Blue skip (nice): Allows you to skip Dark Energy Tap/Antimass Deflectors and go straight to Gravity Drive (B) or take greedy Sarween Tools path
 
 **Pros:**
 - Dark Energy Tap synergizes with spreading out across the map
-- Carrier II + Gravity Drive = best mobility in game
-- Fleet Logistics enables winning maneuvers late game
+- Carrier II (BB) + Gravity Drive (B) = best mobility in game
+- Fleet Logistics (BB) enables winning maneuvers late game
 - Better map control and expansion
 - More solid and reliable overall
 
@@ -234,21 +255,21 @@ Alternative path focused on economy and ground force power. No blue techs requir
 **Round 2:** Sarween Tools (Y) - Economy boost, stacks with production spam
 - **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
 
-**Round 3:** Biostims (G) - Economy tool that refreshes planets, doubles your resource/influence output and production capability
-- **Bio-Stims:** Exhaust this card at the end of your turn to ready 1 planet with a technology specialty or 1 of your other technologies
+**Round 3:** Bio-Stims (G) - Economy tool that refreshes planets, doubles your resource/influence output and production capability
+- **Bio-Stims (G):** Exhaust this card at the end of your turn to ready 1 planet with a technology specialty or 1 of your other technologies
 
 **Round 4:** Destroyer II (RR) - Fleet power
-- **Destroyer II:** Cost 1, Combat 8, Move 2, ANTI-FIGHTER BARRAGE 6 (x3)
+- **Destroyer II (RR):** Cost 1, Combat 8, Move 2, ANTI-FIGHTER BARRAGE 6 (x3)
 
-**Round 5:** Letani Warrior II (GG) if no green skip, OR X-89 Bacterial Weapon (GGG with green skip only), otherwise flex for objectives
-- **Letani Warrior II:** Cost 1 (x2), Combat 7, PRODUCTION 2. After destroyed, roll 1 die. If 6+, place on this card. At start of your next turn, place each unit on this card on a planet you control in your home system
-- **X-89 Bacterial Weapon:** After you use BOMBARDMENT against a planet and destroy at least 1 infantry, destroy ALL opponent infantry on that planet
+**Round 5:** Letani Warrior II (GG) if no green skip, OR X-89 Bacterial Weapon (GGG) with green skip only, otherwise flex for objectives
+- **Letani Warrior II (GG):** Cost 1 (x2), Combat 7, PRODUCTION 2. After destroyed, roll 1 die. If 6+, place on this card. At start of your next turn, place each unit on this card on a planet you control in your home system
+- **X-89 Bacterial Weapon (GGG):** After you use BOMBARDMENT against a planet and destroy at least 1 infantry, destroy ALL opponent infantry on that planet
 
 **Note:** You may swap Letani Warrior II for a colored tech if objectives require specific tech colors.
 
 **Pros:**
 - Sarween and Biostims provide strong economy/resource generation
-- Destroyer II gives fleet combat power
+- Destroyer II (RR) gives fleet combat power
 - Can get X-89 R5 with green skip for lethal ground combat
 - Can get Letani Warrior II R5 as fallback
 
@@ -264,9 +285,9 @@ Alternative path focused on economy and ground force power. No blue techs requir
 
 ### D. Tech Priorities by Slice & Neighbors
 
-**Resource-Heavy Slice:** Blue path (standard). Dark Energy Tap requires a few empty systems to be valuable. Slight favor toward Dreadnought II later since you can afford cost 4 units.
+**Resource-Heavy Slice:** Blue path (standard). Dark Energy Tap requires a few empty systems to be valuable. Slight favor toward Dreadnought II (BBY) later since you can afford cost 4 units.
 
-**Influence-Heavy Slice + Weak Neighbor:** Non-Blue path (invasion). Sarween + Biostims economy, Destroyer II affordable with fleet pool, X-89 for conquering neighbor's planets.
+**Influence-Heavy Slice + Weak Neighbor:** Non-Blue path (invasion). Sarween Tools + Bio-Stims (G) economy, Destroyer II (RR) affordable with fleet pool, X-89 Bacterial Weapon (GGG) for conquering neighbor's planets.
 
 ---
 
@@ -327,7 +348,7 @@ Your ideal fleet composition in each system:
 
 This composition gives you staying power in space combat (dread/flagship for hits, fighters for screening), protection against bombardment (mech), and your signature infantry swarm. Without the dreadnought/flagship, your fleets lack the punch to get hits in combat and the HP to survive enemy fire.
 
-**Note:** If you have a heavy influence slice, Destroyer II can replace dreadnoughts in your fleet composition. Heavy influence gives you more fleet pool to support destroyers, while having less resources makes dreads (cost 4) harder to afford. Destroyer II becomes the better choice in this economic profile.
+**Note:** If you have a heavy influence slice, Destroyer II (RR) can replace dreadnoughts in your fleet composition. Heavy influence gives you more fleet pool to support destroyers, while having less resources makes dreads (cost 4) harder to afford. Destroyer II (RR) becomes the better choice in this economic profile.
 
 ### B. Game Plan
 
@@ -364,7 +385,7 @@ You have three main strategic paths to choose from Round 2-3 (R2-R3):
 
 **Styx Consideration:**
 
-**Styx is out of range for non-blue tech path** but becomes **viable with blue tech path** (Gravity Drive + Fleet Logistics). It can serve as a late-game guaranteed point for objectives like "Become a Legend" or other anomaly/legendary planet objectives.
+**Styx is out of range for non-blue tech path** but becomes **viable with blue tech path** (Gravity Drive (B) + Fleet Logistics (BB)). It can serve as a late-game guaranteed point for objectives like "Become a Legend" or other anomaly/legendary planet objectives.
 
 ---
 
@@ -501,19 +522,15 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 

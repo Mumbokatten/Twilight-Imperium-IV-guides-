@@ -44,21 +44,7 @@ Low commodity count reflects your non-economic focus. You're not a trading facti
 
 **Notes:** Very solid starting fleet. Having 5 infantry and 2 ships with capacity (Super Dreadnought with capacity 2, Carrier with capacity 6) gives you a solid start for expansion. Space dock and PDS on your home planet are standard.
 
-### C. Starting Tech
-
-**Starting Technologies:**
-- **Neural Motivator (G):** *During the status phase, draw 2 action cards instead of 1.*
-- **Plasma Scoring (R):** *When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.*
-
-**Strategic Analysis:**
-
-**Neural Motivator** gives you action card advantage. Draw 2 action cards every status phase instead of 1, giving you more options and flexibility.
-
-**Plasma Scoring** boosts your BOMBARDMENT advantage. Your Super Dreadnoughts benefit massively from rolling extra dice. This also helps your PDS for SPACE CANNON defense.
-
-These are not the tech colors we deserve, but what we got. Your Super Dreadnought II is as far away as it is for the techless Sardakk.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Assimilate:** *When you gain control of a planet, replace each PDS and space dock that is on that planet with a matching unit from your reinforcements.*
 
@@ -76,6 +62,34 @@ Game-changing invasion ability. Unlike normal BOMBARDMENT (which only happens be
 6. Continue until invasion ends
 
 This means a Super Dreadnought with BOMBARDMENT can potentially roll multiple times during a single invasion, systematically destroying ground forces. Combined with your mech's BOMBARDMENT and Plasma Scoring (+1 die to BOMBARDMENT), you can obliterate defenders without risking your own infantry.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+- **Neural Motivator:** *During the status phase, draw 2 action cards instead of 1.*
+- **Plasma Scoring:** *When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.*
+
+**Strategic Analysis:**
+
+**Neural Motivator** gives you action card advantage. Draw 2 action cards every status phase instead of 1, giving you more options and flexibility.
+
+**Plasma Scoring** boosts your BOMBARDMENT advantage. Your Super Dreadnoughts benefit massively from rolling extra dice. This also helps your PDS for SPACE CANNON defense.
+
+These are not the tech colors we deserve, but what we got. Your Super Dreadnought II is as far away as it is for the techless Sardakk.
+
+**Faction Technologies:**
+
+**Super Dreadnought II (BBY):**
+*L1Z1X Dreadnought - Cost: 4 | Combat: 4 | Move: 2 | Capacity: 2 | BOMBARDMENT 4 | Sustain Damage*
+
+This unit cannot be destroyed by "Direct Hit" action cards.
+
+Upgraded version with better combat (4 instead of 5), Move 2 (instead of 1), BOMBARDMENT 4 (instead of 5), and immunity to Direct Hit. The mobility and Direct Hit immunity are game-changing.
+
+**Inheritance Systems (YY):**
+*You may exhaust this card and spend 2 resources when you research a technology; ignore all of that technology's prerequisites.*
+
+Tech skip card. Exhaust and pay 2 resources to ignore prerequisites when researching any tech. This lets you jump straight to high-tier technologies without building up prerequisite chains.
 
 ### E. Leaders
 
@@ -187,8 +201,8 @@ Secondary issues: You can't claim Mecatol Rex easily and have no voting power du
 ### A. Overview
 
 **Starting Technologies:**
-- Neural Motivator (G) - Draw 2 action cards instead of 1 during status phase
-- Plasma Scoring (R) - +1 die to BOMBARDMENT or SPACE CANNON
+- Neural Motivator - Draw 2 action cards instead of 1 during status phase
+- Plasma Scoring - +1 die to BOMBARDMENT or SPACE CANNON
 - **Note:** Impactful in New Age Path, kinda weak in Blue Path.
 
 **Core Technologies:** Gravity Drive, Super Dreadnought II
@@ -201,15 +215,15 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 **Note:** A blue skip allows faster progression but can be costly if you need to use it for every tech.
 
-**Round 1:** Dark Energy Tap (B) - Retreat flexibility, frontier exploration | OR Antimass Deflectors (B) - Move through asteroids, SPACE CANNON defense
+**Round 1:** Dark Energy Tap - Retreat flexibility, frontier exploration | OR Antimass Deflectors - Move through asteroids, SPACE CANNON defense
 
-**Round 2:** Gravity Drive (BB) - +1 move to one ship per activation
+**Round 2:** Gravity Drive (B) - +1 move to one ship per activation
 
-**Round 3:** AI Development Algorithm (R) - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II (BBY) - Move 2, immune to Direct Hit
+**Round 3:** AI Development Algorithm - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II (BBY) - Move 2, immune to Direct Hit
 
-**Round 4:** Fleet Logistics (BBB) - 2 actions per turn | OR Lightwave Deflectors (BBBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
+**Round 4:** Fleet Logistics (BB) - 2 actions per turn | OR Light/Wave Deflector (BBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
 
-**Round 5:** Fleet Logistics (BBB) | Lightwave Deflectors (BBBB) | Carrier II (BB)
+**Round 5:** Fleet Logistics (BB) | Light/Wave Deflector (BBB) | Carrier II (BB)
 
 **Note:** Destroyer II (RR) is a good 3rd unit upgrade option for anti-fighter coverage.
 
@@ -217,13 +231,13 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 This path requires securing Fealty Uplink breakthrough Round 1.
 
-**Round 1:** Hyper Metabolism (GGG) - 3 command tokens per status phase (economy)
+**Round 1:** Hyper Metabolism (GG) - 3 command tokens per status phase (economy)
 
-**Round 2:** AI Development Algorithm (R) - Skip unit upgrade prereqs, production cost reduction
+**Round 2:** AI Development Algorithm - Skip unit upgrade prereqs, production cost reduction
 
 **Round 3:** War Sun (RRRY) - Massive capital ship, BOMBARDMENT 3 (x3), removes Planetary Shield
 
-**Round 4:** X89 Bacterial Weapon (GGGG) - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
+**Round 4:** X-89 Bacterial Weapon (GGG) - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
 
 **Round 5:** Flexible as Round 4
 
@@ -449,19 +463,15 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 

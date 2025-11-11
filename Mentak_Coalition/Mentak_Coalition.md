@@ -45,19 +45,11 @@ Opponents will try to minimize Pillage by spending TGs before hitting 3, trading
 
 **Notes:** Problematic starting situation due to lack of carry capacity. You have 4 infantry but only 1 carrier with capacity 4—your 2 cruisers have no capacity. You'll need to build more carriers early for expansion.
 
-### C. Starting Technologies
-
-**Sarween Tools (Yellow)** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
-
-**Plasma Scoring (Red)** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
-
-**Notes:** Good for defense and economy early game, but not much else.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Ambush (Faction Ability):** At the start of a space combat, you may roll 1 die for each of up to 2 of your cruisers or destroyers in the system. For each result equal to or greater than that ship's combat value, produce 1 hit; your opponent must assign it to 1 of their ships.
 
-Pre-combat hit ability. Before combat dice are rolled, choose up to 2 cruisers/destroyers in the system. Roll 1 die per ship. If result ≥ that ship's combat value, deal 1 hit to opponent (they must assign to a ship). Cruiser I has Combat 7, Destroyer I has Combat 9—so you need 7+ or 9+ to hit. After upgrading to Cruiser II (Combat 6), your ambush hits on 6+. This is free damage before combat even begins.
+Pre-combat hit ability. Before combat dice are rolled, choose up to 2 cruisers/destroyers in the system. Roll 1 die per ship. If result ≥ that ship's combat value, deal 1 hit to opponent (they must assign to a ship). Cruiser I has Combat 7, Destroyer I has Combat 9—so you need 7+ or 9+ to hit. After upgrading to Cruiser II (GYR) (Combat 6), your ambush hits on 6+. This is free damage before combat even begins.
 
 **Pillage (Faction Ability):** After 1 of your neighbors gains trade goods or resolves a transaction, if they have 3 or more trade goods, you may take 1 of their trade goods or commodities.
 
@@ -69,6 +61,28 @@ Passive theft ability. After a NEIGHBOR (adjacent player) gains TGs or resolves 
 - Neighbor activates ability that grants TGs (you Pillage 1)
 
 **Key Limitation:** Only works on NEIGHBORS (players adjacent on the map). Position yourself to neighbor wealthy factions.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
+
+**Plasma Scoring** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+
+**Notes:** Good for defense and economy early game, but not much else.
+
+**Faction Technologies:**
+
+**Mirror Computing (YYY):**
+*When you spend trade goods, each trade good is worth 2 resources or influence instead of 1.*
+
+Economic amplifier tech. Each trade good spent provides 2 resources or 2 influence instead of 1. This doubles the value of your Pillaged trade goods and makes you incredibly efficient when spending TGs.
+
+**Salvage Operations (YY):**
+*After you win or lose a space combat, gain 1 trade good; if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.*
+
+Combat profit tech. Win or lose space combat = gain 1 TG. If you WIN, also produce 1 ship matching any destroyed ship type. This turns every fight into profit and lets you rebuild instantly.
 
 ### E. Leaders
 
@@ -128,15 +142,13 @@ Cost: 8 | Combat: 7 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 Sustain denial flagship. All enemy ships in the system cannot use Sustain Damage. Can be a counter to dreadnought-heavy factions, but can also have low amount of impact depending on opponent fleet composition. Combined with Ambush (pre-combat hits), it can delete opponent capital ships before they can respond.
 
-### J. Faction Technologies
+### J. Breakthrough
 
-**Mirror Computing (Yellow/Yellow/Yellow)** - When you spend trade goods, each trade good is worth 2 resources or influence instead of 1.
+**The Table's Grace (Yellow<>Green)** - If you have the Cruiser II unit upgrade technology, flip this card and place it on top of Cruiser II.
 
-Triple-yellow tech. TGs are worth 2 resources or 2 influence each instead of 1. If you have 5 TGs, you can spend them as 10 resources or 10 influence. This is massive value for Pillage-based economy—stolen TGs become 2x value. The 3 yellow prerequisite is steep (Sarween Tools → Neural Motivator/Graviton → Mirror Computing), but if you Pillage heavily, it's worth it.
+**Corsair (Cruiser III):** If the active system contains another player's non-fighter ships, this unit can move through systems that contain other players' ships. Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2
 
-**Salvage Operations (Yellow/Yellow)** - After you win or lose a space combat, gain 1 trade good; if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.
-
-Double-yellow tech. After ANY space combat (win or lose), gain 1 TG. If you WON, also produce 1 ship matching any type destroyed during combat (free production). If 3 cruisers died (yours or theirs), produce 1 cruiser for free. Over 5-7 combats per game, this generates 5-7 TGs + 5-7 free ships. Excellent value for aggressive playstyle.
+Cruiser super-upgrade. Requires Cruiser II first, then expedition this breakthrough. Your cruisers become Corsairs: Cost 2, Combat 6, Move 3, Capacity 2, can move THROUGH enemy systems (bypasses blockades). Can be skipped and gotten later to offset weak start. This is insane mobility—you can move through opponent fleets to reach objectives, bypass defenses, or strike deep into enemy territory.
 
 ### K. Slice and Draft Considerations
 
@@ -160,14 +172,6 @@ Double-yellow tech. After ANY space combat (win or lose), gain 1 TG. If you WON,
 Mentak needs wormhole access or proximity to other players for Pillage positioning. Entropic Scar is beast. Influence planets help balance your weak home influence. Avoid isolation.
 
 **Strategic Note:** Position near wealthy neighbors (Hacan, Xxcha, Jol-Nar) during draft to maximize Pillage value. Your weak starting fleet (Move 1 carrier) requires wormhole access or close proximity to other players.
-
-### L. Breakthrough Technology
-
-**The Table's Grace (Yellow<>Green)** - If you have the Cruiser II unit upgrade technology, flip this card and place it on top of Cruiser II.
-
-**Corsair (Cruiser III):** If the active system contains another player's non-fighter ships, this unit can move through systems that contain other players' ships. Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2
-
-Cruiser super-upgrade. Requires Cruiser II first, then expedition this breakthrough. Your cruisers become Corsairs: Cost 2, Combat 6, Move 3, Capacity 2, can move THROUGH enemy systems (bypasses blockades). Can be skipped and gotten later to offset weak start. This is insane mobility—you can move through opponent fleets to reach objectives, bypass defenses, or strike deep into enemy territory.
 
 ---
 
@@ -215,15 +219,15 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 ### A. Core Tech Path
 
 **Starting Techs:**
-- **Sarween Tools (GG)** - Reduce production costs by 1 resource. Saves 25+ resources over the game.
-- **Plasma Scoring (RR)** - +1 die for Space Cannon or Bombardment. Good for home defense and invasions.
+- **Sarween Tools** - Reduce production costs by 1 resource. Saves 25+ resources over the game.
+- **Plasma Scoring** - +1 die for Space Cannon or Bombardment. Good for home defense and invasions.
 
-**Round 1: Neural Motivator (GG)**
+**Round 1: Neural Motivator**
 - When 1 or more of your units use Production, you may exhaust this card to reduce the combined cost by the number of that unit's production value.
 - **Why:** Essential economic tech. Needed as prerequisite for Cruiser II. Helps with your weak starting economy by reducing production costs. Strong foundation for your tech path.
 - **Prerequisites:** 1 green (Sarween Tools)
 
-**Round 2: Cruiser II (RR)**
+**Round 2: Cruiser II (GYR)**
 - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 1
 - **Why:** Your #1 priority tech. Upgrades Ambush from 7+ (40% hit) to 6+ (50% hit). Move 3 gives repositioning flexibility. The capacity 1 is a bonus. Essential for your cruiser-based playstyle.
 - **Prerequisites:** 1 green, 1 red, 1 yellow (Sarween Tools, Plasma Scoring, Neural Motivator)
@@ -234,30 +238,30 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 - **Prerequisites:** 2 yellow (Neural Motivator + Sarween Tools)
 - **Note:** If you can't get Salvage Operations Round 3, you need to find a double tech opportunity—research 1 yellow prerequisite + Salvage Operations in the same round using Technology strategy card or other double-tech methods
 
-**Round 4: Mirror Computing (YY) - Faction Tech**
+**Round 4: Mirror Computing (YYY) - Faction Tech**
 - When you spend trade goods, each trade good is worth 2 resources or 2 influence instead of 1.
 - **Why:** Doubles the value of every TG you Pillage. If you steal 20 TGs via Pillage, Mirror Computing makes them worth 40 resources/influence. Synergizes with Salvage Operations. Late-game economy multiplier.
-- **Prerequisites:** 2 yellow (Salvage Operations + Neural Motivator or Sarween Tools)
+- **Prerequisites:** 3 yellow (Salvage Operations + Neural Motivator or Sarween Tools + another yellow)
 
 **Round 5+:** Objectives-based techs or late-game options
 
 ### B. Key Technologies
 
-**Cruiser II (RR):**
+**Cruiser II (GYR):**
 Essential for your faction. Upgrades Ambush hit chance and gives move 3 for repositioning. Your cruiser swarm strategy depends on this tech. Get this Round 2.
 
-**Mirror Computing (YY):**
+**Mirror Computing (YYY):**
 Your economic multiplier. Doubles value of Pillaged TGs. Every TG you steal becomes worth 2 resources/influence. Late-game this makes you extremely wealthy. Critical tech for leveraging your pirate economy.
 
 ### C. Late-Game Options
 
-**Blue-Skip Gravity Drive (BB):**
+**Gravity Drive (B):**
 If you blue-skip Gravity Drive (using Technology strategy card's blue-skip ability), your cruisers gain the base move 3 + Gravity Drive's +1 movement = **move 4**. This creates surprise plays—you can reach targets opponents don't expect. Very powerful for Pillage positioning and combat strikes.
 
-**PDS II (RR) - For Unit Upgrade Objectives:**
+**PDS II (RY) - For Unit Upgrade Objectives:**
 Good combo with your starting structure and Plasma Scoring. If you need a 2nd unit upgrade for "Develop Weaponry" objective, PDS II works well. Your Plasma Scoring already gives +1 die to Space Cannon, and upgrading to PDS II (Space Cannon 5 x2) makes your home defense very strong.
 
-**Integrated Economy (GG) - For Spice:**
+**Integrated Economy (YYY) - For Spice:**
 Late-game tech to leverage your riches. After you gain control of a planet, you may produce up to 2 units on that planet. With your wealth from Pillage + Mirror Computing, you can afford massive production across the map. Use this to convert your economic advantage into fleet superiority.
 
 ---
@@ -486,19 +490,15 @@ Alliance preference ranking based on commander utility:
 
 ---
 
-## X. Bonus
+## X. Bonus Game Elements
 
-### A. Action Cards
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-(To be filled)
+### A. High-Value Action Cards
 
-### B. Relics
+### B. Relic Priorities
 
-(To be filled)
-
-### C. Agendas
-
-(To be filled)
+### C. Agenda Awareness
 
 ---
 
