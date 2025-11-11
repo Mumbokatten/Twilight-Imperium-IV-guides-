@@ -437,6 +437,7 @@ Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade 
 Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
 **Top Tier:**
+
 1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Insane synergy with ASN - up to 8 TG per round.
 2. **Deepwrought (Aello)** - When others research tech, gain commodity/TG if they take -1 discount. Passive income and alliance tool.
 3. **Vuil'raith Cabal (That Which Molds Flesh)** - When producing fighters/infantry, 2 don't count against PRODUCTION limit. Up to 16 extra units per round with ASN.
@@ -445,6 +446,7 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 6. **Crimson Rebellion (Ahk Siever)** - At the end of combat between any players, gain 1 commodity or convert 1 commodity to trade good. Passive income from any combat.
 
 **Good:**
+
 7. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. Passive income from secondary spending.
 8. **Nekro Virus (Nekro Acidos)** - After you gain tech, draw 1 action card. Turn tech path into action cards.
 9. **Empyrean (Xuange)** - After another player moves ships into system with your token, return token to reinforcements. Ability to take back Mecatol Rex, or emergency pay someone to activate you and build again.

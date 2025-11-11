@@ -508,12 +508,14 @@ Arborec is one of the best control objective factions in the game. You will natu
 Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
 **Super Top Tier:**
+
 1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Perfect synergy with constant production.
 2. **Nomad (Navarch Feng)** - Produce your flagship without spending resources. Always good value (saves 8 resources).
 3. **Winnu (Rickar Rickani)** - Apply +2 to combat rolls in Mecatol Rex, your home system, and legendary planet systems. Great combat boost.
 4. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces, commit 1 ground force from each planet in active/adjacent systems. Invasion flexibility with your infantry swarm.
 
 **Really Useful:**
+
 5. **Deepwrought (Aello)** - When you research tech, reduce cost by 1 resource. More money for production.
 6. **Naaz-Rokha (Dart and Tai)** - After you gain control of a planet from another player, explore that planet. Good for conquest plays.
 7. **Muaat (Magmus)** - After you spend token from strategy pool, gain 1 trade good. Good economy boost.

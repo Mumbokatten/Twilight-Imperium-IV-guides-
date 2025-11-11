@@ -458,6 +458,7 @@ Scoring Stage II objectives is very possible for Deepwrought. Your economic engi
 Alliance preference based on commander synergies with Deepwrought's entire kit:
 
 **Top Tier:**
+
 1. **Nekro Virus (Nekro Acidos)** - "After you gain a technology: You may draw 1 action card" - You gain techs constantly via breakthrough. Turn tech acquisition into action card generation.
 2. **Nomad (Navarch Feng)** - "You can produce your flagship without spending resources" - Saves 8 resources. Always good value.
 

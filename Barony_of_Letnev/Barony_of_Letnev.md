@@ -434,6 +434,7 @@ With your move 3 fleet (Gravleash + Gravity Drive), Styx is an easy point to acc
 Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
 **Super Top Tier:**
+
 1. **Jol-Nar (Ta Zern)** - Reroll dice for unit abilities. Reroll BOMBARDMENT, SPACE CANNON. Excellent for your flagship and dreadnoughts.
 2. **Ghosts of Creuss (2RAM)** - Units that have Planetary Shield do not prevent you from using BOMBARDMENT. Top tier for invasion-focused Letnev. Your dreadnoughts have BOMBARDMENT 5—bypass Planetary Shield entirely.
 3. **Winnu (Rickar Rickani)** - +2 combat in MR, your home system, and legendary systems. Makes you unstoppable on Mecatol Rex. You probably won't get this alliance without a ceasefire—Winnu knows how powerful this is for you.
@@ -441,6 +442,7 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 5. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. Very good for generating TG income to fuel Munitions Reserves.
 
 **Really Useful:**
+
 6. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Useful for constant TG income, but not critical.
 7. **Naaz-Rokha (Dart and Tai)** - After you gain control of a planet that was controlled by another player, you may explore that planet. Useful for conquest plays.
 8. **Nekro Virus (Nekro Acidos)** - After you gain a technology, you may draw 1 action card. Useful for building action card hand while progressing your tech path.

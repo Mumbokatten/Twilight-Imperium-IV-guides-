@@ -473,12 +473,14 @@ Argent Flight is an excellent "get in, get out" custodian faction. You can easil
 Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
 **Super Top Tier:**
+
 1. **Jol-Nar (Ta Zern)** - Reroll dice for unit abilities. Massively boosts AFB, SPACE CANNON, BOMBARDMENT reliability. Perfect synergy.
 2. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Great for destroyer spam economy and constant production.
 3. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources for destroyer production instead.
 4. **Winnu (Rickar Rickani)** - +2 combat in MR, your home system, and legendary planet systems. Strong combat boost for key battles.
 
 **Really Useful:**
+
 5. **Empyrean (Xuange)** - After another player moves ships into a system that contains your command tokens, return that token to your reinforcements. Excellent for getting tokens back when opponents activate systems with your structures/units. More tokens = more production and tech secondaries.
 6. **Xxcha (Elder Qanoj)** - Each planet exhausted provides 1 additional vote. With 3 home planets, decent voting boost. Bonus: Xxcha's Alliance (Duplimatic) lets you use their faction abilities, which can be useful.
 7. **Yin (Brother Omar)** - Satisfies green prerequisite. When you research tech owned by another player, return 1 infantry to ignore prerequisites. Tech path flexibility if you don't get Wing Transfer breakthrough.

@@ -443,12 +443,14 @@ Hold Mecatol Rex and keep scoring Imperial. Your Commander makes you surprisingl
 Alliance preference ranking based on commander utility:
 
 **Top Tier:**
+
 1. **Nomad** (Navarch Feng) - Produce flagship without spending resources. Saves 8 resources for MR fleet.
 2. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income you desperately need.
 3. **Crimson Rebellion** (Ahk Siever) - Gain 1 TG after any combat (all players' fights). Constant passive income.
 4. **Empyrean** (Xuange) - Return tokens when others move into your systems. Critical for coordinating MR retakes.
 
 **Good:**
+
 5. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Passive income boost.
 6. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. Income at MR space dock.
 7. **Jol-Nar** (Ta Zern) - Reroll unit ability dice (BOMBARDMENT, AFB, SPACE CANNON). Insane with Magen/PDS defense.

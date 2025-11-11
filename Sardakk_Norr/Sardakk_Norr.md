@@ -441,12 +441,14 @@ Fight as soon as you have breakthrough unlocked. Every combat win gets you a com
 ## IX. Alliance Priority
 
 **Top Tier:**
+
 1. **Crimson Rebellion (Ahk Siever)** - Gain commodity/TG after combat. Perfect synergy with constant fighting.
 2. **Deepwrought (Aello)** - Passive TG when others research tech. Addresses TG weakness.
 3. **Yin Brotherhood (Brother Omar)** - Green prereq + skip prereqs when researching others' tech. Tech path flexibility.
 4. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Addresses TG weakness.
 
 **Good:**
+
 5. **Nomad (Navarch Feng)** - Produce flagship without resources. Saves 8 resources.
 6. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. You produce constantly.
 7. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after sustain damage. Good for dreadnought-heavy faction.

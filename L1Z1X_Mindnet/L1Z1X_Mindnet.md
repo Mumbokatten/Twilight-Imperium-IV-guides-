@@ -449,6 +449,7 @@ Even though your focus won't be on PDS, smashing through a silly "defensive fact
 Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
 **Top Tier:**
+
 1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources. Always good value.
 2. **Crimson Rebellion (Ahk Siever)** - At end of combat, gain commodity/TG. Combat-focused faction, smooths out TG access weakness.
 3. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. Smooths out TG access weakness.
@@ -456,6 +457,7 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 5. **Naaz-Rokha (Dart and Tai)** - After you gain control of planet from another player, explore that planet. Extra value from conquests.
 
 **Good:**
+
 6. **Obsidian (Aroz Hollow)** - Apply +1 combat in The Fracture. Late game Styx plays with Hero teleport.
 7. **Nekro Virus (Nekro Acidos)** - After you gain tech, draw 1 action card. Tech-heavy faction.
 8. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, and legendary planet systems. Boosts fleet in key battles.

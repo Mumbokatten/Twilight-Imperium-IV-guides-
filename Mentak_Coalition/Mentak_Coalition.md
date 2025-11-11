@@ -482,6 +482,7 @@ Alliance preference ranking based on commander utility:
 4. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income.
 
 **Useful:**
+
 5. **Nomad** (Navarch Feng) - Produce flagship without spending resources. Free flagship production.
 6. **Yin Brotherhood** (Brother Omar) - Satisfies green prerequisite and ignore tech prerequisites when researching other players' techs. Tech flexibility.
 7. **Empyrean** (Xuange) - Return command tokens when other players move into systems with your tokens. Command token efficiency.
