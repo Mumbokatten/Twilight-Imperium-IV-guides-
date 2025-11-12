@@ -81,7 +81,7 @@ Great starting techs. Antimass Deflectors is solid for slice considerations—gi
 
 **Faction Technologies:**
 
-**Quantum Datahub Node (YYYY):**
+**Quantum Datahub Node (YYY):**
 *At the end of the strategy phase, you may spend 1 token from your strategy pool and give another player 3 of your trade goods. If you do, give 1 of your strategy cards to that player and take 1 of his strategy cards.*
 
 Tier 4 yellow tech—pricey, but what is cost to a wealthy man? Swap strategy cards with other players for 1 strategy token and 3 trade goods. Can you put a price on winning the game? The flexibility to take exactly the strategy card you need in a critical round can be the difference between victory and defeat.

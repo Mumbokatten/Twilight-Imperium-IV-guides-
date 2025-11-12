@@ -75,11 +75,17 @@ Most players choose Gravity Drive for the mobility stack with breaches, or Plasm
 
 **Faction Technologies:**
 
-(Add faction technology information here if available from the cheat sheet)
+**Exile II (RR):**
+*Crimson Rebellion Destroyer - Cost: 1 | Combat: 7 | Move: 2 | ANTI-FIGHTER BARRAGE 6 (x3)*
+
+At the end of any player's combat in this unit's system or up to 2 systems away, you may place 1 active or inactive breach in that system.
+
+**Subatomic Splicer (Y):**
+*When one of your ships is destroyed, you may produce a ship of the same type at a space dock in your home system.*
 
 ### E. Leaders
 
-**Agent - Ahk Ravin:** Exhaust this agent to choose 1 player. That player may swap the position of 2 of their ships in any systems; they may transport units when they swap.
+**Agent - Ahk Ravin:** ACTION: Exhaust this card to choose 1 player. That player may swap the position of 2 of their ships in any systems; they may transport units when they swap.
 
 This provides repositioning for you or allies. Swapping ship positions can save units from combat, reposition for objectives, or enable unexpected moves. The ability to transport during the swap makes it very powerful.
 
@@ -97,15 +103,15 @@ This is an incredible combat ability. You can store produced ships over multiple
 
 ### F. Promissory Note
 
-**Sever:** Place this card faceup in your play area and place the sever token in a system that contains your units; wormholes in that system have no effect during movement. Remove the sever token and return this card to the Rebellion player at the end of the status phase.
+**Sever:** ACTION: Place this card faceup in your play area and place the sever token in a system that contains your units; wormholes in that system have no effect during movement. Remove the sever token and return this card to the Rebellion player at the end of the status phase.
 
 This is anti-wormhole tech. It shuts down wormhole movement in a system, which can block Creuss, cut off wormhole routes, or deny wormhole-based objectives. It's situationally powerful.
 
 ### G. Alliance
 
-When you place a breach token, your ally may place a breach token in an adjacent system that contains one of their ships. This system is also adjacent to systems with active breaches you control.
+Whoever holds your alliance card has your Commander (Ahk Siever - gain commodity/TG at end of any combat).
 
-This extends your breach network to your ally, giving them access to your web of adjacencies. This is powerful for mobile factions or those needing positional flexibility.
+Strong alliance for combat-focused factions. Generates passive income from table-wide combat.
 
 ### H. Mech
 
@@ -118,7 +124,7 @@ Your mechs can deploy from anywhere to any system with an active breach. This ma
 
 **Quietus:** Cost 8, Combat 5 (x2), Move 1, Capacity 3, Sustain Damage
 
-While this unit is in a system that contains an active breach, other players' units in systems with active breaches lose all their unit abilities.
+While this unit is in a system that contains an active breach, other players units in systems with active breaches lose all their unit abilities.
 
 This is a devastating debuff flagship. When parked in a breach system, it strips abilities from all enemy units in ALL breach systems. This shuts down Sustain Damage, PRODUCTION, special abilities, everything. It's one of the strongest flagships in the game when your breach network is established.
 
@@ -300,7 +306,7 @@ Your R1 priority is establishing breach network foundation and economic base for
 - PDS can cover breach systems, creating defensive nodes
 - Mechs deploy from anywhere to breach systems - build them when needed
 
-### C. Game Plan
+### B. Game Plan
 
 **Breach Network Strategy:**
 
