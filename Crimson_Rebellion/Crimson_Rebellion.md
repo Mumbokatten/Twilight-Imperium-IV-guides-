@@ -187,7 +187,11 @@ As Crimson Rebellion, your first turn priorities should reflect your breach netw
 
 ## V. Technology
 
-### A. Starting Technologies
+### A. Overview
+
+You start by choosing one blue or red technology with no prerequisites. Focus on breach synergies and unit upgrades via Riftmeld if needed.
+
+### B. Starting Technologies
 
 **Choose one blue or red technology with no prerequisites:**
 - **Gravity Drive (recommended):** Stacks with Resonance Generator for 3 movement from breaches
@@ -195,7 +199,7 @@ As Crimson Rebellion, your first turn priorities should reflect your breach netw
 - **Antimass Deflectors:** Mobility through anomalies
 - **Magen Defense Grid:** Defensive planetary option
 
-### B. Technology Paths
+### C. Technology Paths
 
 **Primary Path - Breach Optimization:**
 1. Gravity Drive (if not starting tech) - Essential for mobility
@@ -222,7 +226,7 @@ This builds a powerful combat fleet that leverages your breach mobility for stri
 
 Focus on economy and card advantage, using breaches for positional scoring rather than combat.
 
-### C. Key Technologies
+### D. Key Technologies
 
 **Must Get:**
 - **Gravity Drive:** Stacks with Resonance Generator for 3-movement from breaches
