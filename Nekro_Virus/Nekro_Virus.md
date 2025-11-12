@@ -318,103 +318,33 @@ Incredibly flexible.
 
 ## VII. Intermediate
 
-### A. Alastor Flagship Tactics
+### A. Unit Composition
 
-Your flagship's ability (ground forces participate in space combat) is game-changing:
+With access to every unit upgrade through tech theft, every unit you have an upgrade for is great.
 
-**Optimal Loading:**
-- 3 infantry on Alastor at all times
-- At space combat start, 3 infantry fight as ships
-- Total combat dice: 2 flagship (9+) + 3 infantry (8+) = 5 dice
-- Expected hits per round: ~1.5 hits
+**Preferred Units:**
+- **Infantry** - Extra infantry for flagship. Participate in space combat as ships.
+- **Mechs** - Sustain Damage ground forces. Synergize with flagship for space combat.
+- **Carriers** - Transport armies for invasions.
+- **Dreadnoughts** - Sustain Damage capital ships. Strong in combat.
+- **Cruisers** - Fast mobile ships for screening and raids.
+- **Destroyers** - Cheap fleet power with AFB. Once upgraded, easy to kill fighters for tech theft.
 
-**Advanced Tactics:**
+**Fleet Focus:** Alastor flagship loaded with infantry and mechs for overwhelming space and ground combat.
 
-1. **Infantry Expendability:** Infantry dying in space combat is acceptable—saves flagship from hits
-2. **Mech Integration:** Load 1 mech + 2 infantry. Mech fights at 6 (or 4 if +2 bonus applies), provides Sustain
-3. **Hero Synergy:** Load more ground forces before Hero activation for overwhelming dice
+### B. Game Plan
 
-**Invasion Combo:**
-- Approach enemy system with Alastor + 3 infantry
-- Declare space combat, ground forces participate
-- Roll 5 combat dice, destroy enemy fleet
-- Land surviving ground forces for invasion
-- Even if 2 infantry die in space combat, 1 survives for ground combat + Dacxive spawns 1 more after ground win
+**Early Game (Rounds 1-2):**
 
-### B. Technology Singularity Timing
+Your early game is about aggressive expansion and getting your first tech steals. Expand to 2-3 systems, make deals for your first techs if possible, and position yourself near tech-rich opponents. Fight early to steal unit upgrades and Gravity Drive if available. Build infantry and get your flagship as soon as you can. Commander unlocks at 3 technologies—push for this by Round 2.
 
-You can steal 1 tech per combat. Maximize value:
+**Mid Game (Rounds 3-4):**
 
-**Target Selection:**
-1. Which ship to kill? Kill ship from player with most valuable unstolen techs
-2. Which tech to steal? Prioritize unit upgrades > mobility techs > economic techs
-3. Preserve future theft? Don't eliminate tech-rich opponents early—farm them for multiple rounds
+Commander is unlocked—you draw action cards every time you steal tech. Fight constantly to steal technologies from multiple opponents. Keep your aggression spread evenly across the table to avoid becoming the primary target. Load your Alastor flagship with infantry and mechs for devastating invasions. Use your growing tech advantage to score objectives.
 
-**Example:**
-- Fighting Jol-Nar with Carrier II, Cruiser II, Dreadnought II, Sarween Tools
-- Round 1: Kill carrier, steal Carrier II
-- Round 2: Kill cruiser, steal Cruiser II
-- Round 3: Kill dreadnought, steal Dreadnought II
-- Don't eliminate Jol-Nar! They'll research more techs for you to steal later
+**Late Game (Round 5+):**
 
-### C. Galactic Threat Prediction Optimization
-
-Once per agenda, predict outcome for free tech if correct:
-
-**Prediction Strategy:**
-
-1. **Read the Table:** Identify voting coalitions before agenda phase
-2. **Speaker Position:** If you're Speaker, set agendas with obvious outcomes
-3. **Agent Intel:** Use Agent on key players to gauge their voting intentions
-4. **Safe Predictions:** Predict on law agendas with strong consensus
-
-**Tech Stealing from Predictions:**
-- If you predict "For" and it passes, steal from ANY player who voted For
-- Choose player with best unstolen techs (usually tech-heavy factions)
-- This is free tech gain without combat
-
-**Prediction Percentage Goals:**
-- 50% accuracy: 5 free techs per game (2 agendas × 5 rounds × 50%)
-- 70% accuracy: 7 free techs per game
-- Combined with combat theft: 15-20 techs total
-
-### D. Propagation Economy
-
-You cannot research but gain 3 CCs when you would research:
-
-**Before Commander:**
-- Following Technology secondary = 3 CCs
-- This is mediocre value (Leadership secondary = 2 CCs for 1 less resource)
-- Avoid following Tech unless desperate for CCs
-
-**After Commander:**
-- Following Technology secondary = 3 CCs + 1 tech
-- This is EXCELLENT value (free tech + 3 CCs)
-- Follow Tech secondary every round if possible
-- Prioritize taking Leadership/Trade to afford following Tech
-
-**CC Generation:**
-- Propagation: +3 CCs per follow
-- Galactic Threat: +1 tech per correct agenda prediction (Commander draws card too)
-- This funds aggressive expansion + constant combat
-
-### E. Valefar Assimilator Z Breakthrough Strategy
-
-Your breakthrough lets you copy enemy flagship abilities:
-
-**Best Flagship Abilities to Copy:**
-
-1. **Saar - Son of Ragh:** Scuttle (destroy for TGs) + AFB 6(x2). Combine with your ground force participation for absurd dice.
-2. **Arborec - Duha Menaimon:** PRODUCTION 5. Your flagship becomes mobile production.
-3. **Nomad - Memoria:** Teleport to mech systems. Incredible mobility.
-4. **Argent - Crimson Hawk:** +1 die in first combat round. Your Alastor rolls 3 dice at 9+ round 1.
-5. **Yin - Van Hauge:** +1 die for each opponent's non-fighter ship. Scales in large battles.
-
-**Placement Timing:**
-- Research Valefar Z breakthrough R3-4 if available
-- Place Z token on faction with strongest flagship synergy
-- Your Alastor gains their text IN ADDITION to ground force ability
-- Combined flagship becomes game-winning
+You should have double the technologies of most factions. Your fleet is fully upgraded, your flagship is loaded with ground forces, and you're drowning in action cards from Commander triggers. Continue fighting to maintain tech superiority and close out the game with your technological advantage.
 
 ---
 
