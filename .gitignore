@@ -1,0 +1,5 @@
+# Audio files
+*.mp3
+
+# Transcripts
+*.mp3.txt
