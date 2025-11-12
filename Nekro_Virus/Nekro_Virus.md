@@ -16,7 +16,7 @@ Playing Nekro Virus is like being a technological vampire—you must feed on you
 
 The key strength of Nekro is technological breadth. Normal factions carefully research their technologies. You'll have double by endgame, stolen from multiple opponents, giving you unit upgrades and utility techs that no normal faction could afford. Understanding WHO to fight and WHEN separates good Nekro players from great ones.
 
-Opponents will hate you—you're incentivized to attack everyone, and your power scales with their destruction. That moment when you've amassed stolen technologies and your fleet is more advanced than the tech factions? Pure efficiency.
+Opponents will hate you—you're incentivized to attack everyone, and your power scales with their destruction. Early game, you'll make deals and non-aggression pacts to survive. Mid-to-late game, you become too technologically advanced to care about those promises.
 
 ---
 
@@ -24,11 +24,13 @@ Opponents will hate you—you're incentivized to attack everyone, and your power
 
 ### A. Home System & Commodities
 
-**Home System:** Mordai II (4 resources / 0 influence)
+**Home System:**
+- **Mordai II:** 4 resources / 0 influence
+- **Total: 4 resources / 0 influence (4 optimal resources / 0 optimal influence)**
 
 **Commodities:** 3
 
-**Notes:** Single-planet home with 4 resources and 0 influence. The 4 resources fund your military production, but 0 influence means you rely entirely on conquering planets for influence objectives. Single-planet home is easier to defend than multi-planet systems.
+**Notes:** Single-planet home is easier to defend than multi-planet systems. Usually factions with only resource home systems are token starved, but Propagation fixes this—you gain 3 command tokens when following Technology instead of researching. Mordai II is a strong production hub with 4 resources for military builds. 0 influence means you rely entirely on conquering planets for influence objectives.
 
 ### B. Starting Fleet
 
@@ -39,21 +41,21 @@ Opponents will hate you—you're incentivized to attack everyone, and your power
 - 2 Infantry
 - 1 Space Dock
 
-**Notes:** Strong starting fleet with a dreadnought for early aggression. The cruiser + carrier provide capacity for expansion. Your starting fleet is designed for R1 combat—use it aggressively to steal your first technologies.
+**Notes:** Strong starting fleet in space with a dreadnought for early aggression. The cruiser + carrier provide capacity for expansion. Problem is only 2 infantry—this can make you slightly limited in which slices you thrive in, as you need planets you can reasonably conquer with minimal ground forces.
 
 ### C. Faction Abilities
 
 **Galactic Threat (Faction Ability):** You cannot vote on agendas. Once per agenda phase, after an agenda is revealed, you may predict aloud the outcome of that agenda. If your prediction is correct, gain 1 technology that is owned by a player who voted how you predicted.
 
-Cannot vote on agendas, which is crippling politically. However, once per agenda phase, predict the outcome. If correct, steal a tech from ANY player who voted that way. This is free technology generation if you read the table correctly. Over 5 rounds with 2 agendas each, correct predictions net 5-10 free techs.
+Cannot vote on agendas, which is crippling politically. However, once per agenda phase, predict the outcome. If correct, steal a tech from ANY player who voted that way. Maximum 5 techs over the game (one per round), but realistically expect 2-3 because of the abstain problem—everyone can abstain and the speaker decides the outcome to screw you out of tech.
 
 **Technology Singularity (Faction Ability):** Once per combat, after 1 of your opponent's units is destroyed, you may gain 1 technology that is owned by that player.
 
-Your defining ability. Once per combat (not per ship—per entire combat), after destroying an enemy unit, steal one of their technologies. This incentivizes constant aggression. Every combat is a research opportunity. Fight tech-rich opponents (Jol-Nar, Argent, Naaz-Rokha) to steal their best techs.
+Your defining ability. Once per combat (not per ship—per entire combat), after destroying an enemy unit, steal one of their technologies. This incentivizes constant aggression. Every combat is a research opportunity. Note this happens in both space combat and ground combat—invading a 2-planet system could net you 3 techs (1 from space, 1 from each ground combat).
 
 **Propagation (Faction Ability):** You cannot research technology. When you would research a technology, gain 3 command tokens instead.
 
-You CANNOT research technologies normally. If you follow Technology primary/secondary, instead of researching, gain 3 CCs. This seems bad but actually provides excellent economy—3 CCs fund more aggression for more tech theft. After Commander unlocks, this becomes "gain 3 CCs + 1 tech" which is absurd value.
+You CANNOT research technologies normally. If you follow Technology primary/secondary, instead of researching, gain 3 CCs. This seems bad but actually provides excellent economy—3 CCs fund more aggression for more tech theft. On the secondary, you spend 4 resources for a net +2 tokens (spend 1 from strategy pool, gain 3), which is a steal compared to paying 6 influence for 2 tokens on Leadership.
 
 ### D. Starting and Faction Technologies
 
@@ -61,15 +63,13 @@ You CANNOT research technologies normally. If you follow Technology primary/seco
 
 **Dacxive Animators (G)** - After you win a ground combat, you may place 1 infantry from your reinforcements on that planet.
 
+One of the worst starting technologies in the game—you'd take almost any other. However, it's helpful for unlocking your Commander and an extra infantry here and there never hurts.
+
 **Valefar Assimilator X** - When you gain another player's technology using one of your faction abilities, you may place the "X" assimilator token on a faction technology owned by that player instead. While that token is on a technology, this card gains that technology's text. You cannot place an assimilator token on technology that already has an assimilator token.
 
 **Valefar Assimilator Y** - When you gain another player's technology using one of your faction abilities, you may place the "Y" assimilator token on a faction technology owned by that player instead. While that token is on a technology, this card gains that technology's text. You cannot place an assimilator token on technology that already has an assimilator token.
 
-**Notes:** Dacxive Animators spawns infantry after ground combat wins—excellent for conquest. Valefar Assimilators X and Y let you copy enemy FACTION technologies instead of normal techs when stealing. This is incredibly powerful—you can copy Jol-Nar's E-Res Siphons, Yin's Impulse Core, Naalu's Neuroglaive, etc.
-
-**Faction Technologies:**
-
-(Note: Valefar Assimilator X and Y are your starting faction technologies - see above. You have no additional faction technologies to research since you cannot research technologies normally.)
+**Notes:** Valefar Assimilators let you copy enemy FACTION technologies instead of normal techs when stealing. This is incredibly powerful and makes you have 0 reason to be in Entropic Scar. You can have high variance of how good the faction techs available in the game can be, but usually there are some good ones.
 
 ### E. Leaders
 
@@ -77,31 +77,31 @@ You CANNOT research technologies normally. If you follow Technology primary/seco
 
 During the action phase: You may exhaust this card to choose a player; that player may discard 1 action card or spend 1 command token from their command sheet to gain 2 trade goods.
 
-Conversion agent. Target player chooses: lose 1 action card OR lose 1 CC from command sheet, gain 2 TGs. Use this politically: "I'll agent you for 2 TGs if you vote X way." Also useful to drain opponent action cards before critical rounds.
+Gives a surprising amount of economy and there's no shortage of useless action cards when you start pulling a few around.
 
 **Commander - Nekro Acidos:** *Unlock: Own 3 technologies. A "Valefar Assimilator" technology counts only if its X or Y token is on a technology.*
 
 After you gain a technology: You may draw 1 action card.
 
-Unlocks after owning 3 technologies (Valefar Assimilators only count if you've placed their tokens). Every time you gain a tech (combat theft, agenda prediction, Propagation post-Commander), draw 1 action card. This generates massive card advantage—stealing 8 techs means drawing 8 action cards over the game.
+Unlocks after owning 3 technologies (Valefar Assimilators only count if you've placed their tokens). Every time you gain a tech (combat theft, agenda prediction), draw 1 action card. Note that placing a Valefar Assimilator token is NOT gaining a technology, so Commander doesn't trigger from that.
 
 **Hero - UNIT.DSGN.FLAYESH:** *Unlock: Have 3 scored objectives.*
 
 **Polymorphic Algorithm - ACTION:** Choose a planet that has a technology specialty in a system that contains your units. Destroy any other player's units on that planet. Gain trade goods equal to the planet's combined resource and influence values and gain 1 technology that matches the specialty of that planet. Then, purge this card.
 
-Planet destruction hero. Target a planet with tech specialty in system with your units. Destroy ALL enemy units on it, gain TGs equal to its resource + influence, and gain 1 tech matching its specialty (blue/green/red/yellow). Use this on high-value legendary planets (Mallice, Primor) or heavily defended tech specialty planets.
+Can be used offensively but often just good bonus economy and try to get a tech you would probably not get from somewhere else.
 
 ### F. Promissory Note - **Antivirus**
 
 At the start of a combat: Place this card faceup in your play area. While this card is in your play area, the Nekro player cannot use his Technological Singularity faction ability against you. If you activate a system that contains 1 or more of the Nekro player's units, return this card to the Nekro player.
 
-Prevents Nekro from stealing techs from the holder in combat. This is valuable for tech-heavy factions (Jol-Nar, Argent). Trade this for non-aggression pacts, voting support, or alliance promissories. Trade value: 3-4 TG equivalent.
+You should want a ton for giving this up—you lose so much value by removing a target from your tech theft options. Usually the person asking for it is a neighbor. Only sell this once you've already exhausted their tech options, and if they still want to buy it then.
 
 ### G. Alliance
 
-After you gain a technology: Place 1 infantry from your reinforcements on any planet you control.
+Whoever holds your alliance card has your Commander (Nekro Acidos - draw 1 action card after gaining a technology).
 
-Infantry spawn on tech gain. Solid defensive value. Every time you steal a tech (which you do constantly), spawn 1 infantry anywhere. Over a game, this spawns 10+ free infantry. Trade value: 3-4 TG.
+If you sell this early, it will generate 4-5 action cards for the holder over the course of the game. Probably 4-5 TG value, but try to trade up—you're a scary faction so you can get a top tier alliance as people want to incentivize you to not attack them.
 
 ### H. Mech - **Mordred**
 
@@ -109,7 +109,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 **Special Ability:** During combat against an opponent who has an "X" or "Y" token on 1 or more of their technologies, apply +2 to the result of each of this unit's combat rolls.
 
-Anti-theft mech. If you've placed Valefar Assimilator X or Y tokens on an opponent's faction tech, your mechs get +2 to combat rolls against them. This makes your mechs Combat 4 effective—devastating in ground combat. Place X/Y tokens on key opponents to unlock this bonus.
+It's a punch those who are already down—if you stole their techs your mechs become even better. Crazy synergy with flagship to have murderous flying mechs—one of the strongest ships in the game that also fights on the ground.
 
 ### I. Flagship - **The Alastor**
 
@@ -117,32 +117,34 @@ Cost: 8 | Combat: 9 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 **Special Ability:** At the start of a space combat, choose any number of your ground forces in this system to participate in that combat as if they were ships.
 
-Ground forces as ships flagship. At start of space combat, your infantry/mechs in the system can participate AS SHIPS. If you have flagship + 4 infantry in system, you roll 6 combat dice total (2 flagship at 9+, 4 infantry at 8+). This is devastating—every invasion brings overwhelming space combat power.
+Note how the flagship makes it redundant to have fighters—your infantry are just better fighters that can also be on the ground. Your flagship, a couple of mechs + some carriers filled with infantry is one of the strongest fleets in the game, don't let the hit on 9 fool ya.
 
-**Strategic Implications:**
-- Load Alastor with 3 infantry for invasions
-- At space combat start, 3 infantry participate (3 extra dice at 8+)
-- Total: 5 combat dice (2 at 9+, 3 at 8+)
-- This deletes most defender fleets
-- If you lose infantry in space combat, you still have survivors for ground combat
-
-### J. Faction Technologies
-
-**Valefactor Assimilator X** - When you gain another player's technology using 1 of your faction abilities, you may place the "X" assimilator token on a faction technology owned by that player instead. While that token is on a technology, this card gains that technology's text. You cannot place an assimilator token on technology that already has an assimilator token.
-
-Upgraded Valefar X. Same as starting tech but with "Valefactor" name. This doesn't exist in base game—you start with Valefar X already. This entry seems to be a data error.
-
-**Valefactor Assimilator Y** - When you gain another player's technology using 1 of your faction abilities, you may place the "Y" assimilator token on a faction technology owned by that player instead. While that token is on a technology, this card gains that technology's text. You cannot place an assimilator token on technology that already has an assimilator token.
-
-Upgraded Valefar Y. Same as starting tech but with "Valefactor" name. This also seems to be a data error.
-
-**Note:** Your true "faction tech upgrades" are the Valefar Assimilators which you start with. Place their tokens strategically on enemy faction techs for maximum value.
-
-### K. Breakthrough Technology
+### J. Breakthrough
 
 **Valefar Assimilator Z (Temporal Entanglement)** - When you would gain another player's technology using one of your faction abilities, you may instead place one of your "Z" assimilator tokens on that player's faction sheet. Your flagship gains the text abilities of that faction's flagship in addition to its own.
 
-Flagship copying breakthrough. When stealing techs, instead place Z token on enemy faction sheet. Your Alastor gains their flagship's abilities IN ADDITION to your own. Copy Saar's Scuttle ability, Arborec's PRODUCTION 5, Argent's increased dice, Nomad's teleportation, etc. Your flagship becomes a hybrid super-flagship.
+Gives you very little—save resources by not getting it. Unless you fully understand why you want it for a specific flagship ability, leave it. Only very few flagships are good targets: Nomad, Naaz, Winnu, Yssaril, Sardakk, Crimson, Ghosts, Jol-Nar, Mahact, Last Bastion, Arborec, Naalu, Yin, Barony, Mentak are some potential targets. You have to consider it costs you a tech and an AC.
+
+**Special note:** Fun anti-Ghosts tech to say hello to their home system.
+
+### K. Slice and Draft Considerations
+
+Nekro needs access to tech-rich opponents and strong planets for military production:
+
+**Speaker Order:**
+Can be anywhere. Flexible. Tech-prone neighbors good.
+
+**Slice Priorities:**
+- **Strong planets nearby** - Need resources for military production.
+- **Resources over influence** - Can't vote and can get tokens through resources.
+- **Primor / Hope's End** - Helps early game. Lack of ground forces (only 2 infantry to start).
+- **Access to people** - You need to reach opponents for tech theft.
+
+**Avoid:**
+- **Gravity rifts to neighbors** - Hard to reach through.
+- **Asteroid fields to neighbors** - Blocks access.
+- **Novas** - Need to have access to people.
+- **Entropic Scar** - Useless with Valefar Assimilators.
 
 ---
 
@@ -150,148 +152,130 @@ Flagship copying breakthrough. When stealing techs, instead place Z token on ene
 
 ### A. First Turn Priorities
 
-As Nekro Virus, your first turn priorities should reflect your tech-stealing combat strategy. Here's the recommended ordering:
+**Round 1 Priority Rankings:**
 
-1. **Expansion + Production** - You CANNOT research technology normally. Your only tech acquisition is Technology Singularity (copy techs from destroyed opponent units in combat). Expand to 2-3 systems Round 1 using your strong starting fleet (dreadnought + 2 cruisers). Your 3 resources and 3 influence from home support this.
+1. **Scoring** - Super priority. You're not a fun target to stop, so stay ahead.
 
-2. **Breakthrough** - Seek combat IMMEDIATELY to trigger tech theft. You need to destroy opponent ships/ground forces to copy their technologies. Target factions with valuable starting techs (Jol-Nar: 4 techs, Sol: 2 techs, Hacan: 2 techs). Even small victories grant tech access. Commander unlocks with just 1 copied tech.
+2. **Expansion** - Solving your 2 infantry problem. Expand to be able to reach people and get tech through combat.
 
-3. **Technology** - Propagation (choose color, gain command token instead of researching) lets you bypass research limitations. However, combat tech theft comes first—Propagation supplements stolen technologies.
+3. **Technology** - Try to make a deal for some early tech if possible—better than making an early enemy. If Gravity Drive is on the map, get it ASAP.
 
-4. **Scoring** - Your early scoring potential is limited until you've stolen 2-3 technologies (Round 2-3). Focus Round 1 on expansion and first combat victories. Tech diversity objectives become easier after successful raids.
+4. **Breakthrough** - Only for Thunder's Edge and screwing with people.
 
-### A. Universal Table Hate
+**Expansion Notes:** You have to produce and take a few systems nearby. If you produce through Warfare or Construction, use the unlocked units to send a spec ops crew to find an early tech—maybe snipe a destroyer that picked up DET or something. Otherwise you have to walk it kind of slow. Use your superior token economy to get a head start on economy.
 
-Everyone knows you must attack to gain techs. This makes you the table's villain automatically. Expect coordinated opposition, defensive alliances against you, and constant political targeting.
+### B. Universal Table Hate
 
-**Mitigation:**
-- Make early non-aggression pacts with 1-2 neighbors
-- Trade Antivirus to your weakest neighbor for protection
-- Direct aggression toward shared enemies ("Let's both attack Player X")
-- Present yourself as table police against VP leader
+Everyone knows you must attack to gain techs. This makes you the table's villain automatically. Expect coordinated opposition, defensive alliances against you, and constant political targeting. You're also a late game beast, so people are not too happy to deal with you early even if you are nice.
 
-### B. Cannot Vote on Agendas
-
-Galactic Threat prevents voting, crippling your political power. You rely on prediction for tech gain, but you cannot directly influence outcomes.
-
-**Mitigation:**
-- Use Agent to drain opponent action cards/CCs for political favors
-- Trade military support for voting coalitions
-- Predict popular outcomes for free techs
-- Control Speaker to set favorable agendas
-
-### C. Technology Dependency on Opponents
-
-Your power scales with opponent tech counts. Neighbors with few techs (Sardakk 0, Winnu 1, Arborec 1 faction tech) cripple your gameplan.
-
-**Mitigation:**
-- Identify tech-rich neighbors pre-draft if possible
-- Attack PAST weak neighbors to reach tech-rich targets
-- Use Galactic Threat predictions to steal from distant tech-heavy opponents
-- Prioritize killing tech-faction ships in multi-player combats
-
-### D. Early Weakness
-
-You have 3 starting techs (Dacxive + 2 Valefars) which is below average. Your Alastor is strong, but you're vulnerable R1-2 before tech theft snowballs.
-
-**Mitigation:**
-- Don't overextend R1—take 1-2 techs and consolidate
-- Protect Alastor at all costs
-- Use starting dreadnought + cruiser for defensive screens
-- Score easy objectives R1 (Expand Borders, Engineer a Marvel) for points
+Try to play it smart—keep it even, don't target one person way more. Everyone usually has different tech, so it's good to attack everyone equally to be fair and for your own gain.
 
 ---
 
 ## V. Technology
 
-### A. Technology Stealing Priority
+### A. Overview
+
+You're a tech powerhouse—the person who will almost always end up with the most tech of every type. It will cause diplomatic damage, but in the end, the singularity will consume all.
+
+### B. Technology Stealing Priority
 
 Since you steal techs rather than researching, prioritize targets by tech value:
 
-**Tier S (Always Steal):**
-- Carrier II
-- Destroyer II
-- Dreadnought II
-- Cruiser II
-- Gravity Drive
-- Fleet Logistics
-- Assault Cannon
+**Unit Upgrades:**
 
-**Tier A (Steal When Needed):**
-- Fighter II
-- Infantry II
-- PDS II
-- Sarween Tools
-- AI Development Algorithm
-- Duranium Armor
-- Antimass Deflectors
+- **Carrier II (BB)** - Always
+  - Cost 3, Combat 9, Move 2, Capacity 6. Essential transport for invasion fleets.
+- **Dreadnought II (BBY)** - Always
+  - Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.
+- **Destroyer II (RR)** - Always
+  - Cost 1, Combat 8, Move 2, AFB 6 (x3). Cheap fleet power.
+- **Cruiser II (GYR)** - Always
+  - Cost 2, Combat 6, Move 3, Capacity 1, Sustain. Fast mobile ships.
+- **Infantry II (GG)** - Always
+  - Cost 1 (x2), Combat 7. 6+ chance to revive after death. Flagship makes these deadly.
+- **Space Dock II (YY)** - Always
+  - PRODUCTION equals 4 + planet resources. Up to 3 fighters don't count against capacity.
+- **Fighter II (GB)** - Good
+  - Cost 1 (x2), Combat 8, Move 2. Less relevant with flagship infantry strategy.
+- **War Sun (RRRY)** - Good
+  - Cost 12, Combat 3 (x3), Move 2, Capacity 6, Sustain, BOMBARDMENT 3 (x3). Removes Planetary Shield.
+- **PDS II (RY)** - Emergency
+  - Planetary Shield, SPACE CANNON 5. Can shoot ships in adjacent systems.
 
-**Tier B (Situational):**
-- Space Dock II
-- War Sun
-- Transit Diodes
-- Neural Motivator
-- Scanlink Drone Network
-- Light/Wave Deflectors
+**Blue Technologies:**
 
-**Tier C (Usually Skip):**
-- Dacxive Animators (you already have it)
-- Bio-Stims
-- Most prerequisite-only techs
+- **Gravity Drive (B)** - Always
+  - +1 move to 1 ship after activating system. Critical for aggression.
+- **Fleet Logistics (BB)** - Always
+  - Perform 2 actions per turn instead of 1. Game-changing.
+- **Sling Relay (B)** - Always
+  - ACTION: Produce 1 ship at any space dock.
+- **Light/Wave Deflector (BBB)** - Always
+  - Move through systems with enemy ships. Bypass blockades.
+- **Antimass Deflectors** - Good
+  - Move through asteroid fields. -1 to enemy SPACE CANNON against you.
+- **Dark Energy Tap** - Good
+  - Explore frontier tokens after tactical actions. Retreat into systems without units/control.
 
-### B. Valefar Assimilator Token Placement
+**Red Technologies:**
 
-You have X and Y tokens to place on enemy faction technologies. Choose wisely:
+- **Duranium Armor (RR)** - Always
+  - Repair 1 damaged unit per combat round that didn't use Sustain.
+- **Assault Cannon (RRR)** - Always
+  - Opponent destroys 1 non-fighter ship at space combat start if you have 3+ non-fighters.
+- **Plasma Scoring** - Good
+  - +1 die for BOMBARDMENT or SPACE CANNON.
+- **AI Development Algorithm** - Good
+  - Ignore 1 prerequisite for unit upgrades. Reduce production cost by unit upgrade count.
+- **Magen Defense Grid (R)** - Good
+  - Place infantry with structures when activated. Produce 1 hit at ground combat start.
+- **Self-Assembly Routines (R)** - Good
+  - Place mech after PRODUCTION. Gain TG when mech destroyed.
 
-**Best Faction Techs to Copy:**
+**Yellow Technologies:**
 
-1. **Jol-Nar - E-Res Siphons:** Exhausted planets count for spending. Absurd for spend objectives.
-2. **Jol-Nar - Spatial Conduit Network:** Create wormholes. Incredible mobility.
-3. **Naalu - Neuroglaive:** Fighters hit on 8+. Your infantry-flagships become terrifying.
-4. **Yin - Impulse Core:** +1 move to all ships. Amazing.
-5. **Titans - Coalescence:** Force opponents to fight. Excellent for tech theft.
-6. **Saar - Chaos Mapping:** Move through asteroids. Strong mobility.
-7. **Arborec - Bioplasmosis:** Replace space docks with PDS anywhere. Unique utility.
+- **Sarween Tools** - Always
+  - -1 cost when using PRODUCTION.
+- **Integrated Economy (YYY)** - Always
+  - Produce units on conquered planet equal to resource value.
+- **Scanlink Drone Network** - Good
+  - Explore 1 planet when activating system.
+- **Graviton Laser System (Y)** - Good
+  - SPACE CANNON hits assigned to non-fighters if able.
+- **Predictive Intelligence (Y)** - Good
+  - Redistribute CCs at turn end. Cast 3 additional votes.
+- **Transit Diodes (YY)** - Good
+  - Remove up to 4 ground forces and place on planets you control.
 
-**Token Placement Strategy:**
-- Place X token early (R2-3) on most valuable faction tech
-- Place Y token mid-game (R4-5) on second most valuable
-- Prioritize techs that synergize with your playstyle (combat/mobility)
-- Remember: Mech gets +2 combat against opponents with X/Y tokens
+**Green Technologies:**
 
-### C. Commander Tech Advantage
+- **Bio-Stims (G)** - Always
+  - Ready 1 planet with tech specialty or 1 technology at turn end.
+- **X-89 Bacterial Weapon Ω (GGG)** - Always
+  - Double BOMBARDMENT and ground combat hits. Destroy all enemy infantry if 1+ destroyed.
+- **Neural Motivator** - Good
+  - Draw 2 action cards per status phase instead of 1.
+- **Hyper Metabolism (GG)** - Good
+  - Gain 3 CCs in status phase instead of 2.
+- **Dacxive Animators (G)** - Emergency (you already have it)
+  - Place infantry after winning ground combat.
+- **Psychoarchaeology** - Emergency
+  - Use tech specialties without exhausting. Exhaust tech specialty planets for TG.
 
-After Commander unlocks (3 technologies owned, Valefar tokens count if placed), every tech gain draws 1 action card. This includes:
-- Technology Singularity steals (combat)
-- Galactic Threat predictions (agendas)
-- Propagation conversions (if you follow Tech secondary)
+### C. Valefar Assimilator Token Placement
 
-**Optimal Strategy:**
-- Unlock Commander by R2-3 (should have 3+ techs by then)
-- Steal 2-3 techs per round after unlocking
-- Draw 2-3 action cards per round
-- By R5, you'll have 10+ action cards played
+You have X and Y tokens to place on enemy faction technologies. Incredibly hard to rate all faction techs that are stealable, but in general:
 
-### D. Recommended Tech Targets by Round
+**Unit upgrades are all good.** Letani 2 (Arborec infantry upgrade) with flagship is a special type of overpowered.
 
-**Round 1:**
-- Steal 1-2 unit upgrades (Carrier II, Destroyer II) OR economic tech (Sarween Tools)
-- Target: Weakest military neighbor with good techs
-
-**Round 2:**
-- Steal 2-3 more techs for total of 5-6
-- Focus: Diversify colors for objectives
-- Place first Valefar token (X) on valuable faction tech
-
-**Round 3:**
-- Commander should unlock
-- Steal 2-3 techs + draw action cards
-- Place second Valefar token (Y)
-
-**Round 4-5:**
-- Steal specialized techs (Gravity Drive, Fleet Logistics, Assault Cannon)
-- Complete "2 in each color" tech distribution
-- Aim for 10-12 total techs by endgame
+**Notable non-unit upgrade faction techs:**
+- **Chaos Mapping (Saar)** - Others can't activate asteroids with your ships. Produce 1 unit in systems with PRODUCTION.
+- **Mirror Computing (Mentak)** - Each trade good worth 2 resources or influence instead of 1.
+- **Aetherstream (Empyrean)** - +1 move for you/neighbors activating adjacent to anomalies.
+- **Mageon Implants (Yssaril)** - ACTION: Look at player's action cards and steal one.
+- **Non-Euclidean Shielding (Barony)** - Sustain Damage cancels 2 hits instead of 1.
+- **E-res Siphons (Jol-Nar)** - Gain 4 TG when others activate systems with your ships.
 
 ---
 
@@ -299,25 +283,18 @@ After Commander unlocks (3 technologies owned, Valefar tokens count if placed), 
 
 ### A. Round 1
 
-Your R1 priority is aggressive expansion to steal technologies and establish military dominance.
+Incredibly flexible.
 
 **Round 1 Priority Ranking:**
 
-1. **Warfare** - Enables R1 aggression + fleet unlocking. You attack more than any faction.
-
-2. **Leadership** - CCs for expansion + aggression. Essential for sustained attacks.
-
-3. **Politics** - Speaker for agenda control even without votes. Use Agent for political trades.
-
-4. **Trade** - 3 commodities + TGs for military funding and expansion.
-
-5. **Diplomacy** - Protect home while attacking. Readying for objectives.
-
-6. **Imperial** - If you can score, which is unlikely R1.
-
-7. **Construction** - You don't need many docks R1. Others value this more.
-
-8. **Technology** - You CANNOT research. Propagation gives you 3 CCs instead, which is terrible value R1. Avoid at all costs.
+1. **Trade** - For making tech deals. Economy always helpful to max plastic advantage.
+2. **Leadership** - To use tons of secondaries.
+3. **Construction** - Help out your start and get a head start on structures.
+4. **Technology** - Free if primary so 3 tokens like Leadership but better if others tech more and you get more tech later.
+5. **Politics** - Agent for money. Speaker for Round 2 plays.
+6. **Warfare** - Emergency to fill out slice.
+7. **Diplomacy** - Gives more to others than you. You can afford things without.
+8. **Imperial** - Never Round 1.
 
 ### B. Round 2+
 
@@ -445,7 +422,7 @@ Your breakthrough lets you copy enemy flagship abilities:
 
 ### A. Objective Summary
 
-**Strengths:** Excels at tech objectives by stealing 10+ technologies through combat. Resource spending objectives are easy with 4 resource home system, and aggressive expansion supports control objectives.
+**Strengths:** Excels at tech objectives by stealing technologies through combat. Resource spending objectives are easy with 4 resource home system, and aggressive expansion supports control objectives.
 
 **Weaknesses:** Influence spending objectives are extremely difficult with 0 home influence. Structure objectives are challenging with military focus, and cannot vote for political objectives.
 
@@ -453,25 +430,25 @@ Your breakthrough lets you copy enemy flagship abilities:
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| Erect a Monument (Spend 8 resources)                                    | 🟡     |
+| Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🔴     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Build Defenses (Have 4 or more structures)                              | 🔴     |
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
-| Push Boundaries (Control more planets than each neighbor)               | 🔴     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
@@ -500,23 +477,23 @@ Your breakthrough lets you copy enemy flagship abilities:
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
 | Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
 | Form a Spy Network (Discard 5 action cards)                             | 🟢     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟢     |
 | Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
-| Fuel the War Machine (Have 3 space docks)                               | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
+| Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
 | Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
-| Prove Endurance (Last to pass)                                          | 🔴     |
+| Prove Endurance (Last to pass)                                          | 🟢     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
@@ -525,24 +502,25 @@ Your breakthrough lets you copy enemy flagship abilities:
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
-| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟢     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -556,17 +534,17 @@ Alliance preference ranking based on commander utility:
 
 1. **Crimson Rebellion** (Ahk Siever) - Gain 1 TG after any combat (all players' fights). Perfect for constant combat playstyle.
 2. **Nomad** (Navarch Feng) - Produce flagship without spending resources. Saves 8 resources for Alastor.
-3. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. Passive income for military production.
-4. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Passive income boost.
+3. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income you need.
+4. **Winnu** (Rickar Rickani) - +2 combat in MR/home/legendary systems. Combat boost.
 
 **Good:**
 
-5. **Sardakk N'orr** (G'hom Sek'kus) - Commit ground forces from adjacent systems. Helps invasions for tech theft.
-6. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income you need.
-7. **Argent Flight** (Trrakan Aun Zulok) - Roll 1 additional die for unit abilities. Extra firepower.
-8. **Winnu** (Rickar Rickani) - +2 combat in MR/home/legendary systems. Combat boost.
-9. **Empyrean** (Xuange) - Return tokens when others move into your systems. Token efficiency.
-10. **Yin Brotherhood** (Brother Omar) - Satisfies green prerequisite. Tech path flexibility for stolen techs.
+5. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Passive income boost.
+6. **Empyrean** (Xuange) - Return tokens when others move into your systems. Token efficiency.
+7. **Vuil'raith Cabal** (That Which Molds Flesh) - 2 fighters/infantry don't count against production. More infantry for flagship.
+8. **Barony of Letnev** (Rear Admiral Farran) - Gain 1 TG after unit uses Sustain Damage. TG from dreadnoughts.
+9. **Naaz-Rokha Alliance** (Dart and Tai) - Explore planet after conquering. Extra value from aggression.
+10. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. Passive income for military production.
 
 ---
 
@@ -584,17 +562,10 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Nekro Virus is TI4's ultimate combat faction—you don't research, you assimilate. Every battle is a learning opportunity, every destroyed ship is stolen knowledge. You're playing a completely different game from everyone else.
+Nekro Virus is the faction for players who love aggressive combat and tech optimization. You're not researching technologies—you're stealing them. Every battle is a research opportunity, and you'll end the game with more technologies than anyone else.
 
-**The Nekro Experience:**
-You start aggressive and never stop. Your dreadnought leads early invasions targeting tech-rich opponents. Jol-Nar fears you. Argent avoids you. Naaz-Rokha watches their borders nervously. Technology Singularity transforms every combat into tech acquisition—fight early, fight often, fight smart. Your Valefar Assimilators can copy enemy faction technologies, giving you access to abilities no normal faction could stack.
+Your biggest strength is technological superiority. You don't pay for research, you take it by force. While other factions carefully choose their tech paths, you steal everything—unit upgrades, faction technologies, utility techs. Your flagship turns infantry into space combat powerhouses, making every invasion devastating.
 
-**The Challenges:**
-You cannot vote, making political objectives nearly impossible. Your 0 influence home planet means influence objectives are brutal. Everyone knows you must fight to grow stronger, which makes you predictable and easy to counter-play. Lose your flagship and you lose your space-combat superiority. Miss your agenda predictions and you miss free technologies.
-
-**What Makes It Fun:**
-Stealing double the technologies while tech factions struggle. Loading your Alastor flagship with infantry and watching them participate in space combat. Correctly predicting agendas and sniping the exact tech you need from voters. Your Commander drawing action cards every time you steal tech—by late game you're drowning in cards. Conquering home systems for tech theft while your opponents scramble to stop the virus from spreading.
-
-Play aggressive, target wisely, assimilate ruthlessly, and prove that the Nekro Virus adapts faster than any faction can innovate.
+When you master Nekro, you feel like an unstoppable force consuming the galaxy. The table will hate you, but they can't stop you from growing stronger with every combat. Nekro Virus doesn't discover technology—they assimilate it, one destroyed ship at a time.
 
 **The virus assimilates all.**
