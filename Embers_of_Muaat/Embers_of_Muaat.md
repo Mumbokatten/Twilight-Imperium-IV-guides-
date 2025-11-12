@@ -41,13 +41,7 @@ Opponents will fear your war sun. That moment when they realize they can't defen
 
 **Notes:** The only faction that starts with a war sun. This gives you massive combat power R1. The 4 infantry let you take planets, and 2 fighters provide screening. Your starting fleet is incredibly strong but expensive to move—war sun has move 1.
 
-### C. Starting Technologies
-
-- **Plasma Scoring (Red)** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
-
-**Notes:** Red starting tech opens red tech paths. Plasma Scoring synergizes perfectly with your war sun's BOMBARDMENT 3 (x3)—you can roll an additional die, making it BOMBARDMENT 3 (x4). Devastating for ground invasions.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Star Forge:** ACTION: Spend 1 token from your strategy pool to place either 2 fighters or 1 destroyer from your reinforcements in a system that contains 1 or more of your war suns.
 
@@ -56,6 +50,18 @@ Mobile production around your war suns. Spend a strategy token = instant fighter
 **Gashlai Physiology:** Your ships can move through supernovas.
 
 Unique mobility. Supernovas normally destroy ships, but yours can pass through them safely. This creates shortcuts across the map and gives you access to systems others can't reach. With Magmus Reactor tech, supernovas become PRODUCTION 5 zones for you.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+- **Plasma Scoring** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+
+**Notes:** Red starting tech opens red tech paths. Plasma Scoring synergizes perfectly with your war sun's BOMBARDMENT 3 (x3)—you can roll an additional die, making it BOMBARDMENT 3 (x4). Devastating for ground invasions.
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -136,12 +142,15 @@ Muaat needs high resources for war sun production, central positioning for map c
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Trade > Leadership > Technology**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Trade** - You have 4 commodities (highest in game). Trade agreements are critical for your economy.
-2. **Leadership** - Command tokens for Star Forge (spend strategy tokens to produce units). You need tokens to leverage your abilities.
-3. **Technology** - Get started on your tech path (Prototype War Sun II is your goal).
+1. **Expansion + Production** - Expand cautiously to 2-3 nearby systems using your 4 infantry. Your war sun (move 1) is slow and expensive to lose—don't overextend it. Use Star Forge to produce additional fighters/infantry without spending resources (exhaust strategy tokens). Secure resource planets for future war sun production.
+
+2. **Technology** - Begin tech path toward Prototype War Sun II (RRRY - move 3 upgrade). Your war sun's move 1 is your biggest weakness. Prioritize red techs early (Magen Defense Grid, Duranium Armor) to reach Prototype War Sun II by R4.
+
+3. **Scoring** - Avoid Imperial R1. You need Prototype War Sun II (R4) and Commander unlock (3 war suns) before scoring becomes efficient. Your late-game power spike requires infrastructure first.
+
+4. **Breakthrough** - Stellar Genesis (R<>Y) creates Avernus legendary planet that moves with your war sun. However, defer until after Prototype War Sun II. Magmus Reactor (RR) is your second faction tech priority.
 
 **Expansion Notes:** You have 1 war sun, 2 fighters, and 4 infantry. Your war sun is slow (move 1) and expensive to lose. Expand cautiously R1—take 2-3 nearby planets with your infantry. Don't overextend your war sun. Your goal is to secure resources and build towards a second war sun or tech upgrades.
 
@@ -173,21 +182,21 @@ Your main tech path focuses on:
 ### B. Recommended Tech Paths
 
 **Path 1: War Sun Upgrade Rush**
-1. Plasma Scoring (R) - Starting tech
-2. Magen Defense Grid (R-R) - R2
-3. Duranium Armor (R-R) - R3
-4. Sarween Tools (Y) - R3-4
-5. Prototype War Sun II (R-R-R-Y) - R4 *faction tech*
-6. Magmus Reactor (R-R) - R5 *faction tech*
+1. Plasma Scoring - Starting tech
+2. Magen Defense Grid (R) - R2
+3. Duranium Armor (RR) - R3
+4. Sarween Tools - R3-4
+5. Prototype War Sun II (RRRY) - R4 *faction tech*
+6. Magmus Reactor (RR) - R5 *faction tech*
 
 This path rushes Prototype War Sun II (move 3, cost 10) as fast as possible. The mobility upgrade is critical—moving from 1 to 3 movement transforms your war sun from slow to dominant. Prioritize this above all else.
 
 **Path 2: Economic Support**
-1. Plasma Scoring (R) - Starting tech
-2. Sarween Tools (Y) - R2
-3. Magen Defense Grid (R-R) - R3
-4. AI Development Algorithm (Y-Y) - R3-4
-5. Prototype War Sun II (R-R-R-Y) - R4-5 *faction tech*
+1. Plasma Scoring - Starting tech
+2. Sarween Tools - R2
+3. Magen Defense Grid (R) - R3
+4. AI Development Algorithm - R3-4
+5. Prototype War Sun II (RRRY) - R4-5 *faction tech*
 6. Stellar Genesis (R<>Y) - R5-6 *breakthrough*
 
 This path adds economic techs (Sarween, AI Dev) to support your expensive war sun economy before upgrading. Stellar Genesis creates Avernus legendary planet that moves with your war sun and provides free Star Forge uses.
@@ -231,30 +240,42 @@ This path prioritizes Magmus Reactor early (supernovas become PRODUCTION 5 zones
 
 ## VI. Strategy Cards
 
-### A. Round 1 Priority
+### A. Round 1
 
-1. **Trade** - You have 4 commodities. Trade agreements are critical for economy.
-2. **Leadership** - Command tokens for Star Forge and expansion.
-3. **Technology** - Get started on tech path toward Prototype War Sun II.
-4. **Construction** - Build space docks for production capacity.
-5. **Warfare** - Redeploy + free activation.
-6. **Politics** - Agenda control.
-7. **Diplomacy** - Rarely useful.
+Your R1 priority is building economy for war sun production and beginning tech path.
+
+**Round 1 Priority Ranking:**
+
+1. **Trade** - You have 4 commodities (highest in game). Critical for funding expensive war sun economy (cost 12 per war sun).
+
+2. **Leadership** - Command tokens for Star Forge (produce fighters/destroyers near war sun) and expansion. Essential CC income.
+
+3. **Technology** - Begin tech path toward Prototype War Sun II (RRRY). Mobility upgrade from move 1 to move 3 is critical.
+
+4. **Construction** - Build space docks for production capacity if needed. Less critical than Trade/Leadership.
+
+5. **Warfare** - Redeploy fleet + free activation useful for war sun positioning. Secondary is acceptable.
+
+6. **Politics** - Only 1 home influence makes voting weak. Speaker token acceptable but not priority.
+
+7. **Diplomacy** - Rarely useful for aggressive Muaat playstyle. Your war sun projects power, not defensive cards.
+
 8. **Imperial** - Never R1.
 
-### B. Round 2+ Priority
+### B. Round 2+
 
 **Love:**
-- **Trade** - Need trade good income for expensive economy.
-- **Leadership** - Command tokens for Star Forge spam.
+- **Trade** - Refresh 4 commodities for consistent trade good income. Funds Star Forge, war sun production, and technologies.
+- **Leadership** - Command tokens for Star Forge spam. With Magmus commander, spending tokens generates TGs (pay for themselves).
+- **Technology** - Stay on path toward Prototype War Sun II. Mobility upgrade (move 1 → move 3) transforms your dominance.
 
 **Good:**
-- **Technology** - Staying on tech path toward Prototype War Sun II.
-- **Imperial** - MR points when ready.
+- **Imperial** - Score objectives R3-R5. Your war sun makes Mecatol control realistic.
+- **Warfare** - Redistribution after war sun repositioning. Secondary helps allies and builds political capital.
 
 **Situational:**
-- **Construction** - Only if building more space docks.
-- **Warfare** - If playing aggressively.
+- **Construction** - Only if building additional space docks for production capacity.
+- **Politics** - Your 1 influence makes voting difficult. Magmus commander (gain TG per strategy token spent) doesn't help voting directly.
 
 ---
 
@@ -274,25 +295,6 @@ Your ideal fleet composition in each system:
 - **Mechs** - Deploy when using Star Forge nearby.
 
 Your war sun is your priority. Always protect it with screening ships. Use Star Forge to produce fighters/destroyers around your war sun as it moves.
-
-### B. Point Planning
-
-**Muaat Christmas-Land Strategy Cards:**
-
-| Round | Card       | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------|---------------|---------------|-----------|-------|-------|
-| One   | Trade      | 0             | 0             | 0         | 0     | 0     |
-| Two   | Leadership | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial   | 3             | 1             | 1         | 0     | 5     |
-| Four  | Technology | 4             | 2             | 1         | 1     | 8     |
-| Five  | Imperial   | 6             | 3             | 2         | 1     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Muaat scores with war sun objectives (Engineer a Marvel is free R1)
-- Your war sun makes combat objectives easy
-- Trade and Leadership R1-R2 build your economy, then Imperial R3 and R5
 
 ### C. Game Plan
 
@@ -331,7 +333,13 @@ Turning systems into supernovas is permanent—use it strategically.
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Muaat excels at combat objectives with war sun dominance and overwhelming firepower. Unit upgrade objectives are easy with Prototype War Sun II, and Magmus commander generates trade goods for spending objectives.
+
+**Weaknesses:** Influence spending objectives are nearly impossible with minimal home influence. Planet control objectives are challenging with slow war sun mobility, and structure objectives require significant investment beyond your core strategy.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                              | Status |
 |----------------------------------------------------------------|--------|
@@ -358,7 +366,7 @@ Turning systems into supernovas is permanent—use it strategically.
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                | Status |
 |----------------------------------------------------------------|--------|
@@ -403,7 +411,9 @@ Turning systems into supernovas is permanent—use it strategically.
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                    | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -446,7 +456,19 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Embers of Muaat is TI4's war sun superpower. Your job is to:
 

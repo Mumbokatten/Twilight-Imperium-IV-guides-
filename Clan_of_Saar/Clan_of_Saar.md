@@ -80,19 +80,7 @@ Your late-game strength is **production omnipresence and objective flexibility**
 - **If blockaded, it is destroyed** (critical weakness)
 - This is THE defining unit—treat it like a mobile production platform
 
-### C. Starting Tech
-
-**Antimass Deflectors (0-Cost - Blue):**
-*Your ships can move into and through asteroid fields. When you move a ship, you may move it through 1 system that contains another player's ships without resolving space combat.*
-
-- **0-cost technology** (doesn't count as prerequisite for most techs)
-- +1 movement capacity for ships (your carriers move 2, cruiser moves 3)
-- Can move through asteroid fields
-- Can move through opponent ships without combat (if ship has capacity)
-- Essential early mobility boost
-- Opens blue technology path
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Scavenge:**
 *After you gain control of a planet, gain 1 trade good.*
@@ -113,6 +101,43 @@ Your late-game strength is **production omnipresence and objective flexibility**
 - Unique among all factions (only Saar can ignore home)
 - Enables ultra-aggressive forward positioning
 - Home planets still provide resources/influence if controlled, but not required
+
+### D. Starting and Faction Technologies
+
+**Starting Technology:**
+
+**Antimass Deflectors:**
+*Your ships can move into and through asteroid fields. When you move a ship, you may move it through 1 system that contains another player's ships without resolving space combat.*
+
+- **0-cost technology** (doesn't count as prerequisite for most techs)
+- +1 movement capacity for ships (your carriers move 2, cruiser moves 3)
+- Can move through asteroid fields
+- Can move through opponent ships without combat (if ship has capacity)
+- Essential early mobility boost
+- Opens blue technology path
+
+**Faction Technologies:**
+
+**Floating Factory II (YY):**
+*Saar Space Dock: Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.*
+
+- Upgrade from Floating Factory I (your starting space dock)
+- **Move 2** (dramatically increased mobility from base 1)
+- **Capacity 5** (can transport 5 units)
+- **Production 7** (massive production boost from 5 → 7)
+- Essential mid-game technology to research by Round 3-4
+- Requires 2 yellow prerequisites (Sarween Tools + Hyper Metabolism or Neural Motivator)
+- Enables repositioning entire production hubs in one action
+
+**Chaos Mapping (B):**
+*Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.*
+
+- Prevents opponents from activating asteroids with your ships (area denial)
+- **Free production at start of each turn:** Produce 1 unit in systems with your production units
+- Synergizes with multiple Floating Factories (produce 1 unit at each factory location)
+- With 3 factories, get 3 free infantry/fighters per turn without spending resources
+- Requires 1 blue prerequisite (already have Antimass Deflectors)
+- High value tech for mid-late game
 
 ### E. Leaders
 
@@ -263,6 +288,18 @@ Your late-game strength is **production omnipresence and objective flexibility**
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Clan of Saar, your first turn priorities should reflect your unique mobile production strategy and aggressive expansion playstyle. Here's the recommended ordering:
+
+1. **Expansion + Production** - Your Floating Factories let you produce anywhere, and Scavenge rewards conquest. Move your starting factory to a high-resource system and begin claiming planets immediately. Antimass Deflectors + 2 carriers give you excellent Round 1 reach.
+
+2. **Technology** - Fleet Logistics (if you can get it) or pushing toward Floating Factory II is critical. However, expansion to secure resources takes priority since you need the economic base to support your mobile production.
+
+3. **Breakthrough** - Chaos Mapping and Deorbit Barrage are powerful but require established infrastructure first. Save this for mid-game once you have multiple factories positioned.
+
+4. **Scoring** - Nomadic means you can score without home control, but your real strength emerges after establishing 2-3 Floating Factories and accumulating Scavenge trade goods. Don't rush scoring Round 1—build your economic engine first.
+
 **1. Floating Factory Vulnerability:**
 Your space docks can be destroyed in combat. If blockaded (enemy ships in system with your Floating Factory), the factory is destroyed immediately. This is catastrophic: losing a Floating Factory loses production capacity AND the factory itself (cost 4-6 to rebuild). You must protect factories with fleets or retreat them from contested systems.
 
@@ -304,40 +341,40 @@ Floating Factories must be positioned aggressively to maximize production reach,
 
 Round 1: **Antimass Deflectors (starting)**
 
-Round 2-3: **Sarween Tools (Yellow) OR Hyper Metabolism (Yellow)**
+Round 2-3: **Sarween Tools OR Hyper Metabolism (GG)**
 - Sarween Tools: +1 fighter/infantry per production (economic efficiency)
 - Hyper Metabolism: +1 command token per status phase (sustainability)
 - Need 2 yellow prerequisites for Floating Factory II
 
-Round 3-4: **Floating Factory II (2 Yellow Prerequisites)**
+Round 3-4: **Floating Factory II (YY)**
 - Upgrade space docks: Move 2, Capacity 5, Production 7
 - Essential faction technology
-- Requires 2 yellow (Sarween + Hyper OR Neural Motivator)
+- Requires 2 yellow
 
-Round 4-5: **Chaos Mapping (1 Blue Prerequisite)**
+Round 4-5: **Chaos Mapping (B)**
 - Others can't activate asteroids with your ships
 - Produce 1 unit at start of turn
-- Requires 1 blue (Gravity Drive, Fleet Logistics, etc.)
+- Requires 1 blue
 
 Round 5+: **Deorbit Barrage (Blue <> Red) OR unit upgrades**
 - Deorbit: Long-range bombardment from asteroids
-- Alternative: Carrier II, Cruiser II for fleet strength
+- Alternative: Carrier II (BB), Cruiser II (GYR) for fleet strength
 
 **Alternative Path (Unit Upgrades):**
 
-Round 2: **Gravity Drive (Blue)**
+Round 2: **Gravity Drive (B)**
 - +1 movement for all ships
 - Stacks with Antimass Deflectors for carriers (move 3)
 - Opens blue path for Chaos Mapping
 
-Round 3: **Carrier II (2 Blue Prerequisites)**
+Round 3: **Carrier II (BB)**
 - Capacity 8, movement 2 (3 with Antimass), combat 9
 - Better for mass troop transport
 
-Round 4: **Sarween Tools (Yellow)**
+Round 4: **Sarween Tools**
 - Economic efficiency
 
-Round 5: **Floating Factory II (2 Yellow)**
+Round 5: **Floating Factory II (YY)**
 - Space dock upgrade
 
 ### C. Key Technologies
@@ -388,50 +425,42 @@ Round 5: **Floating Factory II (2 Yellow)**
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** ⭐⭐⭐⭐ - High Value
-Command tokens for aggressive expansion. Floating Factory mobility requires tokens. Secondary is excellent.
+Your R1 priority is expansion and building additional Floating Factories for commander unlock.
 
-**Diplomacy (2):** ⭐⭐ - Low Value
-Planet readying less critical (Nomadic lets you abandon home). Skip unless defending specific planets.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** ⭐⭐ - Low Value
-Only 1 starting influence makes politics weak. Speaker token okay, but not priority.
+1. **Construction** - Build additional Floating Factories (cost 4 each). You need 3 total for commander unlock. Essential R1 priority.
 
-**Construction (4):** ⭐⭐⭐⭐⭐ - Maximum Value
-You need multiple Floating Factories (build space docks). Each factory costs 4. Construction is essential. Top-tier Round 1.
+2. **Technology** - Begin tech path toward Floating Factory II (2 yellow prerequisites). Critical for mobility upgrade (move 2).
 
-**Trade (5):** ⭐⭐⭐ - Moderate Value
-3 commodities is average. Scavenge supplements income. Trade refreshes commodities. Secondary acceptable.
+3. **Leadership** - Command counters for expansion and factory movement. Secondary helps with production.
 
-**Warfare (6):** ⭐⭐⭐ - Moderate Value
-Remove tokens, redistribute fleets. Useful for aggressive play but not critical Round 1.
+4. **Trade** - You have 3 commodities. Scavenge supplements income but trade refreshes commodities.
 
-**Technology (7):** ⭐⭐⭐⭐⭐ - Maximum Value
-You need Floating Factory II (2 yellow), Chaos Mapping (blue), and unit upgrades. Tech path is critical. Top-tier Round 1.
+5. **Warfare** - Redistribution useful for aggressive expansion. Secondary is solid.
 
-**Imperial (8):** ⭐⭐⭐ - Moderate Value
-Scoring Round 1 is nice if objectives available. Otherwise, skip for more aggressive picks.
+6. **Politics** - Only 1 influence makes politics weak. Speaker token acceptable but not priority.
 
-### B. General Strategy Card Priority
+7. **Diplomacy** - Planet readying less critical. Nomadic lets you abandon home without penalty.
 
-**Rounds 2-3:**
-- **Construction (4):** Build 2nd-3rd Floating Factories for commander unlock
-- **Technology (7):** Push toward Floating Factory II, Chaos Mapping
-- **Leadership (1):** Command token replenishment for factory movement
-- **Warfare (6):** If conquering for Scavenge
+8. **Imperial** - Never R1.
 
-**Rounds 4-5:**
-- **Technology (7):** Complete Floating Factory II, Chaos Mapping
-- **Imperial (8):** Scoring objectives
-- **Construction (4):** If need additional factories
-- **Warfare (6):** Multi-front expansion
+### B. Round 2+
 
-**Round 6+:**
-- **Imperial (8):** Score to close out game
-- **Warfare (6):** Tactical flexibility, factory repositioning
-- **Leadership (1):** Command token management
+**Love:**
+- **Construction** - Build 2nd and 3rd Floating Factories for commander unlock. Forward factory positioning creates production nodes.
+- **Technology** - Critical for Floating Factory II (move 2, production 7) and Chaos Mapping (free production at start of turn).
+- **Leadership** - Command tokens for factory movement and Scavenge conquests. You need consistent CC income.
+
+**Good:**
+- **Imperial** - Needed for scoring R3-R5. Nomadic lets you score without home control.
+- **Trade** - Refresh 3 commodities. Scavenge provides additional TG income from conquests.
+- **Warfare** - Redistribution after mobile factory repositioning. Useful for multi-front expansion.
+
+**Situational:**
+- **Politics** - Only if you've expanded to influence planets. Your 1 home influence makes this weak otherwise.
 
 ## VII. Intermediate
 
@@ -470,27 +499,6 @@ Scoring Round 1 is nice if objectives available. Otherwise, skip for more aggres
 - Cruisers for speed and screening
 - Commander + 3 factories = distributed fighter/infantry production
 - Mechs deployed instantly via Scavenge trade goods
-
-### B. Point Planning
-
-**"Christmas Land" Scoring Table:**
-
-| Round | Public Objective 1 | Public Objective 2 | Secret Objective | Mecatol/Other | Total Points | Running Total |
-|-------|-------------------|-------------------|------------------|---------------|--------------|---------------|
-| 1 | Control 6 Planets (1) | - | - | - | 1 | 1 |
-| 2 | Spend 3 Resources (1) | 3 Ships in Non-Home (1) | Exploring Borders (1) | - | 3 | 4 |
-| 3 | 6 Technologies (1) | Control 3 Industrial (1) | - | Mecatol (1) | 3 | 7 |
-| 4 | Spend 8 Resources (2) | 5+ Technologies (2) | Win vs 3+ Ships (1) | - | 5 | 12 |
-| 5 | - | - | - | Imperial Point (1) | 1 | 13 |
-| 6 | Control 11 Planets (2) | 3 Unit Upgrades (2) | - | Support Throne (1) | 5 | 18 |
-
-This scenario shows Saar leveraging mobile production for territorial objectives, Scavenge economy for resource-spend objectives, and tech-heavy path to reach 18+ points.
-
-**Realistic Adjustments:**
-- Territorial objectives are easy (mobile factories reach any system)
-- Resource-spend objectives achievable via Scavenge trade goods
-- May not hold Mecatol Round 3 if heavily contested
-- Floating Factory mobility enables flexible objective scoring
 
 ### C. Game Plan
 
@@ -538,7 +546,13 @@ This scenario shows Saar leveraging mobile production for territorial objectives
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Saar dominates movement and positioning objectives with mobile Floating Factories and flexible production placement. Scavenge ability makes trade good spending objectives achievable, and tech objectives are easy with strong tech paths.
+
+**Weaknesses:** Structure objectives are challenging since Floating Factories are in space rather than on planets. Influence spending can be difficult with weak home system economy, requiring aggressive expansion to compensate.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -567,7 +581,7 @@ This scenario shows Saar leveraging mobile production for territorial objectives
 
 Clan of Saar excel at territorial objectives due to mobile Floating Factories enabling rapid expansion anywhere on the map.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -612,7 +626,9 @@ Clan of Saar excel at territorial objectives due to mobile Floating Factories en
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -639,6 +655,8 @@ Clan of Saar excel at territorial objectives due to mobile Floating Factories en
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 Clan of Saar excel at territorial control through mobile production. Scavenge economy enables trade good objectives.
+
+---
 
 ## IX. Alliance Priority
 
@@ -676,7 +694,19 @@ Your alliance ability (granting Scavenge to ally) is **moderately powerful** and
 - Mid alliance (Rounds 3-4): Enables joint Mecatol conquest or shared objectives
 - Late alliance (Rounds 5-6): Avoid empowering competitors; only if necessary
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 The Clan of Saar are Twilight Imperium's **mobile production masters**, fundamentally rewriting the rules of infrastructure and expansion. Your success depends on **protecting Floating Factories, leveraging Scavenge for economic snowball, and using mobility to score objectives before opponents can react**.
 

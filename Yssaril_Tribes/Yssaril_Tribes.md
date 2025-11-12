@@ -44,13 +44,7 @@ Opponents will underestimate your card advantage until they realize you're sitti
 
 **Notes:** Strong starting fleet with 2 carriers for capacity. The 5 infantry and dual carriers give you excellent R1 expansion capability—you can take 2-3 systems easily. The cruiser provides combat power and speed. Very solid defensive starting position.
 
-### C. Starting Technologies
-
-**Neural Motivator (Green)** - You have +2 starting command counters.
-
-**Notes:** One of the best starting techs in the game. +2 command counters gives you 5 tokens R1 (3 base + 2 from tech) instead of 3, enabling more activations, production secondaries, and crucially, more uses of Stall Tactics (which costs action card discards, not command counters). This accelerates your entire game.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Stall Tactics (Faction Ability):** ACTION: Discard 1 action card from your hand.
 
@@ -63,6 +57,26 @@ Your card advantage engine. Every time you draw action cards, you draw +1 additi
 **Crafty (Faction Ability):** You can have any number of action cards in your hand. Game effects cannot prevent you from using this ability.
 
 Removes the 7-card hand limit. This is HUGE. While everyone else discards down to 7, you can hold 10, 15, even 20 action cards. Combined with Scheming, you build a massive hand of perfect cards. Your hand becomes an arsenal of answers for every situation.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Neural Motivator** - You have +2 starting command counters.
+
+**Notes:** One of the best starting techs in the game. +2 command counters gives you 5 tokens R1 (3 base + 2 from tech) instead of 3, enabling more activations, production secondaries, and crucially, more uses of Stall Tactics (which costs action card discards, not command counters). This accelerates your entire game.
+
+**Faction Technologies:**
+
+**Mageon Implants (GGG):**
+*ACTION: Exhaust this card to look at another player's hand of action cards. Choose 1 of those cards and add it to your hand.*
+
+Action card theft tech. Exhaust to look at any player's action card hand and steal 1 card. Use this to take critical cards (Direct Hit, Sabotage, etc.) or deny opponents their best plays.
+
+**Transparasteel Plating (G):**
+*During your turn of the action phase, players that have passed cannot play action cards.*
+
+Anti-action card tech. During YOUR turn, passed players cannot play action cards. This shuts down late-game action card plays from passed players who are waiting to sabotage you. Excellent defensive tech.
 
 ### E. Leaders
 
@@ -145,12 +159,15 @@ Yssaril wants influence for politics, resources for production, and planet count
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Politics > Trade > Leadership**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Politics** - Control the speaker token and agendas. This is your domain.
-2. **Trade** - You have 3 commodities and need early economy for production.
-3. **Leadership** - Command tokens enable more Stall Tactics usage and expansion.
+1. **Expansion + Production** - Expand to 3-4 systems using your 2 carriers (capacity 8), 1 cruiser, and 5 infantry. Your 5 starting command counters (3 base + 2 from Neural Motivator) provide excellent flexibility. Dual carriers allow splitting forces effectively. Claim influence-heavy planets for political dominance.
+
+2. **Technology** - Begin tech path toward Mageon Implants (GGY - use other players' strategy secondaries) or unit upgrades. Neural Motivator starting tech opens green paths. Early tech acceleration supports your action card manipulation and political control.
+
+3. **Scoring** - Avoid Imperial R1. Your strength is political control (Speaker manipulation, Stall Tactics, action card draw) and Commander unlock (hold 7 action cards). Defer scoring until R2-R3 when you have action card advantage and Commander-enabled omniscience.
+
+4. **Breakthrough** - Not a priority R1. Focus on Mageon Implants faction tech and Commander unlock (7 action cards) before pursuing breakthrough technologies. Your political manipulation requires action card saturation first.
 
 **Expansion Notes:** You have 2 carriers (capacity 8 total), 1 cruiser, and 5 infantry. This gives you excellent R1 expansion capability. Aim for 3-4 systems R1. Your dual carriers let you split your forces effectively—send one carrier with 2-3 infantry to grab distant systems, and use the other carrier + cruiser for a closer cluster.
 
@@ -186,26 +203,26 @@ Your main tech path is highly flexible thanks to Y<>G breakthrough synergy. You 
 
 ### B. Tech Path 1: Political/Economic (Standard)
 
-**Starting Tech:** Neural Motivator (G)
+**Starting Tech:** Neural Motivator
 
-**Round 1: Sarween Tools (Y) OR Bio-Stims (GG)**
+**Round 1: Sarween Tools OR Bio-Stims (G)**
 - **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
   - **Why:** Economy boost for constant production. With Y<>G synergy, Sarween counts as green prerequisite.
   - **Prerequisites:** None (0)
 - **Bio-Stims:** At the end of your turn, you may exhaust this card to ready 1 planet you control with a technology specialty OR 1 of your other technologies
   - **Why:** Doubles your economic output by readying planets or readying Sarween Tools for double use. Excellent for influence-heavy slices.
-  - **Prerequisites:** 2 green (Neural Motivator + tech skip or secondary)
+  - **Prerequisites:** 1 green (Neural Motivator)
 
-**Round 2: Psychoarchaeology (YYY) - WITH YELLOW SKIP**
+**Round 2: Psychoarchaeology - WITH YELLOW SKIP**
 - When you resolve a primary or secondary ability of the Politics or Imperial strategy card, you may draw 1 action card
 - **Why:** More action card draw = more Scheming triggers = massive hand size. Synergizes perfectly with your faction identity.
-- **Prerequisites:** 3 yellow (Sarween + Neural Motivator with Y<>G + yellow skip)
+- **Prerequisites:** None (0) - base tech
 - **Note:** Only viable with yellow skip. Otherwise skip this tech.
 
-**Round 3: Gravity Drive (BB)**
+**Round 3: Gravity Drive (B)**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility for reaching distant objectives and bypassing defenses. Essential for late game repositioning.
-- **Prerequisites:** 2 blue (need to pick up blue techs)
+- **Prerequisites:** 1 blue (need to pick up blue tech)
 
 **Round 4: Transparasteel Plating (G)**
 - During your turn of the action phase, players that have passed cannot play action cards
@@ -236,28 +253,28 @@ Your main tech path is highly flexible thanks to Y<>G breakthrough synergy. You 
 
 ### C. Tech Path 2: Blue Mobility (Alternative)
 
-**Starting Tech:** Neural Motivator (G)
+**Starting Tech:** Neural Motivator
 
-**Round 1: Sarween Tools (Y) OR Scanlink Drone Network (0)**
+**Round 1: Sarween Tools OR Scanlink Drone Network**
 - **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
   - **Prerequisites:** None (0)
 - **Scanlink Drone Network:** When you activate a system, you may explore 1 planet in that system that contains 1 or more of your units
   - **Prerequisites:** None (0)
   - **Why:** Gain relic fragments and exploration bonuses. Synergizes with spreading units for Commander triggers.
 
-**Round 2: Antimass Deflectors (B) OR Gravity Drive (BB) - WITH BLUE SKIP**
+**Round 2: Antimass Deflectors OR Gravity Drive (B) - WITH BLUE SKIP**
 - **Antimass Deflectors:** Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll
-  - **Prerequisites:** 1 blue
+  - **Prerequisites:** None (0)
 - **Gravity Drive:** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-  - **Prerequisites:** 2 blue (Neural Motivator with Y<>G + blue skip)
+  - **Prerequisites:** 1 blue (with blue skip)
 
-**Round 3: Gravity Drive (BB) if skipped R2, otherwise Carrier II (BBBB)**
+**Round 3: Gravity Drive (B) if skipped R2, otherwise Carrier II (BB)**
 - **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Prerequisites:** 2 blue (Antimass + Gravity Drive OR Neural Motivator + blue skip)
+  - **Prerequisites:** 2 blue
 
-**Round 4: Cruiser II (GGGB) OR Carrier II (BBBB)**
+**Round 4: Cruiser II (GYR) OR Carrier II (BB)**
 - **Cruiser II:** Cost 2 | Combat 7 | Move 3 | CAPACITY 1
-  - **Prerequisites:** 2 green + 1 blue (Neural Motivator + green techs + blue)
+  - **Prerequisites:** 1 green + 1 yellow + 1 red
 
 **Round 5+:** Fleet Logistics, unit upgrades
 
@@ -293,11 +310,11 @@ Your main tech path is highly flexible thanks to Y<>G breakthrough synergy. You 
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
 Your R1 priority is establishing political control and economy.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Politics** - Control speaker and agendas. This is YOUR card.
 
@@ -315,7 +332,7 @@ Your R1 priority is establishing political control and economy.
 
 8. **Imperial** - Never R1.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
 - **Politics** - Control agendas, gain speaker. With Psychoarchaeology, also draw action cards. Always take this when available.
@@ -353,26 +370,6 @@ Your fleets are standard but efficient. Focus on spreading small forces (1-2 shi
 - Place ground forces on equidistant planets (see secrets when contested)
 - Spread thin presence across 6-8 systems by R3 for maximum Commander value
 
-### B. Point Planning
-
-**Yssaril Tribes Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Politics         | 0             | 0             | 0         | 0     | 0     |
-| Two   | Trade/Imperial   | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 1         | 0     | 5     |
-| Four  | Politics         | 4             | 2             | 1         | 1     | 8     |
-| Five  | Imperial         | 6             | 3             | 2         | 1     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Yssaril scores through political control (taking Imperial when ready) and seeing opponents' secrets
-- Commander lets you know opponents' secret objectives—counter their plans or steal contested objectives
-- Hero R4 cripples opponents right before critical scoring turns
-- Politics R1, R4 for agenda dominance; Imperial R2, R3, R5 for scoring
-
 ### C. Game Plan
 
 **Strategic Approach:**
@@ -406,7 +403,13 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Yssaril dominates political objectives with 5 home influence and action card manipulation abilities. Command token objectives are trivial with Neural Motivator +2 starting tokens, and information superiority from Ssruu commander enables perfect objective timing.
+
+**Weaknesses:** Resource spending objectives are challenging with only 3 home resources. Combat objectives require investment without direct military bonuses, and aggressive objectives may conflict with political manipulation strategy focus.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -435,7 +438,7 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 Yssaril excels at influence-spending objectives (Sway the Council), spread objectives (Intimidate the Council, Expand Borders), and command token objectives (Lead from the Front—you have +2 starting CCs).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -487,7 +490,7 @@ Yssaril excels at influence-spending objectives (Sway the Council), spread objec
 - **Mechanize the Military** is EASY because you deploy free mechs via Stall Tactics
 - **Commander lets you see opponents' secret objectives**—steal contested secrets or counter their plans
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -539,7 +542,19 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Yssaril Tribes is a political powerhouse with unmatched information advantage. Your job is to:
 

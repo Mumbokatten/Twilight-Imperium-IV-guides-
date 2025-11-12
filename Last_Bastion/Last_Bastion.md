@@ -276,6 +276,18 @@ This is your most critical Round 1 decision. Options:
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Last Bastion, your first turn priorities should reflect your escalating combat power and galvanize accumulation strategy. Here's the recommended ordering:
+
+1. **Technology** - Your starting tech choice (Fleet Logistics, Gravity Drive, or Sarween Tools with no prerequisites) is game-defining and permanent. Fleet Logistics (2 tactical actions) or Sarween Tools (+1 infantry per production for Liberate) are top priorities. This decision shapes your entire game.
+
+2. **Expansion + Production** - Liberate rewards conquering with infantry ≥ planet resources (readies planet immediately). Expand to 2-3 planets Round 1, bringing enough infantry to trigger ready effect. Your Helios space docks increase planet resources (+1), making even 1-resource planets valuable.
+
+3. **Breakthrough** - Phoenix Standard galvanizes 1 unit per combat (permanent +1 die). Seek early combat Round 1 to begin accumulating galvanize tokens—even small skirmishes count. Your entire power curve depends on fighting frequently to build galvanize stacks.
+
+4. **Scoring** - Your ability to score early is limited until you've accumulated 3-5 galvanized units (Round 2-3). Focus Round 1 on technology selection, territorial expansion via Liberate, and first combat victories. Scoring acceleration comes mid-game when galvanize tokens snowball.
+
 **1. Worst Commodity Economy in the Game:**
 You have only 1 commodity—the absolute lowest in TI4. Trade strategy card is nearly worthless for you, and other factions won't prioritize trading with you. Economic growth depends entirely on conquest and Helios space dock resource bonuses. You cannot compete economically with trade factions (Hacan, Nomad, Winnu).
 
@@ -309,18 +321,18 @@ Your Round 1 technology choice (blue or yellow with no prerequisites) is permane
 Detailed analysis of best choices:
 
 **Top Tier (Recommended):**
-1. **Fleet Logistics (Blue)** - 2 tactical actions per round = doubled tempo
-2. **Gravity Drive (Blue)** - +1 movement for all ships = mobility
-3. **Sarween Tools (Yellow)** - +1 fighter/infantry per production = economic efficiency for Liberate
+1. **Fleet Logistics** - 2 tactical actions per round = doubled tempo
+2. **Gravity Drive** - +1 movement for all ships = mobility
+3. **Sarween Tools** - +1 fighter/infantry per production = economic efficiency for Liberate
 
 **Mid Tier (Situational):**
-4. **Neural Motivator (Yellow)** - +1 command token per status phase = sustainability
-5. **Antimass Deflectors (Blue)** - +1 movement capacity = minor utility
+4. **Neural Motivator** - +1 command token per status phase = sustainability
+5. **Antimass Deflectors** - +1 movement capacity = minor utility
 
 **Low Tier (Avoid):**
-6. **Graviton Laser System (Yellow)** - PDS bonus; you don't build PDS early
-7. **Scanners (Blue)** - Movement + system reveal; niche utility
-8. **Predictive Intelligence (Yellow)** - Action card cancel; too situational
+6. **Graviton Laser System** - PDS bonus; you don't build PDS early
+7. **Scanners** - Movement + system reveal; niche utility
+8. **Predictive Intelligence** - Action card cancel; too situational
 
 ### B. Technology Paths
 
@@ -417,50 +429,42 @@ Round 5+: **The Icon (Yellow <> Red) OR unit upgrades**
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** ⭐⭐⭐⭐ - High Value
-Command tokens for aggressive expansion. Ordinian legendary exhausts for command token, but Leadership accelerates tempo. Secondary is excellent.
+Your R1 priority is establishing Helios space docks and beginning tech path for galvanize engine.
 
-**Diplomacy (2):** ⭐⭐ - Low Value
-Planet readying less valuable when Liberate readies planets automatically. Skip unless defending Mecatol.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** ⭐⭐⭐ - Moderate Value
-Speaker token is okay, action card draw is decent. Low influence (2) makes voting weak. Situational pick.
+1. **Technology** - You need Helios V2, Proxima Targeting, and The Icon. Tech path is critical.
 
-**Construction (4):** ⭐⭐⭐⭐⭐ - Maximum Value
-You need more Helios space docks to increase planet resources. Each Helios dock transforms a planet's economy. Top-tier Round 1.
+2. **Construction** - You need more Helios space docks to increase planet resources. Each Helios dock transforms a planet's economy.
 
-**Trade (5):** ⭐ - Minimum Value
-Only 1 commodity. Worst Trade faction in the game. Never pick unless absolutely desperate.
+3. **Warfare** - Remove tokens, redistribute fleets, seek combats to galvanize units.
 
-**Warfare (6):** ⭐⭐⭐⭐ - High Value
-Remove tokens, redistribute fleets, seek combats to galvanize units. Solid aggressive pick.
+4. **Leadership** - Command tokens for aggressive expansion. Ordinian legendary exhausts for command token, but Leadership accelerates tempo.
 
-**Technology (7):** ⭐⭐⭐⭐⭐ - Maximum Value
-You need Helios V2, Proxima Targeting, and The Icon. Tech path is critical. Top-tier Round 1.
+5. **Imperial** - Scoring is nice if objectives are scoreable.
 
-**Imperial (8):** ⭐⭐⭐ - Moderate Value
-Scoring is nice if objectives are scoreable. Otherwise, aggressive picks (Construction, Technology) are better.
+6. **Politics** - Speaker token is okay, action card draw is decent. Low influence (2) makes voting weak.
 
-### B. General Strategy Card Priority
+7. **Diplomacy** - Planet readying less valuable when Liberate readies planets automatically. Skip unless defending Mecatol.
 
-**Rounds 2-3:**
-- **Technology (7):** Push toward Helios V2, Proxima Targeting
-- **Construction (4):** Build Helios space docks to increase planet resources
-- **Warfare (6):** Seek combats to galvanize units
-- **Leadership (1):** Command token replenishment for sustained aggression
+8. **Trade** - Only 1 commodity. Worst Trade faction in the game. Never pick unless absolutely desperate.
 
-**Rounds 4-5:**
-- **Warfare (6):** Multi-front combats, galvanize accumulation
-- **Imperial (8):** Scoring from objectives
-- **Technology (7):** The Icon breakthrough
-- **Construction (4):** Forward space docks if needed
+### B. Round 2+
 
-**Round 6+:**
-- **Imperial (8):** Score to close out the game
-- **Warfare (6):** Tactical flexibility, galvanize final units
-- **Leadership (1):** Command token pool management
+**Love:**
+- **Technology** - Push toward Helios V2, Proxima Targeting, and The Icon breakthrough. Essential for galvanize engine.
+- **Construction** - Build Helios space docks to increase planet resources. Each dock provides economic boost.
+- **Warfare** - Seek combats to galvanize units. Multi-front combats for maximum galvanize accumulation.
+
+**Like:**
+- **Imperial** - Score objectives. Needed rounds 3-5.
+- **Leadership** - Command token replenishment for sustained aggression.
+
+**Situational:**
+- **Politics** - Low influence (2) makes voting difficult. Only take if needed for speaker or agendas.
+- **Diplomacy** - Liberate ability already readies planets. Rarely useful.
 
 ## VII. Intermediate
 
@@ -501,27 +505,6 @@ Scoring is nice if objectives are scoreable. Otherwise, aggressive picks (Constr
 - Carriers for transport, not galvanize priority
 - Infantry spam for Liberate
 - Flagship becomes game-winning late-game with 8+ planets
-
-### B. Point Planning
-
-**"Christmas Land" Scoring Table:**
-
-| Round | Public Objective 1 | Public Objective 2 | Secret Objective | Mecatol/Other | Total Points | Running Total |
-|-------|-------------------|-------------------|------------------|---------------|--------------|---------------|
-| 1 | Control 6 Planets (1) | - | - | - | 1 | 1 |
-| 2 | 6 Technologies (1) | 3 Ships in Non-Home (1) | Exploring Borders (1) | - | 3 | 4 |
-| 3 | Spend 8 Resources (1) | Control 3 Cultural (1) | - | Mecatol (1) | 3 | 7 |
-| 4 | Control 11 Planets (2) | 5+ Technologies (2) | Win vs 3+ Ships (1) | - | 5 | 12 |
-| 5 | - | - | - | Imperial Point (1) | 1 | 13 |
-| 6 | Win vs 2 Ships (2 systems) (2) | Spend 8 Resources (2) | - | Support Throne (1) | 5 | 18 |
-
-This scenario shows Last Bastion leveraging territorial control (Liberate expansion), combat objectives (galvanized fleets), and Helios resource economy to reach 18+ points.
-
-**Realistic Adjustments:**
-- Territorial objectives fit naturally (Liberate readies planets)
-- Combat objectives achievable with galvanized fleets
-- Resource-spend objectives easy with Helios V2 bonuses
-- May not hold Mecatol Round 3 if contested heavily
 
 ### C. Game Plan
 
@@ -570,7 +553,13 @@ This scenario shows Last Bastion leveraging territorial control (Liberate expans
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Last Bastion excels at combat objectives with galvanized units providing consistent combat bonuses. Tech objectives are achievable with strong tech paths, and territorial objectives benefit from Phoenix Standard unit recursion enabling persistent board presence.
+
+**Weaknesses:** Trade good spending objectives are very difficult with only 1 commodity and no natural TG generation. Influence spending can be challenging depending on slice composition, and structure objectives require deliberate investment.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -599,7 +588,7 @@ This scenario shows Last Bastion leveraging territorial control (Liberate expans
 
 Last Bastion excel at territorial and combat objectives through Liberate readying and galvanized unit scaling.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -644,7 +633,7 @@ Last Bastion excel at territorial and combat objectives through Liberate readyin
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟡     |
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -712,7 +701,19 @@ Your alliance ability (granting Phoenix Standard) is **moderately powerful** and
 - Mid alliance (Rounds 3-4): Enables joint Mecatol conquest or shared combat objectives
 - Late alliance (Rounds 5-6): Avoid empowering competitors; only if necessary
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 The Last Bastion are a **snowballing combat faction** that transforms every fight into a permanent power increase through galvanize tokens. Your success depends on **seeking frequent combats, leveraging Liberate for economic acceleration, and scaling your flagship to game-winning combat values**.
 

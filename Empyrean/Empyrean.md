@@ -41,13 +41,7 @@ Your home system provides excellent influence (4) and sits in a nebula. The nebu
 
 Two starting carriers gives you excellent transport capacity for early expansion. The destroyer provides anti-fighter barrage protection.
 
-### C. Starting Tech
-
-**Dark Energy Tap (Green):** After you research a technology that is not a faction technology, you may exhaust this card to draw 1 secret objective.
-
-This is a unique starting tech that generates secret objectives whenever you research tech. It accelerates your secret objective completion and gives you choice in which secrets to pursue.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Voidborn:** Nebulae do not affect your ships' movement.
 
@@ -60,6 +54,18 @@ You can grant opponents permission to move through your units. This breaks norma
 **Dark Whispers:** During setup, take the additional Empyrean faction promissory note; you have 2 faction promissory notes.
 
 You start with two different promissory notes instead of one. This doubles your diplomatic leverage and creates multiple alliance paths.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Dark Energy Tap:** After you research a technology that is not a faction technology, you may exhaust this card to draw 1 secret objective.
+
+This is a unique starting tech that generates secret objectives whenever you research tech. It accelerates your secret objective completion and gives you choice in which secrets to pursue.
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -142,6 +148,18 @@ You're not desperate for early strategy cards but benefit from controlling when 
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Empyrean, your first turn priorities should reflect your diplomatic positioning and nebula mobility advantage. Here's the recommended ordering:
+
+1. **Expansion + Production** - Your Voidborn ability lets you move through nebulae at full speed while opponents crawl. Claim nebula systems Round 1 that others cannot easily reach. Your 4-influence home system and 4 commodities support this expansion.
+
+2. **Breakthrough** - Establishing neighbor relationships is critical since your commander requires neighboring ALL players. Trade your two promissory notes (Blood Pact + Dark Pact) early to build diplomatic capital while expanding toward multiple players' borders.
+
+3. **Technology** - Dark Energy Tap (starting tech) draws secret objectives when you research non-faction tech. However, diplomatic positioning and territorial control come first—secrets require board presence to complete.
+
+4. **Scoring** - Your ability to score early is limited until you've established neighbor relationships and positioned for your commander unlock. Focus Rounds 1-2 on expansion and diplomacy; scoring acceleration comes Round 3+ when you're neighbors with most/all players.
+
 **Commander Unlock Difficulty:** Requiring neighbor status with ALL players is challenging. On large maps or with isolated positions, you may never unlock commander. This makes slice selection critical.
 
 **Influence Dependency:** Your flagship repairs cost influence, and you need influence for politics. Your home system provides 4, but you can become influence-starved quickly.
@@ -164,19 +182,19 @@ You're not desperate for early strategy cards but benefit from controlling when 
 
 **Path 1 - Diplomatic Leverage:**
 1. Dark Energy Tap (starting)
-2. Hyper Metabolism (Green-Green) - Ready planets for influence spending
-3. Aetherstream (Blue-Blue-Green) - Faction tech providing movement bonuses
-4. Voidwatch (Green-Green-Green) - Faction tech extracting promissory notes
-5. Psychoarchaeology (Green-Green-Green-Green) - Exploration value
+2. Hyper Metabolism (GG) - Ready planets for influence spending
+3. Aetherstream (BBG) - Faction tech providing movement bonuses
+4. Voidwatch (GGG) - Faction tech extracting promissory notes
+5. Psychoarchaeology - Exploration value
 
 This path maximizes your diplomatic and exploration advantages.
 
 **Path 2 - Balanced Growth:**
 1. Dark Energy Tap (starting)
-2. Gravity Drive (Blue) - Movement is always valuable
-3. Sarween Tools (Yellow) - Economic efficiency
-4. Aetherstream (Blue-Blue-Green) - Faction tech
-5. Carrier II or Dreadnought II
+2. Gravity Drive (B) - Movement is always valuable
+3. Sarween Tools - Economic efficiency
+4. Aetherstream (BBG) - Faction tech
+5. Carrier II (BB) or Dreadnought II (BBY)
 
 Balances diplomatic tech with military and economic capability.
 
@@ -207,34 +225,43 @@ Rushes to Void Tether for adjacency control.
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** **Good**. Command tokens are valuable for wide expansion to neighbor all players.
+Your R1 priority is wide expansion to neighbor all players and establish economic base.
 
-**Diplomacy (2):** **Like**. You can lock down systems while using Aetherpassage to move through them anyway.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** **Good**. 4 influence from home makes politics viable. Speaker priority helps.
+1. **Trade** - 4 commodities + Dark Pact promissory note makes Trade valuable for economic foundation.
 
-**Construction (4):** **Good**. Extra space dock or PDS supports wide expansion.
+2. **Leadership** - Command tokens are valuable for wide expansion to neighbor all players.
 
-**Trade (5):** **Great**. 4 commodities + Dark Pact promissory note makes Trade valuable.
+3. **Technology** - Dark Energy Tap rewards tech research with secret objectives.
 
-**Warfare (6):** **Moderate**. Fleet token return is fine but not essential.
+4. **Politics** - 4 influence from home makes politics viable. Speaker priority helps.
 
-**Technology (7):** **Like**. Dark Energy Tap rewards tech research with secret objectives.
+5. **Construction** - Extra space dock or PDS supports wide expansion.
 
-**Imperial (8):** **Good**. Points are always good; Mecatol control is achievable.
+6. **Imperial** - Points are always good; Mecatol control is achievable.
 
-### B. General Strategy Card Priority
+7. **Diplomacy** - You can lock down systems while using Aetherpassage to move through them anyway.
 
-**Early Game (Rounds 1-2):**
-Trade > Leadership > Technology > Politics
+8. **Warfare** - Fleet token return is fine but not essential.
 
-**Mid Game (Rounds 3-4):**
-Imperial > Leadership > Trade > Technology
+### B. Round 2+
 
-**Late Game (Rounds 5+):**
-Imperial > Leadership > Politics > Warfare
+**Love:**
+- **Imperial** - Score objectives. Your mobility via Aetherpassage enables Mecatol control.
+- **Leadership** - Command tokens for continued expansion and Aetherpassage activations.
+- **Trade** - Refresh 4 commodities for consistent economy. Dark Pact provides additional value.
+
+**Like:**
+- **Technology** - Dark Energy Tap and tech path progression. Secret objectives reward tech diversity.
+- **Politics** - 4 home influence makes voting viable. Speaker priority for next round.
+
+**Situational:**
+- **Construction** - Only if you need additional space docks or PDS for expansion.
+- **Warfare** - Fleet token return useful for specific aggressive plays or repositioning.
+- **Diplomacy** - Lock down systems while bypassing them with Aetherpassage. Niche utility.
 
 ## VII. Intermediate
 
@@ -265,27 +292,6 @@ Imperial > Leadership > Politics > Warfare
 - Your carriers need to be spread across the map to neighbor all players
 - Don't over-invest in combat; you win through positioning and diplomacy
 - Keep infantry reserves for exploration with hero
-
-### B. Point Planning
-
-**Christmas Land Scoring (10-point game):**
-
-| Round | Public | Secret | MR | Bonus | Total | Cumulative |
-|-------|--------|--------|-----|-------|-------|------------|
-| 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | 1 | 0 | 0 | 0 | 1 | 1 |
-| 3 | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | 1 | 0 | 0 | 0 | 1 | 4 |
-| 5 | 1 | 0 | 1 | 0 | 2 | 6 |
-| 6 | 1 | 0 | 1 | 0 | 2 | 8 |
-| 7 | 1 | 1 | 0 | 0 | 2 | 10 |
-
-**Notes:**
-- Round 2: Score exploration or planet objective (you're good at expansion)
-- Round 3: Dark Energy Tap provides secret objective draw; score first secret
-- Round 4: Continue public progression
-- Round 5-6: Hold Mecatol with diplomatic positioning and Aetherpassage mobility
-- Round 7: Hero enables exploration secret or second secret completion
 
 ### C. Game Plan
 
@@ -328,7 +334,13 @@ If both holders honor the pacts, you gain +4 votes when aligned politically and 
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Empyrean excels at neighbor-based objectives with Nebula ability encouraging wide expansion. Influence spending is easy with many planets, and Xuange commander helps recover tokens for scoring flexibility. Structure objectives benefit from aggressive expansion patterns.
+
+**Weaknesses:** Combat objectives are harder without direct military bonuses, requiring fleet investment. Tech diversity objectives can be challenging depending on your chosen paths, and resource spending may be difficult if you prioritize influence-heavy planets.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -357,7 +369,7 @@ If both holders honor the pacts, you gain +4 votes when aligned politically and 
 
 Empyrean excel at wide expansion objectives to neighbor all players for commander unlock.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -402,7 +414,7 @@ Empyrean excel at wide expansion objectives to neighbor all players for commande
 | Stake Your Claim (Control planet in contested system)                   | 🔴     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -452,7 +464,19 @@ Empyrean's wide expansion and neighbor network excel at territorial and diplomat
 
 3. **Mentak Coalition:** Pirates don't synergize with your diplomatic play style
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Empyrean are the faction for players who love spatial reasoning, diplomatic maneuvering, and long-term planning. You're not the flashiest faction - no war suns, no massive fleets, no instant-win abilities. You're the faction that controls the board through movement permission, toll collection, and strategic positioning.
 

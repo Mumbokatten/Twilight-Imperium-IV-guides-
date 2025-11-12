@@ -42,15 +42,7 @@ Opponents will struggle to compete—you act first, score first, and retreat bef
 
 **Notes:** Solid starting fleet with carrier + cruiser + destroyer for immediate expansion. You start with 3 Hybrid Crystal Fighters (Combat 8, Capacity 1 each). The starting PDS provides home defense. Your fighters can already transport infantry from turn 1—exceptional early capacity.
 
-### C. Starting Technologies
-
-**Sarween Tools (Yellow)** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
-
-**Neural Motivator (Green)** - When you gain command tokens during the status phase, gain 1 additional command token.
-
-**Notes:** Two starting techs (strong position). Sarween Tools is one of the best techs in the game—saves 1 resource per production, adding up to 20-30 saved resources over a game. Neural Motivator gives +1 CC per status phase (5 rounds = 5 extra CCs). Excellent economic foundation.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Telepathic (Faction Ability):** At the end of the strategy phase, place the Naalu "0" token on your strategy card; you are first in initiative order.
 
@@ -59,6 +51,30 @@ Your defining ability. At end of strategy phase, you become initiative 0—you a
 **Foresight (Faction Ability):** After another player moves ships into a system that contains 1 or more of your ships, you may place 1 token from your strategy pool in an adjacent system that does not contain another player's ships; move your ships from the active system into that system.
 
 Pre-combat retreat ability. When opponent activates a system with your ships, you may spend 1 CC from strategy pool to move ALL your ships to an adjacent empty system. This happens BEFORE combat—you retreat before battle begins. Use this to preserve forces, bait opponent CCs, or avoid bad fights. Key limitation: only works when OPPONENT activates (not you).
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
+
+**Neural Motivator** - When you gain command tokens during the status phase, gain 1 additional command token.
+
+**Notes:** Two starting techs (strong position). Sarween Tools is one of the best techs in the game—saves 1 resource per production, adding up to 20-30 saved resources over a game. Neural Motivator gives +1 CC per status phase (5 rounds = 5 extra CCs). Excellent economic foundation.
+
+**Faction Technologies:**
+
+**Hybrid Crystal Fighter II (GB):**
+*Naalu Fighter - Combat: 7 | Move: 2*
+
+This unit may move without being transported. Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool.
+
+Upgraded fighters with Combat 7 (instead of 8), Move 2, can move independently, and only count as 0.5 ships against fleet pool when exceeding capacity. Makes your fighter swarms incredibly flexible.
+
+**Neuroglaive (GGG):**
+*After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.*
+
+Punishes opponents for activating systems with your ships. They lose 1 token from fleet pool (reducing their fleet capacity). Stacks with Foresight to make attacking you very expensive.
 
 ### E. Leaders
 
@@ -115,13 +131,13 @@ Fighters-as-ground-forces flagship. During invasions, your fighters can particip
 
 ### J. Faction Technologies
 
-**Hybrid Crystal Fighter II (Green/Blue)** - Naalu Fighter II
+**Hybrid Crystal Fighter II (GB)** - Naalu Fighter II
 
 Combat: 7 | Move: 2 | This unit may move without being transported. Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool.
 
 Your fighter upgrade. Combat improves from 8 to 7, Move 2, can move independently (don't need carriers to move them), and excess fighters count as 0.5 ships for fleet pool (you can have 2x fighters in fleet). With Capacity 1 retained, these are devastating. Fighters become Combat 7, Move 2, Capacity 1, independent movement, half fleet cost. Research this R3-4.
 
-**Neuroglaive (Green/Green/Green)** - After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.
+**Neuroglaive (GGG)** - After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.
 
 Triple-green tech. When opponent activates system with your ships, they lose 1 fleet supply token (returns to reinforcements, not their pools). This reduces their fleet capacity by 1. If you have fighters in 5 opponent systems, they lose 5 fleet supply—crippling. The 3 green prerequisite is steep—only research if heavily invested in green (Neural Motivator → Bio-Stims → Neuroglaive).
 
@@ -134,6 +150,18 @@ Free secondaries via promissory. When following another player's strategy card s
 ---
 
 ## IV. Structural Weaknesses
+
+### A. First Turn Priorities
+
+As Naalu Collective, your first turn priorities should reflect your initiative-0 dominance and fighter swarm strategy. Here's the recommended ordering:
+
+1. **Scoring** - Your Telepathic ability (initiative 0 every round) lets you act FIRST before everyone else. This means you can score objectives before opponents, claim Mecatol Rex when you choose, and position perfectly with full information. Take Imperial strategy card when objectives are available—you score them first.
+
+2. **Expansion + Production** - Your Hybrid Crystal Fighters (Combat 8, Capacity 1 each) provide incredible transport efficiency. Build 4-6 additional fighters Round 1 for total 9-10 fighters with 9-10 infantry capacity. Expand to 2-3 systems immediately. Sarween Tools + Neural Motivator (starting techs) support this.
+
+3. **Technology** - Push toward Hybrid Crystal Fighter II (Combat 7, Move 2, independent movement) or Carrier II for enhanced transport. However, leveraging your initiative-0 advantage comes first—act first to steal objectives, then tech to enhance fighters.
+
+4. **Breakthrough** - Mindsieve (free secondaries via promissory notes) is powerful but requires red + green investment. Your early strength is acting first and fighter swarms, not breakthrough economics yet.
 
 ### A. Low Starting Economy
 
@@ -217,41 +245,41 @@ Your power revolves around fighters. Factions with strong AFB (Anti-Fighter Barr
 
 ## VI. Strategy Cards
 
-### Round One
+### A. Round 1
 
-**GREAT:**
-- Warfare (enables R1 aggression + exploration)
-- Technology (progress toward Carrier II or Fighter II)
-- Leadership (CCs for expansion)
+Your R1 priority is leveraging initiative-0 for aggressive expansion and beginning tech path.
 
-**GOOD:**
-- Trade (3 commodities + TGs)
-- Politics (Speaker for agenda control—though you already act first!)
+**Round 1 Priority Ranking:**
 
-**MEDIOCRE:**
-- Construction (forward dock is okay)
-- Imperial (unlikely to score R1, even with initiative-0)
+1. **Warfare** - Enables R1 aggression + exploration. Unlock fleets after attacks.
 
-**BAD:**
-- Diplomacy (you have Foresight for defense; redundant)
+2. **Technology** - Progress toward Carrier II or Fighter II upgrades.
 
-### General Preferences
+3. **Leadership** - CCs for expansion + Neural Motivator synergy.
 
-**Leadership:** LOVE - CCs for expansion + Neural Motivator synergy.
+4. **Trade** - 3 commodities + TG generation for economic base.
 
-**Diplomacy:** LIKE - Additional protection beyond Foresight.
+5. **Politics** - Agenda control. Note: Speaker less valuable (you already act first with initiative-0).
 
-**Politics:** LIKE - Agenda control. Note: Speaker is less valuable for you (you already act first).
+6. **Construction** - Forward dock is okay for expansion.
 
-**Construction:** LIKE - Forward dock for continued expansion.
+7. **Imperial** - Unlikely to score R1, even with initiative-0.
 
-**Trade:** LOVE - 3 commodities + TG generation.
+8. **Diplomacy** - You have Foresight for defense; redundant.
 
-**Warfare:** LOVE - Unlock fleets after attacks.
+### B. Round 2+
 
-**Technology:** LOVE - Carrier II and Fighter II upgrades.
+**Love:**
+- **Leadership** - CCs for expansion + Neural Motivator synergy.
+- **Trade** - 3 commodities + TG generation for economic support.
+- **Warfare** - Unlock fleets after attacks. Essential for aggressive play.
+- **Technology** - Carrier II and Fighter II upgrades. Critical for fleet strength.
+- **Imperial** - Initiative-0 lets you score FIRST before everyone else can react.
 
-**Imperial:** LOVE - Initiative-0 lets you score FIRST before everyone else.
+**Like:**
+- **Politics** - Agenda control. Speaker less critical since you already act first.
+- **Construction** - Forward dock for continued expansion.
+- **Diplomacy** - Additional protection beyond Foresight.
 
 ---
 
@@ -381,7 +409,13 @@ Your Hero (R4-5) forces all opponents to give you 1 promissory each:
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Naalu dominates objective timing with initiative-0 Telepathic ability, allowing first action to score before opponents. Fighter superiority through Hybrid Crystal Fighters makes combat objectives achievable, and mobility from fighters with capacity enables territorial scoring.
+
+**Weaknesses:** Spending objectives are challenging with weak home economy (3/3 total). Tech objectives require investment despite starting with two techs, and structure objectives need deliberate focus beyond fighter-focused strategy.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -412,7 +446,7 @@ Naalu excels at CC spending (Neural Motivator generates extra CCs), tech objecti
 
 **Initiative-0 Bonus:** You can score objectives FIRST before opponents, effectively "stealing" objectives that multiple players could complete.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -463,7 +497,7 @@ Naalu excels at CC spending (Neural Motivator generates extra CCs), tech objecti
 - **Control the Region** is EASY—fighter swarms create cheap ship presence everywhere
 - Initiative-0 lets you score secrets FIRST before opponents can complete them
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -538,7 +572,19 @@ Naalu excels at CC spending (Neural Motivator generates extra CCs), tech objecti
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Naalu Collective rewards:
 - **Initiative-0 mastery:** Always act first—steal objectives, claim MR, position perfectly

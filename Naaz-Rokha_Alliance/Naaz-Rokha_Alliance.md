@@ -43,9 +43,9 @@ Opponents will compete with you for exploration—Nomad, Nekro (via predictions)
 
 ### C. Starting Technologies
 
-**Psychoarchaeology (Blue)** - When 1 or more of your units use PRODUCTION in a system, you may exhaust this card to reduce the cost of 1 of those units by 2.
+**Psychoarchaeology** - When 1 or more of your units use PRODUCTION in a system, you may exhaust this card to reduce the cost of 1 of those units by 2.
 
-**AI Development Algorithm (Yellow)** - When you research a unit upgrade technology, you may exhaust this card to ignore 1 prerequisite.
+**AI Development Algorithm** - When you research a unit upgrade technology, you may exhaust this card to ignore 1 prerequisite.
 
 **Notes:** Psychoarchaeology is niche—saves 2 resources when producing (useful for expensive units like dreadnoughts/war suns). AI Dev Algorithm is excellent—you'll research 3-4 unit upgrades, and this skips prerequisites for all of them. Both yellow and blue starting techs give you flexible tech paths.
 
@@ -152,6 +152,18 @@ Super-mech breakthrough. When you have 4 mechs in one system, sacrifice 3 to cre
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Naaz-Rokha Alliance, your first turn priorities should reflect your exploration and relic fragment specialization. Here's the recommended ordering:
+
+1. **Expansion + Production** - Your Distant Suns ability (explore twice with mechs) requires claiming planets with frontier tokens. Expand aggressively Round 1 to 2-3 systems with unexplored planets. Your 4 resources and 2 influence from home support this expansion.
+
+2. **Breakthrough** - Immediately deploy mechs to planets with frontier tokens and explore twice per planet. Each double-exploration generates 2 relic fragments on average. Build toward 3 fragments for Fabrication (convert to relics or command tokens). Exploration dominance is your core identity.
+
+3. **Scoring** - Score exploration-based secrets early (discover lost outposts, control planets with attachments). Your ability to explore faster than anyone else makes these secrets easier. Territory objectives also benefit from aggressive expansion.
+
+4. **Technology** - Push toward unit upgrades or Temporal Cascade (mech production tech) for more Distant Suns triggers. However, exploration and fragment collection come first—tech enhances an existing exploration engine.
+
 ### A. Exploration Dependency
 
 Your faction revolves around exploration. If opponents explore all planets before you, or if the map has few planets, you're crippled. You must explore aggressively R1-3.
@@ -234,42 +246,41 @@ You can only have a finite number of mechs (8-10 total in reinforcements dependi
 
 ## VI. Strategy Cards
 
-### Round One
+### A. Round 1
 
-**GREAT:**
-- Warfare (enables R1 aggression + exploration expansion)
-- Technology (get Sarween Tools or progress toward Supercharge)
-- Construction (build forward space dock for continued expansion)
+Your R1 priority is aggressive exploration and expansion to trigger Distant Suns benefits.
 
-**GOOD:**
-- Trade (3 commodities + TGs for expansion)
-- Leadership (CCs for exploration activations)
-- Politics (Speaker for agenda control)
+**Round 1 Priority Ranking:**
 
-**MEDIOCRE:**
-- Imperial (unlikely to score R1)
-- Diplomacy (protecting home is fine but not priority)
+1. **Warfare** - Enables R1 aggression + exploration expansion. You expand and explore constantly.
 
-**BAD:**
-- (None particularly bad)
+2. **Technology** - Get Sarween Tools or progress toward Supercharge. Tech path includes 3-4 unit upgrades.
 
-### General Preferences
+3. **Construction** - Build forward space dock for continued expansion and deeper exploration.
 
-**Leadership:** LOVE - CCs fuel exploration and expansion.
+4. **Trade** - 3 commodities + TGs for expansion. TG generation from ally exploration.
 
-**Diplomacy:** LIKE - Protect explored planets while pushing forward.
+5. **Leadership** - CCs fuel exploration and expansion activations.
 
-**Politics:** LOVE - Speaker + agenda control.
+6. **Politics** - Speaker + agenda control.
 
-**Construction:** LIKE - Forward space dock enables deeper exploration.
+7. **Imperial** - Unlikely to score R1.
 
-**Trade:** LIKE - 3 commodities + TG generation from ally exploration.
+8. **Diplomacy** - Protecting home is fine but not priority.
 
-**Warfare:** LOVE - You expand and explore constantly. Unlocking fleets is critical.
+### B. Round 2+
 
-**Technology:** LOVE - Tech path includes 3-4 unit upgrades + Supercharge.
+**Love:**
+- **Warfare** - You expand and explore constantly. Unlocking fleets is critical.
+- **Technology** - Tech path includes 3-4 unit upgrades + Supercharge. Essential progression.
+- **Leadership** - CCs fuel exploration and expansion.
+- **Politics** - Speaker + agenda control.
+- **Imperial** - Points are points. Needed rounds 3-5.
 
-**Imperial:** NEED - Points are points.
+**Like:**
+- **Construction** - Forward space dock enables deeper exploration.
+- **Trade** - 3 commodities + TG generation from ally exploration.
+- **Diplomacy** - Protect explored planets while pushing forward.
 
 ---
 
@@ -379,7 +390,13 @@ Your Hero (R4-5 typically) does 3 things in one action:
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Naaz-Rokha excels at exploration objectives with mechanics that generate fragments and convert them to relics efficiently. Tech objectives benefit from exploration rewards, and mech deployment through exploration provides ground force advantages for planet control.
+
+**Weaknesses:** Combat objectives are harder without direct military bonuses, requiring fleet investment. Spending objectives can be challenging depending on exploration luck, and influence spending may be difficult with variable planet acquisition.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -408,7 +425,7 @@ Your Hero (R4-5 typically) does 3 things in one action:
 
 Naaz-Rokha excels at exploration objectives (you explore more efficiently), CC spending (Fabrication generates CCs), and tech objectives (2 starting techs + AI Dev). You're average at resource/influence spending (low home economy).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -458,7 +475,7 @@ Naaz-Rokha excels at exploration objectives (you explore more efficiently), CC s
 - **Mechanize the Military** is EASY—you place mechs frequently for Distant Suns
 - Exploration-heavy secrets favor Naaz-Rokha's aggressive exploration playstyle
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -533,7 +550,19 @@ Naaz-Rokha excels at exploration objectives (you explore more efficiently), CC s
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Naaz-Rokha Alliance rewards:
 - **Aggressive exploration:** You must explore 8-10+ planets by R4

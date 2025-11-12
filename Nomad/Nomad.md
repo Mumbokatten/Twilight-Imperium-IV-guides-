@@ -41,13 +41,7 @@ Opponents will underestimate your political power until you've extracted 3 separ
 
 **Notes:** You start with your flagship on the board, which is rare. The Memoria flagship has AFB 8(x3)—devastating against fighter swarms. Your starting fleet is mobile but not particularly strong in combat. Focus on expansion and mech placement R1-2 rather than aggression.
 
-### C. Starting Technologies
-
-**Sling Relay (Blue)** - During your tactical actions, if you do not control a planet in the active system, exhausted planets you control refresh before you produce units.
-
-**Notes:** Incredibly powerful starting tech. Sling Relay lets you double-tap planets for production—exhaust for resources, produce, then they refresh for next activation. This effectively doubles your economy when expanding into unoccupied systems. Excellent for R1-2 expansion.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **The Company (Faction Ability):** During setup, take the 2 additional Nomad faction agents and place them next to your faction sheet; you have 3 agents.
 
@@ -56,6 +50,28 @@ Your defining ability. You have THREE agents instead of one—Thundarian (combat
 **Future Sight (Faction Ability):** During the agenda phase, after an outcome you voted for or predicted is resolved, gain 1 trade good.
 
 Voting rewards ability. If you vote correctly OR predict correctly (via Riders/Xxcha), gain 1 TG. Over a game, this generates 8-15 TGs just from voting with the majority. Incentivizes political reads and coalition-building.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Sling Relay (Blue)** - During your tactical actions, if you do not control a planet in the active system, exhausted planets you control refresh before you produce units.
+
+**Notes:** Incredibly powerful starting tech. Sling Relay lets you double-tap planets for production—exhaust for resources, produce, then they refresh for next activation. This effectively doubles your economy when expanding into unoccupied systems. Excellent for R1-2 expansion.
+
+**Faction Technologies:**
+
+**Memoria II (GBY):**
+*Nomad Flagship - Cost: 8 | Combat: 5 (x2) | Move: 2 | Capacity: 6 | Sustain Damage | ANTI-FIGHTER BARRAGE 5 (x3)*
+
+You may treat this unit as if it were adjacent to systems that contain 1 or more of your mechs.
+
+Upgraded flagship with Move 2 (instead of 1), Capacity 6 (instead of 3), and can be treated as adjacent to systems with your mechs (enables mech-based teleportation).
+
+**Temporal Command Suite (Y):**
+*After any player's agent becomes exhausted, you may exhaust this card to ready that agent; if you ready another player's agent, you may perform a transaction with that player.*
+
+Agent-ready tech. When any agent (yours or opponents') is exhausted, exhaust this to ready it. If you ready an opponent's agent, make a transaction with them. Incredible political leverage and allows double-use of agents.
 
 ### E. Leaders
 
@@ -135,7 +151,7 @@ You may treat this unit as if it were adjacent to systems that contain 1 or more
 
 Flagship upgrade with better stats. Combat drops from 7 to 5 (worse), but AFB improves from 8 to 5 (better hit chance), Move increases from 1 to 2, and Capacity from 3 to 6. The 3-color prerequisite is steep—only research if you're heavily invested in tech.
 
-**Temporal Command Suite (Yellow)**
+**Temporal Command Suite (Y)**
 
 After any player's agent becomes exhausted, you may exhaust this card to ready that agent; if you ready another player's agent, you may perform a transaction with that player.
 
@@ -152,6 +168,18 @@ More agent manipulation. Exhaust one agent to ready another at start of any turn
 ---
 
 ## IV. Structural Weaknesses
+
+### A. First Turn Priorities
+
+As Nomad, your first turn priorities should reflect your unique triple-agent economy and mobile Memoria flagship. Here's the recommended ordering:
+
+1. **Scoring** - The Company ability (use 3 agents each once per round without exhausting) makes you incredibly flexible. Your starting tech (Sling Relay: ready planets after producing in uncontrolled systems) enables rapid expansion scoring. Score exploration secrets early. Future Sight generates trade goods from correct agenda voting.
+
+2. **Expansion + Production** - Your Memoria flagship teleports to systems with your mechs. Deploy mechs Round 1 to create teleportation network, then use flagship to claim distant high-value planets. Your 4 commodities and Sling Relay support economic expansion. Arcturus (legendary planet) provides 4 influence + trade goods when exhausting neighbors.
+
+3. **Technology** - Push toward Temporal Command Suite (exhausts opponent components when you gain tech via secondaries) or unit upgrades. However, leveraging your 3-agent flexibility and flagship teleportation comes first.
+
+4. **Breakthrough** - Thunder's Paradox (exhaust one agent to ready another) is powerful but requires multiple agents ready and positioned. Your early strength is agent flexibility and flagship mobility, not breakthrough production yet.
 
 ### A. No Traditional Home System
 
@@ -225,41 +253,41 @@ Managing 3 agents is decision-heavy. Poor exhausts waste value.
 
 ## VI. Strategy Cards
 
-### Round One
+### A. Round 1
 
-**GREAT:**
-- Technology (free tech accelerates your path)
-- Politics (Speaker for agenda control + Future Sight synergy)
-- Trade (4 commodities + TG for expansion)
+Your R1 priority is leveraging Nomad Agent for free technologies and establishing economic base.
 
-**GOOD:**
-- Leadership (CC for expansion)
-- Warfare (fleet readying)
+**Round 1 Priority Ranking:**
 
-**MEDIOCRE:**
-- Construction (1 dock is enough R1)
-- Imperial (unlikely to score R1)
+1. **Technology** - Free tech via Agent accelerates your tech path significantly.
 
-**BAD:**
-- Diplomacy (your flagship has Move 1; protecting 1 system less valuable)
+2. **Trade** - 4 commodities + TG for expansion. Refreshing TGs for Artuno banking.
 
-### General Preferences
+3. **Politics** - Speaker for agenda control + Future Sight synergy.
 
-**Leadership:** LOVE - Gain CCs for expansion and agent exhausts.
+4. **Leadership** - CCs for expansion and agent exhausts.
 
-**Diplomacy:** LIKE - Protect flagship system.
+5. **Warfare** - Fleet readying for positioning and combat.
 
-**Politics:** LOVE - Future Sight synergy + control agendas.
+6. **Construction** - 1 dock is enough R1. Extra dock for forward production later.
 
-**Construction:** LIKE - Extra dock for forward production.
+7. **Imperial** - Unlikely to score R1.
 
-**Trade:** LOVE - 4 commodities + refreshing TGs for Artuno banking.
+8. **Diplomacy** - Your flagship has Move 1; protecting 1 system less valuable.
 
-**Warfare:** LIKE - Fleet readying.
+### B. Round 2+
 
-**Technology:** LOVE - Agent tech path + unit upgrades.
+**Love:**
+- **Technology** - Agent tech path + unit upgrades. Free techs via Agent are massive value.
+- **Trade** - 4 commodities + refreshing TGs for Artuno banking.
+- **Politics** - Future Sight synergy + control agendas.
+- **Leadership** - Gain CCs for expansion and agent exhausts.
+- **Imperial** - Points are points. Needed rounds 3-5.
 
-**Imperial:** NEED - Points are points.
+**Like:**
+- **Construction** - Extra dock for forward production.
+- **Warfare** - Fleet readying for combat and repositioning.
+- **Diplomacy** - Protect flagship system.
 
 ---
 
@@ -346,7 +374,13 @@ Unlocks after 1 secret objective (very early—usually R2-3).
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Nomad excels at exploration objectives with Memoria ability converting planets to command tokens, enabling aggressive exploration without sacrificing economy. Mobility with flagship and Agent supports territorial objectives, and Future Sight commander generates trade goods from agenda predictions.
+
+**Weaknesses:** Planet control objectives are challenging since Memoria abandons planets for tokens. Structure objectives are very difficult without traditional planet-holding strategy, and resource spending may be limited by Memoria economy trade-offs.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -375,7 +409,7 @@ Unlocks after 1 secret objective (very early—usually R2-3).
 
 Nomad excels at TG-spending objectives (Future Sight generates TGs), tech objectives (Sling Relay economy), and fleet objectives (flagship + AFB strength). You struggle with structure objectives (only 1 starting dock).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -426,7 +460,7 @@ Nomad excels at TG-spending objectives (Future Sight generates TGs), tech object
 - **Occupy the Seat of the Empire** is EASY—flagship teleportation enables rapid MR claims
 - Political secrets slightly favor Nomad due to Future Sight voting synergy
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -503,7 +537,19 @@ Nomad excels at TG-spending objectives (Future Sight generates TGs), tech object
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Nomad rewards:
 - **Agent mastery:** Use all 3 agents optimally each round

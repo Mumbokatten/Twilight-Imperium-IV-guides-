@@ -70,33 +70,7 @@ By now, you should control 3-5 opponent tokens, granting access to 3-5 commander
 - Produce more Crimson Legionnaires and ships
 - Prioritize Legionnaire production early
 
-### C. Starting Tech
-
-**Bio-Stims (Green):**
-*At the start of a combat or the invasion step of a tactical action, you may exhaust this card and remove any number of your infantry from the active system or space area to gain 1 command token.*
-
-- Exhaust to sacrifice infantry for command tokens
-- Works during combat or invasion step
-- Example: Remove 3 Crimson Legionnaires from combat → gain 1 command token
-- Synergizes with cheap Legionnaires (sacrifice 1.5 resources worth of units for 1 token)
-- When Legionnaires die, gain commodities THEN Bio-Stims gains token
-- Critical for command token sustainability
-
-**Predictive Intelligence (Yellow):**
-*Exhaust this card when an action card is played; cancel that action card.*
-
-- Cancel any action card
-- Defensive technology
-- Protects against Sabotage, Direct Hit, etc.
-- Less impactful than Bio-Stims but situationally powerful
-
-**Technology Specialties to Prioritize:**
-- **Biotic (Green):** For Vaults of the Heir breakthrough
-- **Cybernetic (Yellow):** For Vaults of the Heir breakthrough
-- **Hazardous (Red):** For combat technologies
-- **Industrial (Blue):** For unit upgrades
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Edict:**
 *When you win a combat, place 1 command token from your opponent's reinforcements in your fleet pool if it does not already contain 1 of that player's tokens; other players' tokens in your fleet pool increase your fleet limit but cannot be redistributed.*
@@ -127,6 +101,32 @@ By now, you should control 3-5 opponent tokens, granting access to 3-5 commander
 - Political isolation but also protection
 - Other promissory notes work normally (can receive Hacan Trade Agreements, etc.)
 - Thematic trade-off: power through theft, not alliances
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Bio-Stims (Green):**
+*At the start of a combat or the invasion step of a tactical action, you may exhaust this card and remove any number of your infantry from the active system or space area to gain 1 command token.*
+
+- Exhaust to sacrifice infantry for command tokens
+- Works during combat or invasion step
+- Example: Remove 3 Crimson Legionnaires from combat → gain 1 command token
+- Synergizes with cheap Legionnaires (sacrifice 1.5 resources worth of units for 1 token)
+- When Legionnaires die, gain commodities THEN Bio-Stims gains token
+- Critical for command token sustainability
+
+**Predictive Intelligence (Yellow):**
+*Exhaust this card when an action card is played; cancel that action card.*
+
+- Cancel any action card
+- Defensive technology
+- Protects against Sabotage, Direct Hit, etc.
+- Less impactful than Bio-Stims but situationally powerful
+
+**Faction Technologies:**
+
+(Note: Mahact has no standard faction technologies - your power comes from Edict and Imperia to steal others' abilities and commanders. The Vaults of the Heir breakthrough allows you to purge technologies to gain relics.)
 
 ### E. Leaders
 
@@ -272,6 +272,18 @@ You purge your Alliance promissory note during setup and cannot receive others' 
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Mahact Gene-Sorcerers, your first turn priorities should reflect your command token theft (Edict) and commander stealing (Imperia) strategy. Here's the recommended ordering:
+
+1. **Expansion + Production** - Your Crimson Legionnaires cost 1 for 2 units (incredible efficiency) and generate commodities when destroyed. Spam them for invasions. Expand to 2-3 systems Round 1 using your strong starting fleet (dreadnought + cruiser + carrier). Bio-Stims lets you sacrifice infantry for command tokens.
+
+2. **Breakthrough** - Seek early combat to trigger Edict (steal command token from opponent when you win). Even small victories (1 fighter vs 1 fighter) count. You need 2 stolen tokens to unlock commander (Imperia: use their commander abilities). Target opponents with strong commanders (Sol, Sardakk, L1Z1X, Naalu).
+
+3. **Technology** - Push toward Vaults of the Heir (purge techs for relics) or unit upgrades. However, token theft and territorial control come first—tech supports but doesn't create your Imperia advantage.
+
+4. **Scoring** - Your early scoring is decent (influence-spend objectives with 5 starting influence), but your real power emerges Round 3-4 when you've stolen 2-3 tokens and can use multiple commander abilities simultaneously. Focus on token collection first.
+
 **1. Commander Dependency:**
 Your power curve relies heavily on stealing commander abilities via Imperia. If opponents delay unlocking commanders or choose weak commanders (Xxcha, Winnu), you gain minimal benefit. Against 3-4 weak commanders, Imperia provides little value. You must fight factions with strong commanders to maximize your faction's potential.
 
@@ -319,7 +331,7 @@ Round 1-2: **Bio-Stims (starting) + Predictive Intelligence (starting)**
 - Already have yellow + green prerequisites
 - Focus on unit upgrades or economic techs
 
-Round 2-3: **Sarween Tools (Yellow) OR Hyper Metabolism (Green)**
+Round 2-3: **Sarween Tools OR Hyper Metabolism (GG)**
 - Sarween: +1 fighter/infantry per production (Legionnaire spam)
 - Hyper: +1 command token after using strategy card secondary (token sustainability)
 
@@ -330,19 +342,19 @@ Round 3-4: **Vaults of the Heir (Yellow <> Green Breakthrough)**
 
 Round 4+: **Crimson Legionnaire II OR unit upgrades**
 - If Crimson Legionnaire II exists (upgrade from Legionnaire I)
-- Otherwise: Carrier II, Cruiser II, Dreadnought II
+- Otherwise: Carrier II (BB), Cruiser II (GYR), Dreadnought II (BBY)
 
 **Alternative Path (Combat Focus):**
 
-Round 2: **Magen Defense Grid (Red) OR Assault Cannon (Red)**
+Round 2: **Magen Defense Grid (R) OR Assault Cannon (RRR)**
 - Magen: Opponent -1 bombardment, +2 PDS rolls
 - Assault: Pre-combat kill if 3+ non-fighter ships
 
-Round 3: **Duranium Armor (Yellow)**
+Round 3: **Duranium Armor (RR)**
 - Repair all damaged units during status phase
 - Sustain damage sustainability
 
-Round 4: **Carrier II (Blue) OR Dreadnought II (Yellow/Blue)**
+Round 4: **Carrier II (BB) OR Dreadnought II (BBY)**
 - Unit upgrade path for combat efficiency
 
 ### C. Key Technologies
@@ -356,21 +368,21 @@ Round 4: **Carrier II (Blue) OR Dreadnought II (Yellow/Blue)**
 - Can be used multiple times (exhaust, purge tech, gain relic; ready next round, repeat)
 - Game-changing late-game value
 
-**Sarween Tools (Yellow):**
+**Sarween Tools:**
 *When 1 or more of your units use PRODUCTION, that unit produces 1 additional hit; that hit must be used to produce fighters or infantry.*
 
 - +1 free fighter or infantry per production
 - Synergizes with Crimson Legionnaire spam
 - Economic efficiency
 
-**Hyper Metabolism (Green):**
+**Hyper Metabolism (GG):**
 *During the status phase, gain 3 command tokens instead of 2.*
 
 - +1 command token per status phase
 - Stacks with Bio-Stims for massive token generation
 - Command token sustainability
 
-**Carrier II (2 Blue Prerequisites):**
+**Carrier II (BB):**
 *Cost: 3, Combat: 9, Move: 2, Capacity: 8, Sustain Damage*
 
 - Massive capacity for Crimson Legionnaire transport
@@ -386,50 +398,43 @@ Round 4: **Carrier II (Blue) OR Dreadnought II (Yellow/Blue)**
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** ⭐⭐⭐⭐ - High Value
-Command tokens for aggressive combat and Bio-Stims sacrifices. Secondary is excellent.
+Your R1 priority is establishing combat superiority and political leverage for token theft via Edict.
 
-**Diplomacy (2):** ⭐⭐ - Low Value
-Planet readying is okay but not your priority. Skip unless defending Mecatol.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** ⭐⭐⭐⭐⭐ - Maximum Value
-5 starting influence makes you a strong political faction. Speaker token + action card draw excellent. Top-tier Round 1.
+1. **Politics** - 5 starting influence makes you a strong political faction. Speaker token + action card draw excellent.
 
-**Construction (4):** ⭐⭐⭐⭐ - High Value
-Space docks for Crimson Legionnaire production. PDS optional. Solid pick.
+2. **Warfare** - Remove tokens, redistribute fleets, seek combats for Edict. Critical for token theft.
 
-**Trade (5):** ⭐⭐⭐ - Moderate Value
-3 commodities is average. Trade refreshes commodities, but you're not a trade faction. Secondary acceptable.
+3. **Leadership** - Command tokens for aggressive combat and Bio-Stims sacrifices.
 
-**Warfare (6):** ⭐⭐⭐⭐⭐ - Maximum Value
-Remove tokens, redistribute fleets, seek combats for Edict. Critical for token theft. Top-tier Round 1.
+4. **Construction** - Space docks for Crimson Legionnaire production. PDS optional.
 
-**Technology (7):** ⭐⭐⭐ - Moderate Value
-Vaults of the Heir is valuable but requires multiple prerequisites. Tech path less critical than combat. Situational.
+5. **Trade** - 3 commodities is average. Trade refreshes commodities, but you're not a trade faction.
 
-**Imperial (8):** ⭐⭐⭐ - Moderate Value
-Scoring Round 1 is nice if objectives available. Otherwise, skip.
+6. **Imperial** - Scoring Round 1 is nice if objectives available.
 
-### B. General Strategy Card Priority
+7. **Technology** - Vaults of the Heir is valuable but requires multiple prerequisites. Tech path less critical than combat.
 
-**Rounds 2-3:**
-- **Warfare (6):** Combat for Edict token theft
-- **Politics (3):** Leverage influence, draw action cards
-- **Construction (4):** Build space docks for Legionnaire spam
-- **Leadership (1):** Command token replenishment
+8. **Diplomacy** - Planet readying is okay but not your priority. Skip unless defending Mecatol.
 
-**Rounds 4-5:**
-- **Warfare (6):** Multi-front combats for final token thefts
-- **Imperial (8):** Scoring objectives
-- **Technology (7):** Vaults of the Heir, unit upgrades
-- **Politics (3):** Political control
+### B. Round 2+
 
-**Round 6+:**
-- **Imperial (8):** Score to close out game
-- **Warfare (6):** Tactical flexibility
-- **Leadership (1):** Command token management
+**Love:**
+- **Warfare** - Combat for Edict token theft. Multi-front combats for maximum token stealing.
+- **Politics** - Leverage 5 influence, draw action cards, control agendas.
+- **Imperial** - Score objectives. Needed rounds 3-5.
+
+**Like:**
+- **Leadership** - Command token replenishment for sustained aggression and Bio-Stims sacrifices.
+- **Construction** - Build space docks for Crimson Legionnaire spam.
+- **Technology** - Vaults of the Heir and unit upgrades.
+
+**Situational:**
+- **Trade** - 3 commodities provides moderate economic support.
+- **Diplomacy** - Rarely useful unless defending key systems.
 
 ## VII. Intermediate
 
@@ -470,27 +475,6 @@ Scoring Round 1 is nice if objectives available. Otherwise, skip.
 - Carriers for mass transport
 - Seek combats across all opponents for full token collection
 - Mechs in critical defensive systems for Starlancer disruption
-
-### B. Point Planning
-
-**"Christmas Land" Scoring Table:**
-
-| Round | Public Objective 1 | Public Objective 2 | Secret Objective | Mecatol/Other | Total Points | Running Total |
-|-------|-------------------|-------------------|------------------|---------------|--------------|---------------|
-| 1 | Spend 3 Influence (1) | - | - | - | 1 | 1 |
-| 2 | Control 6 Planets (1) | 3 Ships in Non-Home (1) | Destroy 4 Units (1) | - | 3 | 4 |
-| 3 | Spend 8 Influence (1) | Control 3 Cultural (1) | - | Mecatol (1) | 3 | 7 |
-| 4 | Spend 5 Influence (2) | 5+ Technologies (2) | Win vs 3+ Ships (1) | - | 5 | 12 |
-| 5 | - | - | - | Imperial Point (1) | 1 | 13 |
-| 6 | Control 11 Planets (2) | Win vs 2 Ships (2 systems) (2) | - | Support Throne (1) | 5 | 18 |
-
-This scenario shows Mahact leveraging strong influence (spend objectives), combat objectives (Edict token theft requires fights), and territorial control to reach 18+ points.
-
-**Realistic Adjustments:**
-- Influence-spend objectives are easy with 5 starting influence
-- Combat secrets fit naturally (fighting for Edict)
-- May not hold Mecatol Round 3 if contested
-- Stolen commander abilities create flexible scoring opportunities
 
 ### C. Game Plan
 
@@ -537,7 +521,13 @@ This scenario shows Mahact leveraging strong influence (spend objectives), comba
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Mahact excels at political objectives with high influence home system and agenda manipulation abilities. Combat objectives benefit from stolen commander abilities, and planet control objectives are easy with aggressive expansion enabled by Legionnaire economy.
+
+**Weaknesses:** Tech diversity objectives can be challenging without strong tech focus. Structure objectives require investment beyond core strategy, and tech objectives may be harder depending on which commander abilities you've stolen.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -566,7 +556,7 @@ This scenario shows Mahact leveraging strong influence (spend objectives), comba
 
 Mahact excel at influence objectives and combat through Imperia commander theft. Crimson Legionnaires enable efficient expansion.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -611,7 +601,7 @@ Mahact excel at influence objectives and combat through Imperia commander theft.
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟡     |
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -651,7 +641,19 @@ Hubris prevents you from receiving or giving Alliance promissory notes. This sec
 - **Imperia Bargaining**: Promise to use stolen commander abilities to help specific players
 - **Mech Threat**: Threaten Starlancer disruption unless they cooperate
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 The Mahact Gene-Sorcerers are a **parasitic power-theft faction** that scales exponentially by stealing opponent command tokens and usurping their commander abilities. Your success depends on **winning combats across all opponents to collect tokens, prioritizing theft from strong commander factions, and leveraging multiple stolen abilities simultaneously for devastating synergies**.
 

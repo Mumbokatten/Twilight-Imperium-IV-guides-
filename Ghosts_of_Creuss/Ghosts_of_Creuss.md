@@ -70,16 +70,7 @@ Your starting fleet is positioned at the **Creuss Gate system (tile 17)**, not y
 - Can immediately produce units
 - Remember: Creuss Gate is NOT a home system for building purposes
 
-### C. Starting Tech
-
-**Gravity Drive (Blue):**
-- Your ships gain +1 movement
-- Absolutely critical for your mobility strategy
-- Enables 2-move carriers, 3-move destroyers, 4-move cruisers
-- Combined with Slipstream (+1 from wormholes), you move incredibly far
-- Supports Light/Wave Deflector path or tech toward Wormhole Generator
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Quantum Entanglement:**
 *You treat all systems that contain either an alpha or a beta wormhole as adjacent to each other. Game effects cannot prevent you from using this ability.*
@@ -114,6 +105,21 @@ Your starting fleet is positioned at the **Creuss Gate system (tile 17)**, not y
 - Other abilities that reference home systems don't apply to Creuss Gate
 - Your actual home system (tile 51) sits in your play area off-board
 - You can move your home system onto the board using specific abilities
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Gravity Drive:**
+- Your ships gain +1 movement
+- Absolutely critical for your mobility strategy
+- Enables 2-move carriers, 3-move destroyers, 4-move cruisers
+- Combined with Slipstream (+1 from wormholes), you move incredibly far
+- Supports Light/Wave Deflector path or tech toward Wormhole Generator
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -274,6 +280,18 @@ Your starting fleet is positioned at the **Creuss Gate system (tile 17)**, not y
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Ghosts of Creuss, your first turn priorities should reflect your wormhole mobility and strategic positioning advantages. Here's the recommended ordering:
+
+1. **Expansion + Production** - Your Quantum Entanglement (treat all alpha/beta wormholes as adjacent) and Slipstream (+1 movement from wormholes/home) with starting Gravity Drive give you unparalleled Round 1 reach. Claim distant high-value systems others cannot access. Your 4 commodities and 4 resources support this expansion.
+
+2. **Scoring** - Your superior mobility lets you score positioning objectives (ships in edge systems, units in distant locations) before opponents. Act on these early while your mobility advantage is most pronounced. Territory objectives also favor your reach.
+
+3. **Technology** - Push toward Dimensional Splicer (pre-combat hit in wormhole systems) or Wormhole Generator (place Creuss wormhole tokens). However, leveraging your existing mobility advantage comes first—tech enhances an already-strong position.
+
+4. **Breakthrough** - Particle Synthesis (produce units at wormholes with cost reduction) is powerful but requires established wormhole network. Your early strength is reaching systems others cannot, not production at those locations yet.
+
 **1. Creuss Gate Vulnerability:**
 Your Creuss Gate is NOT a home system, meaning opponents can take it. Losing your gate is catastrophic: you lose your space dock, your delta wormhole access point, and your staging area. Opponents with early aggression (Barony, L1Z1X, Cabal) can threaten your gate Round 1-2. You MUST defend it or be prepared to rebuild elsewhere.
 
@@ -337,10 +355,10 @@ Round 4+: **Particle Synthesis (Breakthrough - Blue <> Yellow)**
 **Alternative Path (Unit Upgrades):**
 
 Some games require combat power over mobility tricks:
-- **Carrier II** (2 blue) - Capacity 8, movement 2, +1 combat
-- **Destroyer II** (2 red) - AFB x3, combat 8
-- **Cruiser II** (2 yellow, 1 red) - Capacity 1, combat 7
-- **Dreadnought II** (2 yellow, 1 blue) - Bombardment x2, sustain x2, combat 6
+- **Carrier II (BB)** - Capacity 8, movement 2, +1 combat
+- **Destroyer II (RR)** - AFB x3, combat 8
+- **Cruiser II (GYR)** - Capacity 1, combat 7
+- **Dreadnought II (BBY)** - Bombardment x2, sustain x2, combat 6
 
 Prioritize Carrier II if you're using carriers extensively for wormhole commander triggers.
 
@@ -400,50 +418,42 @@ Prioritize Carrier II if you're using carriers extensively for wormhole commande
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** ⭐⭐⭐ - Moderate Value
-You benefit from extra command tokens for your mobility-heavy playstyle, but you're not starved for tokens Round 1. Secondary is fine.
+Your R1 priority is establishing economic base and beginning tech path for wormhole dominance.
 
-**Diplomacy (2):** ⭐⭐ - Low Value
-Planet readying is okay, but you're not scoring Mecatol objectives Round 1. Use mobility instead of Diplomacy for defense.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** ⭐⭐⭐⭐ - High Value
-Speaker token is valuable, and you need to draw action cards. You're influence-poor, so speaker helps you influence agendas. Solid Round 1 pick.
+1. **Trade** - 4 commodities + trading promissory note for value. Top economic priority.
 
-**Construction (4):** ⭐⭐⭐⭐ - High Value
-You need a second space dock early. Placing it at an equidistant system or forward planet accelerates expansion. PDS optional depending on Creuss Gate defense needs.
+2. **Technology** - You need technologies (Fleet Logistics, Wormhole Generator). Early tech advantage critical.
 
-**Trade (5):** ⭐⭐⭐⭐⭐ - Maximum Value
-4 commodities + you want to trade your promissory note for value. Trade refreshes your commodities and enables economic deals. Top-tier Round 1 for Creuss.
+3. **Construction** - Second space dock at equidistant system or forward planet accelerates expansion.
 
-**Warfare (6):** ⭐⭐ - Low Value
-You're not fighting Round 1 typically. Save it for war factions.
+4. **Politics** - Speaker token valuable, action cards needed. Low influence makes speaker important for agendas.
 
-**Technology (7):** ⭐⭐⭐⭐ - High Value
-You need technologies (Fleet Logistics, Wormhole Generator). Getting an early tech advantage is strong. Secondary also fine.
+5. **Leadership** - Command tokens for mobility-heavy playstyle. Not starved Round 1 but helpful.
 
-**Imperial (8):** ⭐⭐⭐ - Moderate Value
-Scoring Round 1 is nice, but you may not have a scoreable objective. If you do, Imperial guarantees it. Otherwise, skip.
+6. **Imperial** - Scoring if you have scoreable objective. Otherwise skip.
 
-### B. General Strategy Card Priority
+7. **Diplomacy** - Planet readying okay but not scoring Mecatol Round 1. Mobility trumps Diplomacy.
 
-**Rounds 2-3:**
-- **Trade (5):** Continue commodity economy, especially if trading promissory/support
-- **Technology (7):** Push toward Wormhole Generator and Dimensional Splicer
-- **Construction (4):** Expand production if needed, build PDS network for defense
-- **Politics (3):** Speaker control and action card draw
+8. **Warfare** - Not fighting Round 1 typically. Save for war factions.
 
-**Rounds 4-5:**
-- **Warfare (6):** If scoring requires combat or Mecatol control
-- **Imperial (8):** Scoring from Mecatol or Imperial Rider
-- **Leadership (1):** Command tokens for multi-activation plays with Fleet Logistics
-- **Technology (7):** Continue tech path toward Particle Synthesis
+### B. Round 2+
 
-**Round 6+:**
-- **Imperial (8):** Scoring to close out the game
-- **Warfare (6):** Remove enemy command tokens from critical systems, tactical flexibility
-- **Leadership (1):** Command token pool replenishment
+**Love:**
+- **Trade** - Continue commodity economy. 4 commodities refreshed plus promissory trading creates strong economic base.
+- **Technology** - Push toward Wormhole Generator and Dimensional Splicer. Essential for wormhole network strategy.
+- **Imperial** - Score objectives from Mecatol or objectives. Needed rounds 3-5.
+
+**Like:**
+- **Construction** - Expand production capacity. Build PDS network for Creuss Gate defense if needed.
+- **Politics** - Speaker control and action card draw. Low influence makes speaker valuable.
+- **Leadership** - Command tokens for multi-activation plays with Fleet Logistics.
+
+**Situational:**
+- **Warfare** - Only if scoring requires combat or Mecatol control. Otherwise skip.
 
 ## VII. Intermediate
 
@@ -483,27 +493,6 @@ Scoring Round 1 is nice, but you may not have a scoreable objective. If you do, 
 - Destroyers/Cruisers provide affordable screening
 - Space docks OR Particle Synthesis for distributed production
 - Flagship for mobile wormhole utility, not primary combat
-
-### B. Point Planning
-
-**"Christmas Land" Scoring Table:**
-
-| Round | Public Objective 1 | Public Objective 2 | Secret Objective | Mecatol/Other | Total Points | Running Total |
-|-------|-------------------|-------------------|------------------|---------------|--------------|---------------|
-| 1 | Explore (1) | - | - | - | 1 | 1 |
-| 2 | 6 Technologies (1) | 3 Ships in Non-Home (1) | Exploring Borders (1) | - | 3 | 4 |
-| 3 | Control 3 Cultural (1) | Spend 8 Resources (1) | - | Mecatol (1) | 3 | 7 |
-| 4 | 11 Technologies (2) | 5 Command Tokens (2) | Intimidate Council (1) | - | 5 | 12 |
-| 5 | - | - | - | Imperial Point (1) | 1 | 13 |
-| 6 | Control 4 Hazardous (2) | Win vs 2 Ships (2) | - | Support Throne (1) | 5 | 18 |
-
-This is an optimistic scenario showing how Creuss can reach 18+ points through leveraging mobility for territorial objectives, technology objectives (heavy tech path), and Mecatol control enabled by wormhole positioning.
-
-**Realistic Adjustments:**
-- May not score Mecatol Round 3 if contested
-- Secret objectives vary by draw
-- Stage II objectives depend on board state
-- Creuss often scores 8-10 points by Round 4, then pushes for 10 in final 2 rounds
 
 ### C. Game Plan
 
@@ -551,7 +540,13 @@ This is an optimistic scenario showing how Creuss can reach 18+ points through l
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Ghosts dominate movement and positioning objectives with Quantum Entanglement and wormhole adjacencies. Tech objectives are easy with strong blue tech focus and starting Gravity Drive, and territorial objectives benefit from superior reach to distant systems.
+
+**Weaknesses:** Combat objectives require more fleet investment without direct combat bonuses. Spending objectives can be challenging without economic advantages, and structure objectives need deliberate focus beyond your mobility strategy.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -580,7 +575,7 @@ This is an optimistic scenario showing how Creuss can reach 18+ points through l
 
 Ghosts excel at mobility and territorial objectives through Quantum Entanglement wormhole network.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -625,7 +620,7 @@ Ghosts excel at mobility and territorial objectives through Quantum Entanglement
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -693,7 +688,19 @@ Your alliance ability (granting Quantum Entanglement to a neighbor) is **extreme
 - Mid alliance (Rounds 3-4): Enables joint Mecatol control or territorial expansion
 - Late alliance (Rounds 5-6): Can create a kingmaker scenario; be cautious of empowering a leader
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 The Ghosts of Creuss demand **spatial mastery and long-term planning**. Your Quantum Entanglement ability fundamentally changes how you view the game board: wormholes aren't just systems, they're your highways to anywhere. Every decision—from slice selection to technology choices to hero timing—should maximize your positional dominance.
 

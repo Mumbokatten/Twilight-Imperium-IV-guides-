@@ -41,15 +41,7 @@ Your home system provides strong resources (4) for production and moderate influ
 
 You start with more infantry than any other faction (5) and your carriers are already upgraded to Advanced Carrier I with 6 capacity each. This gives you immediate superiority in ground forces and transport.
 
-### C. Starting Tech
-
-**Neural Motivator (Yellow):** During the action phase, after you perform an action, gain 1 command token if you have no command tokens in your strategy pool.
-
-**Antimass Deflectors (Blue):** Ships gain +1 movement when moving through or out of asteroid fields or supernovas.
-
-Neural Motivator is incredible - you can use secondaries freely because you'll regain the strategy pool token immediately. Antimass Deflectors provides movement flexibility.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Critical Drop:** Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.
 
@@ -58,6 +50,20 @@ This is orbital drop capability. You can deploy infantry directly to any planet 
 **Versatile:** When you gain command tokens during the status phase, gain 1 additional command token.
 
 You get +1 command token per round. Over a 7-round game, that's 7 extra activations compared to opponents. This is massive action economy advantage.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Neural Motivator:** During the action phase, after you perform an action, gain 1 command token if you have no command tokens in your strategy pool.
+
+**Antimass Deflectors:** Ships gain +1 movement when moving through or out of asteroid fields or supernovas.
+
+Neural Motivator is incredible - you can use secondaries freely because you'll regain the strategy pool token immediately. Antimass Deflectors provides movement flexibility.
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -136,6 +142,18 @@ You're not desperate for early picks but benefit from Leadership or Construction
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Federation of Sol, your first turn priorities should reflect your infantry-focused expansion and command token advantage. Here's the recommended ordering:
+
+1. **Expansion + Production** - Your 5 starting infantry (most in game), 2 Advanced Carrier I (cost 3 each), and Versatile (+1 CC per round) make you the premier expansion faction. Claim 2-3 systems Round 1 using your cheap carriers and abundant infantry. Neural Motivator ensures command token sustainability.
+
+2. **Technology** - Push toward Advanced Carrier II (Sustain Damage + 8 capacity) or Spec Ops II (infantry return on 5-6 after death). However, territorial expansion comes first—tech accelerates an existing infantry empire, it doesn't create one.
+
+3. **Breakthrough** - Bellum Gloriosum (produce ground forces/fighters up to ship capacity without counting against production) is game-changing but requires multiple carriers and production infrastructure. Early expansion priority.
+
+4. **Scoring** - Your ability to score Round 1 is decent (territorial objectives), but your real power emerges Round 3+ when commander unlocks (12 resources worth of planets) for defensive infantry and Critical Drop enables instant reinforcement anywhere.
+
 **Space Combat Mediocrity:** You have no space combat bonuses or special abilities. Your carriers hit on 9 (terrible), and you rely on fighters for space combat power. Against dedicated space combat factions, you're outmatched.
 
 **Resource Intensity:** Carriers cost 3, infantry cost 0.5 each, but you're building many of both. You need strong resource economy to sustain your production rate.
@@ -152,36 +170,36 @@ You're not desperate for early picks but benefit from Leadership or Construction
 
 ### A. Starting Technologies
 
-**Neural Motivator (Yellow):** Regain 1 command token after actions if strategy pool is empty
+**Neural Motivator:** Regain 1 command token after actions if strategy pool is empty
 
-**Antimass Deflectors (Blue):** +1 movement through/from asteroid fields and supernovas
+**Antimass Deflectors:** +1 movement through/from asteroid fields and supernovas
 
 ### B. Technology Paths
 
 **Path 1 - Carrier Upgrade Rush:**
 1. Neural Motivator + Antimass Deflectors (starting)
-2. Gravity Drive (Blue) - 2-movement for carriers
-3. Advanced Carrier II (Blue-Blue) - Faction tech upgrading carriers
-4. Sarween Tools (Yellow) - Economic efficiency
-5. Spec Ops II (Green-Green) or other tech
+2. Gravity Drive (B) - 2-movement for carriers
+3. Advanced Carrier II (BB) - Faction tech upgrading carriers
+4. Sarween Tools - Economic efficiency
+5. Spec Ops II (GG) or other tech
 
 Rushes Advanced Carrier II for Sustain Damage carriers with 8 capacity.
 
 **Path 2 - Infantry Upgrade Focus:**
 1. Neural Motivator + Antimass Deflectors (starting)
-2. Bio-Stims (Green) - Exhaust planets for 2 infantry
-3. Spec Ops II (Green-Green) - Faction tech upgrading infantry
-4. Hyper Metabolism (Green-Green) - Planet readying
+2. Bio-Stims (G) - Exhaust planets for 2 infantry
+3. Spec Ops II (GG) - Faction tech upgrading infantry
+4. Hyper Metabolism (GG) - Planet readying
 5. Psychoarchaeology or other utility
 
 Maximizes ground combat through upgraded infantry and production.
 
 **Path 3 - Balanced Military:**
 1. Neural Motivator + Antimass Deflectors (starting)
-2. Gravity Drive (Blue) - Mobility
-3. Sarween Tools (Yellow) - Economy
-4. Advanced Carrier II (Blue-Blue) - Faction tech
-5. Dreadnought II or Cruiser II - Space combat capability
+2. Gravity Drive (B) - Mobility
+3. Sarween Tools - Economy
+4. Advanced Carrier II (BB) - Faction tech
+5. Dreadnought II (BBY) or Cruiser II (GYR) - Space combat capability
 
 Balances carrier upgrades with space combat improvements.
 
@@ -204,34 +222,42 @@ Balances carrier upgrades with space combat improvements.
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** **Love**. 3 command tokens + Versatile means you get 4 total. Excellent for expansion.
+Your R1 priority is maximizing expansion with Versatile ability and establishing production base.
 
-**Diplomacy (2):** **Bad**. You're aggressive, not defensive. Diplomacy conflicts with your playstyle.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** **Moderate**. Only 2 home influence makes politics weaker for you than most.
+1. **Leadership** - 3 command tokens + Versatile means you get 4 total. Excellent for expansion.
 
-**Construction (4):** **Good**. Extra space dock or PDS supports expansion and production.
+2. **Technology** - You need Advanced Carrier II and Spec Ops II; Technology accelerates this.
 
-**Trade (5):** **Good**. 4 commodities makes Trade solid economic value.
+3. **Trade** - 4 commodities makes Trade solid economic value for funding expansion.
 
-**Warfare (6):** **Like**. Fleet token return is valuable; secondary gives redistributes tokens efficiently.
+4. **Construction** - Extra space dock or PDS supports expansion and production capabilities.
 
-**Technology (7):** **Like**. You need Advanced Carrier II and Spec Ops II; Technology accelerates this.
+5. **Warfare** - Fleet token return is valuable; secondary redistributes tokens efficiently.
 
-**Imperial (8):** **Great**. Points are the goal; you can hold objectives with infantry superiority.
+6. **Imperial** - Points are the goal; you can hold objectives with infantry superiority.
 
-### B. General Strategy Card Priority
+7. **Politics** - Only 2 home influence makes politics weaker for you than most.
 
-**Early Game (Rounds 1-2):**
-Leadership > Technology > Construction > Trade
+8. **Diplomacy** - You're aggressive, not defensive. Diplomacy conflicts with your playstyle.
 
-**Mid Game (Rounds 3-4):**
-Imperial > Leadership > Technology > Warfare
+### B. Round 2+
 
-**Late Game (Rounds 5+):**
-Imperial > Leadership > Warfare > Politics
+**Love:**
+- **Imperial** - Score objectives. Your infantry production enables holding key planets and objectives.
+- **Leadership** - 3 command tokens + Versatile gives you 4 total. Essential for sustained expansion.
+- **Technology** - Stay on path for Advanced Carrier II and Spec Ops II. Critical upgrades.
+
+**Like:**
+- **Warfare** - Fleet token return valuable for repositioning. Secondary helps redistribute efficiently.
+- **Trade** - Refresh 4 commodities for consistent economy.
+- **Construction** - Additional space docks or PDS for production and expansion support.
+
+**Situational:**
+- **Politics** - Your 2 home influence makes voting difficult. Only take if you've expanded to influence planets.
 
 ## VII. Intermediate
 
@@ -262,27 +288,6 @@ Imperial > Leadership > Warfare > Politics
 - Infantry count should be 2-3x higher than other factions
 - Don't over-invest in expensive ships; your strength is numbers, not quality
 - Flagship's free infantry compounds over time; build it by round 4-5 if possible
-
-### B. Point Planning
-
-**Christmas Land Scoring (10-point game):**
-
-| Round | Public | Secret | MR | Bonus | Total | Cumulative |
-|-------|--------|--------|-----|-------|-------|------------|
-| 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | 1 | 0 | 0 | 0 | 1 | 1 |
-| 3 | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | 1 | 0 | 0 | 0 | 1 | 4 |
-| 5 | 1 | 0 | 1 | 0 | 2 | 6 |
-| 6 | 1 | 0 | 1 | 0 | 2 | 8 |
-| 7 | 1 | 1 | 0 | 0 | 2 | 10 |
-
-**Notes:**
-- Round 2: Score planet control or resource objective (your expansion is strong)
-- Round 3: Commander unlocks; score ground combat or infantry secret
-- Round 4: Continue public progression
-- Round 5-6: Hold Mecatol with overwhelming infantry garrison
-- Round 7: Second secret (likely ground combat related) for victory
 
 ### C. Game Plan
 
@@ -324,7 +329,13 @@ With PRODUCTION 5 space dock, you can produce 5 carriers + 40 infantry in one ac
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Sol excels at ground combat and invasion objectives with superior infantry and Versatile command token generation. Planet control objectives are easy with carrier mobility and numerous ground forces, and combat objectives benefit from overwhelming infantry numbers.
+
+**Weaknesses:** Tech diversity objectives can be challenging depending on paths chosen. Spending objectives may be difficult without strong economic bonuses, though Versatile helps with command token spending goals.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -353,7 +364,7 @@ With PRODUCTION 5 space dock, you can produce 5 carriers + 40 infantry in one ac
 
 Sol excels at CC-spending objectives (Versatile + Neural Motivator), unit upgrade objectives (Advanced Carrier II + Spec Ops II paths), and planet control objectives (carrier swarm expansion). You struggle with influence-spending before expansion (only 2 home influence) and tech diversity objectives.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -405,7 +416,7 @@ Sol excels at CC-spending objectives (Versatile + Neural Motivator), unit upgrad
 - **Occupy the Fringe** is EASY—Spec Ops infantry production creates massive ground armies
 - Influence/political secrets are HARD—only 2 home influence limits political power
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -462,7 +473,19 @@ Sol excels at CC-spending objectives (Versatile + Neural Motivator), unit upgrad
 
 3. **Mentak Coalition:** Pirates don't synergize with your production-heavy style
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Federation of Sol is the faction for players who love combined arms warfare, logistics management, and overwhelming force. You're not the flashiest faction - no teleportation, no instant-win abilities, no game-breaking combos. You're the faction that simply has more infantry, more carriers, and more activations than opponents can match.
 

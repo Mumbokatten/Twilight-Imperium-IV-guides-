@@ -40,13 +40,7 @@ Opponents will underestimate your kamikaze threat until you delete their capital
 
 **Notes:** Solid starting fleet with 2 carriers for massive capacity (8 total). The 4 infantry and dual carriers give you excellent R1 expansion capability. Your starting destroyer can be used for early kamikaze demonstrations.
 
-### C. Starting Technologies
-
-**Sarween Tools (Yellow)** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
-
-**Notes:** One of the best starting techs in the game. Sarween gives you immediate economic efficiency—every production saves 1 resource. Over a game, this saves 15-25 resources. Perfect for your destroyer-spam strategy (destroyers cost 1, Sarween makes them effectively 0 when producing 2+).
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Devotion (Faction Ability):** After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.
 
@@ -55,6 +49,26 @@ Your signature kamikaze ability. After each combat round (after both players rol
 **Indoctrination (Faction Ability):** At the start of a ground combat, you may spend 2 influence to replace 1 of your opponent's participating infantry with 1 infantry from your reinforcements.
 
 Planet-stealing ability. Before ground combat begins, spend 2 influence to convert one enemy infantry to yours. This swings combat math dramatically—if they had 2 infantry and you had 1, after Indoctrination it's 2 vs 1 in YOUR favor. Excellent for conquering lightly defended planets.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
+
+**Notes:** One of the best starting techs in the game. Sarween gives you immediate economic efficiency—every production saves 1 resource. Over a game, this saves 15-25 resources. Perfect for your destroyer-spam strategy (destroyers cost 1, Sarween makes them effectively 0 when producing 2+).
+
+**Faction Technologies:**
+
+**Yin Spinner (GG):**
+*After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.*
+
+Infantry spawn tech. After producing, place up to 2 free infantry anywhere you have planets or ships. Incredible for rapid ground force deployment and invasions.
+
+**Impulse Core (YY):**
+*At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.*
+
+Pre-combat kamikaze tech. Before combat begins, sacrifice a destroyer/cruiser to deal 1 hit that MUST go to a non-fighter ship. This is Devotion but happens before combat starts, guaranteeing you kill a valuable ship before dice are rolled.
 
 ### E. Leaders
 
@@ -141,12 +155,15 @@ Yin wants balanced economics (resources for destroyers, influence for Indoctrina
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Trade > Leadership > Technology**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Trade** - You have 2 commodities. Need early economy for destroyer production.
-2. **Leadership** - Command counters enable expansion and aggressive plays.
-3. **Technology** - Third priority. Begin tech path toward Yin Spinner or blue mobility.
+1. **Expansion + Production** - Expand to 3-4 systems using your 2 carriers (capacity 8 total), 1 destroyer, and 4 infantry. Dual carriers allow splitting forces—send one carrier to distant systems, another for closer expansion. Build destroyers using Indoctrination (convert fighters to destroyers) for cheap fleet expansion.
+
+2. **Technology** - Begin tech path toward Yin Spinner (GGY - upgraded flagship) or blue mobility (Gravity Drive). Destroyer II synergizes with kamikaze tactics. Early tech acceleration supports your R4-R5 power spike.
+
+3. **Scoring** - Acceptable R1 for combat/expansion objectives. Your kamikaze ability makes combat-based objectives easier. However, your strength is mid-game Commander unlock (R2-R3) and Yin Spinner domination (R4-R5).
+
+4. **Breakthrough** - Not a priority R1. Focus on Yin Spinner faction tech and unit upgrades (Destroyer II, Carrier II) before pursuing breakthrough technologies. Your kamikaze tactics require fleet saturation first.
 
 **Expansion Notes:** You have 2 carriers (capacity 8 total), 1 destroyer, and 4 infantry. This gives you excellent R1 expansion capability. Aim for 3-4 systems R1. Your dual carriers let you split forces effectively—send one carrier with 2 infantry to distant systems, keep the other for closer expansion.
 
@@ -182,12 +199,12 @@ Your main tech path focuses on Yin Spinner (GG) for infantry spam, blue techs fo
 
 ### B. Tech Path 1: Yin Spinner Focus (Standard)
 
-**Starting Tech:** Sarween Tools (Y)
+**Starting Tech:** Sarween Tools
 
-**Round 1: Neural Motivator (G) OR Psychoarchaeology (0)**
+**Round 1: Neural Motivator OR Psychoarchaeology**
 - **Neural Motivator:** You have +2 starting command counters
   - **Why:** More CCs for kamikaze aggression and expansion. Provides green prerequisite for Yin Spinner.
-  - **Prerequisites:** 1 green
+  - **Prerequisites:** None (0)
 - **Psychoarchaeology:** When you resolve the primary or secondary ability of the Politics or Imperial strategy card, you may draw 1 action card
   - **Why:** Action card draw for political leverage.
   - **Prerequisites:** None (0)
@@ -197,17 +214,17 @@ Your main tech path focuses on Yin Spinner (GG) for infantry spam, blue techs fo
 - **Why:** Your faction tech. Spawn 2 infantry anywhere after every production. Over a game, this is 20-30 free infantry (10-15 resources saved). Enables constant invasions and objective scoring.
 - **Prerequisites:** 2 green (Sarween with Y<>G + Neural Motivator OR green skip)
 
-**Round 3: Gravity Drive (BB)**
+**Round 3: Gravity Drive (B)**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility for kamikaze strikes and rapid repositioning. Essential for reaching distant targets.
-- **Prerequisites:** 2 blue (need to pick up blue techs)
+- **Prerequisites:** 1 blue
 
-**Round 4: Destroyer II (RR) OR Carrier II (BBBB)**
+**Round 4: Destroyer II (RR) OR Carrier II (BB)**
 - **Destroyer II:** Cost 1 | Combat 8 | Move 2 | ANTI-FIGHTER BARRAGE 6 (x3)
   - **Prerequisites:** 2 red
   - **Why:** Better kamikaze destroyers with AFB. Cheaper to sacrifice, more effective before dying.
 - **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Prerequisites:** 2 blue + Gravity Drive
+  - **Prerequisites:** 2 blue
   - **Why:** Transport 6 units (including Yin Spinner infantry). Essential for mass invasions.
 
 **Round 5+:** Flex based on objectives (Fleet Logistics, Cruiser II, etc.)
@@ -233,11 +250,11 @@ Your main tech path focuses on Yin Spinner (GG) for infantry spam, blue techs fo
 
 ### C. Tech Path 2: Blue Mobility (Alternative)
 
-**Starting Tech:** Sarween Tools (Y)
+**Starting Tech:** Sarween Tools
 
-**Round 1: Gravity Drive (BB) - WITH BLUE SKIP**
+**Round 1: Gravity Drive (B) - WITH BLUE SKIP**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Prerequisites:** 2 blue (Sarween with Y<>G + blue skip)
+- **Prerequisites:** 1 blue (with blue skip)
 - **Why:** Early mobility for kamikaze strikes across the map. Hit-and-run destroyer attacks.
 
 **Round 2: Destroyer II (RR)**
@@ -247,12 +264,12 @@ Your main tech path focuses on Yin Spinner (GG) for infantry spam, blue techs fo
 
 **Round 3: Fleet Logistics (BB)**
 - During each of your turns in the action phase, you may perform 2 actions instead of 1
-- **Prerequisites:** 2 blue (Sarween with Y<>G + Gravity Drive)
+- **Prerequisites:** 2 blue
 - **Why:** Double activations enable kamikaze + invasion combos in one turn.
 
-**Round 4: Carrier II (BBBB)**
+**Round 4: Carrier II (BB)**
 - Cost 3 | Combat 9 | Move 2 | Capacity 6
-- **Prerequisites:** 2 blue + Gravity Drive + Fleet Logistics
+- **Prerequisites:** 2 blue
 - **Why:** Transport armies for invasions.
 
 **Round 5+:** Yin Spinner (GG) or other flex techs
@@ -318,11 +335,11 @@ Devotion triggers AFTER each space battle round (after both players roll, assign
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
 Your R1 priority is economy and expansion for early aggression.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Trade** - You have 2 commodities and need economy for destroyer production.
 
@@ -340,7 +357,7 @@ Your R1 priority is economy and expansion for early aggression.
 
 8. **Imperial** - Never R1.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
 - **Trade** - Refresh 2 commodities for destroyer production. Need constant economy.
@@ -375,27 +392,6 @@ Your strategy is destroyer spam + infantry spam. Destroyers for kamikaze strikes
 **Kamikaze Fleet Cycling:**
 R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyers → R5: Kamikaze again
 
-### B. Point Planning
-
-**Yin Brotherhood Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Trade/Leadership | 0             | 0             | 0         | 0     | 0     |
-| Two   | Technology       | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 1         | 0     | 5     |
-| Four  | Leadership       | 4             | 2             | 1         | 1     | 8     |
-| Five  | Imperial         | 6             | 3             | 2         | 1     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Yin scores through combat objectives (kamikaze enables wins) and invasion objectives (Yin Spinner + Indoctrination)
-- Trade/Leadership R1-R2 build your destroyer economy
-- Technology R2 for Yin Spinner
-- Imperial R3 and R5 for scoring
-- Commander unlocks easily (use Devotion R2)
-
 ### C. Game Plan
 
 **Strategic Approach:**
@@ -429,7 +425,13 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Yin excels at fleet composition objectives with destroyer spam naturally achieving armada requirements. Spending objectives are easy with 4/4 balanced home economy, and combat objectives benefit from Devotion guaranteed hits.
+
+**Weaknesses:** Structure objectives are challenging without natural building focus. Tech diversity objectives require investment, and peaceful objectives contradict your aggressive kamikaze playstyle requiring combat for maximum efficiency.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -458,7 +460,7 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 Yin excels at resource-spending objectives (Sarween efficiency), fleet objectives (destroyer spam), and expansion objectives (Yin Spinner enables rapid planet acquisition).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -509,7 +511,7 @@ Yin excels at resource-spending objectives (Sarween efficiency), fleet objective
 - **Demonstrate your Power** is EASY after kamikaze fights (your remaining destroyers count)
 - Combat-heavy secrets strongly favor Yin
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -560,7 +562,19 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Yin Brotherhood is a mid-tier faction with unique kamikaze mechanics and unconventional strategies. Your job is to:
 

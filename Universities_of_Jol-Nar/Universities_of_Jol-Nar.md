@@ -44,23 +44,7 @@ Opponents will underestimate your military until they realize your -1 combat is 
 
 **Notes:** Strong defensive starting fleet. 1 dreadnought gives you combat power (though -1 combat makes it weaker). 2 carriers provide capacity 8 total. 2 PDS give you defensive SPACE CANNON coverage. Only 1 fighter and 2 infantry limit your expansion capability compared to other factions.
 
-### C. Starting Technologies
-
-**Four starting technologies:**
-1. **Neural Motivator (Green)** - You have +2 starting command counters
-2. **Antimass Deflectors (Blue)** - Ships move through asteroids; -1 to enemy SPACE CANNON
-3. **Sarween Tools (Yellow)** - Reduce production costs by 1
-4. **Plasma Scoring (Red)** - Ships +1 to combat rolls vs non-fighter ships
-
-**Notes:** You start with MORE technologies than any faction (4 vs 1-2 for most). This is ABSURD. You have immediate advantages:
-- +2 CCs from Neural Motivator (5 starting CCs instead of 3)
-- Production efficiency from Sarween (save 1 resource per production)
-- Combat bonus from Plasma Scoring (+1 vs non-fighters offsets your -1 Fragile = net 0)
-- Mobility from Antimass Deflectors (move through asteroids)
-
-You're ahead of everyone technologically from R1.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Fragile (Faction Ability):** Apply -1 to the result of each of your unit's combat rolls.
 
@@ -79,6 +63,35 @@ Your signature tech acceleration ability. When someone takes Technology and you 
 Skip ahead in tech trees. Want Gravity Drive (BB)? Ignore 1 blue prerequisite, only need 1 blue tech instead of 2. Want AI Development Algorithm (requires 4+ technologies)? Ignore the "4 techs" requirement. Excellent for accelerating to key technologies.
 
 **Note:** Only works for NON-unit-upgrade techs. Can't skip prerequisites for Dreadnought II, Carrier II, etc.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+1. **Neural Motivator** - You have +2 starting command counters
+2. **Antimass Deflectors** - Ships move through asteroids; -1 to enemy SPACE CANNON
+3. **Sarween Tools** - Reduce production costs by 1
+4. **Plasma Scoring** - Ships +1 to combat rolls vs non-fighter ships
+
+**Notes:** You start with MORE technologies than any faction (4 vs 1-2 for most). This is ABSURD. You have immediate advantages:
+- +2 CCs from Neural Motivator (5 starting CCs instead of 3)
+- Production efficiency from Sarween (save 1 resource per production)
+- Combat bonus from Plasma Scoring (+1 vs non-fighters offsets your -1 Fragile = net 0)
+- Mobility from Antimass Deflectors (move through asteroids)
+
+You're ahead of everyone technologically from R1.
+
+**Faction Technologies:**
+
+**Spacial Conduit Cylinder (BB):**
+*You may exhaust this card after you activate a system that contains 1 or more of your units; that system is adjacent to all other systems that contain 1 or more of your units during this activation.*
+
+Movement tech. Exhaust after activating a system with your units to treat it as adjacent to ALL other systems with your units. This creates teleportation across the map - move from any system with your units to the activated system.
+
+**E-Res Siphons (YY):**
+*After another player activates a system that contains 1 or more of your ships, gain 4 trade goods.*
+
+Economic engine tech. When opponents activate systems with your ships, gain 4 TGs. Spread fighters/destroyers across the map, and every opponent activation near you generates 4 TGs. Over a game, this produces 20-40 TGs.
 
 ### E. Leaders
 
@@ -178,13 +191,15 @@ Jol-Nar MUST have tech specialty planets (2-3 minimum). Your entire gameplan rev
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Technology > Trade > Leadership**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Technology** - Begin tech acceleration immediately. Research 2 techs R1 if possible.
-2. **Trade** - You have 4 commodities. Excellent trade economy.
-3. **Leadership** - Command counters for expansion (you already have +2 from Neural Motivator).
-4. **Politics** - Speaker for political control (5 influence home).
+1. **Technology** - Research 2 technologies R1 using Technology primary (Dreadnought II via Analytical, then Carrier II or PDS II for 6 resources). Your Brilliant ability lets you use Technology primary on secondary, accelerating you ahead of all opponents. This is your core strength.
+
+2. **Expansion + Production** - Expand to 2-3 systems prioritizing tech specialty planets for Specialized Compounds efficiency. Limited to 2 infantry restricts ground invasions. Your 2 carriers (capacity 8 total) and dreadnought provide strong fleet presence despite limited expansion.
+
+3. **Scoring** - Acceptable R1 if you can score tech objectives early (Diversify Research = 2 techs in each of 2 colors is easy with 4 starting techs). However, Technology primary is usually more valuable than Imperial R1.
+
+4. **Breakthrough** - Not a priority R1. Focus on unit upgrades (Dreadnought II, Carrier II) and Commander unlock (8 techs by R3-R4) before pursuing breakthrough technologies.
 
 **Expansion Notes:** You have 2 carriers (capacity 8), 1 dreadnought, 1 fighter, and 2 infantry. Limited ground forces (only 2 infantry) restrict your expansion to 2-3 systems R1. Your 2 PDS stay home for defense. Prioritize tech specialty planets during expansion.
 
@@ -220,27 +235,27 @@ Your main tech path should focus on unit upgrades (offset Fragile), Commander un
 
 **Starting Techs:** Neural Motivator, Antimass Deflectors, Sarween Tools, Plasma Scoring (4 total)
 
-**Round 1: Dreadnought II (YYYY) - WITH ANALYTICAL**
+**Round 1: Dreadnought II (BBY) - WITH ANALYTICAL**
 - Cost 4 | Combat 5 | Move 2 | BOMBARDMENT 5 | Sustain Damage
 - **Why:** Offset Fragile with superior unit. Dreadnought II at combat 5 - 1 (Fragile) + 1 (Plasma) = net combat 5 (same as normal Dreadnought II). Move 2 and Sustain make it excellent.
-- **Prerequisites:** 2 yellow (Sarween + Analytical ignores 1)
+- **Prerequisites:** 2 blue + 1 yellow (with Analytical ignoring 1 prereq)
 
-**Round 2: Carrier II (BBBB) AND PDS II (RY) - DOUBLE TECH WITH BRILLIANT**
+**Round 2: Carrier II (BB) AND PDS II (RY) - DOUBLE TECH WITH BRILLIANT**
 - **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
   - **Why:** Combat 9 - 1 (Fragile) + 1 (Plasma) = net 9. Hits easily, massive capacity.
-  - **Prerequisites:** 2 blue (Antimass + blue skip OR secondary)
+  - **Prerequisites:** 2 blue
 - **PDS II:** Planetary Shield | SPACE CANNON 5 | Shoots adjacent systems
   - **Why:** Defensive upgrade. You start with 2 PDS; upgrade both.
   - **Prerequisites:** 1 red + 1 yellow (Plasma + Sarween)
 
-**Round 3: Gravity Drive (BB) AND AI Development Algorithm (requires 4+ techs) - DOUBLE TECH**
+**Round 3: Gravity Drive (B) AND AI Development Algorithm - DOUBLE TECH**
 - **Gravity Drive:** +1 move to 1 ship per activation
-  - **Prerequisites:** 2 blue (Antimass + Carrier II OR blue skip)
+  - **Prerequisites:** 1 blue
 - **AI Development Algorithm:** Reduces tech costs by 1
-  - **Prerequisites:** 4+ technologies (you have 7 now)
+  - **Prerequisites:** None (base tech)
   - **Why:** Now you have 8 TECHS → Commander unlocks!
 
-**Round 4: Fleet Logistics (BB) AND Cruiser II (GGGB) - DOUBLE TECH WITH COMMANDER**
+**Round 4: Fleet Logistics (BB) AND Cruiser II (GYR) - DOUBLE TECH WITH COMMANDER**
 - **Fleet Logistics:** Perform 2 actions per turn
 - **Cruiser II:** Cost 2 | Combat 7 | Move 3 | CAPACITY 1
 
@@ -293,11 +308,11 @@ Your main tech path should focus on unit upgrades (offset Fragile), Commander un
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
 Your R1 priority is technology acceleration.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Technology** - Research 2 techs R1 (primary + 6 resources for second). Begin tech acceleration immediately.
 
@@ -315,7 +330,7 @@ Your R1 priority is technology acceleration.
 
 8. **Imperial** - Never R1.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
 - **Technology** - ALWAYS take if available. Brilliant lets you use primary on secondary = double tech per round.
@@ -349,27 +364,6 @@ Your ideal fleet composition leverages unit upgrades to offset Fragile:
 R1-R2: Produce basic fleets using Sarween efficiency
 R3-R4: Produce upgraded fleets using Dreadnought II and Carrier II
 R5: Fully upgraded armada with Commander rerolls
-
-### B. Point Planning
-
-**Jol-Nar Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Technology       | 0             | 0             | 0         | 0     | 0     |
-| Two   | Trade            | 1             | 0             | 0         | 0     | 1     |
-| Three | Technology       | 3             | 1             | 1         | 0     | 5     |
-| Four  | Imperial         | 4             | 2             | 1         | 1     | 8     |
-| Five  | Technology       | 6             | 3             | 2         | 1     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Jol-Nar scores through tech objectives (own 2 unit upgrades, own 2 techs in each of 2 colors)
-- Technology R1, R3, R5 for constant tech acceleration
-- Trade R2 for economic boost
-- Commander unlocks R3 (8 techs)
-- Hero R4-R5 for tech swapping flexibility
 
 ### C. Game Plan
 
@@ -407,7 +401,13 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Jol-Nar dominates all tech objectives with research bonuses and 8-12 total technologies. Spending objectives are trivial with E-Res Siphons economy generating massive trade goods, and influence spending is easy with 5 home influence plus expansion.
+
+**Weaknesses:** Combat and conquest objectives are very challenging due to Fragile penalty (-1 combat). Aggressive objectives contradict your defensive research-focused strategy, requiring significant military investment to compensate.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -436,7 +436,7 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 Jol-Nar excels at tech objectives (Diversify Research, Develop Weaponry, Found Research Outposts), influence objectives (5 influence home), and trade objectives (4 commodities).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -488,7 +488,7 @@ Jol-Nar excels at tech objectives (Diversify Research, Develop Weaponry, Found R
 - **Turn their Fleets to Dust (SPACE CANNON)** is EASY—you start with 2 PDS, upgrade to PDS II
 - All tech secrets strongly favor Jol-Nar
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -541,7 +541,19 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Universities of Jol-Nar are a top-tier technology faction with the fastest tech acceleration in the game. Your job is to:
 

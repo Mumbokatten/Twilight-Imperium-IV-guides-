@@ -78,28 +78,7 @@ After transformation, your entire faction changes. Your home planets flip to Cro
 - Produce additional ships and ground forces
 - Essential for building invasion fleets to score secrets
 
-### C. Starting Tech
-
-**Choose ONE Green or Yellow Technology with No Prerequisites:**
-
-This is a critical Round 1 decision that shapes your entire tech path.
-
-**Green Technologies:**
-- **Bio-Stims** - Exhaust to sacrifice infantry for command tokens
-- **Hyper Metabolism** - Gain 3 command tokens instead of 2 during status phase
-- **X-89 Bacterial Weapon** - Bombardment ignores planetary shields, destroys all infantry after invasion
-
-**Yellow Technologies:**
-- **Sarween Tools** - +1 fighter/infantry per production (most common choice)
-- **Neural Motivator** - +1 command token per status phase
-- **Graviton Laser System** - PDS rolls +1 die for space cannon
-
-**Recommended Choices:**
-1. **Sarween Tools (Yellow)** - Economic efficiency for infantry spam (helps score ground-based secrets)
-2. **Hyper Metabolism (Green)** - Command token sustainability for aggressive expansion
-3. **Bio-Stims (Green)** - Opens path to Neural Parasite (GG), synergizes with infantry production
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Plots within Plots (The Firmament):**
 *You can score secret objectives already scored by other players if you fulfill their requirements; this does not count against your secret objective limit or the number you can score in a round. When you score another player's secret objective, do not gain a victory point; instead, place a facedown plot card into your play area with that player's control token on it.*
@@ -144,6 +123,33 @@ This is a critical Round 1 decision that shapes your entire tech path.
 - Each plot targets the player whose secret you scored
 - Can have multiple plots targeting the same player
 - Puppeted status matters for plot effects and flagship bonuses
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Choose ONE Green or Yellow Technology with No Prerequisites:**
+
+This is a critical Round 1 decision that shapes your entire tech path.
+
+**Green Technologies:**
+- **Bio-Stims (G)** - Exhaust to sacrifice infantry for command tokens
+- **Hyper Metabolism (GG)** - Gain 3 command tokens instead of 2 during status phase
+- **X-89 Bacterial Weapon (GGG)** - Bombardment ignores planetary shields, destroys all infantry after invasion
+
+**Yellow Technologies:**
+- **Sarween Tools** - +1 fighter/infantry per production (most common choice)
+- **Neural Motivator** - +1 command token per status phase
+- **Graviton Laser System** - PDS rolls +1 die for space cannon
+
+**Recommended Choices:**
+1. **Sarween Tools (Yellow)** - Economic efficiency for infantry spam (helps score ground-based secrets)
+2. **Hyper Metabolism (Green)** - Command token sustainability for aggressive expansion
+3. **Bio-Stims (Green)** - Opens path to Neural Parasite (GG), synergizes with infantry production
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -358,6 +364,24 @@ This is a critical Round 1 decision that shapes your entire tech path.
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Firmament/Obsidian, your first turn priorities depend on whether you're in Firmament phase (Rounds 1-3) or post-transformation Obsidian phase (Rounds 4+).
+
+**As The Firmament (Early Game):**
+
+1. **Scoring** - Your Plots within Plots ability requires scoring OPPONENT secrets without gaining points. Identify which secrets opponents will score (explore-based, territorial, tech-based) and position to score them for plot cards. Commander unlocks with just 1 plot, treating planets in systems with your ships as controlled for secrets.
+
+2. **Expansion + Production** - You need board presence to score opponent secrets. Expand to 2-3 systems Round 1. Your starting tech choice (green or yellow) determines your path: Sarween Tools for economic efficiency or Bio-Stims/Hyper Metabolism for sustainability.
+
+3. **Technology** - Push toward Neural Parasite (generates friendly infantry as Firmament, destroys enemy infantry as Obsidian) or production techs. However, plot collection comes first—tech supports plot acquisition.
+
+4. **Breakthrough** - The Sowing/Reaping (stores trade goods pre-transformation, generates + doubles them post-transformation) is powerful but requires transformation timing. Focus on plot collection first.
+
+**As The Obsidian (Post-Transformation):**
+
+Priority shifts completely: your 6-resource home system, revealed plots, and aggressive components make you a military powerhouse. Focus on rapid scoring to overcome point deficit from Firmament phase.
+
 **1. Victory Point Deficit:**
 Scoring opponent secrets for plots gives you NO victory points. You appear behind on the scoreboard for the entire Firmament phase, creating massive point deficit. If you collect 4 plots (Rounds 1-3), you might be at 0-2 points while leaders are at 4-6 points. You must catch up rapidly after transformation, requiring perfect execution in Obsidian phase.
 
@@ -490,50 +514,58 @@ Round 3: **Cruiser II (2 Yellow, 1 Red) OR Destroyer II (2 Red)**
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings (as The Firmament)
+### A. Round 1 (as The Firmament)
 
-**Leadership (1):** ⭐⭐⭐ - Moderate Value
-Command tokens help aggressive expansion to score secrets. Secondary is fine. Not top priority.
+Your R1 priority is scoring opponent secrets and accumulating plots while avoiding your own victory points.
 
-**Diplomacy (2):** ⭐⭐ - Low Value
-Planet readying less valuable early. You're not holding Mecatol Round 1 typically. Skip.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** ⭐⭐⭐⭐ - High Value
-Speaker token valuable, action card draw excellent. 3 starting influence makes politics viable. Solid Round 1.
+1. **Technology** - Need Planesplitter (YY) and Neural Parasite (GG). Early tech advantage accelerates plot accumulation.
 
-**Construction (4):** ⭐⭐⭐⭐ - High Value
-Space docks for distributed production, PDS for defense. Supports expansion for secret scoring. Strong pick.
+2. **Politics** - Speaker token valuable, action card draw excellent. 3 starting influence makes politics viable.
 
-**Trade (5):** ⭐⭐⭐ - Moderate Value
-3 commodities is average. Trade your Black Ops PN this round to gain plot + support. Secondary acceptable.
+3. **Construction** - Space docks for distributed production, PDS for defense. Supports expansion for secret scoring.
 
-**Warfare (6):** ⭐⭐⭐ - Moderate Value
-Remove tokens, redistribute fleets. Useful but not critical Round 1 as Firmament.
+4. **Leadership** - Command tokens help aggressive expansion to score secrets. Not top priority but useful.
 
-**Technology (7):** ⭐⭐⭐⭐⭐ - Maximum Value
-Need Planesplitter (YY) and Neural Parasite (GG). Early tech advantage accelerates plot accumulation. Top-tier Round 1.
+5. **Warfare** - Remove tokens, redistribute fleets. Useful for invasions to score opponent secrets.
 
-**Imperial (8):** ⭐ - Minimum Value
-You DON'T WANT victory points as Firmament. Scoring your own secrets gains points but doesn't help plot accumulation. Avoid.
+6. **Trade** - 3 commodities is average. Trade your Black Ops PN this round to gain plot + support.
 
-### B. General Strategy Card Priority
+7. **Diplomacy** - Planet readying less valuable early. Not holding Mecatol Round 1 typically.
 
-**As The Firmament (Rounds 1-3):**
-- **Technology (7):** Push toward Planesplitter, Neural Parasite, breakthrough
-- **Politics (3):** Speaker control, action card draw, influence advantage
-- **Construction (4):** Space docks for production, expansion infrastructure
-- **Warfare (6):** If you need to invade/contest to score opponent secrets
+8. **Imperial** - You DON'T WANT victory points as Firmament. Scoring your own secrets gains points but doesn't help plot accumulation. Avoid.
+
+### B. Round 2+
+
+**As The Firmament (Rounds 2-3):**
+
+**Love:**
+- **Technology** - Push toward Planesplitter, Neural Parasite, breakthrough. Essential for plot engine.
+- **Politics** - Speaker control, action card draw, influence advantage for agendas.
+
+**Like:**
+- **Construction** - Space docks for production and expansion infrastructure.
+- **Warfare** - When you need to invade/contest to score opponent secrets.
+- **Trade** - Continue trading Black Ops PN for plots and support.
+
+**Situational:**
+- **Leadership** - Command tokens for expansion if needed.
 
 **Transformation Round (Round 3-4):**
-- Typically use your action to transform (Puppets of the Blade)
-- May not get strategy card this round
+Typically use your action to transform (Puppets of the Blade). May not get strategy card this round.
 
 **As The Obsidian (Rounds 4-6+):**
-- **Imperial (8):** NOW you want victory points - prioritize scoring
-- **Warfare (6):** Military aggression, Mecatol control
-- **Construction (4):** Leverage 6-resource hollow planets for massive builds
-- **Leadership (1):** Command tokens for sustained aggression
-- **Technology (7):** Continue tech path if needed
+
+**Love:**
+- **Imperial** - NOW you want victory points. Prioritize scoring.
+- **Warfare** - Military aggression and Mecatol control.
+- **Construction** - Leverage 6-resource hollow planets for massive builds.
+
+**Like:**
+- **Leadership** - Command tokens for sustained aggression.
+- **Technology** - Continue tech path if needed.
+- **Trade** - 3 commodities for economic support.
 
 ## VII. Intermediate
 
@@ -587,30 +619,6 @@ You DON'T WANT victory points as Firmament. Scoring your own secrets gains point
 - Mechs for planet control (coexist → steal on transformation)
 - Flagship gains extra die after transformation
 
-### B. Point Planning
-
-**"Christmas Land" Scoring Table:**
-
-| Round | Public Objective 1 | Public Objective 2 | Secret Objective | Plots Gained | Total Points | Running Total |
-|-------|-------------------|-------------------|------------------|--------------|--------------|---------------|
-| 1 (F) | - | - | Exploring Borders (0 - plot) | 1 plot (Player A) | 0 | 0 |
-| 2 (F) | Control 6 Planets (1) | - | Destroy 4 Units (0 - plot) | 1 plot (Player B) | 1 | 1 |
-| 3 (F) | Spend 3 Influence (1) | - | - | 1 plot (Player C) | 1 | 2 |
-| 4 (O) | **TRANSFORM** | Control 11 Planets (2) | Win vs 3+ Ships (1) | - | 3 | 5 |
-| 5 (O) | Spend 8 Resources (2) | 5+ Technologies (2) | - | Mecatol (1) | 5 | 10 |
-| 6 (O) | Win vs 2 Ships (2 systems) (2) | Control 5 Hazardous (2) | - | Support Throne (1) | 5 | 15 |
-
-This scenario shows:
-- Rounds 1-3 as Firmament: Gain 3 plots while scoring only 2 public objectives
-- Round 4: Transform to Obsidian, immediately score big
-- Rounds 5-6: Leverage 6-resource economy and revealed plots to dominate
-
-**Realistic Adjustments:**
-- May gain 4-5 plots before transformation (one scenario shows 3)
-- Point deficit pre-transformation often 3-5 points behind leader
-- Post-transformation scoring must be rapid and efficient
-- Revealed plot abilities (Assail, Seethe, Extract) provide combat/economic advantages
-
 ### C. Game Plan
 
 **Round 1 (as The Firmament):**
@@ -663,9 +671,15 @@ This scenario shows:
 
 ## VIII. Objectives
 
+### A. Objective Summary
+
+**Strengths:** Firmament/Obsidian excels at tech objectives with strong research focus and flexible tech paths. Plots within Plots ability enables scoring opponent secret objectives, and revealed plots provide additional objective scoring opportunities through asymmetric information.
+
+**Weaknesses:** Planet control objectives require more effort without natural expansion bonuses. Combat objectives are challenging in Firmament phase without military focus, though Obsidian phase improves combat capability significantly.
+
 **Note:** Firmament Obsidian's dual-phase nature makes objective difficulty vary significantly. Ratings below reflect Obsidian phase (post-transformation).
 
-### A. Stage I Objectives
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -694,7 +708,7 @@ This scenario shows:
 
 As Firmament, focus on scoring opponent secrets for plots. As Obsidian, leverage 6-resource home for military dominance.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -739,7 +753,7 @@ As Firmament, focus on scoring opponent secrets for plots. As Obsidian, leverage
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -796,7 +810,19 @@ Your alliance ability grants Plots within Plots (Firmament) or Obsidian benefits
 - **Pre-Transformation:** Alliance less valuable (you're weak)
 - **Post-Transformation:** Alliance very valuable (you're strong, 6-resource economy)
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 The Firmament / The Obsidian are Twilight Imperium's **most unique and strategically complex faction**, demanding mastery of two completely different playstyles in sequence. Your success depends on **perfect transformation timing, strategic plot accumulation, and ruthless Obsidian-phase execution**.
 

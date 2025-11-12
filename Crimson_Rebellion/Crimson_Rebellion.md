@@ -45,19 +45,7 @@ Your home system provides strong resources (4), making you economically solid fr
 
 This is one of the strongest starting fleets in the game. The dreadnought provides early combat power, the 2 PDS give you defensive coverage, and the destroyer has your unique Exile abilities. You're prepared for aggression or defense from round 1.
 
-### C. Starting Tech
-
-**Choose one blue or red technology with no prerequisites**
-
-This is a flexible start. Recommended options:
-- **Gravity Drive** (Blue): Exceptional for mobility, though your breaches provide similar value
-- **Plasma Scoring** (Red): Boosts your starting dreadnought's combat effectiveness
-- **Antimass Deflectors** (Blue): Mobility through asteroid fields/supernovas
-- **Magen Defense Grid** (Red): Defensive option if you expect early aggression
-
-Most players choose Gravity Drive for the mobility stack with breaches, or Plasma Scoring for early combat power.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Sundered:** You cannot use wormholes other than epsilon wormholes. Other players' units that move or are placed into your home system are destroyed.
 
@@ -70,6 +58,24 @@ This is your core identity. Active breaches make systems adjacent to EACH OTHER 
 **Sea of Tears:** When you create the game board, place the Sorrow (tile 94) where your home system would be placed, and place an inactive breach in it. The Sorrow is not a home system. Then, place your home system (tile 118) in your play area.
 
 This gives you a unique setup where you have two locations: The Sorrow (which acts as your board position) and Ahk Creuxx (your actual home system in your play area). The Sorrow starts with an inactive breach.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Choose one blue or red technology with no prerequisites**
+
+This is a flexible start. Recommended options:
+- **Gravity Drive**: Exceptional for mobility, though your breaches provide similar value
+- **Plasma Scoring**: Boosts your starting dreadnought's combat effectiveness
+- **Antimass Deflectors**: Mobility through asteroid fields/supernovas
+- **Magen Defense Grid**: Defensive option if you expect early aggression
+
+Most players choose Gravity Drive for the mobility stack with breaches, or Plasma Scoring for early combat power.
+
+**Faction Technologies:**
+
+(Add faction technology information here if available from the cheat sheet)
 
 ### E. Leaders
 
@@ -149,6 +155,18 @@ You're not desperate for early strategy cards, but you benefit from controlling 
 
 ## IV. Structural Weaknesses
 
+### A. First Turn Priorities
+
+As Crimson Rebellion, your first turn priorities should reflect your breach network establishment and mobility-focused strategy. Here's the recommended ordering:
+
+1. **Expansion + Production** - Despite your breach mobility, you need planets and resources first. Your 4-resource home and 4 commodities provide a decent start, but you must expand to 2-3 additional planets Round 1 to support your fleet production. Use your strong starting fleet (dreadnought + destroyer + carrier) for aggressive expansion.
+
+2. **Breakthrough** - Establishing your breach network takes priority over raw expansion. Place your first 1-2 breach tokens in systems that connect your home area to high-value targets. Resonance Generator (your breakthrough) is critical mid-game but requires the network foundation first.
+
+3. **Technology** - Gravity Drive (if not starting tech) or pushing toward Exile II unlocks your mobility potential. However, breach placement and territorial control come first—tech accelerates an existing network, it doesn't create one.
+
+4. **Scoring** - Your ability to score early is limited until your breach network connects 3-4 systems. Focus Rounds 1-2 on network establishment; scoring acceleration comes Round 3+ when breaches enable objective flexibility.
+
 **Wormhole Exclusion:** Sundered means you cannot use alpha, beta, or gamma wormholes. On maps where wormholes connect key systems, you're at a significant disadvantage until your breach network compensates.
 
 **Breach Vulnerability:** Your entire strategy relies on breach tokens remaining active. Any player with ships in a breach system can remove it at the end of status phase, potentially collapsing your network. You need to constantly maintain and refresh breaches.
@@ -215,34 +233,42 @@ Focus on economy and card advantage, using breaches for positional scoring rathe
 
 ## VI. Strategy Cards
 
-### A. Round 1 Ratings
+### A. Round 1
 
-**Leadership (1):** **Good**. 3 command tokens enable aggressive breach placement and expansion. The secondary helps you build initial fleet.
+Your R1 priority is establishing breach network foundation and economic base for fleet production.
 
-**Diplomacy (2):** **Bad**. You want to activate systems to place breaches, not lock them down. Anti-synergistic.
+**Round 1 Priority Ranking:**
 
-**Politics (3):** **Good**. Speaker priority and action cards are valuable. Influence refresh helps with your low-influence start.
+1. **Trade** - You have 4 commodities. Excellent economic value for ship production and breach network expansion.
 
-**Construction (4):** **Great**. You can place a second space dock in The Sorrow or another breach system, creating multiple production nodes in your network.
+2. **Construction** - Place second space dock in The Sorrow or breach system. Multiple production nodes support breach strategy.
 
-**Trade (5):** **Great**. 4 commodities means Trade gives you excellent economic value. You need resources for ship production.
+3. **Leadership** - Command tokens enable breach placement and aggressive expansion. Secondary builds initial fleet.
 
-**Warfare (6):** **Good**. Fleet token return is useful when you're activating multiple breach systems. Secondary helps allies.
+4. **Technology** - Begin tech path toward Exile II (destroyer upgrade with breach placement) and Gravity Drive for mobility.
 
-**Technology (7):** **Like**. You start with 1 tech but need to build toward Gravity Drive (if not starting) and Exile II. Technology accelerates this.
+5. **Politics** - Speaker priority and action cards valuable. Influence refresh helps with low-influence start (2).
 
-**Imperial (8):** **Good**. Points are always valuable, and you can often hold Mecatol through breach teleportation.
+6. **Warfare** - Fleet token return useful for multiple breach system activations. Secondary helps allies.
 
-### B. General Strategy Card Priority
+7. **Diplomacy** - Anti-synergistic. You want to activate systems to place breaches, not lock them down.
 
-**Early Game (Rounds 1-2):**
-Trade > Construction > Leadership > Technology
+8. **Imperial** - Never R1.
 
-**Mid Game (Rounds 3-4):**
-Imperial > Leadership > Trade > Warfare
+### B. Round 2+
 
-**Late Game (Rounds 5+):**
-Imperial > Leadership > Warfare > Politics
+**Love:**
+- **Trade** - Refresh 4 commodities for consistent economy. Resources fuel breach network expansion and ship production.
+- **Leadership** - Command tokens critical for activating breach systems and placing new breaches. Constant CC needs.
+- **Imperial** - Score objectives. Breach network enables Mecatol teleportation for point holding.
+
+**Good:**
+- **Construction** - Additional space docks in breach systems create distributed production nodes across your network.
+- **Technology** - Stay on path toward Exile II (breach placement destroyer) and Gravity Drive (mobility stacks with breaches).
+- **Warfare** - Fleet token return when activating multiple breach systems. Redistribution after breach movements.
+
+**Situational:**
+- **Politics** - Only if you need speaker or agenda control. Your 2 home influence makes voting challenging without TG spending.
 
 ## VII. Intermediate
 
@@ -273,27 +299,6 @@ Imperial > Leadership > Warfare > Politics
 - Your breach network means you need mobile carriers, not stationary defense
 - PDS can cover breach systems, creating defensive nodes
 - Mechs deploy from anywhere to breach systems - build them when needed
-
-### B. Point Planning
-
-**Christmas Land Scoring (10-point game):**
-
-| Round | Public | Secret | MR | Bonus | Total | Cumulative |
-|-------|--------|--------|-----|-------|-------|------------|
-| 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | 1 | 0 | 0 | 0 | 1 | 1 |
-| 3 | 1 | 1 | 0 | 0 | 2 | 3 |
-| 4 | 1 | 0 | 0 | 0 | 1 | 4 |
-| 5 | 1 | 0 | 1 | 0 | 2 | 6 |
-| 6 | 1 | 1 | 0 | 0 | 2 | 8 |
-| 7 | 1 | 0 | 1 | 0 | 2 | 10 |
-
-**Notes:**
-- Round 2: Score resource or planet control objective
-- Round 3: Commander unlocks, enabling combat secret or ship secret
-- Round 5: Take Mecatol through breach network
-- Round 6: Score second secret (likely combat or tech-related)
-- Round 7: Imperial on Mecatol for final point
 
 ### C. Game Plan
 
@@ -331,7 +336,13 @@ After unlocking Ahk Siever, you generate commodities/trade goods from ANY combat
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Crimson Rebellion excels at movement and positioning objectives through breach network adjacencies, allowing instant access to distant systems. Combat objectives are achievable with Ahk Siever commander generating income, and tech objectives benefit from flexible paths.
+
+**Weaknesses:** Planet control objectives are challenging without natural expansion bonuses, requiring more setup than territorial factions. Structure objectives are difficult, and influence spending can be hard with limited home influence.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -360,7 +371,7 @@ After unlocking Ahk Siever, you generate commodities/trade goods from ANY combat
 
 Crimson Rebellion excels at breach-enabled mobility objectives and combat. Sundered prevents wormhole objectives.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -405,7 +416,9 @@ Crimson Rebellion excels at breach-enabled mobility objectives and combat. Sunde
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟡     |
 
-### C. Stage II Objectives
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -433,6 +446,8 @@ Crimson Rebellion excels at breach-enabled mobility objectives and combat. Sunde
 
 Crimson Rebellion's breach network enables unique objective scoring through map manipulation and mobility.
 
+---
+
 ## IX. Alliance Priority
 
 **Best Alliance Partners:**
@@ -455,7 +470,19 @@ Crimson Rebellion's breach network enables unique objective scoring through map 
 
 3. **Yssaril:** They prefer political play over the combat focus your breaches enable
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Crimson Rebellion is one of the most unique and complex factions in Twilight Imperium. Your breach mechanic fundamentally changes how you interact with the game board, transforming distance from a limitation into an irrelevance. While everyone else measures moves and calculates range, you're creating a network of instant connections that let you be everywhere at once.
 

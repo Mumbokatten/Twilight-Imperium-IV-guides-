@@ -34,9 +34,9 @@ Choose 1 red or green technology with no prerequisites.
 
 **Recommendations:**
 - **Sarween Tools** (Yellow - but you can take with no prereq) - Best economic tech
-- **Antimass Deflectors** (Red) - Synergizes with your PDS mobility
-- **Neural Motivator** (Green) - Flexible opener
-- **Psychoarchaeology** (Blue) - If you want to go exploration route
+- **Antimass Deflectors** - Synergizes with your PDS mobility
+- **Neural Motivator** - Flexible opener
+- **Psychoarchaeology** - If you want to go exploration route
 
 ### C. Home Systems
 - **Mez Lo Orz Pei Zsha:** 2/1 (2 resources, 1 influence)
@@ -115,6 +115,18 @@ Strong defensive alliance for factions that need flexible retreat options. Provi
 **Analysis:** Excellent action card economy tool. You collect every action card discarded by all players during the round, then cherry-pick the best one when you pass. This can give you critical cards like Direct Hit, Sabotage, or combat modifiers. The Y<>G synergy also helps with tech pathing.
 
 ## IV. Structural Weaknesses
+
+### A. First Turn Priorities
+
+As Ral Nel Consortium, your first turn priorities should reflect your mobile structure strategy and reactive movement. Here's the recommended ordering:
+
+1. **Technology** - Miniaturization (transport structures with your carriers) is your defining tech. Prioritize researching this Round 2-3 to enable mobile space dock production. However, Round 1 focus on expansion and structure placement.
+
+2. **Expansion + Production** - Build additional space docks and PDS Round 1 using Construction strategy card. Your Linkship destroyers trigger PDS globally when present. Place structures strategically for future Miniaturization transport. Your 3 resources from home are below average—expansion is critical.
+
+3. **Breakthrough** - Survival Instinct (reactive movement when opponent activates adjacent system) requires board positioning first. Place structures near borders to enable future reactive repositioning. This comes after territorial control.
+
+4. **Scoring** - Score structure objectives (4+ structures, structures on planets) easily due to mobile structure strategy. However, you need Round 2-3 infrastructure before these objectives appear. Focus on structure placement first.
 
 ### A. Low Starting Resources
 3 resources at home is below average (most factions have 4-5). This delays your builds early game.
@@ -278,7 +290,13 @@ Opponent attacks System B:
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Ral Nel dominates structure objectives with Miniaturization allowing PDS and space docks on every planet at minimal cost. Construct Massive Cities and Protect the Border are significantly easier than other factions, and mobility from Linkship supports territorial objectives.
+
+**Weaknesses:** Combat objectives are challenging without direct military bonuses, requiring fleet investment. Resource spending can be difficult depending on slice composition, and tech diversity objectives may be harder with specialized tech focus.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -307,7 +325,7 @@ Opponent attacks System B:
 
 Ral Nel has particular strengths with structure-based objectives. Miniaturization makes moving structures trivial, and mobile PDS networks make Build Defenses and Improve Infrastructure easier than most factions. Your 4-influence home system helps with Sway the Council.
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -354,7 +372,7 @@ Ral Nel has particular strengths with structure-based objectives. Miniaturizatio
 
 Ral Nel has strong synergy with Turn their Fleets to Dust (Linkships provide abundant Space Cannon shots) and Establish a Perimeter (mobile PDS are core to your strategy). Commander retreat ability makes retreat-based objectives more feasible. Combat-focused secrets remain difficult since you're not a combat faction.
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -433,34 +451,41 @@ You choose 1 red or green tech with no prerequisites at start.
 
 ## X. Strategy Cards
 
-### Round One Rankings
+### A. Round 1
 
-**GREAT:**
-- Trade (4 commodities + you're excellent trade partner)
-- Technology (You need to accelerate toward Linkship I)
-- Politics (4 influence home makes you strong politically)
+Your R1 priority is accelerating toward Linkship I and establishing mobile structure network.
 
-**GOOD:**
-- Leadership (CCs for expansion)
-- Warfare (Defensive unlock for Survival Instinct reinforcements)
+**Round 1 Priority Ranking:**
 
-**MEDIOCRE:**
-- Construction (You have mobile structures; less need for this)
-- Imperial (Unlikely to score R1)
+1. **Trade** - 4 commodities + you're excellent trade partner. Economic engine foundation.
 
-**BAD:**
-- Diplomacy (Survival Instinct provides defensive response; Diplomacy is redundant)
+2. **Technology** - You need to accelerate toward Linkship I. Mandatory tech path.
 
-### General Preferences
+3. **Politics** - 4 influence home makes you strong politically. Agenda control.
 
-**Leadership:** LOVE - CCs for expansion + Survival Instinct uses
-**Diplomacy:** LIKE - Additional protection (but Survival Instinct is better)
-**Politics:** LOVE - 4 influence home + agenda control
-**Construction:** LIKE - Mobile structures make Construction less critical, but objectives may require it
-**Trade:** LOVE - 4 commodities + economic engine
-**Warfare:** LOVE - Unlock systems for reinforcement/Survival Instinct
-**Technology:** LOVE - Linkship I/II are mandatory techs
-**Imperial:** NEED - Points
+4. **Leadership** - CCs for expansion + Survival Instinct uses.
+
+5. **Warfare** - Defensive unlock for Survival Instinct reinforcements.
+
+6. **Construction** - You have mobile structures; less need for this.
+
+7. **Imperial** - Unlikely to score R1.
+
+8. **Diplomacy** - Survival Instinct provides defensive response; Diplomacy is redundant.
+
+### B. Round 2+
+
+**Love:**
+- **Trade** - 4 commodities + economic engine. Excellent trade partner value.
+- **Technology** - Linkship I/II are mandatory techs. Critical for mobile structure strategy.
+- **Politics** - 4 influence home + agenda control.
+- **Leadership** - CCs for expansion + Survival Instinct uses.
+- **Warfare** - Unlock systems for reinforcement/Survival Instinct.
+- **Imperial** - Points are points. Needed rounds 3-5.
+
+**Like:**
+- **Construction** - Mobile structures make Construction less critical, but objectives may require it.
+- **Diplomacy** - Additional protection (but Survival Instinct is better).
 
 ## XI. Agent (Kan Kip Rel)
 
@@ -734,7 +759,19 @@ Saar has mobile space docks. You have mobile everything.
 | 4 | Imperial | 4 | 1 | 2 | 1 | 2 PDS (Linkship II researched) | 8 |
 | 5 | Politics | 5 | 2 | 2 | 1 | Hero turn + mobile fortress | 10 |
 
-## XXI. End Notes
+## XXI. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XXII. End Notes
 
 Ral Nel Consortium rewards:
 - **Creative positioning:** Mobile structures enable unconventional plays

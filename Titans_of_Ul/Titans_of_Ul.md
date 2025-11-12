@@ -40,15 +40,7 @@ Opponents will underestimate your sleeper tokens until you awaken 4 PDS in one a
 
 **Notes:** Strong starting fleet with a dreadnought for combat power and 2 Saturn Engine cruisers with capacity 1 each (total capacity 2 from cruisers). This gives you excellent mobility—cruisers move 2 and have capacity for transporting ground forces. 3 infantry provide solid expansion capability.
 
-### C. Starting Technologies
-
-**Two starting technologies:**
-1. **Antimass Deflectors (Blue)** - Ships move through asteroids; -1 to enemy SPACE CANNON
-2. **Scanlink Drone Network (0)** - When you activate a system, explore 1 planet in that system
-
-**Notes:** Solid starting techs. Antimass gives mobility through asteroids and SPACE CANNON defense. Scanlink Drone Network is PERFECT for Terragenesis—every activation = 1 exploration = 1 potential sleeper token placement. These two techs synergize beautifully with your faction identity (explore constantly, place sleeper tokens everywhere).
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Terragenesis (Faction Ability):** After you explore a planet that does not have a sleeper token, you may place or move 1 sleeper token onto that planet.
 
@@ -61,6 +53,29 @@ Your payoff ability. When you activate a system with sleeper tokens, convert ALL
 **COALESCENCE (Faction Ability):** If your flagship or your Awaken faction ability places units into the same space area or onto the same planet as another player's units, your units must participate in combat during the "Space Combat" or "Ground Combat" steps.
 
 Forced combat trigger. When you awaken sleeper tokens on planets with enemy units, or deploy your flagship into systems with enemies, you MUST fight. This prevents you from peacefully coexisting—you're forced into combat. Trade-off for your powerful awakening ability.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+1. **Antimass Deflectors** - Ships move through asteroids; -1 to enemy SPACE CANNON
+2. **Scanlink Drone Network** - When you activate a system, explore 1 planet in that system
+
+**Notes:** Solid starting techs. Antimass gives mobility through asteroids and SPACE CANNON defense. Scanlink Drone Network is PERFECT for Terragenesis—every activation = 1 exploration = 1 potential sleeper token placement. These two techs synergize beautifully with your faction identity (explore constantly, place sleeper tokens everywhere).
+
+**Faction Technologies:**
+
+**Saturn Engine II (GYR):**
+*Ul Cruiser - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2 | Sustain Damage*
+
+Upgraded cruiser with better combat (6 instead of 7), Move 3 (instead of 2), Capacity 2 (instead of 1), and Sustain Damage. Makes your cruisers incredibly mobile and durable.
+
+**Hel-Titan II (YR):**
+*Ul PDS - Combat: 6 | Planetary Shield | Sustain Damage | SPACE CANNON 5 | PRODUCTION 1*
+
+This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
+
+Upgraded PDS with better combat (6 instead of 7), SPACE CANNON 5 (instead of 6), and can shoot at ADJACENT systems. This creates overlapping defensive networks across the map.
 
 ### E. Leaders
 
@@ -170,13 +185,15 @@ Titans wants planet count above all else. The more planets in your slice, the mo
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Expansion > Construction > Technology**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Expansion with Scanlink** - Every activation = 1 exploration = 1 sleeper token placement. Explore 4-5 planets R1.
-2. **Construction** - Build forward PDS or space docks. Structures count toward Commander unlock (5 structures).
-3. **Technology** - Begin tech path toward Hel-Titan II and Saturn Engine II.
-4. **Trade** - Less useful (2 commodities only).
+1. **Expansion + Production** - Explore 4-5 systems using Scanlink to place sleeper tokens on every planet. Your Saturn Engine cruisers (capacity 1 each) and dreadnought provide excellent mobility and transport. Place sleeper tokens everywhere for future awakening.
+
+2. **Technology** - Begin tech path toward Hel-Titan II (YR) and Saturn Engine II (GYR). Early Sarween Tools accelerates production efficiency with 8-12 future Hel-Titan production sources.
+
+3. **Breakthrough** - Less critical R1. Focus on sleeper token placement and Commander unlock (5 structures) before pursuing breakthrough technologies.
+
+4. **Scoring** - Avoid Imperial R1. You need sleeper token infrastructure and Commander unlock (R2-R3) before scoring becomes efficient. Structure objectives will be trivial later.
 
 **Expansion Notes:** You have 1 dreadnought, 2 Saturn Engine cruisers (capacity 1 each), 2 fighters, and 3 infantry. Excellent expansion capability. Aim for 4-5 systems R1, using Scanlink to explore every planet and place sleeper tokens. Your cruiser capacity lets you transport infantry efficiently.
 
@@ -210,9 +227,9 @@ Your main tech path should focus on upgrading your special units (Hel-Titan II a
 
 ### B. Tech Path 1: Special Unit Upgrades (Standard)
 
-**Starting Techs:** Antimass Deflectors (B), Scanlink Drone Network (0)
+**Starting Techs:** Antimass Deflectors, Scanlink Drone Network
 
-**Round 1: Sarween Tools (Y)**
+**Round 1: Sarween Tools**
 - When you use PRODUCTION, reduce combined cost by 1
 - **Why:** Economic efficiency. With 8-12 Hel-Titans producing, Sarween saves 8-12 resources per round.
 - **Prerequisites:** None (0)
@@ -227,10 +244,10 @@ Your main tech path should focus on upgrading your special units (Hel-Titan II a
 - **Why:** Your other faction tech. Upgrades cruisers to move 3, capacity 2, Sustain Damage. Excellent mobility and transport.
 - **Prerequisites:** 1 green + 1 yellow + 1 red (need green tech + Sarween + red tech)
 
-**Round 4: Gravity Drive (BB)**
+**Round 4: Gravity Drive (B)**
 - +1 move to 1 ship per activation
 - **Why:** Mobility for repositioning fleets.
-- **Prerequisites:** 2 blue (Antimass + blue skip OR secondary)
+- **Prerequisites:** 1 blue
 
 **Round 5+:** Flex techs (Carrier II, Fleet Logistics, AI Development Algorithm)
 
@@ -256,7 +273,7 @@ Your main tech path should focus on upgrading your special units (Hel-Titan II a
 
 **Starting Techs:** Antimass, Scanlink
 
-**Round 1: Sarween Tools (Y)**
+**Round 1: Sarween Tools**
 
 **Round 2: AI Development Algorithm (requires 4+ techs)**
 - Reduces tech costs by 1
@@ -281,11 +298,11 @@ Your main tech path should focus on upgrading your special units (Hel-Titan II a
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
 Your R1 priority is exploration and sleeper token placement.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Construction** - Build forward PDS or space docks. Structures count toward Commander unlock.
 
@@ -303,7 +320,7 @@ Your R1 priority is exploration and sleeper token placement.
 
 8. **Imperial** - Never R1.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
 - **Construction** - Build PDS/structures. With Commander, every production = 1 TG.
@@ -341,26 +358,6 @@ With 8-10 Hel-Titans (PRODUCTION 1 each), you have 8-10 production capacity dist
 - Activate Mecatol system → Produce 1 PDS from Hel-Titan there (build more PDS!)
 
 This distributed production is ABSURDLY flexible. No other faction can produce in 8-10 locations simultaneously.
-
-### B. Point Planning
-
-**Titans of Ul Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Construction     | 0             | 0             | 0         | 0     | 0     |
-| Two   | Leadership       | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 1         | 0     | 5     |
-| Four  | Technology       | 4             | 2             | 1         | 1     | 8     |
-| Five  | Imperial         | 6             | 3             | 2         | 1     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Titans scores through structure objectives (Build Defenses, Construct Massive Cities)
-- Construction R1 for structure building and Commander unlock
-- Commander unlocks R2-R3 (5 structures)
-- Hero R4 for +3/+3 to Elysium
 
 ### C. Game Plan
 
@@ -401,7 +398,13 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Titans dominates structure objectives with Hel-Titan PDS providing both military power and structure count. Construct Massive Cities and Protect the Border are trivial with 8-12 Hel-Titans naturally deployed, and production objectives benefit from constant Tungstantus income.
+
+**Weaknesses:** Influence spending objectives are very difficult with only 1 home influence. Political objectives require heavy expansion, and tech diversity may be challenging depending on chosen paths beyond PDS focus.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -430,7 +433,7 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 Titans excels at structure objectives (Build Defenses, Improve Infrastructure), resource objectives (Commander generates massive TG = resources), and expansion objectives (sleeper tokens encourage wide expansion).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -481,7 +484,7 @@ Titans excels at structure objectives (Build Defenses, Improve Infrastructure), 
 - **Mechanize the Military (mech on 4 planets)** is EASY—use Hel-Titan DEPLOY to place mechs
 - All structure secrets strongly favor Titans
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -505,7 +508,19 @@ Titans excels at structure objectives (Build Defenses, Improve Infrastructure), 
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Titans of Ul is a top-tier defensive and production faction with unique mechanics. Your job is to:
 

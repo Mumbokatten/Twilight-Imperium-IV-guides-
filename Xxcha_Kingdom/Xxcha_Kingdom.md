@@ -44,13 +44,7 @@ Opponents will avoid attacking you once they see your PDS network. That moment w
 
 **Notes:** Unique starting fleet with 2 cruisers (speed + combat power) and 1 PDS. The PDS gives you immediate defensive presence. 4 infantry enable solid R1 expansion. Your cruisers give you mobility (move 2) that most defensive factions lack.
 
-### C. Starting Technologies
-
-**Graviton Laser System (Yellow)** - When one or more of your units use SPACE CANNON against another player's ships, apply -1 to the result of each die roll. Your opponent may choose 1 of their ships that was hit to be destroyed. That player may destroy 1 of their other ships that was not hit instead.
-
-**Notes:** Excellent starting tech. Makes your SPACE CANNON more deadly (effective -1 to opponent's rolls = easier to hit). Starts your PDS path—you already have 1 PDS, and Graviton makes it much better. Opens yellow tech paths.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Peace Accords (Faction Ability):** After you resolve the primary or secondary ability of the "Diplomacy" strategy card, you may gain control of 1 planet other than Mecatol Rex that does not contain any units and is in a system that is adjacent to a planet you control.
 
@@ -59,6 +53,26 @@ Free planet acquisition. Every time you resolve Diplomacy (primary or secondary)
 **Quash (Faction Ability):** When an agenda is revealed, you may spend 1 token from your strategy pool to discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.
 
 Agenda veto. When an agenda is revealed, spend 1 strategy CC to discard it and draw a new one. This lets you fish for better agendas or veto terrible ones. Exceptional political control—you're vetoing 20-40% of all agendas over a game.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Graviton Laser System (Y)** - When one or more of your units use SPACE CANNON against another player's ships, apply -1 to the result of each die roll. Your opponent may choose 1 of their ships that was hit to be destroyed. That player may destroy 1 of their other ships that was not hit instead.
+
+**Notes:** Excellent starting tech. Makes your SPACE CANNON more deadly (effective -1 to opponent's rolls = easier to hit). Starts your PDS path—you already have 1 PDS, and Graviton makes it much better. Opens yellow tech paths.
+
+**Faction Technologies:**
+
+**Instinct Training (G):**
+*You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.*
+
+Action card cancellation tech. Exhaust and spend 1 strategy CC to cancel any action card. This is a hard counter to Direct Hit, Sabotage, and other critical action cards. Defensive powerhouse.
+
+**Nullification Field (YY):**
+*After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.*
+
+Turn-ending tech. When opponent activates a system with your ships, exhaust and spend 1 strategy CC to end their turn immediately. This denies them their entire tactical action. Incredible defensive ability.
 
 ### E. Leaders
 
@@ -145,13 +159,15 @@ Xxcha wants influence for politics, resources for PDS production, and defensive 
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Politics/Diplomacy > Trade > Technology**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Politics** - Control speaker and agendas. This is your domain.
-2. **Diplomacy** - Enables Peace Accords R1 and defensive system protection.
-3. **Trade** - You have 4 commodities. Excellent trading economy.
-4. **Technology** - Fourth priority. Begin tech path toward PDS II.
+1. **Expansion + Production** - Expand to 3-4 systems using your carrier, 2 cruisers (move 2), and 4 infantry. Your cruisers provide excellent mobility. Claim influence-heavy planets for Commander unlock (12+ influence) and political dominance. Build PDS gradually for defensive network.
+
+2. **Technology** - Begin tech path toward PDS II (RY - SPACE CANNON 5, shoots adjacent systems). Graviton Laser System starting tech opens yellow path. Early PDS II creates impenetrable defensive zones by R3-R4.
+
+3. **Scoring** - Acceptable R1 for political/influence objectives. However, your strength is late-game PDS network and political dominance. Defer major scoring until Commander unlock (12+ influence) and PDS II saturation (R3-R4).
+
+4. **Breakthrough** - Not a priority R1. Focus on PDS II and Commander unlock before pursuing breakthrough technologies. Your defensive network requires foundational infrastructure first.
 
 **Expansion Notes:** You have 1 carrier (capacity 4), 2 cruisers, and 4 infantry. Your cruisers give you speed (move 2) for expansion. Aim for 3-4 systems R1. Your 1 PDS should stay home for defense unless you're placing it forward as deterrent.
 
@@ -187,30 +203,30 @@ Your main tech path focuses on PDS II for defensive dominance, blue tech for mob
 
 **Starting Tech:** Graviton Laser System (Y)
 
-**Round 1: Sarween Tools (Y) OR Neural Motivator (G)**
+**Round 1: Sarween Tools OR Neural Motivator**
 - **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
   - **Why:** Economy boost for constant structure production. Saves 15-20 resources over game.
   - **Prerequisites:** None (0)
 - **Neural Motivator:** You have +2 starting command counters
   - **Why:** More CCs for Quash usage and defensive activations.
-  - **Prerequisites:** 1 green
+  - **Prerequisites:** None (0)
 
 **Round 2: PDS II (RY)**
 - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system
 - **Why:** Your core defensive tech. PDS II hits on 5+ (60% hit rate) with Graviton = effective 4+ (83% hit rate). Shoots adjacent systems for area denial.
 - **Prerequisites:** 1 red + 1 yellow (need red tech + Graviton)
 
-**Round 3: Gravity Drive (BB)**
+**Round 3: Gravity Drive (B)**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility for repositioning defensive fleets and reaching distant objectives.
-- **Prerequisites:** 2 blue (need to pick up blue techs)
+- **Prerequisites:** 1 blue
 
-**Round 4: Carrier II (BBBB) OR Cruiser II (GGGB)**
+**Round 4: Carrier II (BB) OR Cruiser II (GYR)**
 - **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Prerequisites:** 2 blue + Gravity Drive
+  - **Prerequisites:** 2 blue
   - **Why:** Transport armies and provide mobile capacity.
 - **Cruiser II:** Cost 2 | Combat 7 | Move 3 | CAPACITY 1
-  - **Prerequisites:** 3 green + 1 blue (or with Y<>G synergy)
+  - **Prerequisites:** 1 green + 1 yellow + 1 red
   - **Why:** Fast ships for mobility and screening.
 
 **Round 5+:** Flex techs (Fleet Logistics, Nullification Field faction tech, etc.)
@@ -239,7 +255,7 @@ Your main tech path focuses on PDS II for defensive dominance, blue tech for mob
 
 **Starting Tech:** Graviton Laser System (Y)
 
-**Round 1: Sarween Tools (Y) OR Psychoarchaeology (0)**
+**Round 1: Sarween Tools OR Psychoarchaeology**
 - **Psychoarchaeology:** When you resolve primary/secondary of Politics or Imperial, draw 1 action card
   - **Why:** Political tech synergizes with Quash and Commander voting. More action cards = more political leverage.
 
@@ -252,7 +268,7 @@ Your main tech path focuses on PDS II for defensive dominance, blue tech for mob
 - PDS II is still mandatory for defense
 - **Prerequisites:** 1 red + 1 yellow (Graviton + red tech)
 
-**Round 4: Gravity Drive (BB)**
+**Round 4: Gravity Drive (B)**
 - Mobility for late game
 
 **Round 5+:** Flex
@@ -273,11 +289,11 @@ Your main tech path focuses on PDS II for defensive dominance, blue tech for mob
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
 Your R1 priority is securing Politics or Diplomacy for your faction abilities.
 
-**R1 Priority Ranking:**
+**Round 1 Priority Ranking:**
 
 1. **Politics** - Control speaker and agendas. Use Quash effectively.
 
@@ -295,7 +311,7 @@ Your R1 priority is securing Politics or Diplomacy for your faction abilities.
 
 8. **Imperial** - Never R1.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
 - **Politics** - Control speaker, use Quash, draw action cards with Psychoarchaeology. Always take this when available.
@@ -334,27 +350,6 @@ Your defensive positioning is: **PDS on border planets → Flagship in key syste
 3. Mecatol Rex (if you control it)
 4. Equidistant systems between opponents
 
-### B. Point Planning
-
-**Xxcha Kingdom Christmas-Land Strategy Cards:**
-
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Politics         | 0             | 0             | 0         | 0     | 0     |
-| Two   | Diplomacy        | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 1         | 0     | 5     |
-| Four  | Politics         | 4             | 2             | 1         | 1     | 8     |
-| Five  | Imperial         | 6             | 3             | 2         | 1     | 12    |
-
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
-
-**Notes:**
-- Xxcha scores through patience and control objectives
-- Politics R1/R4 for speaker + Quash control
-- Diplomacy R2 for Peace Accords expansion
-- Imperial R3/R5 for scoring windows
-- Commander unlocks R2-R3 (12+ influence), boosting voting power
-
 ### C. Game Plan
 
 **Strategic Approach:**
@@ -392,7 +387,13 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Xxcha dominates political objectives with 4 home influence, Quash ability, and Elder Qanoj commander voting bonuses. Structure objectives are easy with PDS networks naturally deployed, and spending objectives benefit from Peace Accords free planet expansion.
+
+**Weaknesses:** Combat and conquest objectives are very challenging with defensive playstyle. Aggressive objectives contradict your turtle strategy, and resource spending can be difficult with only 3 home resources.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
@@ -421,7 +422,7 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 Xxcha excels at influence-spending (Sway the Council), structure objectives (Build Defenses, Improve Infrastructure), and control objectives (Expand Borders via Peace Accords).
 
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -472,7 +473,7 @@ Xxcha excels at influence-spending (Sway the Council), structure objectives (Bui
 - **Dictate Policy and Drive the Debate** are EASY with Quash and Commander voting
 - **Establish Hegemony (12+ influence)** is EASY with 4 influence home + expansion
 
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
@@ -523,7 +524,19 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
+
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+
+### A. High-Value Action Cards
+
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
 
 Xxcha Kingdom is a top-tier defensive and political faction. Your job is to:
 
