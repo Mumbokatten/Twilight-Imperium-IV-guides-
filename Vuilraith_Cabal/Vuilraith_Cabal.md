@@ -6,17 +6,17 @@
 
 ## I. Introduction
 
-The Vuil'raith Cabal are TI4's ultimate resource recyclers and gravity rift specialists. This faction excels at capturing enemy units destroyed in combat through Devour, using those captured units to produce for free via Amalgamation, and ignoring tech prerequisites through Riftmeld. Vuil'raith isn't about traditional economy—it's about converting enemy deaths into your production fuel, leveraging gravity rifts for mobility advantages, and scaling power through captured unit recycling.
+The Vuil'raith Cabal are TI4's ultimate resource recyclers and gravity rift specialists. Every enemy unit destroyed becomes your production fuel. Your dimensional tear space docks create gravity rifts for enhanced mobility, and your captured unit economy scales exponentially with each battle.
 
-The payoff? Watching opponents realize their destroyed ships become YOUR free production materials, seeing your dimensional tear space dock act as a gravity rift with +1 move for exiting ships, and capturing entire enemy fleets with your Hero. When you've captured 20+ units and produce massive fleets for free, economic dominance is absolute.
+This faction rewards aggressive combat and resource efficiency. You don't build traditional economy—you steal it from your opponents. Every destroyed ship is future production, every captured unit is saved resources. The more you fight, the stronger you become.
 
 ## II. Playstyle
 
 Playing Vuil'raith Cabal is like being a cosmic scavenger that turns enemy losses into your gains. Your Devour captures enemy units destroyed in combat, your Amalgamation lets you spend captured units instead of resources for production, and your Riftmeld uses captured units to bypass tech prerequisites. You're not building traditional economy—you're stealing enemy units and recycling them into your own fleets.
 
-The key strength of Vuil'raith is captured unit economy. Every enemy ship you destroy becomes free production fuel. One captured dreadnought = one free dreadnought you can produce later. Over a game, you'll capture 15-25 units, representing 30-60 resources of free production. This scales exponentially—the more you fight, the stronger your economy becomes.
+The key strength of Vuil'raith is captured unit economy. Every enemy ship you destroy becomes free production fuel. One captured dreadnought equals one free dreadnought you can produce later. This scales exponentially—the more you fight, the stronger your economy becomes.
 
-Opponents will hesitate to attack you once they realize every ship they lose becomes your production fuel. That moment when you produce 3 dreadnoughts for free using captured units? Pure resource efficiency.
+Opponents will hesitate to attack you once they realize every ship they lose becomes your production fuel.
 
 ---
 
@@ -24,11 +24,13 @@ Opponents will hesitate to attack you once they realize every ship they lose bec
 
 ### A. Home System & Commodities
 
-**Home System:** Acheron (4 resources / 0 influence = 4 optimal resources / 0 optimal influence)
+**Home System:**
+- **Acheron:** 4 resources / 0 influence
+- **Total: 4 resources / 0 influence (4 optimal resources / 0 optimal influence)**
 
 **Commodities:** 2
 
-**Notes:** Resource-heavy home system with 4 resources and ZERO influence. This is extreme—excellent for production, terrible for voting and political plays. Single-planet home system is easier to defend. Your 2 commodities are low for trading. You're built for military production, not politics.
+**Notes:** Resource-heavy home system with 4 resources and ZERO influence. This is extreme—excellent for production, terrible for voting and political plays. Single-planet home system is easier to defend. Your 2 commodities are low for trading. You're built for military production.
 
 ### B. Starting Fleet
 
@@ -39,19 +41,13 @@ Opponents will hesitate to attack you once they realize every ship they lose bec
 - 3 Infantry
 - 1 Space Dock
 
-**Notes:** Strong starting fleet with a dreadnought (most factions start with carriers/cruisers only). The dreadnought gives you immediate combat power and BOMBARDMENT. Your carrier + cruiser provide mobility and capacity. 3 fighters and 3 infantry give you solid expansion capability. Very combat-ready R1.
+**Notes:** Strong starting fleet with a dreadnought (most factions start with carriers/cruisers only). 3 infantry, a dreadnought, and a carrier all moving 2 steps gives you solid flexibility. Very combat-ready R1.
 
-### C. Starting Technologies
-
-**Self-Assembly Routines (Red)** - After you place a space dock, you may place 1 PDS and 1 infantry from your reinforcements in the active system.
-
-**Notes:** Excellent starting tech. Every time you build a space dock, get a free PDS + infantry. Over a game, this saves 4-6 resources (building 2-3 docks = 2-3 free PDS/infantry). Opens red tech paths for unit upgrades.
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Devour (Faction Ability):** Capture your opponent's non-structure units that are destroyed during combat.
 
-Your signature ability. When enemy units die in combat (space or ground), you capture them instead of them going to reinforcements. These captured units sit on your faction sheet and can be used for Amalgamation (free production) or Riftmeld (ignore tech prerequisites). Absolutely core to your faction identity.
+Your signature ability. When enemy units die in combat (space or ground), you capture them instead of them going to reinforcements. These captured units sit on your faction sheet and can be used for Amalgamation (free production) or Riftmeld (ignore tech prerequisites). Devour allows you for pretty much costless wars—you should never have a problem to produce for almost free from the early game. Once you start producing, you never stop.
 
 **Amalgamation (Faction Ability):** When you produce a unit, you may return 1 captured unit of that type to produce that unit without spending resources.
 
@@ -59,7 +55,33 @@ Free production. When producing a dreadnought, return 1 captured dreadnought to 
 
 **Riftmeld (Faction Ability):** When you research a unit upgrade technology, you may return 1 captured unit of that type to ignore all of that technology's prerequisites.
 
-Bypass tech prerequisites. Want Dreadnought II (requires 2 red techs)? Return 1 captured dreadnought, get Dreadnought II with ZERO prerequisites. This lets you skip entire tech trees and rush powerful unit upgrades.
+Unit upgrades are helpful to leverage your massive production. Usually your tech stack will be very small, and the ability to skip prerequisites opens up options. Do not overindex on this—you will need to spend your focus elsewhere. You will win combats with upgrades or not.
+
+**Dimensional Tear (Special Unit):** Your space docks make the system a gravity rift. Your ships do not roll for this gravity rift. Up to 6 fighters in the system don't count against capacity.
+
+Your dimensional tear space docks turn systems into gravity rifts for mobility advantages. You don't roll for your own gravity rifts, and opponents moving through must roll. Place them in forward positions for enhanced fleet movement.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
+
+**Self-Assembly Routines (R)** - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
+
+**Notes:** Solid starting tech. Place mech after production for free. Gain TG when mechs die. Feel free to let mechs die for TGs—you will be able to afford new mechs (might have some captured), but TGs are in short supply.
+
+**Faction Technologies:**
+
+**Dimensional Tear II (YY):**
+*Vuil'raith Space Dock - PRODUCTION 7*
+
+This system is a gravity rift; your ships do not roll for this gravity rift. Place a dimensional tear token beneath this unit as a reminder. Up to 12 fighters in this system do not count against your ships' capacity.
+
+Hard to get normally but crazy value if you get from Entropic Scar. Having the 7 production and 2 bonus from Commander while every unit is free—pretty crazy. The endless supply of free fighters able to sit and defend your docks from being blockaded is helpful.
+
+**Vortex (R):**
+*ACTION: Exhaust this card to choose another player's non-structure unit in a system that is adjacent to 1 or more of your space docks. Capture 1 unit of that type from that player's reinforcements.*
+
+Vortex is a stall—it gives less diplomatic anger than fighting for the troops, but this is a bit overrated. Unless you feel like you really don't want to anger people and have good targets nearby your docks, probably skip it and focus on unit upgrades.
 
 ### E. Leaders
 
@@ -67,33 +89,29 @@ Bypass tech prerequisites. Want Dreadnought II (requires 2 red techs)? Return 1 
 
 After another player replenishes commodities: You may exhaust this card to convert their commodities to trade goods and capture 1 unit from their reinforcements that has a cost equal to or lower than their commodity value.
 
-Powerful economic disruption agent. When opponents refresh commodities (Trade strategy card), exhaust this to:
-1. Convert their commodities to trade goods (preventing them from trading)
-2. Capture 1 unit from their reinforcements (cost ≤ commodity value)
-
-If Hacan refreshes 6 commodities, convert them to 6 TG (Hacan can't trade now) and capture 1 dreadnought/carrier/cruiser (cost ≤6) from their reinforcements. Brutal economic denial.
+Use it to steal dreadnoughts and carriers from willing or unwilling targets. Another economy boost to your production.
 
 **Commander - That Which Molds Flesh:** *Unlock: Have units in 3 gravity rifts.*
 
 When you produce fighter or infantry units: Up to 2 of those units do not count against your PRODUCTION limit.
 
-Easy unlock (place units in 3 gravity rift systems). Once unlocked, when producing fighters/infantry, 2 don't count against PRODUCTION. If you have PRODUCTION 5 and produce 5 dreadnoughts (cost 20 resources, uses 5 production), you can also produce 2 fighters for free (don't count against limit). Excellent for fighter swarms and infantry spam.
+Easy unlock—your dimensional tear space docks create gravity rifts, helping you place units in 3 gravity rift systems. Once unlocked, when producing fighters/infantry, 2 don't count against PRODUCTION limit (still cost resources). Very strong to emphasize your military advantage with extra production capacity.
 
 **Hero - It Feeds on Carrion:** *Unlock: Have 3 scored objectives.* **Dimensional Anchor** - ACTION: Each other player rolls a die for each of his non-fighter ships that are in or adjacent to a system that contains a dimensional tear; on a 1-3, capture that unit. If this causes a player's ground forces or fighter to be removed, also capture those units. Then, purge this card.
 
-Devastating mass capture hero. Every opponent rolls for EACH of their non-fighter ships in/adjacent to your dimensional tear space docks. On 1-3 (50% chance), you capture it. In a 6-player game with 3 dimensional tears, opponents might have 10-15 ships within range. You'll capture 5-10 ships plus their cargo (fighters/infantry). Absolutely game-ending economic swing.
+It usually only captures a few ships because there won't be massive capital fleets next to you. Getting a flagship or war sun is just a pipe dream—it happens but rare. Just use whenever you feel a bit light on captured units or save for when you got nothing else to do.
 
 ### F. Promissory Note - **Crucible**
 
 After you activate a system: Your ships do not roll for gravity rifts during this movement; apply an additional +1 to the move values of your ships that would move out of or through a gravity rift instead. Then, return this card to the Vuil'raith player.
 
-Useful promissory for gravity rift navigation. Holder can move through gravity rifts safely (+1 move instead of rolling). Trade value: 2-3 TG. Best for mobile factions (Saar, Ghosts) who want to use gravity rifts.
+Trade value 1-2 TG, but very useful if people need it for attacking someone important. The bonus movement helps too.
 
 ### G. Alliance
 
-When you produce ships, you may produce 1 additional fighter or infantry for its cost.
+Whoever holds your alliance card has your Commander (That Which Molds Flesh - up to 2 fighters/infantry don't count against PRODUCTION limit).
 
-Standard production bonus. Useful for economic factions. Trade value: 3-4 TG or equivalent.
+When people have your alliance, they get to produce more like you. Strong alliance and definitely only trade for one of the top ones.
 
 ### H. Mech - **Reanimator**
 
@@ -113,59 +131,33 @@ Insane flagship. Captures ALL units destroyed in the system (enemy AND yours). T
 1. Enemy ships destroyed = captured (normal Devour)
 2. YOUR ships destroyed = captured (not normal—you recycle your own losses!)
 
-If you lose a space battle but your flagship survives, you capture your own destroyed ships and can reproduce them for free later. You're turning losses into future gains. Incredible value.
+If you have massive fights with your flagship once, you will probably never have to pay for plastic again.
 
-### J. Dimensional Tear I - **Vuil'raith Space Dock**
-
-Cost: 4 | **PRODUCTION 5**
-
-This system is a gravity rift; your ships do not roll for this gravity rift. Place a dimensional tear token beneath this unit as a reminder. Up to 6 fighters in this system do not count against your ships' capacity.
-
-Your unique space dock. Creates a gravity rift in the system (opponents moving through roll dice, you don't). Your ships exiting this system get +1 move (gravity rift bonus). 6 fighters don't count against capacity (free fighter storage). Excellent for defensive positioning and mobility.
-
-**Strategic Value:**
-- Build dimensional tear in forward position
-- Opponents must roll to move through it (50% chance to lose ships)
-- Your ships exiting get +1 move (mobility advantage)
-- Free fighter storage (6 fighters = 3 capacity saved)
-
-### K. Breakthrough - **Al'raith Ix Ianovar (R<>G)**
+### J. Breakthrough - **Al'raith Ix Ianovar (R<>G)**
 
 This breakthrough causes The Fracture to enter play without a roll, if it is not already in play. After this card enters play, move up to 2 ingress tokens into systems that contain gravity rifts. Apply +1 to the MOVE value of each of your ships that start their movement in The Fracture.
 
 **R<>G Synergy:** Red and green technologies count as each other for prerequisites.
 
-**Fracture Trigger:** Forces The Fracture (gravity rift cluster wormhole nexus) to enter play immediately. This creates a massive gravity rift network across the map.
+The synergy won't matter a lot—you won't tech almost at all—but guaranteeing The Fracture appears is very good for you. Being able to decide that a portal to The Fracture appears on one of your docks for strong movement. You can get neutral units, relics, and a point. In The Fracture you are unmatched. If you want to play a "peaceful Cabal," The Fracture is the place to hang out.
 
-**Ingress Movement:** Move up to 2 ingress tokens (wormhole entrances) to gravity rift systems. This lets you reposition the Fracture's wormhole connections.
-
-**Movement Bonus:** Your ships starting in The Fracture get +1 move. Combined with gravity rift exit bonuses, your ships can move 3-4 spaces easily.
-
-**R<>G synergy:** Self-Assembly Routines (R) counts as green, opening green tech paths.
-
-**Strategic Value:** Creates a galaxy-wide wormhole network you control, gives you massive mobility advantage, and synergizes with your dimensional tears.
-
-### L. Slice and Draft Considerations
+### K. Slice and Draft Considerations
 
 Vuil'raith wants combat opportunities and gravity rift access:
 
 **Speaker Order:**
-- **Prefer positions 2-4** - Lets you grab Warfare or Leadership early.
-- **First/last position acceptable** - Flexibility for aggressive plays.
+All positions fine except 6th. No neighbor is too scary—you are the least favorite neighbor.
 
 **Slice Priorities:**
-- **Gravity rifts in/near slice** - You benefit from gravity rifts (+1 move exiting). Opponents suffer (roll to move through).
-- **High resource planets** - Need resources for initial production (before captured units accumulate).
-- **Aggressive neighbors** - You WANT combat. More fights = more captured units.
-- **Planet count (4-5 ideal)** - More planets = more expansion targets for dimensional tear placement.
+- **Gravity rift highway** - Planets on the way to Mecatol with gravity rifts.
+- **High influence slice** - All your units are free, you need tokens.
+- **Not aggressive neighbors** - You will bring it either way.
+- **Wormholes** - Nice for more targets.
+- **Entropic Scar** - Very good. Lets you skip spending on tech and get a sneaky Dimensional Tear II.
 
 **Slice Features to Avoid:**
-- **Zero gravity rifts** - Wastes your gravity rift synergies and Commander unlock.
-- **Influence-heavy slice** - You have 0 influence at home. Can't leverage influence.
-- **Passive neighbors** - If no one fights you, you can't capture units. You need combat.
-
-**Summary:**
-Vuil'raith wants combat, gravity rifts, and resources. Your 0-influence home makes you terrible at politics but excellent at warfare. Embrace aggression, seek fights, capture units, recycle them into free production.
+- **High resource slice** - All your units are free, you need influence for tokens.
+- **Asteroids / Novas in the middle** - Things that make you position your space docks weirdly.
 
 ---
 
@@ -173,33 +165,21 @@ Vuil'raith wants combat, gravity rifts, and resources. Your 0-influence home mak
 
 ### A. First Turn Priorities
 
-Your R1 priority order: **Warfare > Leadership > Technology**
+**Round 1 Priority Rankings:**
 
-Focus on:
-1. **Warfare** - You want combat for Devour captures. Warfare enables aggressive plays.
-2. **Leadership** - Command counters for expansion and production.
-3. **Technology** - Begin tech path toward unit upgrades via Riftmeld.
-4. **Trade** - Less useful (2 commodities only, 0 influence).
+1. **Scoring** - Try to get on it early. You don't excel at all objectives, so getting a head start is great.
 
-**Expansion Notes:** You have 1 dreadnought (slow but powerful), 1 carrier, 1 cruiser, 3 fighters, and 3 infantry. Strong combat fleet. Aim for 3-4 systems R1, prioritizing gravity rift systems for Commander unlock. Your dreadnought gives you immediate combat superiority over most R1 opponents.
+2. **Expansion and Production** - You will have an easy time to take your entire slice, maybe even grab an extra equidistant that isn't "yours" (they all are, the rest don't know it yet).
 
-### B. Political Weakness
+3. **Breakthrough** - Fine to grab Round 1 if you got the opportunity. Getting to decide who can access The Fracture and not is actually very strong.
 
-0 influence at home means you're terrible at voting, can't use Diplomacy effectively, and struggle with influence-spending objectives. You need to expand to influence planets quickly or avoid political contests entirely.
+4. **Technology** - Not needed. Wait until you have units to upgrade. Try to play with very limited tech.
 
-**Mitigation:** Expand to cultural/influence-heavy planets R1-R2. Use Agent to disrupt opponent trade (converting commodities to TG denies them trading opportunities). Focus on military objectives, not political ones.
+**Expansion Notes:** After you produce, you can almost always take everything. No special tips needed. Construction from yourself or Warfare from someone else.
 
-### C. Commander Unlock Requirement
+### B. Diplomatic Struggles
 
-Commander requires units in 3 gravity rifts. If your slice has 0-1 gravity rifts, this is very difficult. You may need to build dimensional tears in gravity rift systems or wait for Fracture (if using breakthrough).
-
-**Mitigation:** Place dimensional tear space docks in gravity rift systems (counts as gravity rift). Use Fracture breakthrough to create more gravity rifts. Aim for Commander unlock R3-R4.
-
-### D. Capture Dependency
-
-Your economy depends on capturing units through combat. If you avoid fights or lose fights without destroying enemy units, you don't build captured unit reserves. This makes you weaker than traditional economic factions early.
-
-**Mitigation:** Fight constantly R2-R4. Target weak opponents or contested systems. Even losing fights where you destroy 2-3 enemy ships builds your captured reserves. Use flagship to capture your own destroyed units (turning losses into gains).
+You are the scary neighbor no one likes. Try to extort value from neighbors trying to keep you in check. The problem is that even if you are not winning, people still won't make a lot of deals with you. Dinos scary. Have to work around this best you can and grab extra planets to get resources.
 
 ---
 
@@ -207,132 +187,74 @@ Your economy depends on capturing units through combat. If you avoid fights or l
 
 ### A. Overview
 
-You start with **Self-Assembly Routines (Red)** (free PDS + infantry when building space docks).
+You start with **Self-Assembly Routines (R)** (place mech after production, gain TG when mech destroyed).
 
-Your main tech path should focus on unit upgrades via Riftmeld (bypass prerequisites using captured units) and mobility techs for gravity rift synergy.
+Use Riftmeld to skip prerequisites on unit upgrades when you have captured units. Try to play with very limited tech.
 
-### B. Tech Path 1: Riftmeld Unit Upgrades (Standard)
+### B. Tech Path
 
 **Starting Tech:** Self-Assembly Routines (R)
 
-**Round 1: Carrier II (BBBB) - WITH RIFTMELD**
-- Cost 3 | Combat 9 | Move 2 | Capacity 6
-- **Why:** Riftmeld bypasses all prerequisites. Return 1 captured carrier → get Carrier II with ZERO tech requirements. Instant capacity and mobility upgrade.
+**Round 2:** Carrier II (BB) - WITH RIFTMELD
+- Cost 3, Combat 9, Move 2, Capacity 6
+- **Why:** Transport capacity for invasions. Use Riftmeld with captured carrier to skip prerequisites.
 - **Prerequisites:** None via Riftmeld (normally requires 2 blue)
-- **Requirement:** Must have captured 1+ carriers by R2
 
-**Round 2: Dreadnought II (YYYY) - WITH RIFTMELD**
-- Cost 4 | Combat 5 | Move 2 | BOMBARDMENT 5 | Sustain Damage
-- **Why:** Riftmeld bypasses prerequisites. Return 1 captured dreadnought → get Dreadnought II instantly. You start with a dreadnought, so capturing 1 enemy dreadnought enables this.
-- **Prerequisites:** None via Riftmeld (normally requires 2 yellow)
-- **Requirement:** Must have captured 1+ dreadnoughts
+**Round 3:** Dreadnought II (BBY) - WITH RIFTMELD
+- Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5
+- **Why:** Capital ship upgrade. Use Riftmeld with captured dreadnought to skip prerequisites.
+- **Prerequisites:** None via Riftmeld (normally requires 2 blue + 1 yellow)
 
-**Round 3: Gravity Drive (BB)**
-- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Why:** Mobility for repositioning. Synergizes with gravity rift bonuses.
-- **Prerequisites:** 2 blue (need blue techs)
+**Round 4:** Destroyer II (RR) - WITH RIFTMELD
+- Cost 1, Combat 8, Move 2, AFB 6 (x3)
+- **Why:** Cheap fleet power. Use Riftmeld with captured destroyer to skip prerequisites.
+- **Prerequisites:** None via Riftmeld (normally requires 2 red)
 
-**Round 4: Cruiser II (GGGB) OR Destroyer II (RR)**
-- **Cruiser II:** Cost 2 | Combat 7 | Move 3 | CAPACITY 1
-  - **Why:** Fast ships with capacity. Riftmeld using captured cruiser.
-- **Destroyer II:** Cost 1 | Combat 8 | Move 2 | AFB 6 (x3)
-  - **Why:** Cheap upgraded destroyers. Riftmeld using captured destroyer.
+**Round 5+:** Ignore tech. You're done.
 
-**Round 5+:** Dimensional Tear II (space dock upgrade) or flex techs
-
-**Tech Requirements:**
-- **Captured units (CRITICAL):** Must capture carriers, dreadnoughts, cruisers to use Riftmeld
-- **Blue skip (helpful):** Accelerates Gravity Drive
-- **Any color skip (bonus):** Helps with prerequisite techs you can't Riftmeld
-
-**Pros:**
-- Early unit upgrades via Riftmeld (bypass all prerequisites)
-- Carrier II R2 and Dreadnought II R3 = massive power spike
-- No need for traditional tech prerequisites
-- Flexible tech path
-
-**Cons:**
-- Requires capturing specific unit types
-- If you don't fight/capture units, Riftmeld is useless
-- Delays economic techs (Sarween)
-
-**Best For:** Aggressive games with lots of combat. Capture units R1-R2, Riftmeld into unit upgrades R2-R4, dominate with superior fleet.
-
----
-
-### C. Tech Path 2: Gravity Rift Mobility (Alternative)
-
-**Starting Tech:** Self-Assembly Routines (R)
-
-**Round 1: Sarween Tools (Y)**
-- When you use PRODUCTION, reduce combined cost by 1
-- **Why:** Economic efficiency before captured units accumulate.
-- **Prerequisites:** None (0)
-
-**Round 2: Gravity Drive (BB)**
-- +1 move to 1 ship per activation
-- **Why:** Mobility for gravity rift synergy.
-
-**Round 3: Fleet Logistics (BB)**
-- Perform 2 actions per turn
-- **Why:** Double actions for aggressive expansion and combat.
-
-**Round 4: Dreadnought II (YYYY) - WITH RIFTMELD**
-- Return captured dreadnought for instant upgrade
-
-**Round 5+:** Flex
-
-**Pros:**
-- Early Sarween for economy
-- Gravity Drive + Fleet Logistics for mobility and aggression
-- Still uses Riftmeld for unit upgrades later
-
-**Cons:**
-- Delays unit upgrades to R4
-
-**Best For:** Games where you need early mobility and economic consistency.
+Having the freedom to get 3 unit upgrades and then not spend any more thought on tech is fantastic.
 
 ---
 
 ## VI. Strategy Cards
 
-### A. Round One
+### A. Round 1
 
-Your R1 priority is aggression and expansion.
+**Round 1 Priority Ranking:**
 
-**R1 Priority Ranking:**
+1. **Construction** - For double dock (done with commander unlock).
 
-1. **Warfare** - Enables combat for Devour captures. Redistribution for aggressive plays.
+2. **Trade** - To get some early bonus production. Lack of TGs for rest of game can also be a nice boost to save a few.
 
-2. **Leadership** - Command counters for expansion and production.
+3. **Leadership** - Can always do stuff with tokens, fight or produce.
 
-3. **Technology** - Begin tech path toward Riftmeld upgrades.
+4. **Politics** - To setup a strong round and some bonus money selling speaker. Unlock breakthrough on all of Trade/Leadership/Politics/Diplomacy.
 
-4. **Trade** - You have 2 commodities. Mediocre trade economy.
+5. **Technology** - Vortex early doesn't hurt but not my favorite.
 
-5. **Construction** - Build dimensional tear space docks forward.
+6. **Diplomacy** - To get some bonus resources early.
 
-6. **Politics** - Less useful (0 influence at home).
+7. **Warfare** - For "I don't want to have any friends" going right into someone's slice, then move again to kill them round.
 
-7. **Diplomacy** - Less useful (0 influence at home).
+8. **Imperial** - Never Round 1.
 
-8. **Imperial** - Never R1.
+**Strategy Token Priority:** Diplomacy and Warfare as strategy tokens.
 
-### B. Generally (R2+)
+### B. Round 2+
 
 **Love:**
-- **Warfare** - Combat for Devour captures. Redistribution for aggression.
-- **Leadership** - CCs for constant production and expansion.
-- **Technology** - Riftmeld unit upgrades and tech progression.
+- **Leadership** - Tokens for constant production and expansion.
+- **Imperial** - Scoring points.
 
 **Good:**
-- **Construction** - Build dimensional tear space docks (forward production + gravity rift zones).
-- **Imperial** - Needed for scoring R3-R5.
-- **Trade** - Refresh 2 commodities. Mediocre but necessary.
+- **Politics** - Control agendas and speaker position.
+- **Trade** - Economy boost with 2 commodities.
+- **Construction** - Build more dimensional tears for production and commander unlock.
 
 **Situational:**
-- **Politics** - Only if you've expanded to influence planets.
-- **Diplomacy** - Less useful until you have influence planets.
+- **Diplomacy** - Only for late game scoring. Who would attack you?
+- **Warfare** - Should not be needed.
+- **Technology** - Fine to do secondary.
 
 ---
 
@@ -340,93 +262,59 @@ Your R1 priority is aggression and expansion.
 
 ### A. Unit Composition
 
-Your ideal fleet composition focuses on captured unit types and recyclable production:
-
 **Preferred Units:**
-- **Dreadnoughts** - Cost 4 each. Capturing 1 = 1 free dreadnought via Amalgamation. Excellent value.
-- **Carriers** - Capacity for armies. Capturing 1 = 1 free carrier.
-- **Cruisers** - Fast screening ships. Capturing 1 = 1 free cruiser.
-- **Fighters/Infantry** - Spam these with Commander (2 don't count against production).
+- **Dreadnoughts** - Sustain Damage capital ships. Capture and reproduce for free.
+- **Carriers** - Transport capacity for invasions. Capture and reproduce for free.
+- **Destroyers** - Cheap fleet power. Once upgraded, excellent AFB.
+- **Infantry** - Commander bonus (2 don't count against production). Spam these.
+- **Fighters** - Commander bonus (2 don't count against production). Spam these.
+- **Flagship** - Captures all units destroyed (including your own).
 
-**Production Strategy:**
-R2-R3: Produce normally (spend resources)
-R4-R5: Produce using Amalgamation (return captured units for free production)
+**Avoid:**
+- **Cruisers (unupgraded)** - Not worth it.
+- **War Sun** - Too expensive.
 
-By R4, you should have 10-15 captured units. Use these for massive free production rounds.
+### B. Game Plan
 
-### B. Point Planning
+**Early Game (Rounds 1-2):**
 
-**Vuil'raith Cabal Christmas-Land Strategy Cards:**
+Your early game is about aggressive expansion and building your captured unit reserves. Expand to your entire slice and maybe grab an extra equidistant. Build dimensional tear space docks in forward positions to create gravity rift zones—aim to unlock Commander (units in 3 gravity rifts). Fight early to start capturing units—every destroyed ship becomes future free production.
 
-| Round | Card             | Public Points | Secret Points | MR Points | Bonus | Total |
-|-------|------------------|---------------|---------------|-----------|-------|-------|
-| One   | Warfare          | 0             | 0             | 0         | 0     | 0     |
-| Two   | Leadership       | 1             | 0             | 0         | 0     | 1     |
-| Three | Imperial         | 3             | 1             | 1         | 0     | 5     |
-| Four  | Technology       | 4             | 2             | 1         | 1     | 8     |
-| Five  | Imperial         | 6             | 3             | 2         | 1     | 12    |
+**Mid Game (Rounds 3-4):**
 
-You can only score 1 public objective per round (2 if you have Imperial). When you take Imperial, you can double score publics. Aim to score all 3 secrets across the game.
+Use Riftmeld to get Carrier II, Dreadnought II, and Destroyer II without prerequisites. Start producing units for free using Amalgamation with your captured reserves. Consider pushing toward Mecatol Rex or controlling The Fracture if you have the breakthrough. In The Fracture you are unmatched—neutral units, relics, and points available.
 
-**Notes:**
-- Vuil'raith scores through combat objectives (constant fighting for Devour)
-- Technology R4 for Riftmeld unit upgrades
-- Warfare R1-R2 for aggressive expansion and captures
-- Hero R4 for mass capture (5-10 units captured = massive economic spike)
+**Late Game (Round 5+):**
 
-### C. Game Plan
-
-**Strategic Approach:**
-
-**Rounds 1-2: Aggressive Expansion & Capture Building**
-- Take Warfare R1 for combat opportunities
-- Expand to 4-5 systems, prioritizing gravity rift systems
-- Fight weak neighbors or contest equidistant systems
-- Capture 5-10 units by R2 (mix of ships and ground forces)
-- Build 1-2 dimensional tear space docks in forward/gravity rift positions
-
-**Rounds 3-4: Riftmeld Power Spike & Commander**
-- Use Riftmeld R2-R3 to research Carrier II and Dreadnought II (bypass prerequisites)
-- Unlock Commander R3 (units in 3 gravity rifts)
-- Use Amalgamation to produce units for free using captured reserves
-- Agent on opponents refreshing commodities (disrupt trade, capture units from reinforcements)
-- Continue fighting to build captured reserves to 15-20 units
-
-**Round 5: Hero Mass Capture & Domination**
-- Hero R5: Each opponent rolls for ships near your dimensional tears (capture 5-10+ ships)
-- Use Amalgamation to produce massive fleet using 20-30 captured units (free production worth 50+ resources)
-- Commander enables fighter/infantry spam (2 don't count against production)
-- Score final objectives via fleet dominance and planet control
-
-**Key Strategic Principles:**
-1. **Fight constantly** - Combat is your economy. More fights = more captured units.
-2. **Use Riftmeld aggressively** - Research unit upgrades R2-R3 bypassing all prerequisites.
-3. **Build dimensional tears forward** - Create gravity rift zones, deter enemies, boost your mobility.
-4. **Amalgamation efficiency** - By R4, produce using captured units (save 30-50 resources).
-5. **Hero timing R5** - Capture 5-10 enemy ships for massive economic swing.
-6. **Flagship in major battles** - Capture your own destroyed ships (recycle losses).
+You should have massive captured unit reserves. Produce entire fleets for free using Amalgamation. Make plays for Styx and Mecatol to have a big swing round. Try to not be beyond saving diplomatically at that point. Score objectives and close out the game with your overwhelming production advantage.
 
 ---
 
 ## VIII. Objectives
 
-### A. Stage I Objectives
+### A. Objective Summary
+
+**Strengths:** Excels at combat objectives with aggressive playstyle. Aggressive expansion with free production supports control objectives.
+
+**Weaknesses:** Spending objectives are hard despite free production. Tech objectives challenging with minimal tech. Structure objectives difficult.
+
+### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🔴     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🔴     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🔴     |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🔴     |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | Corner the Market (Control 4 planets with same trait)                   | 🟡     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
 | Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
@@ -437,9 +325,7 @@ You can only score 1 public objective per round (2 if you have Imperial). When y
 
 **Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
 
-Vuil'raith excels at resource-spending (Amalgamation free production = save resources for spending), unit upgrade objectives (Riftmeld), and combat/fleet objectives.
-
-### B. Secret Objectives
+### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
@@ -450,63 +336,57 @@ Vuil'raith excels at resource-spending (Amalgamation free production = save reso
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟢     |
 | Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
 | Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
 | Become a Martyr (Lose control of planet in home system)                 | 🔴     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟢     |
+| Darken the Skies (Win combat in another player's HS)                    | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
 | Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🔴     |
 | Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
 | Form a Spy Network (Discard 5 action cards)                             | 🟡     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟢     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
 | Prove Endurance (Last to pass)                                          | 🔴     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-**Notes:**
-- **Gather a Mighty Fleet (5 dreadnoughts)** is EASY—you start with 1 dreadnought, Riftmeld into Dreadnought II, produce using Amalgamation
-- **Make an Example (BOMBARDMENT)** is EASY—dreadnoughts have BOMBARDMENT
-- Combat-heavy secrets strongly favor Vuil'raith
-- All political secrets (Dictate Policy, Drive the Debate, Establish Hegemony) are VERY HARD due to 0 influence home
-
-### C. Stage II Objectives
+### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🔴     |
-| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🔴     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🔴     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
@@ -516,45 +396,48 @@ Vuil'raith excels at resource-spending (Amalgamation free production = save reso
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-**Notes:**
-- **Revolutionize Warfare (3 unit upgrades)** is EASY via Riftmeld (bypass all prerequisites)
-- **Command an Armada** is EASY via Amalgamation free production
-- **Found a Golden Age (16 resources)** is EASY—Amalgamation free production means you save resources for spending
-- Influence-heavy objectives are VERY HARD (0 influence home)
-
 ---
 
 ## IX. Alliance Priority
 
-Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
+Alliance preference ranking based on commander utility:
 
-**Super Top Tier:**
-1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. You produce constantly with Amalgamation = constant TG income.
-2. **Hacan (Carth of Golden Sands)** - After you roll dice for combat/SPACE CANNON/AFB, reroll any number. Boosts your combat consistency.
-3. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces, commit 1 ground force from each planet in active/adjacent systems. Helps invasions.
-4. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Synergizes with Amalgamation (save captured units for other ships).
+**Top Tier:**
 
-**Really Useful:**
-5. **Jol-Nar (Ta Zern)** - When units use PRODUCTION/AFB/BOMBARDMENT/SPACE CANNON, reroll any dice. Boosts production and combat.
-6. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. CC usage = TG income.
-7. **L1Z1X (Il Na Viroset)** - During tactical actions, activate systems with your tokens and return both tokens. Flexibility for aggressive plays.
-8. **Nekro Virus (Nekro Acidos)** - After you gain tech, draw 1 action card. Riftmeld tech gains = action card draws.
+1. **Crimson Rebellion** (Ahk Siever) - Gain 1 TG after any combat (all players' fights). Constant passive income.
+2. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. You produce constantly = constant TG income.
+3. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Passive income boost.
+4. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income you need.
+
+**Good:**
+
+5. **Empyrean** (Xuange) - Return tokens when others move into your systems. Double attack.
+6. **Barony of Letnev** (Rear Admiral Farran) - Gain 1 TG after unit uses Sustain Damage. TG from dreadnoughts.
+7. **Naaz-Rokha Alliance** (Dart and Tai) - Explore planet after conquering. Extra value from aggression.
+8. **Winnu** (Rickar Rickani) - +2 combat in MR/home/legendary systems. Combat boost.
+9. **Mentak Coalition** (S'ula Mentarion) - Force opponent to give PN after space combat win. Very frustrating to fight Mentak and lose your plastic and your PN.
+10. **Nomad** (Navarch Feng) - Produce flagship without spending resources. Saves 8 resources.
 
 ---
 
-## X. End Notes
+## X. Bonus Game Elements
 
-Vuil'raith Cabal is a top-tier aggressive faction with unique resource recycling mechanics. Your job is to:
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-1. **Fight constantly R1-R4** - Combat is your economy. Destroy enemies to capture units.
-2. **Use Devour aggressively** - Capture 15-25 units over the game.
-3. **Riftmeld into unit upgrades R2-R3** - Research Carrier II and Dreadnought II bypassing all prerequisites.
-4. **Build dimensional tear space docks** - Forward production + gravity rift zones + fighter storage.
-5. **Unlock Commander R3** - Units in 3 gravity rifts. Enables fighter/infantry spam (2 don't count against production).
-6. **Amalgamation R4-R5** - Produce massive fleets using captured units (free production worth 40-60 resources).
-7. **Hero R5** - Capture 5-10 enemy ships near dimensional tears for devastating economic swing.
-8. **Flagship in major battles** - Capture ALL destroyed units including your own (recycle losses into future gains).
+### A. High-Value Action Cards
 
-Don't let anyone tell you Devour is situational. You're converting enemy deaths into free production—that's exponential economic scaling. Fight aggressively, capture everything, use Riftmeld to bypass tech trees, and dominate through superior resource efficiency.
+### B. Relic Priorities
+
+### C. Agenda Awareness
+
+---
+
+## XI. End Notes
+
+Vuil'raith Cabal is the faction for players who love aggressive combat and resource recycling. You're not building traditional economy—you're stealing it from your enemies. Every destroyed ship becomes your production fuel, and you'll end the game with more free units than anyone else.
+
+Your biggest strength is captured unit economy. You don't pay for production like other factions. With Amalgamation and Devour, combat isn't just about winning—it's about converting enemy losses into your gains. Every fight makes you stronger, every captured unit is saved resources. Your production scales infinitely with aggression.
+
+When you master Vuil'raith Cabal, you feel like an unstoppable force consuming the galaxy. The table will fear you, but they can't stop you from growing stronger with every battle. Vuil'raith Cabal builds massive fleets—they just don't pay for them.
 
 **DEVOUR. ASSIMILATE. DOMINATE.**
