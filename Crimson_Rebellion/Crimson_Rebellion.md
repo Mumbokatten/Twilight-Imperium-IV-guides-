@@ -24,9 +24,9 @@ Late game Crimson is about breach network dominance and Subatomic Splicer value.
 
 ### A. Home System & Commodities
 
-**Home System:** Ahk Creuxx
-- 4 resources / 2 influence
-- **Total: 4 optimal resources / 0 optimal influence + 2 optimal influence**
+**Home System:**
+- **Ahk Creuxx:** 4 resources / 2 influence
+- **Total: 4 resources / 2 influence (4 optimal resources / 2 optimal influence)**
 
 **Special:** The Sorrow (tile 94) is placed where your home system would normally go. The Sorrow is NOT a home system but starts with an inactive breach. Your actual home system (tile 118 - Ahk Creuxx) goes in your play area and can be placed during setup using Sea of Tears.
 
