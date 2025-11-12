@@ -30,20 +30,19 @@ Late game Crimson is about breach network dominance and Subatomic Splicer value.
 
 **Special:** The Sorrow (tile 94) is placed where your home system would normally go. The Sorrow is NOT a home system but starts with an inactive breach. Your actual home system (tile 118 - Ahk Creuxx) goes in your play area and can be placed during setup using Sea of Tears.
 
-**Commodities:** 4
+**Commodities:** 2
 
 Your home system provides strong resources (4), making you economically solid from the start. The Sorrow creates a unique dual-location setup that gives you incredible flexibility in board positioning.
 
 ### B. Starting Fleet
-- 1 Dreadnought
-- 1 Carrier (capacity 6)
-- 1 Destroyer
-- 2 Fighters
+- 1 Carrier
+- 2 Destroyers
+- 3 Fighters
 - 4 Infantry
 - 1 Space Dock
-- 2 PDS
+- 1 PDS
 
-This is one of the strongest starting fleets in the game. The dreadnought provides early combat power, the 2 PDS give you defensive coverage, and the destroyer has your unique Exile abilities. You're prepared for aggression or defense from round 1.
+**Notes:** Strong starting fleet with 2 destroyers (your special Exile units). Good for expansion and early aggression.
 
 ### C. Faction Abilities
 
