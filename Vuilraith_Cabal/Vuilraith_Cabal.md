@@ -370,6 +370,8 @@ You should have massive captured unit reserves. Produce entire fleets for free u
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
+**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
