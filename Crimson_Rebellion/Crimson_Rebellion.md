@@ -1,24 +1,26 @@
 # Crimson Rebellion Guide
 
-*Art credit: Fantasy Flight Games (Thunder's Edge)*
+![Crimson Rebellion](CrimsonRebellionArt.webp)
+
+---
 
 ## I. Introduction
 
-The Crimson Rebellion is TI4's breach specialists, masters of creating temporary wormhole-like connections across the galaxy. While other factions rely on traditional movement, you bend space itself through breach tokens, creating unexpected adjacencies that allow you to strike anywhere, anytime. You're the faction that turns the map into a spiderweb of potential connections, threatening multiple fronts simultaneously while remaining frustratingly hard to pin down.
+The Crimson Rebellion is TI4's breach network faction—a completely new experience of how Twilight Imperium works. While other factions measure distance and plan routes, you create instant connections across the galaxy. Your breach network turns the map into a web of adjacencies that only you control, making distance irrelevant and traditional movement obsolete.
 
-Your defining trait is the breach mechanic combined with the Sundered ability. You can't use normal wormholes (they're how you were exiled in the first place), but you create your own network through breach tokens. These breaches make systems adjacent to each other, allowing you to move vast distances in a single activation. Combined with your home system's defensive ability that destroys enemy units that enter it, you're a faction built around controlling space and time.
+This faction is about reshaping space itself. You can't use normal wormholes, but you create your own network through breach tokens. Systems become adjacent to each other through your will, allowing you to strike from anywhere. Your home system destroys anyone who tries to attack it, making you untouchable at home while projecting power across the entire map.
 
-The Crimson Rebellion excels at surgical strikes, economic harassment, and objective flexibility. Your Subatomic Splicer technology lets you rebuild destroyed ships at your home system, making you incredibly resilient. Your commander generates income from combat, turning aggression into economy. You're not the strongest militarily, but you're the most unpredictable and adaptive.
+Your economy builds over time, allowing for strong late game plays. The Crimson Rebellion offers a fundamentally different TI4 experience. You're not playing the same game as everyone else—you're bending the rules of space and movement to create opportunities no other faction can match.
 
 ## II. Playstyle
 
-The Crimson philosophy is strategic positioning through breach network creation. You want to identify key systems across the board and link them with breaches, creating a web of adjacencies that only you can exploit effectively. This gives you threat projection far beyond what your fleet size suggests.
+Playing Crimson Rebellion is about strategic positioning through breach network creation. Your breach tokens create instant connections across the galaxy, turning distance into irrelevance. You're not measuring range—you're redefining what "adjacent" means.
 
-Early game Crimson focuses on exploration and initial breach placement. Your starting dreadnought and destroyer provide solid combat capability, and your 2 PDS give you defensive options. You want to establish 2-3 breach locations by round 2, creating lanes for economic expansion and objective scoring.
+Your playstyle revolves around movement and surprise. Place breaches liberally to create pathways, then exploit them when opponents least expect it. Strike key systems from impossible distances. Deploy mechs to contested planets without warning. Your safe home system lets you commit everything forward without defensive concerns.
 
-Mid-game transitions into aggressive breach exploitation. With your Resonance Generator breakthrough active, you gain +1 movement from your home system and breach locations, allowing you to cover massive distances. Your commander should unlock around round 3-4, converting your combat actions into economic gains. This is when you leverage your unpredictability to score objectives while opponents struggle to defend multiple vectors.
+Aggression fuels your economy. Combat generates wealth through passive income, creating a "post-planet economy" where you're rich without needing more territory. The more the table fights, the wealthier you become. This lets you afford decisive strikes when the moment arrives.
 
-Late game Crimson is about breach network dominance and Subatomic Splicer value. By now, you should have 4-5 active breach locations creating a galaxy-spanning network. Your hero allows you to store produced ships and deploy them directly into combat, enabling devastating alpha strikes. The Sorrow becomes a forward production base that threatens the entire board.
+Unpredictability is your weapon. Opponents can't defend everywhere, and your breach network means you can appear anywhere. Keep them guessing, exploit openings, and reshape the map to your advantage.
 
 ## III. The Basics
 
@@ -26,7 +28,7 @@ Late game Crimson is about breach network dominance and Subatomic Splicer value.
 
 **Home System:**
 - **Ahk Creuxx:** 4 resources / 2 influence
-- **Total: 4 resources / 2 influence (4 optimal resources / 2 optimal influence)**
+- **Total: 4 resources / 2 influence (4 optimal resources / 0 optimal influence)**
 
 **Special:** The Sorrow (tile 94) is placed where your home system would normally go. The Sorrow is NOT a home system but starts with an inactive breach. Your actual home system (tile 118 - Ahk Creuxx) goes in your play area and can be placed during setup using Sea of Tears.
 
@@ -42,21 +44,27 @@ Your home system provides strong resources (4), making you economically solid fr
 - 1 Space Dock
 - 1 PDS
 
-**Notes:** Strong starting fleet with 2 destroyers (your special Exile units). Good for expansion and early aggression.
+**Notes:** Strong starting fleet with 2 destroyers (your special Exile units). Good for expansion and early aggression. Your agent + breakthrough let you explore 2 systems nearby from the starting fleet. The PDS is somewhat useless since your home system can't be attacked anyway.
 
 ### C. Faction Abilities
 
 **Sundered:** You cannot use wormholes other than epsilon wormholes. Other players' units that move or are placed into your home system are destroyed.
 
-This is a double-edged sword. You can't use the wormhole network that connects the galaxy, but your home system becomes a fortress that instantly kills enemy units. This makes you nearly impossible to attack at home.
+Your home system is untouchable. Push everything forward without worrying about defense.
 
 **Incursion:** When you activate a system that contains a breach, you may flip that breach. Systems that contain active breaches are adjacent to each other. At the end of the status phase, any player with ships in a system that contains an active breach may remove that breach.
 
-This is your core identity. Active breaches make systems adjacent to EACH OTHER (not just to one system). If you have active breaches in systems A, B, and C, all three systems are adjacent to each other. This creates a web of movement options.
+This is your core identity. Active breaches make systems adjacent to EACH OTHER (not just to one system). If you have active breaches in systems A, B, and C, all three systems are adjacent to each other. This creates a web of movement options. Important: Active breaches can be used by ALL players, not just you. Mostly place inactive breaches—you can flip them when needed. Be frivolous with breach placement. Opponents can remove active breaches, but inactive breaches can only be moved (not removed by opponents). You start with 7 breaches total.
 
 **Sea of Tears:** When you create the game board, place the Sorrow (tile 94) where your home system would be placed, and place an inactive breach in it. The Sorrow is not a home system. Then, place your home system (tile 118) in your play area.
 
-This gives you a unique setup where you have two locations: The Sorrow (which acts as your board position) and Ahk Creuxx (your actual home system in your play area). The Sorrow starts with an inactive breach.
+Your home system feels close thanks to your breakthrough's extra movement from The Sorrow. Just extra safe.
+
+**Exile I (Special Unit):** Crimson Rebellion Destroyer - Cost: 1 | Combat: 8 | Move: 2 | ANTI-FIGHTER BARRAGE 9 (x2)
+
+At the end of any player's combat in this unit's system or an adjacent system, you may place 1 inactive breach in that system.
+
+Your destroyers place breaches after any combat (yours or others) in their system or adjacent. This is your main breach placement method. Note: Works through wormholes—if your destroyer is adjacent via wormhole, you can place a breach. You start with 2 destroyers.
 
 ### D. Starting and Faction Technologies
 
@@ -64,13 +72,12 @@ This gives you a unique setup where you have two locations: The Sorrow (which ac
 
 **Choose one blue or red technology with no prerequisites**
 
-This is a flexible start. Recommended options:
-- **Gravity Drive**: Exceptional for mobility, though your breaches provide similar value
-- **Plasma Scoring**: Boosts your starting dreadnought's combat effectiveness
-- **Antimass Deflectors**: Mobility through asteroid fields/supernovas
-- **Magen Defense Grid**: Defensive option if you expect early aggression
+Recommended options:
+- **Dark Energy Tap** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
+- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B<>R synergy.
+- **Antimass Deflectors** - Only if slice requires asteroid/supernova mobility.
 
-Most players choose Gravity Drive for the mobility stack with breaches, or Plasma Scoring for early combat power.
+Pick AI Dev or DET. Only take Antimass if your slice requires it.
 
 **Faction Technologies:**
 
@@ -79,45 +86,49 @@ Most players choose Gravity Drive for the mobility stack with breaches, or Plasm
 
 At the end of any player's combat in this unit's system or up to 2 systems away, you may place 1 active or inactive breach in that system.
 
+Main value is the AFB 6 (x3) upgrade—deterrent for fighter screens. The 2-away breach placement is nice. Reminder: If your destroyer dies in combat, it doesn't place a breach.
+
 **Subatomic Splicer (Y):**
 *When one of your ships is destroyed, you may produce a ship of the same type at a space dock in your home system.*
+
+Home system production is slow. Works well with Hero—rebuild ships and place on Fragment Reality card. Note: Fighters cost 1 each (not 1 for 2) when rebuilt this way.
 
 ### E. Leaders
 
 **Agent - Ahk Ravin:** ACTION: Exhaust this card to choose 1 player. That player may swap the position of 2 of their ships in any systems; they may transport units when they swap.
 
-This provides repositioning for you or allies. Swapping ship positions can save units from combat, reposition for objectives, or enable unexpected moves. The ability to transport during the swap makes it very powerful.
+Enables 2-move expansion: Send carrier out to take a system, swap carrier with destroyer, take another system. For expansion you have 2 carriers worth of capacity, but your defense will have 1 carrier (with fighters). Your slice can become weak if you rely too much on swapping instead of building proper defense. Also useful late game for surprise flagship positioning (build at home, swap to Mecatol Rex).
 
 **Commander - Ahk Siever:**
 - **Unlock:** Place a breach token in a system that contains another player's unit
 - **Ability:** At the end of a combat between any players, gain 1 commodity or convert 1 of your commodities to a trade good
 
-Your commander converts combat into economy. Every combat in the game generates value for you. This incentivizes aggression and makes you money while fighting.
+Your commander converts combat into economy. Every combat in the game generates value for you. Best strategy: Give your alliance to a neighbor to enable "washing"—you both gain commodities/TGs from table-wide combat. You only have 2 commodities, so you'll convert frequently.
 
 **Hero - Homesick Phantom:**
 - **Unlock:** Have 3 scored objectives
 - **Fragment Reality:** When you produce ships, you may place any of those ships onto this card. At the start of a space combat, you may purge this card to place all ships from this card into the active system.
 
-This is an incredible combat ability. You can store produced ships over multiple rounds and then deploy them all at once directly into a combat. This enables devastating ambushes.
+Enables devastating alpha strikes and is your closer for Mecatol Rex or Styx. Stack fighters on it (capacity isn't checked until after combat). Synergizes with Subatomic Splicer—rebuild destroyed ships and place on hero. Carrier II helps maintain capacity after deploying fighters. Half the time does nothing, half the time wins you the game.
 
 ### F. Promissory Note
 
 **Sever:** ACTION: Place this card faceup in your play area and place the sever token in a system that contains your units; wormholes in that system have no effect during movement. Remove the sever token and return this card to the Rebellion player at the end of the status phase.
 
-This is anti-wormhole tech. It shuts down wormhole movement in a system, which can block Creuss, cut off wormhole routes, or deny wormhole-based objectives. It's situationally powerful.
+It's a stall. Sell for anything—literally any value. Can be used to block Ghosts in Mallice. Warning: Don't sell to someone who might place sever token on epsilon wormhole in your home system.
 
 ### G. Alliance
 
 Whoever holds your alliance card has your Commander (Ahk Siever - gain commodity/TG at end of any combat).
 
-Strong alliance for combat-focused factions. Generates passive income from table-wide combat.
+One of the strongest alliances in the game—generates massive passive income from table-wide combat. Ideal swaps: Deepwrought (comparable value, fixes both factions' problems), Empyrean Blood/Dark Pact (50% trade good increase). If neighbor is Mentak, trade for Promise of Protection immediately. Your alliance partner gets better value than you—make sure they understand this when negotiating.
 
 ### H. Mech
 
 **Revenant:** Cost 2, Combat 6, Sustain Damage
 - **DEPLOY:** During the "Commit Ground Forces" step of your tactical action in a system that contains an active breach, you may commit 1 mech, even if you have no units in the system.
 
-Your mechs can deploy from anywhere to any system with an active breach. This makes them incredibly flexible ground combat tools and objective enablers.
+Your mechs can deploy from anywhere to any system with an active breach. Only works on YOUR tactical actions (not defensive). Keep 1-2 mechs in reinforcements for surprise deploy plays.
 
 ### I. Flagship
 
@@ -139,345 +150,287 @@ This breakthrough is essential to your strategy. The +1 movement from home/breac
 
 ### K. Slice Considerations
 
+**Speaker Order:**
+Anything high value works. Very flexible since your breakthrough is unlocked. Avoid early aggressive neighbor if possible.
+
 **Must Have:**
 - Access to Mecatol Rex or The Fracture (breach networks enable distant objectives)
-- At least 4-5 systems in your slice to place breaches
 - 1-2 high-resource planets (you need production capacity)
+- Wormholes (place destroyers for sneaky breach placements via wormhole adjacency)
 
 **Nice to Have:**
-- Blue or red tech skips (supports breakthrough and unit upgrades)
-- Planets with anomalies (your breaches ignore traditional movement restrictions)
-- Cultural planets (for stage II objectives)
+- Blue or red tech skips (for Fracture—you roll for Fracture right away with these colors)
+- Entropic Scar (solid faction tech—Exile II or Subatomic Splicer)
+- Space Station (bonus commodity value)
 
 **Avoid:**
-- Slices dependent on wormhole travel (you can't use wormholes)
-- Ultra-low influence slices (you need some influence for politics)
-- Slices with only 2-3 systems (you need space for breach network)
-
-**Speaker Priority:** Low-Medium (4-6th pick)
-
-You're not desperate for early strategy cards, but you benefit from controlling when you activate Technology or Construction. Mid-pack speaker position is ideal.
+- Ultra-low influence slices (even if you get comms later, too low influence early is annoying)
 
 ## IV. Structural Weaknesses
 
 ### A. First Turn Priorities
 
-As Crimson Rebellion, your first turn priorities should reflect your breach network establishment and mobility-focused strategy. Here's the recommended ordering:
+**Round 1 Priority Rankings:**
 
-1. **Expansion + Production** - Despite your breach mobility, you need planets and resources first. Your 4-resource home and 4 commodities provide a decent start, but you must expand to 2-3 additional planets Round 1 to support your fleet production. Use your strong starting fleet (dreadnought + destroyer + carrier) for aggressive expansion.
+1. **Scoring** - Getting a head start on scoring is solid. You scale but don't have too many swing mechanics.
 
-2. **Breakthrough** - Establishing your breach network takes priority over raw expansion. Place your first 1-2 breach tokens in systems that connect your home area to high-value targets. Resonance Generator (your breakthrough) is critical mid-game but requires the network foundation first.
+2. **Expansion and Production** - Have to expand and produce to make up for your weak combat starting fleet.
 
-3. **Technology** - Gravity Drive (if not starting tech) or pushing toward Exile II unlocks your mobility potential. However, breach placement and territorial control come first—tech accelerates an existing network, it doesn't create one.
+3. **Technology** - If you can afford, always nice to have but you got natural expansion capabilities either way.
 
-4. **Scoring** - Your ability to score early is limited until your breach network connects 3-4 systems. Focus Rounds 1-2 on network establishment; scoring acceleration comes Round 3+ when breaches enable objective flexibility.
+4. **Breakthrough** - You start with it.
 
-**Wormhole Exclusion:** Sundered means you cannot use alpha, beta, or gamma wormholes. On maps where wormholes connect key systems, you're at a significant disadvantage until your breach network compensates.
+**Expansion Notes:** Your agent and breakthrough let you explore 2 systems from starting position. You can grab entire slice if you get tech almost always. Getting ahead of other people's expansion is solid, setting you up for a great Round 2.
 
-**Breach Vulnerability:** Your entire strategy relies on breach tokens remaining active. Any player with ships in a breach system can remove it at the end of status phase, potentially collapsing your network. You need to constantly maintain and refresh breaches.
+### B. Weak Early Economy
 
-**Home System Isolation:** Your actual home system (Ahk Creuxx) sits in your play area, not on the board. This means you can't easily produce ships there unless you bring your space dock to it (which is unusual). The Sorrow becomes your primary production base.
-
-**Commander Unlock Timing:** Your commander unlocks when you place a breach in a system with another player's unit. This requires aggression or forward positioning, which might not align with early-game objectives.
-
-**Faction Tech Investment:** Subatomic Splicer requires yellow prerequisites, which isn't your natural color. Exile II requires 2 red prerequisites. This creates tech path pressure.
-
-**Low Influence:** Your home system provides only 2 influence, making you influence-poor in the early game. Politics and agenda phase can be challenging.
+You're a 2 commodity faction with weak starting plastic (1 carrier, 2 destroyers). Your economy curve: poor early, slowly becomes rich through Commander. Avoid spending 6 influence on custodians Round 2—delays your economy coming online. Your alliance partner will likely get better value from Commander than you do.
 
 ## V. Technology
 
 ### A. Overview
 
-You start by choosing one blue or red technology with no prerequisites. Focus on breach synergies and unit upgrades via Riftmeld if needed.
+You start by choosing one blue or red technology with no prerequisites. You can be quite tech poor without problems—most of your faction works anyway.
 
 ### B. Starting Technologies
 
-**Choose one blue or red technology with no prerequisites:**
-- **Gravity Drive (recommended):** Stacks with Resonance Generator for 3 movement from breaches
-- **Plasma Scoring:** Makes your starting dreadnought more lethal
-- **Antimass Deflectors:** Mobility through anomalies
-- **Magen Defense Grid:** Defensive planetary option
+**Choose one blue or red technology with no prerequisites**
 
-### C. Technology Paths
+Pick AI Development Algorithm or Dark Energy Tap. Only take Antimass Deflectors if your slice requires it.
 
-**Primary Path - Breach Optimization:**
-1. Gravity Drive (if not starting tech) - Essential for mobility
-2. Exile II (Red-Red) - Upgraded destroyers with breach placement ability
-3. Fleet Logistics - Double activation enables breach network exploitation
-4. Subatomic Splicer (Yellow) - Rebuild destroyed ships at home
+Recommended options:
+- **Dark Energy Tap** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
+- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B<>R synergy.
+- **Antimass Deflectors** - Only if slice requires asteroid/supernova mobility.
 
-This path maximizes your breach network utility and combat resilience.
+### C. Tech Path
 
-**Alternative Path - Combat Focus:**
-1. Plasma Scoring (if not starting tech)
-2. Dreadnought II
-3. Gravity Drive
-4. Duranium Armor
-5. Assault Cannon
+**Starting Tech:** Dark Energy Tap or AI Development Algorithm or Antimass Deflectors
 
-This builds a powerful combat fleet that leverages your breach mobility for strikes.
+**Minimal Tech Approach (Recommended):**
 
-**Economic Path:**
-1. Sarween Tools
-2. Gravity Drive
-3. Predictive Intelligence
-4. Fleet Logistics
+**Round 2:** Sling Relay (B) or Carrier II (BB) with AI Development Algorithm
+- Sling Relay gives you 3 stalls total (agent, Dark Energy Tap, Sling Relay)
+- Carrier II with AI Development Algorithm start enables low-tech game
 
-Focus on economy and card advantage, using breaches for positional scoring rather than combat.
+**Round 3:** Exile II (RR)
+- AFB 6 (x3) deterrent. 2-away breach placement.
 
-### D. Key Technologies
+**Round 4+:** Flex or stop teching.
 
-**Must Get:**
-- **Gravity Drive:** Stacks with Resonance Generator for 3-movement from breaches
-- **Exile II:** Your faction tech that places breaches after ANY player's combat in range
+You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 tech off "2 in each of 2 colors" and "2 unit upgrades" for flexibility.
 
-**High Priority:**
-- **Fleet Logistics:** Double activations with breach network is incredibly powerful
-- **Subatomic Splicer:** Faction tech that rebuilds destroyed ships at home space dock
+### D. Flex Technologies
 
-**Solid Options:**
-- **Dreadnought II:** Your starting dread benefits greatly from the upgrade
-- **Carrier II:** Increased capacity helps with infantry transport through breach network
-- **Light-Wave Deflector:** Expensive but powerful defensive tech
+**High Value:**
+- **Assault Cannon (RRR)** - Same timing as hero. Immune to Skilled Retreat.
+- **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
+- **Fleet Logistics (BB)** - If needed.
+- **War Sun (RRRY)** - AI Development Algorithm + B<>R synergy enables. Requires wealth.
+
+**Situational:**
+- **Fighter II (GB)** - Heavy fighter hero strategy.
 
 ## VI. Strategy Cards
 
 ### A. Round 1
 
-Your R1 priority is establishing breach network foundation and economic base for fleet production.
-
 **Round 1 Priority Ranking:**
 
-1. **Trade** - You have 4 commodities. Excellent economic value for ship production and breach network expansion.
+1. **Trade** - Weak early economy with 2 commodities. Early TG injection changes your tempo dramatically.
 
-2. **Construction** - Place second space dock in The Sorrow or breach system. Multiple production nodes support breach strategy.
+2. **Politics** - Round 2 custodians strategy. Speaker for Round 2 plays.
 
-3. **Leadership** - Command tokens enable breach placement and aggressive expansion. Secondary builds initial fleet.
+3. **Leadership** - Tokens for expansion and stalls.
 
-4. **Technology** - Begin tech path toward Exile II (destroyer upgrade with breach placement) and Gravity Drive for mobility.
+4. **Technology** - Tech Primary saves resources. Sling Relay gives you 3 stalls total.
 
-5. **Politics** - Speaker priority and action cards valuable. Influence refresh helps with low-influence start (2).
+5. **Construction** - Forward dock for production capacity (not positioning). Last pick option with Diplomacy.
 
-6. **Warfare** - Fleet token return useful for multiple breach system activations. Secondary helps allies.
+6. **Diplomacy** - Last pick option. Unlock breakthrough (but you start with it).
 
-7. **Diplomacy** - Anti-synergistic. You want to activate systems to place breaches, not lock them down.
+7. **Warfare** - Agent makes primary pointless (encourages spreading too thin). Secondary good for getting plastic out since home is safe.
 
-8. **Imperial** - Never R1.
+8. **Imperial** - Never Round 1.
+
+**Strategy Token Priority:** Diplomacy, Warfare, and Technology as strategy token options.
 
 ### B. Round 2+
 
 **Love:**
-- **Trade** - Refresh 4 commodities for consistent economy. Resources fuel breach network expansion and ship production.
-- **Leadership** - Command tokens critical for activating breach systems and placing new breaches. Constant CC needs.
-- **Imperial** - Score objectives. Breach network enables Mecatol teleportation for point holding.
+- **Leadership** - Tokens for breach activations.
+- **Imperial** - Scoring points. Round 2-3 custodians or Mecatol bonus.
 
 **Good:**
-- **Construction** - Additional space docks in breach systems create distributed production nodes across your network.
-- **Technology** - Stay on path toward Exile II (breach placement destroyer) and Gravity Drive (mobility stacks with breaches).
-- **Warfare** - Fleet token return when activating multiple breach systems. Redistribution after breach movements.
+- **Trade** - Refresh 2 commodities. Extra plastic.
+- **Technology** - Exile II, support techs. Extra plastic.
+- **Politics** - Speaker control.
 
 **Situational:**
-- **Politics** - Only if you need speaker or agenda control. Your 2 home influence makes voting challenging without TG spending.
+- **Construction** - Forward dock for production capacity if needed.
+- **Warfare** - Secondary only. Primary pointless with agent.
+- **Diplomacy** - Late game scoring only.
 
 ## VII. Intermediate
 
 ### A. Unit Composition
 
-**Early Game (Rounds 1-3):**
-- Core: 1-2 Dreadnoughts, 2-3 Carriers, 2-3 Destroyers
-- Screen: 6-8 Fighters
-- Ground: 8-10 Infantry, 0-1 Mechs
-- Support: 1-2 Space Docks, 2-3 PDS (including starting)
+**Preferred Units:**
+- **Destroyers** - Your special Exile units. Prioritize these for breach placement and AFB.
+- **Carriers** - Transport capacity. Don't overbuild—agent enables 2-move strategy with 1 carrier.
+- **Fighters** - Stack on hero. With Quietus flagship, HP wins fights (no Sustain Damage for enemies).
+- **Infantry** - Ground forces for invasions.
+- **Mechs** - Keep 1-2 in reinforcements for deploy plays.
+- **Flagship** - Closer for Mecatol/Styx. Strips enemy unit abilities in breach systems.
 
-**Mid Game (Rounds 3-5):**
-- Core: 2-3 Dreadnoughts, 3-4 Carriers, 3-4 Destroyers
-- Screen: 10-12 Fighters
-- Ground: 12-15 Infantry, 1-2 Mechs
-- Support: 2 Space Docks, 2-4 PDS
-- Special: Flagship if available
-
-**Late Game (Rounds 5+):**
-- Core: 3 Dreadnoughts, 4-5 Carriers, 4-5 Destroyers
-- Screen: 12-16 Fighters
-- Ground: 15+ Infantry, 2-3 Mechs
-- Support: 2-3 Space Docks, 4-6 PDS
-- Special: Flagship deployed in key breach system
-
-**Notes:**
-- Destroyers are your special unit (Exile I/II) - prioritize them
-- Your breach network means you need mobile carriers, not stationary defense
-- PDS can cover breach systems, creating defensive nodes
-- Mechs deploy from anywhere to breach systems - build them when needed
+**Not Recommended:**
+- **Dreadnoughts** - Expensive. Carriers/Destroyers/Fighters better for breach mobility.
 
 ### B. Game Plan
 
-**Breach Network Strategy:**
+**Early Game (Rounds 1-2):**
 
-Your primary game plan revolves around establishing and maintaining a breach network that connects key systems across the galaxy.
+Expand using agent swap strategy. Send carrier to take a system, swap with destroyer, continue expanding. Place inactive breaches with destroyers—be frivolous. Your home system is safe (can't be attacked), so push everything forward.
 
-**Round 1-2:** Place your first breaches in systems that:
-1. Connect your home area to valuable planets
-2. Create lanes toward Mecatol Rex or The Fracture
-3. Provide defensive coverage for your slice
+**Mid Game:**
 
-**Round 3-4:** Activate Resonance Generator and use its action ability to flip breaches or place new ones without activating systems. Build toward 4-5 active breaches creating a web of adjacencies.
+Commander unlocked—enter "post-planet economy" with constant TG generation from table combat. Build breach network connecting Sorrow → Mecatol → Fracture. Use Resonance Generator action to place/flip breaches without activating. Get Exile II for AFB deterrent. Consider Sling Relay for production flexibility.
 
-**Round 5+:** Leverage your breach network to:
-- Move entire fleet across the galaxy in one activation
-- Threaten multiple opponents simultaneously
-- Score objectives requiring distant system control
-- Deploy mechs to any breach system for ground combat
+**Late Game:**
 
-**The Sorrow as Forward Base:**
+Use hero to stack fighters and alpha strike key systems. Quietus flagship strips enemy Sustain Damage—HP wins fights. Final play: Mecatol Rex → Styx using breach network. Control objectives benefit from breach mechanics (Rule Distant Lands, deploy mechs anywhere).
 
-The Sorrow starts with a breach and isn't your home system, making it a perfect forward production base. Place a space dock there and use it to produce ships that can immediately move through your breach network.
-
-**Subatomic Splicer Value:**
-
-Once you have Subatomic Splicer, you can afford to be more aggressive. Losing ships in combat isn't permanent - you rebuild them at your home system space dock. This makes you exceptionally resilient in prolonged conflicts.
-
-**Commander Economy Engine:**
-
-After unlocking Ahk Siever, you generate commodities/trade goods from ANY combat between any players. This means:
-1. You benefit from table-wide conflict
-2. Every combat you initiate generates income
-3. You can afford to fight more because combat pays for itself
+---
 
 ## VIII. Objectives
 
 ### A. Objective Summary
 
-**Strengths:** Crimson Rebellion excels at movement and positioning objectives through breach network adjacencies, allowing instant access to distant systems. Combat objectives are achievable with Ahk Siever commander generating income, and tech objectives benefit from flexible paths.
+**Strengths:** Excels at economy objectives once Commander unlocks (post-planet economy). Control objectives benefit from breach mobility and mech deploy. Combat objectives align with aggressive playstyle.
 
-**Weaknesses:** Planet control objectives are challenging without natural expansion bonuses, requiring more setup than territorial factions. Structure objectives are difficult, and influence spending can be hard with limited home influence.
+**Weaknesses:** Weak early game makes early objectives challenging. Tech objectives difficult with minimal tech focus. Spending objectives hard despite late-game wealth. Structure objectives require investment.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| Erect a Monument (Spend 8 resources)                                    | 🟢     |
+| Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Sway the Council (Spend 8 influence)                                    | 🔴     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🔴     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Build Defenses (Have 4 or more structures)                              | 🟢     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟡     |
+| Build Defenses (Have 4 or more structures)                              | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
-
-Crimson Rebellion excels at breach-enabled mobility objectives and combat. Sundered prevents wormhole objectives.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
 | Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟢     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
 | Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
-| Become a Martyr (Lose control of planet in home system)                 | 🟢     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
-| Brave the Void (Win combat in anomaly)                                  | 🔴     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
+| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
+| Brave the Void (Win combat in anomaly)                                  | 🟢     |
+| Darken the Skies (Win combat in another player's HS)                    | 🔴     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🔴     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟡     |
-| Dictate Policy (3+ laws in play)                                        | 🟡     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
 | Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🔴     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
-| Control the Region (Ships in 6 systems)                                 | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
+| Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🟢     |
-| Seize an Icon (Control legendary planet)                                | 🟡     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-| Strengthen Bonds (Have another player's PN)                             | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
+| Prove Endurance (Last to pass)                                          | 🟡     |
+| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Stake Your Claim (Control planet in contested system)                   | 🟢     |
+| Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
-| Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Crimson Rebellion's breach network enables unique objective scoring through map manipulation and mobility.
 
 ---
 
 ## IX. Alliance Priority
 
-**Best Alliance Partners:**
+Alliance preference ranking based on commander utility:
 
-1. **Nomad (The Company of Shan):** Their mobility complements your breach network; they can exploit your breaches while providing combat support
+**Top Tier:**
 
-2. **Ghosts of Creuss:** Despite your wormhole restriction, alliance with Creuss gives them breach access while they provide wormhole value to themselves
+1. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income for weak early economy.
+2. **Nomad** (Navarch Feng) - Produce flagship without spending resources. Quietus flagship is your closer.
+3. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Economy boost.
+4. **Empyrean** (Xuange) - Return tokens when others move into your systems. Double harassment—breach in, attack, breach out.
 
-3. **Barony of Letnev:** Strong combat faction that benefits from breach mobility; they can strike through your network
+**Good:**
 
-4. **Arborec:** Slow faction that desperately needs mobility; your breaches solve their movement problem
-
-5. **L1Z1X:** Combat faction that uses breach network for invasions; strong aggressive partnership
-
-**Worst Alliance Partners:**
-
-1. **Xxcha:** Defensive faction doesn't benefit from your aggressive breach network
-
-2. **Winnu:** Their Mecatol focus doesn't synergize with your multi-front breach strategy
-
-3. **Yssaril:** They prefer political play over the combat focus your breaches enable
+5. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. Passive income.
+6. **Winnu** (Rickar Rickani) - +2 combat in MR/home/legendary systems. Mecatol Rex plays.
+7. **Vuil'raith Cabal** (That Which Molds Flesh) - 2 fighters/infantry don't count against production. Hero fighter stacking.
+8. **Naaz-Rokha Alliance** (Dart and Tai) - Explore planet after conquering. Breach aggression value.
+9. **Jol-Nar** (Ta Zern) - Reroll unit ability dice. Reroll your destroyer AFB for maximum fighter clearing.
+10. **Mentak Coalition** (S'ula Mentarion) - Force opponent to give PN after space combat win. Breach strike synergy.
 
 ## X. Bonus Game Elements
 
@@ -501,4 +454,6 @@ Your biggest challenge is the early game. Before your breach network is establis
 
 When you nail Crimson, you create moments of absolute shock at the table. Opponents think they're safe 6 systems away, only to watch you teleport an entire fleet through your breach network and strike in a single activation. Your Sundered home system becomes legendary as opponents lose ships trying to attack you. Your Quietus flagship strips abilities from units across multiple systems simultaneously.
 
-Crimson Rebellion isn't just a faction - it's a paradigm shift in how Twilight Imperium maps work. Master the breach network, and you'll bend space and time to your will.
+When you master Crimson Rebellion, you feel like you're playing a different game from everyone else. The table will struggle to defend against you, but they can't stop you from creating new pathways across the galaxy. Crimson Rebellion doesn't conquer territory—they redefine it, one breach at a time.
+
+**The map is yours to reshape.**
