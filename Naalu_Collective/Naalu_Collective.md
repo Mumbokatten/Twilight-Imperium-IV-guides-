@@ -6,17 +6,17 @@
 
 ## I. Introduction
 
-The Naalu Collective are TI4's initiative-0 faction that always acts first in the action phase. They excel at timing precision, fighter superiority through Hybrid Crystal Fighters (Combat 8 with capacity), and defensive retreats via Foresight. Naalu rewards perfect sequencing, objective theft through first-action advantage, and leveraging superior fighter swarms to dominate space combat.
+The Naalu Collective are TI4's clairvoyant faction—you see what's coming and act first. While other factions react to events, you shape them. You know when to score, when to strike, when to vanish. Initiative-0 means you always go first, choosing your moment before anyone else can respond.
 
-The payoff? Acting first every single action phase lets you steal objectives before opponents, claim Mecatol Rex when you want it, and position perfectly while everyone else watches. Your fighters having capacity means massive transport efficiency. When you master initiative-0 timing and fighter swarm builds, every round you score first and every battle your fighters overwhelm enemy fleets.
+This faction is about perfect foresight and fighter swarms. Act first if you want. Retreat before battle if you don't. Your opponents never know which you'll choose, and by the time they act, it's already too late. In Twilight Imperium, seeing the future is everything.
 
 ## II. Playstyle
 
-Playing Naalu Collective is like being a precognitive chess grandmaster—you see the board state and act before anyone else can respond. Your Telepathic ability gives you 0 initiative every round, your Foresight retreats ships before combat begins, and your Hybrid Crystal Fighters (Combat 8 with Capacity 1 each) create massive fighter swarms that transport entire armies. You're not trying to win through brute force—you're winning through perfect timing, objective theft, and overwhelming fighter superiority.
+Playing Naalu Collective is about staying out of the limelight while being surprisingly strong. You're not the obvious threat—until you score objectives first every round. Your fighter swarms dominate combat more than opponents expect. While others fumble in the darkness of future agendas, you see what's coming and plan accordingly.
 
-The key strength of Naalu is action priority. Initiative 0 means you ALWAYS act first—before Speaker, before everyone. This lets you grab objectives the moment they're revealed, take Mecatol Rex when you choose, and position fleets before opponents can counter. Understanding WHEN to act (not just how) separates good Naalu players from great ones.
+Your playstyle revolves around acting first and staying flexible. Score objectives before anyone else. Build fighter swarms for combat superiority. Retreat from fights you don't want, making opponents waste activations chasing you. Your Commander lets you see neighbor promissories and upcoming agendas—information no one else has.
 
-Opponents will struggle to compete—you act first, score first, and retreat before losses. That moment when you've stolen 3 objectives by acting first each round and your 24-fighter swarm rolls 24 dice in space combat? Pure dominance.
+Foresight and initiative define you. Act first when it matters. Vanish when it doesn't. Know what's coming while opponents guess. Stay quiet, score first, and let the table underestimate you until it's too late.
 
 ---
 
@@ -24,11 +24,14 @@ Opponents will struggle to compete—you act first, score first, and retreat bef
 
 ### A. Home System & Commodities
 
-**Home System:** Druaa (3 resources / 1 influence), Maaluuk (0 resources / 2 influence)
+**Home System:**
+- **Druaa:** 3 resources / 1 influence
+- **Maaluuk:** 0 resources / 2 influence
+- **Total: 3 resources / 3 influence (3 optimal resources / 2 optimal influence)**
 
 **Commodities:** 3
 
-**Notes:** Two-planet home system with 3/3 total (low but balanced). Druaa provides 3 resources for military production, Maaluuk provides 2 influence for politics. The total 3/3 is below average—most factions have 4-6. You must expand aggressively R1-2 to build economy. Two-planet home is easier to defend than single-planet systems.
+**Notes:** Two-planet home system hard to defend on ground. Luckily you have strong fighters. Solid economical home system. Decent production.
 
 ### B. Starting Fleet
 
@@ -40,17 +43,21 @@ Opponents will struggle to compete—you act first, score first, and retreat bef
 - 1 Space Dock
 - 1 PDS
 
-**Notes:** Solid starting fleet with carrier + cruiser + destroyer for immediate expansion. You start with 3 Hybrid Crystal Fighters (Combat 8, Capacity 1 each). The starting PDS provides home defense. Your fighters can already transport infantry from turn 1—exceptional early capacity.
+**Notes:** Solid starting fleet for expansion. 3 Hybrid Crystal Fighters (Combat 8). Agent allows you to reach all systems in slice usually.
 
 ### C. Faction Abilities
 
 **Telepathic (Faction Ability):** At the end of the strategy phase, place the Naalu "0" token on your strategy card; you are first in initiative order.
 
-Your defining ability. At end of strategy phase, you become initiative 0—you act FIRST in the action phase, before Speaker, before everyone. This is permanent every round. You ALWAYS go first. This is absurdly powerful for objective scoring (score before opponents), Mecatol Rex claims (take it when you want), and positioning (act before counters).
+You act first every action phase. Double-edged sword—good for aggressive plays and awesome for scoring, but risk getting outstalled and showing your hand at the same time.
 
 **Foresight (Faction Ability):** After another player moves ships into a system that contains 1 or more of your ships, you may place 1 token from your strategy pool in an adjacent system that does not contain another player's ships; move your ships from the active system into that system.
 
-Pre-combat retreat ability. When opponent activates a system with your ships, you may spend 1 CC from strategy pool to move ALL your ships to an adjacent empty system. This happens BEFORE combat—you retreat before battle begins. Use this to preserve forces, bait opponent CCs, or avoid bad fights. Key limitation: only works when OPPONENT activates (not you).
+Retreat before combat begins. Spend 1 CC from strategy pool to move all your ships to adjacent empty system when opponent activates you. Costly but preserves forces.
+
+**Hybrid Crystal Fighter I (Special Unit):** Naalu Fighter - Cost: 1 (x2) | Combat: 8
+
+Combat 8 fighters provide additional combat power in early scraps. Can be impactful for equidistant systems.
 
 ### D. Starting and Faction Technologies
 
@@ -60,7 +67,7 @@ Pre-combat retreat ability. When opponent activates a system with your ships, yo
 
 **Neural Motivator** - When you gain command tokens during the status phase, gain 1 additional command token.
 
-**Notes:** Two starting techs (strong position). Sarween Tools is one of the best techs in the game—saves 1 resource per production, adding up to 20-30 saved resources over a game. Neural Motivator gives +1 CC per status phase (5 rounds = 5 extra CCs). Excellent economic foundation.
+**Notes:** Two of those technologies you just love to start with. Neural Motivator gives 4-5 extra action cards over the course of the game. Sarween Tools saves probably 8-10 resources spent on production over the course of the game.
 
 **Faction Technologies:**
 
@@ -69,12 +76,12 @@ Pre-combat retreat ability. When opponent activates a system with your ships, yo
 
 This unit may move without being transported. Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool.
 
-Upgraded fighters with Combat 7 (instead of 8), Move 2, can move independently, and only count as 0.5 ships against fleet pool when exceeding capacity. Makes your fighter swarms incredibly flexible.
+Your faction's battle prowess. Incredible utility moving on its own. People will be shocked at how many hits you produce—a dreadnought hits on a 5, a HCF2 hits on a 7. Having your fighters be your battle power is so good economically since they're so cheap. **Battle example:** A 13-resource Naalu fleet (2 Carrier I + 14 Fighter II) fights 50/50 against a 23-resource fleet (4 Dreadnought II + 1 Carrier + 8 Fighters).
 
 **Neuroglaive (GGG):**
 *After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.*
 
-Punishes opponents for activating systems with your ships. They lose 1 token from fleet pool (reducing their fleet capacity). Stacks with Foresight to make attacking you very expensive.
+Hard to reach tech. Not preferred path into green—try to get through Entropic Scar. Annoying for opponents that are poor influence-wise but usually able to be planned around.
 
 ### E. Leaders
 
@@ -82,31 +89,31 @@ Punishes opponents for activating systems with your ships. They lose 1 token fro
 
 After any player's command token is placed in a system: You may exhaust this card to return that token to that player's reinforcements.
 
-CC refund agent. When ANY player (including you or opponents) places CC in system, exhaust agent to return that CC immediately. Use offensively: opponent activates system, you refund their CC (they wasted the activation). Use defensively: you activate system, refund your own CC (free activation). Use politically: "I'll refund your CC if you vote my way."
+Increased mobility. Great usage for early slice grabbing.
 
 **Commander - M'aban (Codex 3):** *Unlock: Have ground forces in or adjacent to the Mecatol Rex system.*
 
 At any time: You may look at your neighbors' hands of promissory notes and the top and bottom card of the agenda deck.
 
-Information commander. Easy unlock (just have ground forces in/adjacent to MR system, achievable R2-3). After unlocking, you see: (1) neighbor promissory hands (know their diplomatic options), (2) top agenda card (know what's coming), (3) bottom agenda card (full agenda knowledge over time). This is intelligence advantage—you know opponent capabilities and upcoming agendas.
+Usually better for agendas for seasoned players that usually know what the secret trades entailed. Can surprise people that made a sneaky PN deal.
 
 **Hero - The Oracle (Codex 3):** *Unlock: Have 3 scored objectives.*
 
 **C-Radium Geometry - At the end of the status phase:** You may force each other player to give you 1 promissory note from their hand. If you do, purge this card.
 
-Promissory theft hero. R4-5 when unlocked, at end of status phase: force ALL opponents to give you 1 promissory note each. In 6-player game, this is 5 promissories instantly. You gain Support for Throne (points), Alliance promissories (economy), or faction-specific notes (abilities). This is massive political leverage.
+Synergy with breakthrough (Mindsieve). Use ASAP just to get any value. If people moved their PNs around a lot, can catch people off guard.
 
 ### F. Promissory Note - **Gift of Prescience**
 
 At the end of the Strategy Phase: Place this card faceup in your play area and place the Naalu "0" token on your strategy card; you are the first in initiative order. The Naalu player cannot use his Telepathic faction ability during this game round. Return this card to the Naalu player at the end of the status phase.
 
-Initiative-0 transfer. Give another player your Telepathic ability for one round—they act first instead of you. Trade value: VERY HIGH (4-5 TG or alliance). Best for players who desperately need first action (Winnu taking MR, someone scoring critical objective). You lose initiative-0 that round (risk), but gain massive favor (reward).
+Only sell for Round 2 custodians if you have no interest. Never let people have this for late game scoring.
 
 ### G. Alliance
 
-Other players cannot use SPACE CANNON against your ships in systems that contain 1 or more of your structures.
+Whoever holds your alliance card has your Commander (M'aban - look at neighbors' promissory hands and top/bottom agenda cards).
 
-SPACE CANNON immunity near your structures. Solid defensive value. Build PDS/docks on border planets, your ships are immune to enemy PDS in those systems. Trade value: 3-4 TG.
+Trade for any value, won't net you a lot.
 
 ### H. Mech - **Iconoclast (Temporal Entanglement)**
 
@@ -114,7 +121,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 **DEPLOY:** When another player gains a relic, place 1 mech on any planet you control.
 
-Relic-triggered mech. When ANY player (opponent or you) gains a relic, spawn 1 mech on any of your planets for free. This is passive mech generation—opponents exploring and gaining relics spawns your mechs. Over a game, this spawns 3-5 free mechs. Place mechs on border planets for defense or contested planets for invasion support.
+Free mech when any player gains a relic. Passive mech generation. Buffed with Fracture and certain factions (Naaz-Rokha and Mahact).
 
 ### I. Flagship - **Matriarch**
 
@@ -122,30 +129,33 @@ Cost: 8 | Combat: 9 (x2) | Move: 1 | Capacity: 6 | **Sustain Damage**
 
 **Special Ability:** During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.
 
-Fighters-as-ground-forces flagship. During invasions, your fighters can participate in ground combat AS ground forces. After ground combat ends, fighters return to space. This means: (1) Load flagship with 6 infantry + have 12 fighters in system, (2) Invade planet with 6 infantry + 12 fighters = 18 ground combat dice, (3) After ground combat, 12 fighters return to space for continued operations. This makes invasions overwhelming.
+Fighters participate in ground combat as ground forces, then return to space after. Great for big takes of Mecatol/Styx—can guarantee a blowout space combat and then send them all down to have a blowout ground combat after. Stronger than normal infantry when upgraded (HCF2 hits on 7 vs infantry on 8).
 
-**Strategic Implications:**
-- Flagship + 24 fighters = 24 ground combat dice for invasions
-- Fighters survive ground combat (return to space after)
-- You can conquer heavily defended planets with fighter swarms
+### J. Breakthrough
 
-### J. Faction Technologies
+**Mindsieve (R<>G)** - When you would resolve the secondary ability of another player's strategy card, you may give them a promissory note to resolve it without spending a command token.
 
-**Hybrid Crystal Fighter II (GB)** - Naalu Fighter II
+**R<>G Synergy:** Red and green technologies count as each other for prerequisites.
 
-Combat: 7 | Move: 2 | This unit may move without being transported. Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool.
+You can make deals every time for free strategy tokens—pay a TG here, a TG there, small favor there. Try to be proactive and deal constantly with the breakthrough. Your "useless PNs" can now be used for strategy tokens. Not a lot of use for R<>G synergy.
 
-Your fighter upgrade. Combat improves from 8 to 7, Move 2, can move independently (don't need carriers to move them), and excess fighters count as 0.5 ships for fleet pool (you can have 2x fighters in fleet). With Capacity 1 retained, these are devastating. Fighters become Combat 7, Move 2, Capacity 1, independent movement, half fleet cost. Research this R3-4.
+### K. Slice and Draft Considerations
 
-**Neuroglaive (GGG)** - After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.
+**Speaker Order:**
+Prefer strong early value. Positions 1-4 are best. Can handle most neighbors.
 
-Triple-green tech. When opponent activates system with your ships, they lose 1 fleet supply token (returns to reinforcements, not their pools). This reduces their fleet capacity by 1. If you have fighters in 5 opponent systems, they lose 5 fleet supply—crippling. The 3 green prerequisite is steep—only research if heavily invested in green (Neural Motivator → Bio-Stims → Neuroglaive).
+**Slice Priorities:**
+- **Safe slice** - Your economic tools are very strong (free secondaries, cheap fleet). Can get away with lower res/influence, but more is better always.
+- **High res planets** - Want a few for production capacity.
+- **Mecatol access** - Custodian possibility.
 
-### K. Breakthrough Technology
+**Nice to Have:**
+- **Blue skip** - Very helpful.
+- **Entropic Scar** - Loves it.
+- **Space Station** - TG to trade for PNs.
 
-**Mindsieve (Red<>Green)** - When you would resolve the secondary ability of another player's strategy card, you may give them a promissory note to resolve it without spending a command token.
-
-Free secondaries via promissory. When following another player's strategy card secondary, instead of spending CC, give them a promissory note. This is amazing economy—you follow Tech/Construction/Leadership/etc. for free by trading promissories. Over a game, this saves 10+ CCs (20+ TG equivalent). Research this R4-5 if you have Red + Green investment.
+**Avoid:**
+- **Gravity rift/nova/asteroid in path to Mecatol** - Blocks access.
 
 ---
 
@@ -153,93 +163,48 @@ Free secondaries via promissory. When following another player's strategy card s
 
 ### A. First Turn Priorities
 
-As Naalu Collective, your first turn priorities should reflect your initiative-0 dominance and fighter swarm strategy. Here's the recommended ordering:
+**Round 1 Priority Rankings:**
 
-1. **Scoring** - Your Telepathic ability (initiative 0 every round) lets you act FIRST before everyone else. This means you can score objectives before opponents, claim Mecatol Rex when you choose, and position perfectly with full information. Take Imperial strategy card when objectives are available—you score them first.
+1. **Scoring** - Stay in line if people are scoring, otherwise lower priority. Don't want to show off as strong/winning.
 
-2. **Expansion + Production** - Your Hybrid Crystal Fighters (Combat 8, Capacity 1 each) provide incredible transport efficiency. Build 4-6 additional fighters Round 1 for total 9-10 fighters with 9-10 infantry capacity. Expand to 2-3 systems immediately. Sarween Tools + Neural Motivator (starting techs) support this.
+2. **Expansion and Production** - Get economy started.
 
-3. **Technology** - Push toward Hybrid Crystal Fighter II (Combat 7, Move 2, independent movement) or Carrier II for enhanced transport. However, leveraging your initiative-0 advantage comes first—act first to steal objectives, then tech to enhance fighters.
+3. **Breakthrough** - Economic boost. Easiest unlock with throwing secret.
 
-4. **Breakthrough** - Mindsieve (free secondaries via promissory notes) is powerful but requires red + green investment. Your early strength is acting first and fighter swarms, not breakthrough economics yet.
+4. **Technology** - Can be lesser priority. Plastic over tech Round 1.
 
-### A. Low Starting Economy
+**Expansion Notes:** Take fleet to middle system, lift token (agent), go again. Then take system next to your home with Warfare build.
 
-3/3 home system is below average. You must expand aggressively R1 to compete economically.
+### B. Threat of Winning
 
-**Mitigation:**
-- Take Warfare/Leadership R1 for aggressive expansion
-- Use initiative-0 to claim best planets before opponents
-- Target 3-4 planets by end of R1
-
-### B. Predictable Initiative-0
-
-Everyone knows you act first every round. Opponents can plan around your priority action.
-
-**Mitigation:**
-- Stay unpredictable (don't always grab MR or same objectives)
-- Use initiative-0 for different priorities each round
-- Bluff intentions during strategy phase
-
-### C. Foresight Limitations
-
-Foresight only works when OPPONENTS activate your systems. You can't use it offensively (when you activate).
-
-**Mitigation:**
-- Place speed-bump fighters in key systems to trigger Foresight
-- Position ships to have multiple adjacent retreat options
-- Don't overextend into systems with no escape routes
-
-### D. Fighter Dependency
-
-Your power revolves around fighters. Factions with strong AFB (Anti-Fighter Barrage) counter you hard (Argent Flight, Barony, etc.).
-
-**Mitigation:**
-- Research Destroyer II (AFB 6(x2)) to protect fighters
-- Build enough fighters that AFB losses don't matter (24+ fighters)
-- Use fighter capacity to transport infantry (even if fighters die, infantry land)
+People are afraid of you winning all game. Your initiative-0 and scoring first every round makes opponents view you as a constant threat. This strains your diplomatic capability—the table will target you even when you're not actually winning.
 
 ---
 
 ## V. Technology
 
-### A. Recommended Tech Paths
+### A. Overview
 
-**Path 1: Fighter Superiority**
-1. Sarween Tools / Neural Motivator (Start)
-2. Carrier II (R2-3)
-3. Hybrid Crystal Fighter II (R3-4) *faction tech*
-4. Gravity Drive (R4)
-5. Fleet Logistics (R5)
+Strong economic start with bonus action cards. Focus on fighter upgrades. Best path is probably blue for utility, carrier capacity, and movement.
 
-**Path 2: Economic Dominance**
-1. Sarween Tools (Start)
-2. AI Development Algorithm (R2)
-3. Carrier II (R2-3)
-4. Destroyer II (R3-4)
-5. Gravity Drive (R4-5)
+### B. Tech Path
 
-**Path 3: Balanced**
-1. Neural Motivator (Start)
-2. Sarween Tools (Start)
-3. Antimass Deflectors (R2)
-4. Destroyer II (R3)
-5. Carrier II (R4)
-6. Hybrid Crystal Fighter II (R5)
+**Starting Tech:** Sarween Tools + Neural Motivator
 
-### B. Key Technologies
+**Round 1:** Dark Energy Tap (if available from slice/deals)
+- Extra frontier token, retreat flexibility.
 
-**Sarween Tools:** You start with this. Use it every production—over 25 builds, saves 25 resources.
+**Round 2:** Hybrid Crystal Fighter II (GB)
+- Faction tech. Independent movement, 0.5 fleet cost.
 
-**Neural Motivator:** You start with this. Gain +1 CC per status phase = 5 extra CCs over game.
+**Round 3:** Gravity Drive (B)
+- +1 move to 1 ship after activating.
 
-**Carrier II:** Move 2, Capacity 8. Essential for transporting fighter swarms + infantry.
+**Round 4:** Carrier II (BB) or Fleet Logistics (BB)
+- Carrier II for capacity, Fleet Logistics for double actions.
+- Fleet Logistics enables crazy Imperial scoring on Mecatol and then also scoring first with the Imperial card in the last round.
 
-**Hybrid Crystal Fighter II:** Your faction tech. Fighters become Combat 7, Move 2, Capacity 1, independent movement, half fleet cost. Research R3-4 for fighter swarm dominance.
-
-**Gravity Drive:** Mobility for repositioning fleets and reaching distant objectives.
-
-**Destroyer II:** AFB 6(x2), Move 2. Protects your fighters from enemy AFB and provides screen.
+**Note:** If blue tech skip, can go Gravity Drive first (Round 2).
 
 ---
 
@@ -247,163 +212,63 @@ Your power revolves around fighters. Factions with strong AFB (Anti-Fighter Barr
 
 ### A. Round 1
 
-Your R1 priority is leveraging initiative-0 for aggressive expansion and beginning tech path.
-
 **Round 1 Priority Ranking:**
 
-1. **Warfare** - Enables R1 aggression + exploration. Unlock fleets after attacks.
+1. **Trade** - Economy for fighter production. 3 commodities.
+2. **Technology** - Start fighter upgrade path.
+3. **Leadership** - For secondaries.
+4. **Politics** - Good for setting up scoring Round 2.
+5. **Construction** - Forward dock for production. Better if you have a great planet to place forward dock on.
+6. **Warfare** - Useless with your agent.
+7. **Diplomacy** - Last pick option.
+8. **Imperial** - Never Round 1.
 
-2. **Technology** - Progress toward Carrier II or Fighter II upgrades.
-
-3. **Leadership** - CCs for expansion + Neural Motivator synergy.
-
-4. **Trade** - 3 commodities + TG generation for economic base.
-
-5. **Politics** - Agenda control. Note: Speaker less valuable (you already act first with initiative-0).
-
-6. **Construction** - Forward dock is okay for expansion.
-
-7. **Imperial** - Unlikely to score R1, even with initiative-0.
-
-8. **Diplomacy** - You have Foresight for defense; redundant.
+**Strategy Token Priority:** Diplomacy, Warfare, and Technology. If you got breakthrough, make deal for a bonus secondary.
 
 ### B. Round 2+
 
 **Love:**
-- **Leadership** - CCs for expansion + Neural Motivator synergy.
-- **Trade** - 3 commodities + TG generation for economic support.
-- **Warfare** - Unlock fleets after attacks. Essential for aggressive play.
-- **Technology** - Carrier II and Fighter II upgrades. Critical for fleet strength.
-- **Imperial** - Initiative-0 lets you score FIRST before everyone else can react.
+- **Trade** - Economy. Abuse your breakthrough to save tokens.
+- **Technology** - Fighter upgrades. Abuse your breakthrough to save tokens.
+- **Imperial** - Score first with initiative-0.
 
-**Like:**
-- **Politics** - Agenda control. Speaker less critical since you already act first.
-- **Construction** - Forward dock for continued expansion.
-- **Diplomacy** - Additional protection beyond Foresight.
+**Good:**
+- **Leadership** - Tokens. If table not playing nice with breakthrough deals.
+- **Politics** - Setup Imperial. Advantage of speaker with Commander (know top/bottom agendas).
+
+**Situational:**
+- **Warfare** - Aggressive plays. Fleet unlock after attacks.
+- **Construction** - Forward dock.
+- **Diplomacy** - Only for home system lockdown.
 
 ---
 
 ## VII. Intermediate
 
-### A. Telepathic Initiative-0 Mastery
+### A. Unit Composition
 
-Your defining ability. You ALWAYS act first in action phase. Maximize value:
+**Preferred Units:**
+- **Fighters** - Core unit. Combat 8. Build swarms.
+- **Carriers** - Transport infantry and fighters.
+- **Infantry** - Ground forces.
+- **Mechs** - Get for free everywhere (when players gain relics).
+- **Flagship** - Fighters fight on ground.
 
-**Application 1: Objective Theft**
-- Objective revealed: "Control 6 planets outside home"
-- You have 5 planets
-- Initiative-0: Act first, conquer 6th planet, score immediately
-- Opponents act second: Could have scored, but you took it first
+Your composition is incredibly cheap if you have production capacity for it. Fighter swarms provide overwhelming combat power at minimal cost.
 
-**Application 2: Mecatol Rex Claims**
-- R2-3: Race to Mecatol Rex
-- Everyone positions near MR
-- Initiative-0: Act first, take MR before anyone else
-- Even if opponent is closer, you act first
+### B. Game Plan
 
-**Application 3: Action Card Timing**
-- Opponent reveals Imperial strategy card (planning to score from MR)
-- Initiative-0: Play "Sabotage" before they can use Imperial
-- You denied their point
+**Early Game (Rounds 1-2):**
 
-**Application 4: Perfect Positioning**
-- Strategy phase ends, board state revealed
-- You see all strategy cards selected
-- Initiative-0: Act first with full information
-- Position optimally before opponents respond
+Use initiative-0 to claim best planets with 0 tokens. Use agent to fill out rest of slice and get a head start economically. Do not Foresight retreat—that's a waste of tokens. Build fighter swarms for combat. Consider custodians if you didn't score Round 1. Try to get trades of secondaries started (breakthrough deals).
 
-**Key Mindset:** Initiative-0 is not just "act first." It's "secure irreversible advantages before opponents can respond."
+**Mid Game (Rounds 3-4):**
 
-### B. Foresight Tactical Applications
+Research Hybrid Crystal Fighter II for independent movement and combat superiority. Continue building fighter swarms—you want overwhelming numbers. Commander unlocks—if lucky, get ahead on agendas with intelligence advantage. Your breakthrough deals should be flowing now, saving tokens on every secondary. Build up plastic and economy. Hero steals all opponent promissories for political leverage. If controlling Mecatol in mid game, consider the first action Imperial for massive point swing. Stay under the radar while accumulating strength.
 
-Pre-combat retreat when opponents activate your systems. Use strategically:
+**Late Game (Round 5+):**
 
-**Speed Bump Fighters:**
-- Place 1-2 fighters in 8-10 key systems
-- Opponents activate those systems (forced to deal with fighters)
-- Foresight: Retreat all fighters to safety
-- Result: Opponents spent 8-10 CCs, gained nothing
-
-**Information Gathering:**
-- Place fighters in multiple contested systems
-- Opponents activate → reveals their intentions
-- Foresight: Retreat, now you know their strategy
-- Adjust your plans accordingly
-
-**Baiting Overcommitment:**
-- Leave small fleet (3 fighters + 1 cruiser) in tempting system
-- Opponent commits large fleet (8 dreadnoughts) to attack
-- Foresight: Retreat before combat
-- Opponent wasted CC + activation, fleet now out of position
-
-**Foresight CC Cost:**
-- You spend 1 CC from strategy pool to Foresight retreat
-- Worth it if opponent spent CC activating + committed valuable ships
-
-### C. Hybrid Crystal Fighter Swarm Strategy
-
-Your fighters have Combat 8 and Capacity 1 each. Build swarms:
-
-**Fighter Production Schedule:**
-- R1: Build 4-6 fighters (total: 9 fighters)
-- R2: Build 8-10 fighters (total: 17-19 fighters)
-- R3: Build 6-8 fighters (total: 23-27 fighters)
-- R4: Research Hybrid Crystal Fighter II (Combat 7)
-- R5: 25+ fighters dominate
-
-**Transport Math:**
-- 25 fighters with Capacity 1 each = 25 infantry transported
-- Normally requires: 25 infantry + 4-5 carriers (15-18 resources)
-- Naalu: Just fighters (12.5 resources for 25 fighters)
-- **You save 3-5 resources per 25 units transported**
-
-**Combat Math:**
-- 24 fighters at Combat 8 = 24 dice at 8+ = ~7-8 hits per round (44% hit rate)
-- After Fighter II: 24 fighters at Combat 7 = 24 dice at 7+ = ~12-14 hits per round (66% hit rate)
-- This kills 6-7 dreadnoughts per round
-
-**Fleet Composition:**
-- 24-30 Hybrid Crystal Fighters (each with 1 infantry)
-- 2-3 Carrier IIs (8 capacity each = 16-24 extra units)
-- 1 Matriarch flagship (6 capacity)
-- 2-3 Destroyers (screen + AFB protection)
-- **Total Capacity:** 46-60 units
-
-### D. Commander Intelligence Advantage
-
-After Commander unlocks (ground forces in/adjacent to MR, easy R2-3):
-
-**Neighbor Promissory Viewing:**
-- See all neighbor promissory hands
-- Know: Who has Support for Throne, who has faction PNs, who has Alliance
-- Negotiate from position of knowledge: "I know you have Player X's Alliance. Trade it to me for Y."
-
-**Agenda Deck Knowledge:**
-- See top card (know next agenda)
-- See bottom card (track what's coming)
-- Over time, know most/all agenda deck composition
-- Vote optimally, knowing outcomes
-
-**This is perfect information**—you know opponent capabilities and agenda futures.
-
-### E. Hero Promissory Theft Timing
-
-Your Hero (R4-5) forces all opponents to give you 1 promissory each:
-
-**Optimal Timing:**
-- Round 4-5 status phase
-- Force all opponents to give 1 PN
-- In 6-player game: Gain 5 promissories instantly
-
-**Best Promissories to Receive:**
-- Support for Throne (immediate points)
-- Alliance promissories (economic bonuses)
-- Faction PNs with strong abilities (Hacan trade goods, Xxcha Quash, etc.)
-
-**Political Leverage:**
-- After Hero, you hold 5+ opponent promissories
-- Use as bargaining chips: "I'll return your PN if you vote my way"
-- Convert promissories to agenda support, territorial agreements, or objective help
+Make a big swing play if not already running away with the game. Flagship invasions, massive fighter swarms, and initiative-0 scoring give you the tools to close it out.
 
 ---
 
@@ -411,9 +276,9 @@ Your Hero (R4-5) forces all opponents to give you 1 promissory each:
 
 ### A. Objective Summary
 
-**Strengths:** Naalu dominates objective timing with initiative-0 Telepathic ability, allowing first action to score before opponents. Fighter superiority through Hybrid Crystal Fighters makes combat objectives achievable, and mobility from fighters with capacity enables territorial scoring.
+**Strengths:** Initiative-0 lets you score objectives first. Economy objectives benefit from breakthrough saving tokens. Combat objectives align with fighter swarms.
 
-**Weaknesses:** Spending objectives are challenging with weak home economy (3/3 total). Tech objectives require investment despite starting with two techs, and structure objectives need deliberate focus beyond fighter-focused strategy.
+**Weaknesses:** Tech objectives challenging despite 2 starting techs. Structure objectives difficult. Hard to spread out and not become a target with the Naalu bullseye on you.
 
 ### B. Stage I Objectives
 
@@ -425,77 +290,69 @@ Your Hero (R4-5) forces all opponents to give you 1 promissory each:
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
+| Build Defenses (Have 4 or more structures)                              | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
-
-Naalu excels at CC spending (Neural Motivator generates extra CCs), tech objectives (2 starting techs + Fighter II upgrade), and positioning objectives (initiative-0 lets you position first). You're average at resource/influence spending (3/3 home).
-
-**Initiative-0 Bonus:** You can score objectives FIRST before opponents, effectively "stealing" objectives that multiple players could complete.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
+| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
 | Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
 | Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
+| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟡     |
 | Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟡     |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🟡     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🔴     |
 | Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
 | Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
 | Fight With Precision (AFB destroy last fighter)                         | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
 | Prove Endurance (Last to pass)                                          | 🔴     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-**Notes:**
-- **Strengthen Bonds** is EASY—your Hero forces all opponents to give you promissories
-- **Occupy the Seat of the Empire** is EASY—initiative-0 lets you claim MR when you want
-- **Control the Region** is EASY—fighter swarms create cheap ship presence everywhere
-- Initiative-0 lets you score secrets FIRST before opponents can complete them
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
@@ -504,71 +361,46 @@ Naalu excels at CC spending (Neural Motivator generates extra CCs), tech objecti
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟡     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
-| Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
 
-**Christmas-Land Points Tracker:**
-
-| Round | Strat Card  | Stage I | Stage II | Secrets | Total |
-|-------|-------------|---------|----------|---------|-------|
-| 1     | Warfare     | 1       | 0        | 0       | 1     |
-| 2     | Imperial    | 2       | 0        | 1       | 4     |
-| 3     | Technology  | 3       | 0        | 1       | 5     |
-| 4     | Imperial    | 4       | 1        | 2       | 8     |
-| 5     | Leadership  | 5       | 2        | 2       | 10    |
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ---
 
 ## IX. Alliance Priority
 
-### S-Tier (Actively Pursue)
+Alliance preference ranking based on commander utility:
 
-**Xxcha Kingdom** - Peaceful coexistence. They want defensive play; you want first action priority. Trade your initiative-0 PN for their Quash + territorial agreements.
+**Top Tier:**
 
-**Hacan** - Trade economy. They generate TGs for both players. You need economic boost (3/3 home); they provide it.
+1. **Vuil'raith Cabal** (That Which Molds Flesh) - 2 fighters/infantry don't count against production. Massive value for fighter spam.
+2. **Crimson Rebellion** (Ahk Siever) - Gain TG after any combat. Passive income.
+3. **Deepwrought** (Aello) - Gain TG when others research. Passive income.
+4. **Titans of Ul** (Tungstantus) - Gain TG when using production. Passive income.
 
-**Jol-Nar** - Tech synergy. They research aggressively; you start with 2 techs. Coordinate tech paths and share strategy card secondaries.
+**Good:**
 
-### A-Tier (Opportunistic Alliances)
-
-**Argent Flight** - Combat faction. Their AFB threatens your fighters, but alliance prevents conflict. Trade exploration zones for military support.
-
-**Yin Brotherhood** - Combat faction. Both want aggressive expansion. Coordinate targets to avoid conflict.
-
-**Titans of Ul** - Defensive PDS faction. They're slow; you're fast. Avoid each other's space.
-
-### B-Tier (Neutral)
-
-**Sol** - Ground force faction. Limited synergy. Neutral relationship.
-
-**Nomad** - 3 agents faction. You have Agent Z'eu (CC refund). Limited direct synergy.
-
-**Barony of Letnev** - Debt economy. Their AFB threatens your fighters. Cautious relationship.
-
-### C-Tier (Difficult Synergies)
-
-**Sardakk N'orr** - +1 combat faction. They want to fight; you want to expand. Divergent priorities.
-
-**Muaat** - War Sun faction. They're slow and expensive. You're fast and cheap. Different strategies.
-
-### D-Tier (Avoid / Compete)
-
-**Nekro Virus** - Tech-stealing faction. They must attack to gain techs; you're a target. Offer alliance but expect betrayal.
-
-**Argent Flight (if enemy)** - **Direct counter.** Strike Wing Alphas have AFB 5(x3)—devastating against fighter swarms. Avoid conflict or overwhelm with sheer fighter numbers.
+5. **Nomad** (Navarch Feng) - Produce flagship without resources. Saves 8 resources.
+6. **Muaat** (Magmus) - Gain TG after spending strategy tokens. Passive income.
+7. **Empyrean** (Xuange) - Return tokens when others move into your systems. Token efficiency.
+8. **Winnu** (Rickar Rickani) - +2 combat in MR/home/legendary. Combat boost.
+9. **Nekro Virus** (Nekro Acidos) - Draw cards when gaining tech. Good value.
+10. **Xxcha Kingdom** (Elder Qanoj) - +1 vote per planet exhausted. Diplomatic alliance for massive votes and voting info (with Commander).
 
 ---
 
@@ -586,21 +418,10 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Naalu Collective rewards:
-- **Initiative-0 mastery:** Always act first—steal objectives, claim MR, position perfectly
-- **Fighter swarm dominance:** Build 24-30 fighters for overwhelming combat power
-- **Foresight discipline:** Retreat before bad fights, preserve forces
-- **Commander intelligence:** Use perfect information (promissory hands + agenda deck knowledge)
+Naalu Collective is the faction for players who love staying under the radar while being surprisingly strong. You're not the obvious powerhouse—you're the faction that quietly scores objectives and snatches the win before anyone can react. Your initiative-0 is a double-edged sword with big scoring implications late game, but the surprise factor is powerful.
 
-You're a top-tier faction with highest skill ceiling. Master initiative-0 timing and fighter swarm builds, and you'll consistently score 9-11 points.
+Your biggest strength is that you're stronger than people expect. Your fighter swarms dominate combat at a fraction of the cost. Your breakthrough saves tokens on every secondary. Your Commander gives you information others don't have. While the table focuses on louder factions, you're scoring first, expanding first, and positioning first.
 
-**Core Principles:**
-1. ALWAYS act first (initiative-0) to steal objectives before opponents
-2. Build 24-30 Hybrid Crystal Fighters by R4 for combat dominance
-3. Research Carrier II + Fighter II upgrades for maximum fighter efficiency
-4. Use Foresight liberally to retreat from bad fights (preserve forces)
-5. Unlock Commander R2-3 (ground forces in/adjacent to MR)
-6. Hero R4-5 to steal all opponent promissories (massive political leverage)
-7. Place speed-bump fighters everywhere to bait opponent CCs
+When you master Naalu Collective, you feel like you're seeing the future while everyone else guesses. The table underestimates you until suddenly you're scoring objectives they thought they had secured. Naalu Collective doesn't announce their plans—they execute them before anyone knows what happened.
 
-**We see the future. We act first.**
+**We see the future. We act on it.**
