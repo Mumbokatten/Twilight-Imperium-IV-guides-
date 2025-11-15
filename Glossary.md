@@ -128,11 +128,11 @@ Examples: "Research this tech R2-3" means "research this technology during round
 
 ### Stalling
 
-**Definition:** Taking tactical actions late in a round to prevent opponents from acting before the round ends, or deliberately passing last to get first speaker position next round.
+**Definition:** Taking non-committal actions to delay your impactful moves, often waiting until other players have passed so they cannot retaliate or stop your important plays.
 
-**Usage:** Players "stall" by taking low-value actions to outlast opponents, forcing them to pass first.
+**Usage:** Players "stall" by taking low-value or defensive actions to preserve their ability to make critical moves after opponents have used up their actions and passed.
 
-**Example:** "Use your strong token economy for stalling in late game" means taking extra actions to prevent opponents from acting.
+**Example:** "Use your strong token economy for stalling in late game" means you can afford to take multiple small actions while waiting for the right moment to make your big play when opponents can't respond.
 
 ---
 
@@ -163,6 +163,23 @@ Examples: "Research this tech R2-3" means "research this technology during round
 ---
 
 ## Strategic Concepts
+
+### Component Action
+
+**Definition:** An action granted by a game component such as an action card, technology, leader ability, or faction ability. These are distinct from tactical actions (activating systems) and strategic actions (using strategy cards).
+
+**Examples:**
+- Action cards with "ACTION:" written on them (e.g., "ACTION: Spend 4 trade goods to research 1 technology")
+- Technologies with action abilities (e.g., Sling Relay: "ACTION: Exhaust this card to produce 1 ship...")
+- Agent abilities (usually "ACTION: Exhaust this agent to...")
+- Hero abilities (one-time component actions that purge after use)
+- Faction abilities with "ACTION:" listed
+
+**Usage:** Component actions count as your action for the turn during the action phase. Some faction abilities trigger "after you perform a component action."
+
+**Example:** "Council Keleres commander triggers after component actions" means abilities like using your agent or playing an action card will activate the commander ability.
+
+---
 
 ### Expansion
 
