@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Mahact_Gene_Sorcerers</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css" />
+</head>
+<body>
+<p><a href="../index.html">← Back to Index</a></p>
+<h1 id="mahact-gene-sorcerers-guide">Mahact Gene-Sorcerers Guide</h1>
+<figure>
+<img src="MahactGeneSorcerersArt.webp" alt="Mahact Gene-Sorcerers" />
+<figcaption aria-hidden="true">Mahact Gene-Sorcerers</figcaption>
+</figure>
+<hr />
+<h2 id="i.-introduction">I. Introduction</h2>
+<p>The Mahact Gene-Sorcerers are Twilight Imperium’s puppet masters.
+Every combat victory lets you pull the strings—steal command tokens for
+extra fleet capacity and unlock the ability to wield your adversaries’
+most powerful abilities as if they were your own. You’re not just
+fighting; you’re orchestrating a symphony of stolen power.</p>
+<p>Your infantry are incredibly efficient and generate economy when
+destroyed. Your political isolation prevents manipulation. You can
+terminate opponent activations mid-turn and force mandatory battles with
+no escape. Stack multiple stolen abilities simultaneously for
+devastating combinations—combat bonuses, utility effects, and economic
+engines all working together.</p>
+<p>Build an arsenal of abilities that creates synergies no single
+faction should possess. Opponents watch helplessly as you command their
+own powers better than they can. Mahact doesn’t just conquer—they
+orchestrate dominance through mastery of all.</p>
+<h2 id="ii.-playstyle">II. Playstyle</h2>
+<p>Playing Mahact is about patient accumulation that explodes into
+unstoppable momentum. Early game, you’re diplomatically
+maneuvering—winning small skirmishes, siphoning tokens from neighbors,
+building relationships while quietly growing stronger. Each stolen token
+expands your fleet capacity and adds another tool to your arsenal.</p>
+<p>Mid-game is where you become inevitable. Endless tokens fuel endless
+production. Your breakthrough lets you purge technologies for relics,
+converting knowledge into artifacts of power. Commander abilities stack
+into combinations that break normal game rules. You’re not just
+strong—you’re operating on a different level, wielding a cacophony of
+powers that shouldn’t coexist.</p>
+<p>Late game, the table realizes you’re too strong to stop. You’ve
+collected so much stolen power that conventional strategies can’t
+contain you. Terminate opponent turns at will. Force battles they can’t
+escape. Deploy overwhelming force from your endless resource engine.
+Mahact doesn’t just win—they ascend beyond what any single faction
+should achieve.</p>
+<hr />
+<h2 id="iii.-the-basics">III. The Basics</h2>
+<h3 id="a.-home-system-commodities">A. Home System &amp;
+Commodities</h3>
+<p><strong>Home System:</strong> - <strong>Ixth:</strong> 3 resources /
+5 influence - <strong>Total: 3 resources / 5 influence (5 optimal
+influence)</strong></p>
+<p><strong>Commodities:</strong> 3</p>
+<p>Good defensive home system with strong influence for command tokens.
+5 influence provides excellent command token generation during status
+phase. 3 resources gives mediocre production capacity—you’ll need to
+expand aggressively for additional resources to fuel your fleets.</p>
+<h3 id="b.-starting-fleet">B. Starting Fleet</h3>
+<ul>
+<li>1 Dreadnought</li>
+<li>1 Carrier</li>
+<li>1 Cruiser</li>
+<li>2 Fighters</li>
+<li>3 Infantry (Crimson Legionnaires)</li>
+<li>1 Space Dock</li>
+</ul>
+<p><strong>Notes:</strong> Decent early fleet. 3 infantry can be a bit
+small in certain slices but should be manageable.</p>
+<h3 id="c.-faction-abilities">C. Faction Abilities</h3>
+<p><strong>Edict:</strong> <em>When you win a combat, place 1 command
+token from your opponent’s reinforcements in your fleet pool if it does
+not already contain 1 of that player’s tokens; other players’ tokens in
+your fleet pool increase your fleet limit but cannot be
+redistributed.</em></p>
+<p>Win any combat (space or ground) and steal 1 opponent token into your
+fleet pool, increasing your fleet capacity. You can only have 1 token
+per opponent (cannot stack multiple from same player). These opponent
+tokens count toward your fleet limit but cannot be redistributed to
+other pools. Stolen tokens remain until used by your commander ability
+or mech, unlocking even more tokens for your tactical pool to fuel
+aggressive expansion and stall tactics. This incentivizes fighting all
+opponents to collect a full set of tokens, building toward late game
+dominance.</p>
+<p><strong>Imperia:</strong> <em>While another player’s command token is
+in your fleet pool, you can use the ability of that player’s commander,
+if it’s unlocked.</em></p>
+<p>Use any commander ability from factions whose tokens you’ve stolen.
+The commander must be unlocked for that faction (you don’t unlock it for
+them), and you gain access immediately when they unlock. Stack multiple
+commander abilities if you have multiple tokens, creating devastating
+synergies that break normal game constraints. High variance
+ability—incredibly strong when opponents have powerful commanders, less
+impactful against weaker ones. Core of Mahact’s mid-late game power.</p>
+<p><strong>Hubris:</strong> <em>During setup, purge your “Alliance”
+promissory note. Other players cannot give you their “Alliance”
+promissory notes.</em></p>
+<p>No need to worry about alliances when you can grab them all. Jokes
+aside, a small diplomatic downside but fairly easy to work around.</p>
+<h3 id="d.-starting-and-faction-technologies">D. Starting and Faction
+Technologies</h3>
+<p><strong>Starting Technologies:</strong></p>
+<p><strong>Bio-Stims (Green):</strong> <em>You may exhaust this card at
+the end of your turn to ready 1 of your planets that has a technology
+specialty or 1 of your other technologies.</em></p>
+<p>Helps a lot early game for extra resources from tech specialty
+planets. Late game becomes a flexibility tool for resource/influence
+management or readying key technologies like Predictive
+Intelligence.</p>
+<p><strong>Predictive Intelligence (Yellow):</strong> <em>At the end of
+your turn, you may exhaust this card to redistribute your command
+tokens. When you cast votes during the agenda phase, you may cast 3
+additional votes. If you do, and the outcome you voted for is not
+resolved, exhaust this card.</em></p>
+<p>Combos extremely well with your surplus of tokens from home system,
+agent, and faction abilities. One of the most unpredictive factions
+because of Predictive—constant token redistribution and flexible voting
+keep opponents guessing.</p>
+<p><strong>Faction Technologies:</strong></p>
+<p><strong>Genetic Recombination (G):</strong> <em>You may exhaust this
+card before a player casts votes; that player must cast at least 1 vote
+for an outcome of your choice or remove 1 token from their fleet pool
+and return it to their reinforcements.</em></p>
+<p>Rarely used—you’ve got so much other tech you’d want. Funny if gotten
+with Entropic Scar though. Can absolutely screw someone with the right
+agenda. Requires 1 green prerequisite.</p>
+<p><strong>Crimson Legionnaire II (GG):</strong> <em>Cost: 1 (x2) |
+Combat: 7</em> <em>After this unit is destroyed, gain 1 commodity or
+convert 1 of your commodities to a trade good. Then, roll 1 die. If the
+result is 6 or greater, place the unit on this card. At the start of
+your next turn, place each unit that is on this card on a planet you
+control in your home system.</em></p>
+<p>If you get this early (rare) and get your production going, it can be
+a bit of a money printer with the commodity generation and resurrection.
+Unfortunately, like Genetic Recombination, you generally need other
+stuff more—your tech path is tight and you’ve got better priorities.</p>
+<h3 id="e.-leaders">E. Leaders</h3>
+<p><strong>Agent: Jae Mir Kan</strong> <em>When you would spend a
+command token during the secondary ability of a strategic ACTION: You
+may exhaust this card to remove 1 of the active player’s command tokens
+from the board and use it instead.</em></p>
+<p>Deal fodder for early rounds and win slaying for later. One of the
+best agents in the game, saving you a token each round and allowing you
+to deal for value on top of it. Having 3-4 secondaries every round does
+compile value—extra action cards, structures, Warfare production that
+you might not have space for as a non-Mahact faction.</p>
+<p><strong>Commander: Il Na Viroset</strong> <em>Unlock: Have 2 other
+factions’ command tokens in your fleet pool.</em> <em>During your
+tactical actions, you can activate systems that contain your command
+tokens. If you do, return both command tokens to your reinforcements and
+end your turn.</em></p>
+<p>Game breaking, and game breakingly strong. Warps the rules of TI.
+Unlocks with 2 stolen tokens (easy via Edict). Activate systems with
+your own tokens to reactivate previous activations. Costs both the
+system token and one from your strategy pool, both return to
+reinforcements, and your turn ends immediately. Allows critical
+re-activations of Mecatol, home system, or contested space.</p>
+<p><strong>Hero: Airo Shir Aur</strong> <em>Unlock: Have 3 scored
+objectives.</em> <em>Benediction:</em> <em>ACTION: Move all units in the
+space area of any system to an adjacent system that contains a different
+player’s ships. Space combat is resolved in that system; neither player
+can retreat or resolve abilities that would move their ships. Then,
+purge this card.</em></p>
+<p>For late game plays, completely nuts and people will have to plan
+around it, which they usually don’t. Force fleet battles between
+opponents, pull enemy fleets into traps, disrupt critical scoring, or
+create forced confrontations. Game-breaking political and military tool
+best used Round 5-6 when decisive combats matter most.</p>
+<h3 id="f.-promissory-note">F. Promissory Note</h3>
+<p><strong>Scepter of Dominion:</strong> <em>At the start of the
+strategy phase: Choose 1 non-home system that contains your units; each
+other player who has a token on the Mahact player’s command sheet places
+a token from their reinforcements in that system. Then, return this card
+to the Mahact player.</em></p>
+<p>A mini Diplomacy. Hard to find a selling point where you get value
+and you’re also not setting up someone really well. Since you might not
+have so many tokens early, it comes online late, and would you want
+someone to save their key system against everyone (including you)?
+Returns to you after use.</p>
+<h3 id="g.-alliance">G. Alliance</h3>
+<p><strong>Hubris Prevents Alliances:</strong></p>
+<p>You purge your Alliance promissory note during setup and cannot
+receive others’ Alliance notes. You cannot grant Alliance abilities to
+others, and others cannot grant them to you. Thematic isolation balanced
+by your power through Edict/Imperia theft.</p>
+<h3 id="h.-mech">H. Mech</h3>
+<p><strong>Starlancer:</strong> <em>Cost: 2</em> <em>Combat: 6</em>
+<em>Sustain Damage</em> <em>After a player whose command token is in
+your fleet pool activates this system, you may spend their token from
+your fleet pool to end their turn; they gain that token.</em></p>
+<p>Another game breaking tool. Just say no. Obviously has to be managed
+with your fleet pool, but for key play denial it’s an awesome tool in
+your late game arsenal. Deploy mechs in critical defensive systems.
+Removes token from your fleet pool (can steal it again via Edict
+later).</p>
+<h3 id="i.-flagship">I. Flagship</h3>
+<p><strong>Arvicon Rex:</strong> <em>Cost: 8</em> <em>Combat: 5
+(x2)</em> <em>Move: 1</em> <em>Capacity: 3</em> <em>Sustain Damage</em>
+<em>During combat against an opponent whose command token is not in your
+fleet pool, apply +2 to the results of this unit’s combat
+rolls.</em></p>
+<p>One of the strongest flagships in the game. Having the fighting power
+of 2/3 of a War Sun against most people makes it an awesome force.
+Excellent tool for chasing people down who have yet to kneel.</p>
+<h3 id="j.-breakthrough">J. Breakthrough</h3>
+<p><strong>Vaults of the Heir (Yellow &lt;&gt; Green):</strong>
+<em>ACTION: Exhaust this card and purge 1 of your technologies to gain 1
+relic.</em></p>
+<p>Really strong breakthrough. Can be useful to get a few different
+techs in yellow/green to have purge fodder. Tons to consider—when do you
+start purging? How many do you purge in total? How do you keep the right
+prerequisites? Mega boon for late game, but not all relics are better
+than a tech if you get them early. Remember purge permanently removes
+the technology. Can purge borrowed techs from Deepwrought. Very useful
+with Entropic Scar to get bonus relics. All bonus tech agendas/action
+cards/factions make this go from hard to handle to just a big boost.</p>
+<h3 id="k.-slice-and-draft-considerations">K. Slice and Draft
+Considerations</h3>
+<p><strong>Speaker Order:</strong> - <strong>Flexible for any
+position</strong> - Mahact adapts well to any speaker spot. Consider
+neighbors—you want to be near factions you can fight or deal with.</p>
+<p><strong>Priorities:</strong> - <strong>Need variety of tech
+skips</strong> - You need tech flexibility to build your path toward
+Vaults of the Heir and support your strategy. Really likes blue skips. -
+<strong>Favor resources over influence</strong> - You need a lot of tech
+and plastic (units). All tools in your kit solve lower influence
+slices—stolen tokens, Predictive Intelligence, and your 5 influence home
+system already give you token flexibility.</p>
+<p><strong>Nice to Have:</strong> - Balanced planet spread with good
+resource totals - Multi-planet systems for flexibility - Proximity to
+multiple factions for token theft opportunities - Safety of slice is
+nice—better to solve token theft diplomatically generally</p>
+<p><strong>Avoid:</strong> - Low resource slices (you need production
+capacity for tech and plastic) - Anomalies in the middle of slice</p>
+<p><strong>Summary:</strong> Mahact is flexible in draft and can work
+with most slices. Your priority is getting variety in tech skips
+(especially blue) and positioning near multiple neighbors for combat
+opportunities. Focus on total slice value over speaker position.</p>
+<h2 id="iv.-structural-weaknesses">IV. Structural Weaknesses</h2>
+<h3 id="a.-first-turn-priorities">A. First Turn Priorities</h3>
+<p>Your Round 1 (R1) priority order: <strong>Expansion + Production &gt;
+Breakthrough &gt; Scoring &gt; Technology</strong></p>
+<ol type="1">
+<li><p><strong>Expansion + Production</strong> - Getting your plastic
+economy started and setting up all future turns. Expand to 2-3 systems
+R1 with your starting fleet.</p></li>
+<li><p><strong>Breakthrough</strong> - Easy to unlock with Bio-Stims
+helping on tech specialty planets, otherwise tough to use Round
+1.</p></li>
+<li><p><strong>Scoring</strong> - You’ll be a threat either way—people
+know what you can do late. Your real power emerges Round 3-4 when you’ve
+stolen multiple tokens and can use commander abilities.</p></li>
+<li><p><strong>Technology</strong> - Tech is a luxury with low resource
+start. Setup for late game relics dominance via Vaults of the Heir when
+you can afford it. Token theft and territorial control come
+first.</p></li>
+</ol>
+<p><strong>Expansion Notes:</strong> Go out into a tech skip planet, use
+Bio-Stims to ready it and do your expedition right away for a quick,
+cheap, and efficient way to solve breakthrough. Might have to spend home
+system on resources Round 1 to afford things. Hard to grab more than 2
+systems, but with Bio-Stims and token economy early game can still be
+fine. Getting out some scary looking plastic is key for your
+survival.</p>
+<p><strong>Strategy Card Priority:</strong> Diplomacy (4), Warfare (6),
+or Tech (7) for R1. If you manage to buy extra tokens, Construction (4)
+is also nice with the right planet and timing. Try to score early deals
+for your agent.</p>
+<h3 id="b.-the-mahact-problem">B. The Mahact Problem</h3>
+<p>You’re a massive late game threat. Everyone at the table knows what
+Mahact can do with stolen tokens and commander abilities by Round 5-6.
+The problem is you need to make early deals—your agent requires
+transactions and your economy needs trades to get going.</p>
+<p>This creates tension: you need people to deal with you early when
+you’re setting up, but they also know you’ll be terrifying late. Good
+players will either refuse to deal with you or extract premium prices
+knowing you’re the future threat. You have to balance getting the early
+value you need while managing the target on your back.</p>
+<h2 id="v.-technology">V. Technology</h2>
+<h3 id="a.-overview">A. Overview</h3>
+<p>Mahact has a complicated tech path. With Vaults of the Heir, you’re
+constantly considering purges—which techs to get as purge fodder, which
+to keep for prerequisites, when to start purging, and how many relics
+you actually need. Every tech decision involves planning multiple steps
+ahead: “Do I need this tech, or is it just something to purge later?
+Will purging this break my prerequisite chain?”</p>
+<p>This creates decision paralysis. You can’t just grab useful techs—you
+have to consider their purge value, their prerequisite value, and
+whether you’ll regret losing them.</p>
+<h3 id="b.-starting-technologies">B. Starting Technologies</h3>
+<p><strong>Bio-Stims (Green):</strong> Ready planets with tech
+specialties or other technologies at end of turn.</p>
+<p><strong>Predictive Intelligence (Yellow):</strong> Redistribute
+command tokens or cast +3 votes during agenda phase.</p>
+<h3 id="c.-technology-paths">C. Technology Paths</h3>
+<p><strong>Relic Path (Vaults of the Heir Focused):</strong></p>
+<p><strong>Round 1:</strong> Dark Energy Tap - <em>After you perform a
+tactical action in a system that contains a frontier token, if you have
+1 or more ships in that system, explore that token</em> - Gives you 1
+explore from frontier tokens</p>
+<p><strong>Round 2:</strong> Transit Diodes (YY) - <em>Exhaust to remove
+up to 4 ground forces from the game board and place them on planets you
+control</em> - Now have 2 explores from DET</p>
+<p><strong>Round 3:</strong> Gravity Drive (B) - <em>After you activate
+a system, apply +1 to the move value of 1 of your ships during this
+tactical action</em> - Movement flexibility and positioning</p>
+<p><strong>Round 4:</strong> Sling Relay (B), purge Predictive
+Intelligence for 3rd relic - <em>ACTION: Exhaust this card to produce 1
+ship in any system that contains 1 of your space docks</em></p>
+<p><strong>Round 5:</strong> Fleet Logistics (BB) if Tech is picked,
+purge Transit Diodes for 4th relic - <em>During each of your turns of
+the action phase, you may perform 2 actions instead of 1</em> - End with
+4 relics and strong blue tech suite</p>
+<p><strong>Non-Relic Path (Standard Blue Tech):</strong></p>
+<p><strong>Round 1:</strong> Dark Energy Tap - <em>After you perform a
+tactical action in a system that contains a frontier token, if you have
+1 or more ships in that system, explore that token</em> - Explore value
+without committing to relic path</p>
+<p><strong>Round 2:</strong> Gravity Drive (B) - <em>After you activate
+a system, apply +1 to the move value of 1 of your ships during this
+tactical action</em> - Movement flexibility and positioning</p>
+<p><strong>Round 3:</strong> Carrier II (BB) - <em>Cost: 3 | Combat: 9 |
+Move: 2 | Capacity: 6</em> - Essential for mass Crimson Legionnaire
+transport</p>
+<p><strong>Round 4:</strong> Fleet Logistics (BB), purge Bio-Stims -
+<em>During each of your turns of the action phase, you may perform 2
+actions instead of 1</em> - Double activation for scoring and tactical
+flexibility</p>
+<p><strong>Round 5:</strong> Light/Wave Deflector (BBB), purge DET after
+teching - <em>Your ships can move through systems that contain other
+players’ ships</em> - Movement flexibility through enemy systems</p>
+<h2 id="vi.-strategy-cards">VI. Strategy Cards</h2>
+<h3 id="a.-round-1">A. Round 1</h3>
+<p>Your R1 priority is solving your economy, making early deals, and
+setting up token advantage.</p>
+<p><strong>Round 1 Priority Ranking:</strong></p>
+<ol type="1">
+<li><p><strong>Trade</strong> - Solves Round 1 economy and makes early
+deals. 3 commodities isn’t amazing but Trade gives you the flexibility
+to negotiate with everyone and get your resource engine
+started.</p></li>
+<li><p><strong>Technology</strong> - Dark Energy Tap or tech skip path
+setup. Tech is actually strong Round 1 to get ahead on your complicated
+tech path.</p></li>
+<li><p><strong>Leadership</strong> - Crazy token economy for R1/R2. Your
+5 influence home system makes Leadership incredibly strong for token
+generation early.</p></li>
+<li><p><strong>Politics</strong> - For deals and strong Round 2. Speaker
+token + action card draw. Sets you up well for political plays next
+round.</p></li>
+<li><p><strong>Diplomacy</strong> - For resources. Ready your home
+system or key planets to fund expansion and production.</p></li>
+<li><p><strong>Construction</strong> - Increase low production. You
+start with only 3 resources, so getting a second space dock online helps
+your plastic economy.</p></li>
+<li><p><strong>Warfare</strong> - Not a fan, too spread out. Only good
+in specific slices and low speaker positions where you can leverage
+removal effectively.</p></li>
+<li><p><strong>Imperial</strong> - Never Round 1. You need setup time
+before scoring becomes priority.</p></li>
+</ol>
+<h3 id="b.-round-2">B. Round 2+</h3>
+<p><strong>Love:</strong> - <strong>Leadership</strong> - For winning.
+Crazy stalls in late game and screwing people’s token economy. Command
+token advantage lets you outlast everyone and control the pace. -
+<strong>Imperial</strong> - For winning. Score objectives rounds 3-5 to
+close out the game.</p>
+<p><strong>Like:</strong> - <strong>Trade</strong> - For plastic and
+tech. Converts your deals into resources to fuel production and
+research. - <strong>Politics</strong> - For setting up next round.
+Speaker token and action cards give you flexibility for future plays. -
+<strong>Technology</strong> - For juicy double techs (aka a tech and a
+relic).</p>
+<p><strong>Skip:</strong> - <strong>Diplomacy</strong> - Useless almost
+always. Planet readying doesn’t solve your problems. -
+<strong>Warfare</strong> - Only for specific plays. Rarely worth it
+unless you have a critical combat setup. - <strong>Construction</strong>
+- Let someone else do it. You’d rather use those resources
+elsewhere.</p>
+<h2 id="vii.-intermediate">VII. Intermediate</h2>
+<h3 id="a.-unit-composition">A. Unit Composition</h3>
+<p>Your ideal fleet composition:</p>
+<ul>
+<li><strong>Carrier II (upgraded R3-4)</strong> - Capacity 6 for mass
+Legionnaire transport</li>
+<li><strong>Dreadnoughts</strong> - Combat backbone and BOMBARDMENT
+support</li>
+<li><strong>Fighter screen</strong> - Absorb hits and combat dice</li>
+<li><strong>Crimson Legionnaires</strong> - Most efficient unit (1
+resource for 2 units), spam heavily</li>
+<li><strong>Mechs (late game)</strong> - Starlancer disruption in
+critical systems (Mecatol, chokepoints)</li>
+<li><strong>Flagship</strong> - Strong combat vs non-stolen tokens,
+chase down opponents</li>
+</ul>
+<p>Your 3-resource home system limits early production—prioritize
+Crimson Legionnaires for efficiency and expand aggressively for more
+resources. Carrier II dramatically increases transport capacity for mass
+invasion forces. Fleet Logistics (R4-5) unlocks double activations for
+scoring and tactical flexibility.</p>
+<h3 id="b.-game-plan">B. Game Plan</h3>
+<p>Your game plan is patient accumulation into overwhelming late game
+power. Solve your 3-resource economy early through Trade and expansion.
+Build diplomatic relationships while quietly collecting tokens through
+small combats. Start your complicated tech path while managing the
+constant decision paralysis of what to purge and when. Your real
+strength emerges mid-late game when you’ve accumulated multiple
+commander abilities and endless tokens.</p>
+<p><strong>Early Game:</strong> Expand aggressively to solve your
+3-resource economy problem. Use Bio-Stims on tech skip planets for
+efficient breakthrough. Pick small fights with neighbors to start
+collecting tokens via Edict—you only get 1 token per opponent, so fight
+everyone, not just one player. Alternatively, negotiate diplomatically
+to avoid early aggression while still making deals with your agent. Make
+early deals with your agent to build relationships and solve economy.
+Start your tech path early since your path is complicated and requires
+planning.</p>
+<p><strong>Mid Game:</strong> Commander unlocks at 2 stolen tokens—this
+is when Imperia comes online and you start wielding other factions’
+abilities. Stack multiple commander abilities for combinations that
+break normal game rules. Your token economy becomes absurd with
+Leadership—use it for crazy late game stalls and screwing people’s token
+pools. If pursuing relics, start purging techs through Vaults of the
+Heir. Make continuous trades to keep resources flowing for both plastic
+and tech.</p>
+<p><strong>Late Game:</strong> Your endless tokens let you do what other
+factions can’t—march your fleet across the galaxy 3 turns in a row to
+score objectives that would be unscoreable for anyone else. Use
+Leadership to maintain absurd token advantage and stall out opponents
+who run dry. Your hero forces mandatory fleet battles to eliminate
+threats or kingmake critical combats. Deploy mechs in key systems to
+terminate opponent scoring activations with Starlancer. Stack multiple
+stolen commander abilities to create plays that shouldn’t be possible.
+Convert your accumulated power into points through brute force
+scoring.</p>
+<hr />
+<h2 id="viii.-objectives">VIII. Objectives</h2>
+<h3 id="a.-objective-summary">A. Objective Summary</h3>
+<p><strong>Strengths:</strong> Mahact dominates token-spending
+objectives with endless tokens from stolen fleet pool tokens and high
+influence home system. Planet control objectives are straightforward
+with aggressive expansion. Combat objectives become easier as you
+accumulate stolen commander abilities.</p>
+<p><strong>Weaknesses:</strong> Tech diversity objectives require
+careful planning with your focused blue tech path. Structure objectives
+need deliberate investment beyond your core strategy. Trade good
+objectives can be challenging with only 3 commodities.</p>
+<h3 id="b.-stage-i-objectives">B. Stage I Objectives</h3>
+<table>
+<colgroup>
+<col style="width: 90%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th>Stage I Objective</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Erect a Monument (Spend 8 resources)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Sway the Council (Spend 8 influence)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Negotiate Trade Routes (Spend 5 trade goods)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Lead from the Front (Spend 3 tokens from tactic/strategy pools)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Diversify Research (Own 2 tech in each of 2 colors)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Develop Weaponry (Own 2 unit upgrade technologies)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Found Research Outposts (Control 3 planets with tech
+specialties)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Intimidate the Council (Ships in 2 systems adjacent to MR)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Expand Borders (Control 6 planets in non-home systems)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Corner the Market (Control 4 planets with same trait)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Build Defenses (Have 4 or more structures)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Discover Lost Outposts (Control 2 planets with attachments)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Engineer a Marvel (Have flagship or war sun on board)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Explore Deep Space (Units in 3 systems without planets)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Improve Infrastructure (Structures on 3 planets outside HS)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Make History (Units in 2 systems with legendary/MR/anomalies)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Populate the Outer Rim (Units in 3 edge systems)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Push Boundaries (Control more planets than each neighbor)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Raise a Fleet (5+ non-fighter ships in 1 system)</td>
+<td>🟢</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Legend:</strong> 🟢 Likely | 🟡 Possible | 🔴 Difficult</p>
+<h3 id="c.-secret-objectives">C. Secret Objectives</h3>
+<table>
+<colgroup>
+<col style="width: 90%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th>Secret Objective</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unveil Flagship (Win space combat with flagship)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Turn their Fleets to Dust (SPACE CANNON destroy last ship)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Destroy their Greatest Ship (Destroy war sun/flagship)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Spark a Rebellion (Win combat vs VP leader)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Threaten Enemies (Ships adjacent to another player’s HS)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Make an Example (BOMBARDMENT destroy last ground forces)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Cut Supply Lines (Ships in system with enemy space dock)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Monopolize Production (Control 4 industrial planets)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Mine Rare Minerals (Control 4 hazardous planets)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Forge an Alliance (Control 4 cultural planets)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Become a Martyr (Lose control of planet in home system)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Betray a Friend (Win combat vs player whose PN you have)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Brave the Void (Win combat in anomaly)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Darken the Skies (Win combat in another player’s HS)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Defy Space and Time (Units in wormhole nexus)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Demonstrate your Power (3+ non-fighter ships after space
+combat)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Destroy Heretical Works (Purge 2 relic fragments)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Dictate Policy (3+ laws in play)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Drive the Debate (You/your planet elected by agenda)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Establish Hegemony (Control planets with 12+ influence)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Adapt New Strategies (Own 2 faction technologies)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Master the Laws of Physics (Own 4 tech of same color)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Form a Spy Network (Discard 5 action cards)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Gather a Mighty Fleet (Have 5 dreadnoughts)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Establish a Perimeter (Have 4 PDS on board)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Fuel the War Machine (Have 3 space docks)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Become the Gatekeeper (Ships in alpha and beta wormhole
+systems)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Learn Secrets of the Cosmos (Ships in 3 systems adjacent to
+anomalies)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Control the Region (Ships in 6 systems)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Occupy the Seat of the Empire (Control MR with 3+ ships)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Fight With Precision (AFB destroy last fighter)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Foster Cohesion (Be neighbors with all players)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Hoard Raw Materials (Control planets with 12+ resources)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Mechanize the Military (1 mech on each of 4 planets)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Occupy the Fringe (9+ ground forces on planet without space
+dock)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Produce en Masse (Units with PRODUCTION 8+ in single system)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Prove Endurance (Last to pass)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Seize an Icon (Control legendary planet)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Stake Your Claim (Control planet in contested system)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Strengthen Bonds (Have another player’s PN)</td>
+<td>🟢</td>
+</tr>
+</tbody>
+</table>
+<h3 id="d.-stage-ii-objectives">D. Stage II Objectives</h3>
+<table>
+<colgroup>
+<col style="width: 90%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th>Stage II Objective</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Centralize Galactic Trade (Spend 10 trade goods)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Found a Golden Age (Spend 16 resources)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Galvanize the People (Spend 6 tokens from tactic/strategy
+pools)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Manipulate Galactic Law (Spend 16 influence)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade
+goods)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Command an Armada (Have 8+ non-fighter ships in 1 system)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Achieve Supremacy (Flagship/War Sun in another player’s HS or
+MR)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Become a Legend (Units in 4 systems with
+legendary/MR/anomalies)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Conquer the Weak (Control 1 planet in another player’s HS)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Rule Distant Lands (Control 2 planets in/adjacent to different
+players’ HS)</td>
+<td>🟢</td>
+</tr>
+<tr>
+<td>Patrol Vast Territories (Units in 5 systems without planets)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Control the Borderlands (Units in 5 edge systems not HS)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Subdue the Galaxy (Control 11 planets in non-home systems)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Unify the Colonies (Control 6 planets with same trait)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Reclaim Ancient Monuments (Control 3 planets with attachments)</td>
+<td>🟡</td>
+</tr>
+<tr>
+<td>Construct Massive Cities (Have 7+ structures)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Protect the Border (Structures on 5 planets outside HS)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Master of Sciences (Own 2 techs in each of 4 colors)</td>
+<td>🔴</td>
+</tr>
+<tr>
+<td>Revolutionize Warfare (Own 3 unit upgrade technologies)</td>
+<td>🟡</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Legend:</strong> 🟢 Likely | 🟡 Possible | 🔴 Difficult</p>
+<h2 id="ix.-alliance-priority">IX. Alliance Priority</h2>
+<p><strong>Mahact Cannot Form Alliances:</strong></p>
+<p>Hubris prevents you from receiving or giving Alliance promissory
+notes. You cannot trade for other factions’ Alliance notes, and you
+cannot give yours away.</p>
+<p>However, understanding which commanders you want to steal via Imperia
+is critical to your strategy. Identify which top-tier commanders are in
+your game during setup, then make early deals to secure combat
+opportunities against those factions. Winning combats to steal specific
+tokens is a key strategic goal—prioritize fights with Crimson, Muaat,
+Winnu, Titans, or Empyrean if they’re at the table.</p>
+<p><strong>Top Tier:</strong></p>
+<ol type="1">
+<li><p><strong>Nomad (Navarch Feng)</strong> - Produce flagship without
+spending resources. Saves 8 resources for your strong flagship.</p></li>
+<li><p><strong>Crimson Rebellion (Ahk Siever)</strong> - At end of
+combat, gain commodity/TG. Passive income from table
+aggression.</p></li>
+<li><p><strong>Deepwrought (Aello)</strong> - When others research tech,
+gain commodity/TG if they take -1 discount. Passive income.</p></li>
+<li><p><strong>Muaat (Magmus)</strong> - After you spend strategy token,
+gain 1 TG. Incredible passive income with your endless token
+economy.</p></li>
+<li><p><strong>Winnu (Rickar Rickani)</strong> - Apply +2 combat in MR,
+home system, legendary planet systems. Strong combat boost for key
+battles.</p></li>
+<li><p><strong>Titans of Ul (Tungstantus)</strong> - Gain 1 TG when
+using PRODUCTION. Passive income every production round.</p></li>
+<li><p><strong>Empyrean (Xuange)</strong> - After another player moves
+ships into system with your token, return token to reinforcements. Late
+game slaying tool.</p></li>
+</ol>
+<p><strong>Good:</strong></p>
+<ol start="8" type="1">
+<li><p><strong>Vuil’raith Cabal (That Which Molds Flesh)</strong> - Up
+to 2 fighters/infantry don’t count against PRODUCTION limit. Extra
+production capacity.</p></li>
+<li><p><strong>Nekro Virus (Nekro Acidos)</strong> - After you gain
+tech, draw 1 action card. Good if teching frequently.</p></li>
+<li><p><strong>Barony of Letnev (Rear Admiral Farran)</strong> - After
+unit uses Sustain Damage, gain 1 TG. TG from dreadnoughts.</p></li>
+<li><p><strong>Naaz-Rokha (Dart and Tai)</strong> - After you gain
+control of planet, explore that planet. Extra value from
+conquests.</p></li>
+<li><p><strong>Mentak Coalition (S’ula Mentarion)</strong> - Force
+opponent to give PN after winning space combat. Steal promissory
+notes.</p></li>
+<li><p><strong>Ghosts of Creuss (Sai Seravus)</strong> - Place fighters
+after moving through wormholes. Wormhole-dependent mobility.</p></li>
+<li><p><strong>Federation of Sol (Claire Gibson)</strong> - Place 1
+infantry when defending ground combat. Defensive infantry.</p></li>
+<li><p><strong>Jol-Nar (Ta Zern)</strong> - Reroll unit ability dice.
+Reroll BOMBARDMENT, AFB, SPACE CANNON.</p></li>
+<li><p><strong>Argent Flight (Trrakan Aun Zulok)</strong> - Roll 1
+additional die for unit abilities. Extra die for unit
+abilities.</p></li>
+<li><p><strong>Yssaril Tribes (So Ata)</strong> - Look at action
+cards/PNs/secrets after activating system with your units. Information
+gathering.</p></li>
+</ol>
+<p><strong>Nothing Special:</strong></p>
+<ol start="18" type="1">
+<li><p><strong>Ral Nel Consortium (Watchful OJZ)</strong> - When you
+declare retreat, immediately retreat up to 2 ships to adjacent system.
+Enhanced retreat mechanics.</p></li>
+<li><p><strong>Clan of Saar (Rowl Sarring)</strong> - Place
+fighters/infantry at any space dock when producing. Production
+flexibility.</p></li>
+<li><p><strong>Sardakk N’orr (G’hom Sek’kus)</strong> - Commit 1 ground
+force from adjacent planets during invasion. Invasion
+flexibility.</p></li>
+<li><p><strong>Obsidian (Aroz Hollow)</strong> - Apply +1 combat in The
+Fracture. Late game Styx plays.</p></li>
+<li><p><strong>Yin Brotherhood (Brother Omar)</strong> - Green prereq +
+skip prereqs when researching others’ tech. Tech path
+flexibility.</p></li>
+<li><p><strong>Last Bastion (Nip and Tuck)</strong> - Action cards
+cannot be canceled by Sabotage. Nekro cannot place assimilator tokens.
+Sabotage immunity and Nekro protection.</p></li>
+<li><p><strong>Xxcha Kingdom (Elder Qanoj)</strong> - Each planet
+exhausted to cast votes provides 1 additional vote. +1 vote per
+planet.</p></li>
+<li><p><strong>Council Keleres (Suffi An)</strong> - Perform additional
+action after component action. Very situational.</p></li>
+<li><p><strong>Arborec (Dirzuga Rophal)</strong> - Produce 1 unit when
+another player activates system with your PRODUCTION units. Reactive
+production.</p></li>
+<li><p><strong>L1Z1X Mindnet (2RAM)</strong> - Ignore Planetary Shield
+for BOMBARDMENT. Bypass defensive structures.</p></li>
+<li><p><strong>Hacan (Gila the Silvertongue)</strong> - Spend TGs for 2
+votes each. Convert TG wealth into political power.</p></li>
+<li><p><strong>Naalu Collective (M’aban)</strong> - Look at neighbors’
+PNs and top/bottom agenda card. Information gathering.</p></li>
+<li><p><strong>Firmament (Captain Aroz)</strong> - Treat planets in
+systems with ships as controlled for scoring secrets. Fake control for
+secret objectives.</p></li>
+</ol>
+<hr />
+<h2 id="x.-bonus-game-elements">X. Bonus Game Elements</h2>
+<p>This section highlights action cards that synergize particularly well
+with your faction’s strengths or mitigate your weaknesses, relics that
+offer exceptional value for your faction’s strategy and abilities, and
+agendas to pursue that benefit your position, and agendas to watch out
+for that could hurt you.</p>
+<h3 id="a.-high-value-action-cards">A. High-Value Action Cards</h3>
+<h3 id="b.-relic-priorities">B. Relic Priorities</h3>
+<h3 id="c.-agenda-awareness">C. Agenda Awareness</h3>
+<p><strong>Fleet Regulations</strong> (Law) - Each player cannot have
+more than 4 tokens in their fleet pool.</p>
+<p>Problem: Caps your fleet pool at 4 tokens total, severely limiting
+the value of stolen tokens from Edict. You naturally accumulate well
+beyond 4 tokens in your fleet pool late game for massive fleets and
+flexible activations. This law destroys one of your core advantages.</p>
+<hr />
+<h2 id="xi.-end-notes">XI. End Notes</h2>
+<p>Mahact Gene-Sorcerers are the puppet masters of Twilight Imperium.
+You don’t just play your own faction—you steal everyone else’s best
+abilities and wield them better than they can. Your power scales with
+the table’s strength, turning their commanders into your tools.</p>
+<p>Your challenge is balancing early diplomacy with late game dominance.
+You need everyone’s tokens—every faction at the table has something you
+want. Early game is about making deals, staying friendly, and picking
+small fights to collect tokens without making enemies. You’re weak early
+with limited resources and need others to cooperate. But as you
+accumulate stolen powers, you transform into an unstoppable threat.</p>
+<p>Your biggest advantage is adaptability through theft. Stack commander
+abilities for combinations that shouldn’t exist. Your endless token
+economy lets you outlast everyone—march across the galaxy turn after
+turn while opponents run dry. Your complicated tech path creates
+constant decisions about what to purge and what to keep. Deploy mechs
+and heroes to terminate critical plays when it matters most.</p>
+<p>The tension is real: you’re the massive late game threat that needs
+early deals to survive. Good players know what’s coming and will make
+you pay premium prices. You have to navigate being everyone’s future
+problem while still being their current friend.</p>
+<p>When you master Mahact, you become inevitable. Every stolen ability
+makes you stronger. Every token expands your power. The table watches as
+you ascend beyond what any faction should achieve.</p>
+<p><strong>All power belongs to Mahact. Kneel.</strong></p>
+</body>
+</html>

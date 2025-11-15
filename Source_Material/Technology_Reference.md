@@ -56,6 +56,14 @@
 
 - **X-89 Bacterial Weapon Ω** (GGG) - After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent's infantry was destroyed, destroy all of your opponent's infantry on that planet (Ω). Double the hits produced by your units' BOMBARDMENT and ground combat rolls. Exhaust each planet you use BOMBARDMENT against.
 
+## Faction-Specific Technologies
+
+### Mahact Gene-Sorcerers
+
+- **Genetic Recombination** (G) - You may exhaust this card before a player casts votes; that player must cast at least 1 vote for an outcome of your choice or remove 1 token from their fleet pool and return it to their reinforcements.
+
+- **Crimson Legionnaire II** (GG) - Mahact Infantry. Cost: 1 (x2), Combat: 7. After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
+
 ## Unit Upgrades
 
 - **War Sun** (RRRY) - Cost: 12, Combat: 3 (x3), Move: 2, Capacity: 6, Sustain Damage, BOMBARDMENT 3 (x3). Other players' units in this system lose Planetary Shield.
