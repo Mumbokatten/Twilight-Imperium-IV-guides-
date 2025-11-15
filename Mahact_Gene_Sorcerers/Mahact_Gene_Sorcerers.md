@@ -34,7 +34,7 @@ Late game, the table realizes you're too strong to stop. You've collected so muc
 
 **Commodities:** 3
 
-Good defensive home system with strong influence for command tokens. 5 influence provides excellent command token generation during status phase. 3 resources gives mediocre production capacity—you'll need to expand aggressively for additional resources to fuel your fleets.
+Good defensive home system with strong influence for command tokens. 5 influence provides excellent token economy during action phase. 3 resources gives mediocre production capacity—you'll need to expand aggressively for additional resources to fuel your fleets.
 
 ### B. Starting Fleet
 
