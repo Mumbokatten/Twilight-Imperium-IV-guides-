@@ -2,7 +2,7 @@
 
 # Mahact Gene-Sorcerers Guide
 
-![Mahact Gene-Sorcerers](MahactGeneSorcerersArt.webp)
+![Mahact Gene-Sorcerers](MahactArt.webp)
 
 ---
 
