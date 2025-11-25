@@ -29,17 +29,13 @@
 
 ## I. Introduction
 
-The Yssaril Tribes are the most politically dominant faction in TI4. This faction excels at manipulating action card advantage through unlimited hand size, cycling through cards to find perfect answers, and seeing opponents' hidden information through commander snooping. Yssaril isn't about brute force—it's about perfect information, political leverage, and outplaying opponents through superior card advantage and timing manipulation.
-
-The payoff? Watching opponents realize you've seen their entire hand, knowing exactly what they can and cannot do, and discarding action cards freely to activate your Stall Tactics ability without fear of running out. When you have 15 action cards in hand while everyone else has 3, information dominance becomes absolute.
+The Yssaril Tribes are sneaky space goblins who win through unfair tools and information advantage. This faction excels at manipulating action card advantage through unlimited hand size, cycling through cards to find perfect answers, and seeing opponents' hidden information through commander snooping. Yssaril isn't about brute force—it's about knowing everything your opponents are planning and having the perfect answer ready. When you have 15 action cards in hand while everyone else has 3, you're playing a completely different game.
 
 ## II. Playstyle
 
-Playing Yssaril Tribes is like being a spymaster in a galaxy of blind players. Your Scheming ability gives you double the card draw (draw 2, discard 1 = net +1 per draw), your Crafty ability removes the hand size limit entirely, and your Stall Tactics lets you discard action cards for strategic benefits. You're not trying to win through military might—you're winning through perfect information and political control.
+Playing Yssaril Tribes is like being a spymaster in a galaxy of blind players. Your Scheming ability gives you double the card draw (draw 2, discard 1 = net +1 per draw), your Crafty ability removes the hand size limit entirely, and your Stall Tactics lets you discard action cards to skip turns and deploy free mechs. You're not trying to win through military might—you're winning through information advantage and always having the right card at the right time.
 
-The key strength of Yssaril is information asymmetry. Unlock your Commander early (7 action cards—trivial for you), and suddenly every time an opponent activates a system with your units, you SEE their action cards, promissory notes, AND secret objectives. You know everything they're planning. That knowledge becomes leverage.
-
-Opponents will underestimate your card advantage until they realize you're sitting on 12+ action cards at any moment, cycling through the deck to find exactly what you need. That moment when they commit their flagship and you play Direct Hit because you drew through 20 cards to find it? Pure mastery.
+The key strength of Yssaril is information asymmetry. Unlock your Commander early (7 action cards—trivial for you), and suddenly every time an opponent activates a system with your units, you SEE their action cards, promissory notes, AND secret objectives. Spread units across the map to trigger this constantly. You know what everyone is planning before they do it.
 
 ---
 
@@ -585,16 +581,15 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Yssaril Tribes is a political powerhouse with unmatched information advantage. Your job is to:
+Yssaril Tribes wins through unfair information advantage. Your job is to:
 
-1. **Unlock Commander by R2-R3** - Hold 7 action cards (trivial with Crafty) to gain perfect information
+1. **Unlock Commander by R2-R3** - Hold 7 action cards (trivial with Crafty) to see opponents' secrets
 2. **Spread units everywhere** - Place 1-2 units in 6-8 systems to trigger Commander constantly
 3. **Draw action cards aggressively** - Scheming + Imperial secondary + Neural Motivator = 20-30 cards seen
-4. **Hold 10-15 action cards** - Crafty removes hand limit; maintain massive hand for political leverage
+4. **Hold 10-15 action cards** - Crafty removes hand limit; always have the right answer
 5. **Use Stall Tactics liberally** - Discard cards for actions and deploy free mechs via DEPLOY
 6. **Hero R4-R5** - Force opponents to discard 15 cards total or steal their best cards
-7. **Dominate politics** - 5 influence at home + Commander info + Speaker control = agenda mastery
 
-Don't let anyone underestimate your information advantage. You see their secrets, their action cards, their objectives. That knowledge becomes power. Play perfectly, leverage information ruthlessly, and outplay everyone through superior card advantage and political control.
+You see their secrets, their action cards, their objectives. Use that knowledge to always have the perfect counter ready.
 
 **THE TRIBES SEE ALL.**
