@@ -4,6 +4,22 @@
 
 *Art credit: Fantasy Flight Games (Thunder's Edge)*
 
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [The Basics](#iii-the-basics)
+4. [Structural Weaknesses](#iv-structural-weaknesses)
+5. [Technology](#v-technology)
+6. [Strategy Cards](#vi-strategy-cards)
+7. [Intermediate](#vii-intermediate)
+8. [Objectives](#viii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+11. [End Notes](#xi-end-notes)
+
+---
+
 ## I. Introduction
 
 The Deepwrought Scholarate is TI4's coexistence and technology specialist, a faction that fundamentally reimagines how ground forces interact with planets. While other factions see invasion as winner-takes-all, you see it as an opportunity to establish shared research bases. You're the faction that can occupy enemy planets without controlling them, generate economic value from this coexistence, and use your technological superiority to outpace everyone at the table.

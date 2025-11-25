@@ -1,6 +1,22 @@
+[← Back to Index](../index.html)
+
 # Nekro Virus Guide
 
 ![Nekro Virus](NekroArt.png)
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [The Basics](#iii-the-basics)
+4. [Structural Weaknesses](#iv-structural-weaknesses)
+5. [Technology](#v-technology)
+6. [Strategy Cards](#vi-strategy-cards)
+7. [Intermediate](#vii-intermediate)
+8. [Objectives](#viii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+11. [End Notes](#xi-end-notes)
 
 ---
 
