@@ -50,7 +50,7 @@ And you have the tools to act on that information when no one can react. Stall T
 
 **Commodities:** 3
 
-**Notes:** Influence-heavy home system (5 influence!) supports political dominance and strong token economy during the action phase.
+**Notes:** Influence-heavy home system (5 influence!) supports political dominance and strong token economy during the action phase. The 2 resource planet gives weak production but can be overcome.
 
 ### B. Starting Fleet
 
