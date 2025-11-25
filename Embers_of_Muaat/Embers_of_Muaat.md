@@ -1,3 +1,5 @@
+[← Back to Index](../index.html)
+
 # Embers of Muaat Guide
 
 ![Embers of Muaat](MuaatArt.webp)
@@ -6,17 +8,19 @@
 
 ## I. Introduction
 
-The Embers of Muaat is TI4's war sun faction, built around the most powerful ship in the game. This faction excels at overwhelming force, supernova mobility, and turning their massive war sun into a mobile production platform. Muaat isn't about subtlety—it's about deploying the galaxy's most feared warship and crushing opposition through sheer firepower.
+The Embers of Muaat wield the galaxy's most powerful weapon from the opening round. While other factions slowly build toward their late-game units, you begin with a war sun on the board—an overwhelming advantage that defines your entire strategy. This faction excels at leveraging supernova mobility, converting massive ships into mobile production platforms, and dominating through sheer firepower that no conventional fleet can match.
 
-The payoff? Watching opponents realize they can't contest your war sun, seeing their fleets crumble under BOMBARDMENT 3 (x3), and dominating through overwhelming combat superiority. When Muaat shows up with a war sun, the galaxy trembles.
+Muaat isn't about subtlety or gradual escalation. You're deploying the galaxy's most feared warship immediately, forcing opponents to respect your presence from turn one. Your unique mobility through supernovas opens routes across the map that others cannot access, while your production abilities let you reinforce fleets without traditional infrastructure. When Muaat commits to a system, conventional defenses crumble.
 
 ## II. Playstyle
 
-Playing Embers of Muaat is like commanding a superweapon. Your Prototype War Sun starts on the board R1, giving you immediate combat dominance. Your Star Forge ability lets you spend strategy tokens to produce fighters or destroyers near your war suns, turning them into mobile factories. Your Gashlai Physiology lets your ships move through supernovas, giving you unique mobility options.
+Playing Muaat requires understanding that you begin with overwhelming firepower but limited mobility. Your opening round establishes immediate military dominance—the war sun creates a zone of control that opponents cannot contest conventionally. Your Star Forge ability transforms your massive ships into mobile production platforms, allowing fleet reinforcement without traditional space docks. Supernova mobility grants access to systems and shortcuts that remain closed to other factions.
 
-The key strength of Muaat is war sun dominance. Use your war sun to control key systems, leverage Star Forge for unit production, and upgrade to Prototype War Sun II for move 3 mobility. You win through overwhelming force and strategic positioning.
+Early game is about leveraging your war sun's presence. Control critical systems, establish territorial dominance, and use Star Forge to maintain fleet strength. Your war sun's slow movement means careful positioning matters—commit to systems that provide long-term value rather than overextending into vulnerable positions.
 
-Opponents will fear your war sun. That moment when they realize they can't defend against BOMBARDMENT 3 (x3) and 3 combat dice at 3+? Pure dominance.
+Mid-game transforms you into a mobile fortress. Upgrade to Prototype War Sun II for increased mobility, making your superweapon significantly more flexible. Stack your commander's trade good generation with Star Forge usage to create self-sustaining fleet expansion. Your ability to produce units anywhere your war suns travel means you can project power without the infrastructure constraints other factions face.
+
+Late game, you become unstoppable through superior positioning and overwhelming force. Your hero provides a devastating nuclear option—destroying entire systems by converting them to supernovas. Use this threat for negotiations or execute it to eliminate critical opponent strongholds. Your fleet regeneration through Star Forge means you can sustain pressure that exhausts opponents who cannot match your production flexibility.
 
 ---
 
@@ -30,7 +34,7 @@ Opponents will fear your war sun. That moment when they realize they can't defen
 
 **Commodities:** 4
 
-**Notes:** Resource-heavy single-planet home system with almost no influence. The 4 resources are perfect for war sun production (cost 12). The 4 commodities give you excellent trade potential—highest in the game.
+Resource-heavy single-planet home system with minimal influence. 4 resources provide solid production capacity for war sun manufacturing. Single planet means you must choose between exhausting for resources or influence each round—you cannot get both simultaneously. 4 commodities provide excellent trade potential.
 
 ### B. Starting Fleet
 
@@ -39,53 +43,61 @@ Opponents will fear your war sun. That moment when they realize they can't defen
 - 4 Infantry
 - 1 Space Dock
 
-**Notes:** The only faction that starts with a war sun. This gives you massive combat power R1. The 4 infantry let you take planets, and 2 fighters provide screening. Your starting fleet is incredibly strong but expensive to move—war sun has move 1.
+Only faction that starts with a war sun, providing overwhelming combat power from round one. 4 infantry enable planet conquest and 2 fighters provide screening. Starting fleet is incredibly strong but immobile—war sun has move 1, creating significant positional constraints during opening expansion.
+
+Your agent Umbat can produce a carrier in your home system, allowing you to split your infantry and expand to 2 nearby systems instead of just 1.
 
 ### C. Faction Abilities
 
 **Star Forge:** ACTION: Spend 1 token from your strategy pool to place either 2 fighters or 1 destroyer from your reinforcements in a system that contains 1 or more of your war suns.
 
-Mobile production around your war suns. Spend a strategy token = instant fighters or destroyer. This makes your war suns into production platforms—you don't need space docks near them. Critical for reinforcing your fleets on the move.
+Star Forge transforms your war suns into mobile production platforms. By spending a strategy command counter, you instantly place 2 fighters or 1 destroyer in any system containing your war suns, bypassing the need for traditional space dock infrastructure. When you have mechs on planets in or adjacent to the system where you use Star Forge, you can simultaneously place 1 infantry with each mech, creating powerful ground force expansion without traditional production.
 
 **Gashlai Physiology:** Your ships can move through supernovas.
 
-Unique mobility. Supernovas normally destroy ships, but yours can pass through them safely. This creates shortcuts across the map and gives you access to systems others can't reach. With Magmus Reactor tech, supernovas become PRODUCTION 5 zones for you.
+Gashlai Physiology grants unique mobility through supernovas, which normally destroy all ships that enter them. Your ships pass through these systems safely, creating shortcuts across the map and accessing systems that remain closed to other factions.
 
 ### D. Starting and Faction Technologies
 
-**Starting Technologies:**
+**Starting Technology:**
 
-- **Plasma Scoring** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+**Plasma Scoring (R):** When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
 
-**Notes:** Red starting tech opens red tech paths. Plasma Scoring synergizes perfectly with your war sun's BOMBARDMENT 3 (x3)—you can roll an additional die, making it BOMBARDMENT 3 (x4). Devastating for ground invasions.
+Plasma Scoring opens red technology paths and synergizes excellently with your war sun's BOMBARDMENT 3 (x3) capability. You can roll an additional die during bombardment, effectively creating BOMBARDMENT 3 (x4) for devastating ground invasions.
 
 **Faction Technologies:**
 
-(Add faction technology information here if available from the cheat sheet)
+**Prototype War Sun II (RRRY):** Muaat War Sun | Cost: 10 | Combat: 3 (x3) | Move: 3 | Capacity: 6 | BOMBARDMENT 3 (x3) | Sustain Damage | Other players' units in this system lose the Planetary Shield ability.
+
+Prototype War Sun II is your critical upgrade, reducing cost from 12 to 10 and dramatically increasing movement from 1 to 3. This mobility transformation makes your war sun significantly more flexible and threatening, allowing rapid repositioning and system control.
+
+**Magmus Reactor Ω (RR):** Your ships can move into supernovas. Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
+
+Magmus Reactor allows your ships to move into and stop in supernovas, while also granting PRODUCTION 5 to any supernova containing your units. This creates powerful production hubs in systems other factions cannot access, combining your Gashlai Physiology mobility with economic benefits.
 
 ### E. Leaders
 
 **Agent - Umbat:** ACTION: Exhaust this card to choose a player; that player may produce up to 2 units that each have a cost of 4 or less in a system that contains one of their war suns or their flagship.
 
-Useful for helping allies or yourself produce units near war suns/flagships. Cost 4 or less = dreadnoughts, cruisers, carriers, destroyers, fighters, infantry, mechs. Good diplomatic tool or self-boost.
+Umbat provides production flexibility for yourself or allies. You can produce up to 2 units costing 4 or less in systems containing war suns or flagships, enabling dreadnoughts, cruisers, carriers, destroyers, fighters, infantry, or mechs. Functions as both a diplomatic tool for building alliances and a self-boost mechanism.
 
-**Commander - Magmus:** *Unlock: Produce a war sun.*
+Umbat combos exceptionally well with mobile fighting fleets. Combined with Avernus (with space dock), Star Forge, and Umbat's production, you can quickly regenerate lost troops and ships wherever your war sun travels, maintaining combat strength without returning to traditional production infrastructure. This combination solves early game production limitations and provides powerful stalling capabilities.
 
-After you spend a token from your strategy pool: You may gain 1 trade good.
+**Commander - Magmus:** *Unlock: Produce a war sun.* After you spend a token from your strategy pool: You may gain 1 trade good.
 
-Easy unlock for Muaat (you start with a war sun, just need to produce one more). Once unlocked, every time you spend a strategy token (Star Forge, abilities, etc.), you gain 1 TG. This turns strategy token spending into economic advantage—you make money from using Star Forge.
+Magmus unlocks easily for Muaat since you start with a war sun and only need to produce one more. Once unlocked, every time you spend a strategy command counter, you gain 1 trade good. This transforms Star Forge usage into an economic engine—you generate trade goods while reinforcing your fleets, creating self-sustaining expansion.
 
-**Hero - Adjudicator Ba'al:** *Unlock: Have 3 scored objectives.*
+Typically, you build a second Prototype War Sun I before upgrading to Prototype War Sun II specifically to unlock this very strong commander. Once Magmus is active, you can use Star Forge and spend command counters on secondaries while generating trade goods, making every strategy token expenditure economically efficient.
 
-**Nova Seed** - After you move a war sun into a non-home system other than Mecatol Rex: You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile. If you do, purge this card and each planet card that corresponds to the replaced system tile.
+**Hero - Adjudicator Ba'al:** *Unlock: Have 3 scored objectives.* Nova Seed: After you move a war sun into a non-home system other than Mecatol Rex: You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile. If you do, purge this card and each planet card that corresponds to the replaced system tile.
 
-Ultimate weapon. Move your war sun into an enemy system → destroy everything and replace the entire system with a supernova. This removes planets from the game permanently. Save for critical moments when eliminating an opponent's key system wins you the game. Devastating psychological weapon.
+Adjudicator Ba'al provides the ultimate weapon. When activated, move your war sun into an enemy system, destroy all units there, and replace the entire system tile with a supernova. This permanently removes planets from the game. Save this for eliminating critical opponent strongholds or as leverage in negotiations. The threat alone can shape diplomatic outcomes.
 
 ### F. Promissory Note - **Fires of the Gashlai**
 
 ACTION: Remove 1 token from the Muaat player's fleet pool and return it to his reinforcements. Then, gain your war sun unit upgrade technology card. Then, return this card to the Muaat Player.
 
-Incredibly strong PN. Gives another player YOUR war sun technology (they can build war suns). The cost is reducing Muaat's fleet pool by 1 permanently (until returned). Trade value: 5-6 TG minimum. Only trade this to players who can afford war suns (high resources) and who you trust won't use them against you.
+Fires of the Gashlai is an incredibly powerful promissory note. When played, another player gains your war sun technology, allowing them to build war suns themselves. The cost to you is losing 1 token from your fleet pool. Preferably trade this to resource-poor players who cannot afford to actually produce war suns—they gain the technology but lack the economic means to use it against you. This promissory note has significant trade value for securing alliances or extracting concessions.
 
 ### G. Mech - **Ember Colossus**
 
@@ -93,7 +105,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 When you use your Star Forge faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.
 
-Synergizes with Star Forge. When you use Star Forge to produce fighters/destroyers, you can also place an infantry with your mech. This helps build ground forces without production. Sustain Damage makes it durable.
+Ember Colossus synergizes with Star Forge production. When you use Star Forge to produce fighters or destroyers in the same system or adjacent system, you can simultaneously place 1 infantry with your mech. This builds ground forces without traditional production infrastructure. Sustain Damage makes these mechs durable in ground combat.
 
 ### H. Flagship - **The Inferno**
 
@@ -101,7 +113,7 @@ Cost: 8 | Combat: 5 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 ACTION: Spend 1 token from your strategy pool to place 1 cruiser in this unit's system.
 
-Your flagship extends Star Forge to cruisers. Spend a strategy token → instant cruiser. This gives you production flexibility beyond fighters/destroyers. Cruisers (cost 2, combat 7, move 2) are solid ships. The flagship becomes a mobile cruiser factory.
+The Inferno extends your Star Forge capability to cruisers, but this ability has limited usefulness. Destroyer II is more powerful than cruisers, and even Destroyer I is nearly equivalent in combat value. Since Star Forge already produces destroyers, the flagship's cruiser production is only helpful when you've run out of destroyer plastic. The flagship's move 1 also limits its repositioning speed.
 
 ### I. Breakthrough - **Stellar Genesis (R<>Y)**
 
@@ -112,29 +124,30 @@ When you gain this card, place the Avernus planet token into a non-home system t
 
 **R<>Y Synergy:** Red and yellow technologies count as each other for prerequisites.
 
-Creates a legendary planet (Avernus) that moves with your war sun. Avernus gives you 2 resources and its legendary ability lets you use Star Forge for FREE (no command token cost). This is massive—unlimited fighter/destroyer production near your war sun.
-
-**R<>Y synergy:** Opens red and yellow tech paths flexibly.
+Stellar Genesis helps early game by providing a readied planet with 2 resources. Building a space dock on Avernus creates a crazy mobile production facility that moves with your war suns across the galaxy. Additionally, Avernus can be moved from a locked system if your other war sun moves through that system, allowing you to relocate the planet even when the system is controlled or contested.
 
 ### J. Slice and Draft Considerations
 
-Muaat wants resources and supernova access. Your priorities:
+As a resource-intensive faction built around expensive capital ships, Muaat has specific priorities during galaxy setup and faction draft.
 
 **Speaker Order:**
-- **Prefer early positions (1-3)** - Lets you grab Trade or Leadership early to fuel your expensive war sun economy.
 
-**Slice Priorities:**
-- **High resources** - Your home system has 4 resources, but war suns cost 12. You need 8+ additional resources to produce a second war sun. Look for resource-heavy slices (8-10 resources total).
-- **Supernova access (if available)** - If the map has supernovas, position yourself to access them with Gashlai Physiology. With Magmus Reactor, supernovas become PRODUCTION 5 zones.
-- **Central positioning** - Your war sun is slow (move 1 initially). You want to be centrally located to project power across the map.
-- **No need for tech skips** - Your tech path works with R<>Y synergy from Stellar Genesis. Tech skips are nice but not necessary.
+Speaker order is not particularly important for Muaat. Prefer to have one neighbor to bully with your war sun rather than optimizing for strategy card picks.
 
-**Slice Features to Avoid:**
-- **Low resources (5-6 total)** - You can't afford war sun production without high resources.
-- **Isolated slice** - Your war sun moves slowly. Being isolated limits your ability to threaten opponents.
+**Priorities:**
+- High influence slices - You have 4 resources at home and 2 from Avernus (6 total in kit). Resources are not your bottleneck—you need influence to generate command tokens for production, expansion, and Star Forge activations.
+- Central positioning - War sun has move 1 until upgraded. Being centrally located allows you to threaten multiple opponents and control key systems without excessive movement.
+- One neighbor to bully - Your war sun dominates 1v1 matchups. Having one weak neighbor to pressure is ideal.
+- Entropic Scar access - Allows complete tech path flexibility with its tech skip.
 
-**Summary:**
-Muaat needs high resources for war sun production, central positioning for map control, and optionally supernova access for mobility. Resources are your top priority—you need at least 8-10 total resources to function.
+**Nice to Have:**
+- Supernova access (Gashlai Physiology moves through them, Magmus Reactor creates PRODUCTION 5 zones in them)
+- Red technology specialties (accelerate path to Prototype War Sun II)
+- High planet count for influence generation
+
+**Avoid:**
+- Isolated slices (your slow war sun cannot effectively threaten multiple opponents from isolation)
+- Resource-starved neighbors (hard to extract value through bullying if they have nothing)
 
 ---
 
@@ -142,29 +155,42 @@ Muaat needs high resources for war sun production, central positioning for map c
 
 ### A. First Turn Priorities
 
-**Round 1 Priority Rankings:**
+Your Round 1 (R1) priority order: **Breakthrough > Production > Scoring > Technology**
 
-1. **Expansion + Production** - Expand cautiously to 2-3 nearby systems using your 4 infantry. Your war sun (move 1) is slow and expensive to lose—don't overextend it. Use Star Forge to produce additional fighters/infantry without spending resources (exhaust strategy tokens). Secure resource planets for future war sun production.
+1. **Breakthrough** - Stellar Genesis creates Avernus legendary planet with 2 resources and the R<>Y synergy. Building a space dock on Avernus creates a mobile production facility that follows your war sun. Priority one.
 
-2. **Technology** - Begin tech path toward Prototype War Sun II (RRRY - move 3 upgrade). Your war sun's move 1 is your biggest weakness. Prioritize red techs early (Magen Defense Grid, Duranium Armor) to reach Prototype War Sun II by R4.
+2. **Production** - Use Umbat to produce a carrier, split your 4 infantry across carriers for multi-system expansion. Secure resource planets for future war sun production.
 
-3. **Scoring** - Avoid Imperial R1. You need Prototype War Sun II (R4) and Commander unlock (3 war suns) before scoring becomes efficient. Your late-game power spike requires infrastructure first.
+3. **Scoring** - Score if objectives align with your expansion. Don't force it R1.
 
-4. **Breakthrough** - Stellar Genesis (R<>Y) creates Avernus legendary planet that moves with your war sun. However, defer until after Prototype War Sun II. Magmus Reactor (RR) is your second faction tech priority.
+4. **Technology** - Defer to R2. Focus on economy and breakthrough first.
 
-**Expansion Notes:** You have 1 war sun, 2 fighters, and 4 infantry. Your war sun is slow (move 1) and expensive to lose. Expand cautiously R1—take 2-3 nearby planets with your infantry. Don't overextend your war sun. Your goal is to secure resources and build towards a second war sun or tech upgrades.
+**R1 Expansion Notes:** You have 1 war sun (capacity 6), 2 fighters, and 4 infantry. Use Umbat on yourself to produce a carrier (3 resources) + 1 infantry if you have more planets to take, or a destroyer if you need early combat presence. Split infantry across your war sun and carrier to take 2-3 systems R1.
 
 ### B. War Sun Dependence
 
-Your entire strategy revolves around your war sun. If you lose it, you're crippled. War suns cost 12 resources to replace—losing one is devastating. Always protect your war sun with supporting ships (fighters, destroyers, cruisers). Never send it into combat alone.
+Your entire strategy revolves around your war sun's presence and survivability. Losing your war sun cripples your faction since replacement costs 12 resources—a devastating setback that can effectively eliminate you from contention.
 
-### C. Slow Mobility (Pre-Upgrade)
+**Protection Strategies:**
+- Always screen your war sun with fighters and destroyers that can absorb hits
+- Never commit your war sun to combat alone or without supporting fleet
+- Keep action cards like Shields Holding for critical moments
+- Position your war sun where it can retreat if combat goes poorly
+- Build a second war sun as soon as economically feasible for redundancy
 
-Your war sun starts with move 1. This makes it slow to project power across the map. You're vulnerable to faster factions that can outmaneuver you. Your priority is getting Prototype War Sun II (move 3) to solve this weakness.
+**Recovery from War Sun Loss:**
+If you lose your war sun, immediately prioritize rebuilding. You need 12 resources (10 with Prototype War Sun II).
 
-### D. Expensive Economy
+### C. Slow Mobility Pre-Upgrade
 
-War suns cost 12 resources. Star Forge costs strategy tokens. Prototype War Sun II costs RRRY (4 techs). Everything about Muaat is expensive. You need strong trade agreements (4 commodities help) and high resource income to sustain your game plan.
+Your war sun begins with move 1, making it extremely slow to project power across the map.
+
+**Problems:**
+- Faster factions outmaneuver you and raid territory while your war sun is occupied elsewhere
+
+**Solutions:**
+- Rush Prototype War Sun II (move 3) as highest priority tech
+- Build a second war sun to cover more territory
 
 ---
 
@@ -172,69 +198,27 @@ War suns cost 12 resources. Star Forge costs strategy tokens. Prototype War Sun 
 
 ### A. Overview
 
-You start with **Plasma Scoring (R)**.
+**Starting Technology:** Plasma Scoring - Not a great tech but is on the way to Prototype War Sun II.
 
-Your main tech path focuses on:
-1. **Prototype War Sun II (RRRY)** - Upgraded war sun with move 3 and cost 10
-2. **Magmus Reactor (RR)** - Ships move into supernovas, supernovas get PRODUCTION 5
-3. **Stellar Genesis breakthrough (R<>Y)** - Creates Avernus legendary planet
+Your main technology path focuses on acquiring Prototype War Sun II (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is Magmus Reactor (RR) for supernova production.
 
-### B. Recommended Tech Paths
+### B. Technology Path
 
-**Path 1: War Sun Upgrade Rush**
-1. Plasma Scoring - Starting tech
-2. Magen Defense Grid (R) - R2
-3. Duranium Armor (RR) - R3
-4. Sarween Tools - R3-4
-5. Prototype War Sun II (RRRY) - R4 *faction tech*
-6. Magmus Reactor (RR) - R5 *faction tech*
+**Round 1:** AI Development Algorithm - Sometimes you have a great round
+- Exhaust to ignore 1 prereq when researching unit upgrades; reduce cost by number of unit upgrades owned
 
-This path rushes Prototype War Sun II (move 3, cost 10) as fast as possible. The mobility upgrade is critical—moving from 1 to 3 movement transforms your war sun from slow to dominant. Prioritize this above all else.
+**Round 2:** Self-Assembly Routines (R) or Magmus Reactor (RR) if supernova available
+- *Self-Assembly Routines:* After PRODUCTION, place 1 mech. After mech destroyed, gain 1 TG
+- *Magmus Reactor:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
 
-**Path 2: Economic Support**
-1. Plasma Scoring - Starting tech
-2. Sarween Tools - R2
-3. Magen Defense Grid (R) - R3
-4. AI Development Algorithm - R3-4
-5. Prototype War Sun II (RRRY) - R4-5 *faction tech*
-6. Stellar Genesis (R<>Y) - R5-6 *breakthrough*
+**Round 3:** Prototype War Sun II (RRRY) - **MAJOR POWER SPIKE**
+- Your war sun transforms from move 1 to move 3
 
-This path adds economic techs (Sarween, AI Dev) to support your expensive war sun economy before upgrading. Stellar Genesis creates Avernus legendary planet that moves with your war sun and provides free Star Forge uses.
+**Round 4:** Gravity Drive (B) if you have blue skip, otherwise Destroyer II (RR)
+- *Gravity Drive:* +1 move to 1 ship per tactical action
+- *Destroyer II:* Cost 1, Combat 8, Move 2, AFB 6 (x3)
 
-**Path 3: Supernova Specialist**
-1. Plasma Scoring (R) - Starting tech
-2. Magmus Reactor (R-R) - R2 *faction tech*
-3. Sarween Tools (Y) - R3
-4. Magen Defense Grid (R-R) - R3-4
-5. Prototype War Sun II (R-R-R-Y) - R4-5 *faction tech*
-6. Stellar Genesis (R<>Y) - R5-6 *breakthrough*
-
-This path prioritizes Magmus Reactor early (supernovas become PRODUCTION 5 zones). Only viable on maps with supernovas. Creates untouchable production zones in supernovas where opponents cannot follow.
-
-### C. Key Technologies
-
-**Must Get:**
-- **Prototype War Sun II (R-R-R-Y):** Your #1 priority. Upgrades war sun to move 3 (from 1), cost 10 (from 12), combat 3 (from 5). The movement is critical—war suns go from immobile to map-dominating.
-- **Sarween Tools (Y):** Economic efficiency. Saves 1 resource per production = 20-30 saved resources over game.
-- **Magmus Reactor (R-R):** Your faction tech. Ships can move into supernovas. Supernovas gain PRODUCTION 5. Only valuable if map has supernovas.
-
-**High Priority:**
-- **Magen Defense Grid (R-R):** Your PDS get +1 die to Space Cannon. With Plasma Scoring, that's 2 additional dice. Helps defend home system.
-- **AI Development Algorithm (Y-Y):** If you research multiple unit upgrades (War Sun II, Dreadnought II, Cruiser II), this pays for itself.
-- **Duranium Armor (R-R):** All non-fighter ships gain +1 combat. Your war sun becomes combat 4, destroyers combat 8, cruisers combat 6. Strong combat boost.
-
-**Solid Options:**
-- **Stellar Genesis (R<>Y):** Breakthrough creating Avernus legendary planet. Moves with war sun. Legendary ability = free Star Forge uses (no token cost). Powerful late-game.
-- **Destroyer II (R-R-B-B):** Move 2, combat 8, AFB 6 (x2). Good supporting ship.
-- **Cruiser II (R-R-Y-Y):** Move 3, combat 6, capacity 1. Fast, affordable ship.
-
-### D. Technology Timing
-
-**Round 1:** No tech research (focus on Trade/Leadership)
-**Round 2:** Research first red tech (Magen or Sarween depending on path)
-**Round 3:** Continue toward 3 reds for Prototype War Sun II
-**Round 4:** Research Prototype War Sun II if possible (this is the power spike)
-**Round 5+:** Magmus Reactor or Stellar Genesis depending on map/strategy
+**Note:** If you need 3 unit upgrades for objectives, consider Cruiser II (flagship synergy) or Space Dock II.
 
 ---
 
@@ -242,40 +226,41 @@ This path prioritizes Magmus Reactor early (supernovas become PRODUCTION 5 zones
 
 ### A. Round 1
 
-Your R1 priority is building economy for war sun production and beginning tech path.
+Your R1 priority is establishing economic foundation while protecting your war sun and beginning expansion.
 
 **Round 1 Priority Ranking:**
 
-1. **Trade** - You have 4 commodities (highest in game). Critical for funding expensive war sun economy (cost 12 per war sun).
+1. **Trade** - With 4 commodities, you generate substantial trade good income that helps you achieve all R1 goals including tech.
 
-2. **Leadership** - Command tokens for Star Forge (produce fighters/destroyers near war sun) and expansion. Essential CC income.
+2. **Technology** - Begin the path toward Prototype War Sun II (RRRY). The mobility upgrade from move 1 to move 3 solves your most critical weakness.
 
-3. **Technology** - Begin tech path toward Prototype War Sun II (RRRY). Mobility upgrade from move 1 to move 3 is critical.
+3. **Leadership** - Command tokens for Star Forge activations and territorial expansion. Easy breakthrough unlock.
 
-4. **Construction** - Build space docks for production capacity if needed. Less critical than Trade/Leadership.
+4. **Politics** - Speaker token has utility for strategy card selection. Easy breakthrough unlock.
 
-5. **Warfare** - Redeploy fleet + free activation useful for war sun positioning. Secondary is acceptable.
+5. **Diplomacy** - Easy breakthrough unlock, especially if you have a tech skip planet.
 
-6. **Politics** - Only 1 home influence makes voting weak. Speaker token acceptable but not priority.
+6. **Warfare** - Usually lets you fill out your entire slice.
 
-7. **Diplomacy** - Rarely useful for aggressive Muaat playstyle. Your war sun projects power, not defensive cards.
+7. **Construction** - Space dock on Avernus is not terrible.
 
 8. **Imperial** - Never R1.
 
 ### B. Round 2+
 
 **Love:**
-- **Trade** - Refresh 4 commodities for consistent trade good income. Funds Star Forge, war sun production, and technologies.
-- **Leadership** - Command tokens for Star Forge spam. With Magmus commander, spending tokens generates TGs (pay for themselves).
-- **Technology** - Stay on path toward Prototype War Sun II. Mobility upgrade (move 1 → move 3) transforms your dominance.
+- **Trade** - Refreshing 4 commodities creates consistent income for Star Forge, war sun production, and tech. Your economic engine.
+- **Leadership** - Command tokens enable Star Forge spam. Leadership R2 helps you produce a second war sun and mechs to unlock Magmus commander. Once unlocked, spending strategy tokens generates trade goods—Star Forge pays for itself.
+- **Imperial** (R3+) - Your war sun makes Mecatol Rex control realistic. Score points while maintaining board presence.
 
-**Good:**
-- **Imperial** - Score objectives R3-R5. Your war sun makes Mecatol control realistic.
-- **Warfare** - Redistribution after war sun repositioning. Secondary helps allies and builds political capital.
+**Like:**
+- **Technology** - Progress toward Prototype War Sun II and beyond. Essential until upgrade complete, then situational.
+- **Warfare** - Double usage of big war sun fleets after potential Star Forge stall.
+- **Politics** - Speaker token utility for strategy card selection.
 
 **Situational:**
-- **Construction** - Only if building additional space docks for production capacity.
-- **Politics** - Your 1 influence makes voting difficult. Magmus commander (gain TG per strategy token spent) doesn't help voting directly.
+- **Construction** - Can be potential if you have forward space dock with Avernus.
+- **Diplomacy** - Not useful for defense. Gives opponents too much value.
 
 ---
 
@@ -285,49 +270,23 @@ Your R1 priority is building economy for war sun production and beginning tech p
 
 Your ideal fleet composition in each system:
 
-**Minimum core:**
-- **1 War Sun** - Your centerpiece. Provides overwhelming combat power.
-- **2-4 Fighters** - Absorb hits and screen your war sun.
-- **1-2 Destroyers or Cruisers** - Supporting ships for additional combat dice.
+- **War Sun (centerpiece)** - Overwhelming combat power that no conventional fleet can match. Combat 3 (x3), BOMBARDMENT 3 (x3), Sustain Damage, Capacity 6
+- **Fighters (screen)** - Absorb hits and protect your most valuable asset. Produced via Star Forge
+- **Destroyers** - Additional combat dice, AFB capability, produced via Star Forge. Destroyer II (RR) provides excellent value
+- **Infantry (as needed)** - Conquest capability for taking planets
+- **Mechs (situational)** - Enhanced ground combat, Sustain Damage, Star Forge synergy for infantry placement
 
-**Then add as needed:**
-- **Infantry** - Ground forces for taking planets.
-- **Mechs** - Deploy when using Star Forge nearby.
+**Fleet Priority:** Your war sun is everything. Always protect it with screening ships that absorb incoming fire. As your war sun moves across the map, use Star Forge to produce fighters and destroyers in its system, maintaining the protective screen throughout operations.
 
-Your war sun is your priority. Always protect it with screening ships. Use Star Forge to produce fighters/destroyers around your war sun as it moves.
+**Late Game Composition:** Two war suns with fighter screens and destroyer support create overwhelming map control. Add your flagship if objectives require it or if you have Nomad alliance for free production.
 
-### C. Game Plan
+### B. Game Plan
 
-**War Sun Dominance:**
+**Early Game (R1-R2):** Focus on securing resource planets to build your economic foundation. You need minimum 8-10 total resources to sustain war sun production. Use Umbat R1 to produce a carrier for multi-system expansion. Protect your war sun and never expose it to unnecessary risk while beginning your tech path toward Prototype War Sun II.
 
-Your game plan revolves around leveraging your war sun's overwhelming power:
+**Mid Game (R3-R4):** Acquire Prototype War Sun II—the move 3 upgrade changes everything. Build a second war sun to unlock Magmus commander. Use Star Forge aggressively, spending strategy tokens for fighters and destroyers. Once your commander unlocks, Star Forge generates trade goods while building your fleet. Position your war suns to threaten Mecatol Rex and opponent territories.
 
-1. **Secure Resources R1-R2** - Take planets to build resources for second war sun or tech path. You need 8-10 total resources minimum.
-
-2. **Get Prototype War Sun II** - This is your top priority. Move 3 war sun changes everything—you can project power across the entire map. Without this upgrade, you're too slow.
-
-3. **Build Second War Sun** - With Commander (Magmus) unlocked, producing a second war sun makes you nearly unstoppable. Two war suns = complete map control.
-
-4. **Use Star Forge Aggressively** - Don't hoard strategy tokens. Use Star Forge to produce fighters/destroyers around your war sun constantly. With Commander, you gain 1 TG every time you spend a strategy token, so it pays for itself.
-
-5. **Control Mecatol Rex** - Your war sun is the best ship for holding MR. Park it there with supporting ships and use Star Forge to reinforce. No one can dislodge you.
-
-**Supernova Strategy (with Magmus Reactor):**
-
-If you get Magmus Reactor tech:
-- Supernovas become PRODUCTION 5 zones for you.
-- Move ships into supernovas and produce units there.
-- Use supernovas as shortcuts across the map (Gashlai Physiology).
-- This creates untouchable production zones—opponents can't follow you into supernovas.
-
-**Hero Timing:**
-
-Save your hero (Adjudicator Ba'al - Nova Seed) for critical moments:
-- Eliminating an opponent's home system or key resource base.
-- Creating a supernova barrier between you and threats.
-- Denying objectives that require specific planets.
-
-Turning systems into supernovas is permanent—use it strategically.
+**Late Game (R5-R6):** Control Mecatol Rex using your war sun's superior holding power. Park your war sun there with supporting ships and use Star Forge to reinforce. If you have Magmus Reactor, implement your supernova strategy for untouchable production zones. Deploy your hero Nova Seed for critical strategic moments—creating supernova barriers or denying objectives. Remember that turning systems into supernovas is permanent.
 
 ---
 
@@ -343,7 +302,7 @@ Turning systems into supernovas is permanent—use it strategically.
 
 | Stage I Objective                                              | Status |
 |----------------------------------------------------------------|--------|
-| Erect a Monument (Spend 8 resources)                           | 🟡     |
+| Erect a Monument (Spend 8 resources)                           | 🟢     |
 | Sway the Council (Spend 8 influence)                           | 🔴     |
 | Negotiate Trade Routes (Spend 5 trade goods)                   | 🟢     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)| 🟡     |
@@ -351,7 +310,7 @@ Turning systems into supernovas is permanent—use it strategically.
 | Develop Weaponry (Own 2 unit upgrade technologies)             | 🟢     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)     | 🟢     |
-| Expand Borders (Control 6 planets in non-home systems)         | 🟡     |
+| Expand Borders (Control 6 planets in non-home systems)         | 🟢     |
 | Corner the Market (Control 4 planets with same trait)          | 🟡     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)   | 🟡     |
 | Build Defenses (Have 4+ structures)                            | 🔴     |
@@ -361,16 +320,16 @@ Turning systems into supernovas is permanent—use it strategically.
 | Improve Infrastructure (Structures on 3 planets outside HS)    | 🔴     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
-| Push Boundaries (Control more planets than each neighbor)      | 🟡     |
+| Push Boundaries (Control more planets than each neighbor)      | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)               | 🟡     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
 | Secret Objective                                                | Status |
 |----------------------------------------------------------------|--------|
-| Unveil Flagship (Win space combat with flagship)               | 🟢     |
+| Unveil Flagship (Win space combat with flagship)               | 🟡     |
 | Turn their Fleets to Dust (SPACE CANNON destroy last ship)     | 🔴     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)          | 🟢     |
 | Spark a Rebellion (Win combat vs most VP player)               | 🟢     |
@@ -380,10 +339,10 @@ Turning systems into supernovas is permanent—use it strategically.
 | Monopolize Production (Control 4 industrial planets)            | 🔴     |
 | Mine Rare Minerals (Control 4 hazardous planets)               | 🔴     |
 | Forge an Alliance (Control 4 cultural planets)                 | 🔴     |
-| Become a Martyr (Lose control of planet in HS)                 | 🟢     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
+| Become a Martyr (Lose control of planet in HS)                 | 🔴     |
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟡     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟢     |
+| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
 | Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
@@ -401,30 +360,30 @@ Turning systems into supernovas is permanent—use it strategically.
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)       | 🟢     |
 | Fight With Precision (AFB destroy last fighter)                | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                | 🟢     |
+| Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
 | Mechanize the Military (1 mech on each of 4 planets)           | 🟡     |
 | Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| Prove Endurance (Last to pass)                                 | 🔴     |
+| Prove Endurance (Last to pass)                                 | 🟡     |
 | Seize an Icon (Control legendary planet)                       | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                    | 🟢     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
-| Found a Golden Age (Spend 16 resources)                                  | 🔴     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🔴     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🔴     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
@@ -443,22 +402,35 @@ Turning systems into supernovas is permanent—use it strategically.
 
 ## IX. Alliance Priority
 
-Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
+Trading for other factions' Alliance promissory notes grants you access to their commanders, potentially boosting your strategy significantly.
 
-**Super Top Tier:**
-1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Perfect synergy with constant production.
-2. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Always good value. Saves 8 resources.
-3. **Jol-Nar (Ta Zern)** - Reroll dice for unit abilities. Reroll BOMBARDMENT on your war sun.
+**Top Tier:**
 
-**Really Useful:**
-4. **Winnu (Rickar Rickani)** - +2 combat in MR, your home system, and legendary systems. Your war sun becomes even more dominant.
-5. **Arborec (Dirzuga Rophal)** - After another player activates system with your PRODUCTION units, produce 1 unit. Synergizes with Star Forge.
+1. **Crimson Rebellion (Ahk Siever)** - At the end of combat between any players, gain 1 commodity or convert 1 commodity to a trade good. Passive income from table aggression.
+
+2. **Deepwrought Scholarate (Aello)** - When another player researches tech, they may reduce cost by 1; if they do, gain 1 commodity or convert 1 commodity to trade good. Passive income as players tech frequently.
+
+3. **Nomad (Navarch Feng)** - Produce your flagship without spending resources. Saves 8 resources while adding The Inferno's cruiser production ability.
+
+4. **Winnu (Rickar Rickani)** - Apply +2 to combat rolls in Mecatol Rex, your home system, and legendary planet systems. Makes your war sun even more dominant in critical locations.
+
+5. **Empyrean (Xuange)** - After another player moves ships into a system with your command token, return token to reinforcements. Late-game slaying tool.
+
+**Good:**
+
+6. **Jol-Nar (Ta Zern)** - Reroll unit ability dice. Directly benefits your war sun's BOMBARDMENT 3 (x3) capability.
+
+7. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Combined with Plasma Scoring, your war sun effectively rolls 5 bombardment dice.
+
+8. **Yin Brotherhood (Brother Omar)** - Green prerequisite + skip prereqs when researching others' tech. Helps with late game blue tech.
+
+9. **Naaz-Rokha (Dart and Tai)** - After you gain control of a planet from another player, explore that planet. Bonus exploration from war sun conquests.
+
+10. **Nekro Virus (Nekro Acidos)** - After you gain a technology, draw 1 action card. Card draw along your tech path.
 
 ---
 
 ## X. Bonus Game Elements
-
-This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
 ### A. High-Value Action Cards
 
@@ -466,16 +438,18 @@ This section highlights action cards that synergize particularly well with your 
 
 ### C. Agenda Awareness
 
+**Publicize Weapon Schematics** (Law) - If any player owns a war sun technology, all players may ignore all prerequisites on war sun technologies. All war suns lose Sustain Damage.
+
+**CRITICAL THREAT.** This law destroys your faction identity. Your war sun losing Sustain Damage makes it dramatically more vulnerable—a single Direct Hit or focused fire can destroy it. Simultaneously, other factions can build war suns without prerequisites, eliminating your unique advantage. Vote against this with everything you have.
+
 ---
 
 ## XI. End Notes
 
-Embers of Muaat is TI4's war sun superpower. Your job is to:
+Embers of Muaat is TI4's war sun superpower. You begin with the galaxy's most feared weapon while other factions are still building cruisers. Your entire strategy revolves around protecting, upgrading, and multiplying this devastating asset.
 
-1. **Protect your war sun** - It's your most valuable asset. Never lose it.
-2. **Get Prototype War Sun II** - Move 3 war sun changes everything. Top priority.
-3. **Secure high resources** - You need 8-10+ resources to produce war suns and sustain your economy.
-4. **Use Star Forge constantly** - Spend strategy tokens to produce fighters/destroyers around your war sun. With Commander, you gain 1 TG per token spent.
-5. **Build second war sun** - Two war suns = unstoppable map control.
+Early game feels slow with move 1 war sun. Accept this—you're investing in economy and breakthrough while others expand aggressively. Your power spike comes R3-R4 with Prototype War Sun II. The move 3 upgrade transforms everything, letting you project power across the entire map.
 
-Don't be afraid to use your war sun aggressively. It's the strongest ship in the game—opponents should fear it, not you. Leverage BOMBARDMENT 3 (x3) to crush ground defenses and dominate space combat with overwhelming firepower.
+Build a second war sun to unlock Magmus commander and achieve near-unstoppable map control. Use Star Forge constantly to screen your war sun with fighters and destroyers. Once Magmus unlocks, every strategy token spent generates a trade good, making Star Forge pay for itself.
+
+Don't be afraid to use your war sun aggressively. It's the strongest ship in the game—opponents should fear it, not you.
