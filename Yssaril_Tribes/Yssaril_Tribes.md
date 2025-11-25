@@ -29,7 +29,7 @@
 
 ## I. Introduction
 
-The Yssaril Tribes are sneaky space goblins who win through unfair tools and information advantage. This faction excels at manipulating action card advantage through unlimited hand size, cycling through cards to find perfect answers, and seeing opponents' hidden information through commander snooping. Yssaril isn't about brute force—it's about knowing everything your opponents are planning and having the perfect answer ready. When you have 15 action cards in hand while everyone else has 3, you're playing a completely different game.
+The Yssaril Tribes are sneaky space goblins who win through unfair tools and information advantage. This faction excels at manipulating action card advantage through unlimited hand size, cycling through cards to find perfect answers, and seeing opponents' hidden information through commander snooping. Yssaril isn't about brute force—it's about knowing everything your opponents are planning and having the perfect answer ready. When you have 25 action cards in hand while everyone else has 5, you're playing a completely different game.
 
 ## II. Playstyle
 
