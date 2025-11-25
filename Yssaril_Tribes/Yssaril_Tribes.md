@@ -35,7 +35,7 @@ The Yssaril Tribes are sneaky space goblins who win through unfair tools and inf
 
 Playing Yssaril Tribes means having perfect information while everyone else plays blind. Your commander lets you see opponents' action cards, promissory notes, and secret objectives whenever they activate systems with your units. Your agent copies every other agent at the table. You know what everyone is planning.
 
-And you have the tools to act on that information when no one can react. Stall Tactics lets you skip turns until opponents pass, then strike when they can't respond. You wait, you watch, and you move when it's too late for anyone to stop you.
+And you have the tools to act on that information when no one can react. Stall Tactics lets you skip turns until opponents pass, then strike when they can't respond. You wait, you watch, and you move when it's too late for anyone to stop you. In the late game, you make big swings and solve what others see as impossible—because you've been holding the perfect cards all along.
 
 ---
 
