@@ -8,11 +8,11 @@
 
 1. [Introduction](#i-introduction)
 2. [Playstyle](#ii-playstyle)
-3. [The Basics](#iii-the-basics)
-4. [Structural Weaknesses](#iv-structural-weaknesses)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
 5. [Technology](#v-technology)
 6. [Strategy Cards](#vi-strategy-cards)
-7. [Intermediate](#vii-intermediate)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
 8. [Objectives](#viii-objectives)
 9. [Alliance Priority](#ix-alliance-priority)
 10. [Bonus Game Elements](#x-bonus-game-elements)
@@ -38,7 +38,7 @@ Late game, the table realizes you're too strong to stop. You've collected so muc
 
 ---
 
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
@@ -189,7 +189,7 @@ Really strong breakthrough. Can be useful to get a few different techs in yellow
 **Summary:**
 Mahact is flexible in draft and can work with most slices. Your priority is getting variety in tech skips (especially blue) and positioning near multiple neighbors for combat opportunities. Focus on total slice value over speaker position.
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -312,7 +312,7 @@ Your R1 priority is solving your economy, making early deals, and setting up tok
 - **Warfare** - Only for specific plays. Rarely worth it unless you have a critical combat setup.
 - **Construction** - Let someone else do it. You'd rather use those resources elsewhere.
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 

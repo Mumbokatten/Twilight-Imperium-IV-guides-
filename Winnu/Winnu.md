@@ -8,11 +8,11 @@
 
 1. [Introduction](#i-introduction)
 2. [Playstyle](#ii-playstyle)
-3. [The Basics](#iii-the-basics)
-4. [Structural Weaknesses](#iv-structural-weaknesses)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
 5. [Technology](#v-technology)
 6. [Strategy Cards](#vi-strategy-cards)
-7. [Intermediate](#vii-intermediate)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
 8. [Objectives](#viii-objectives)
 9. [Alliance Priority](#ix-alliance-priority)
 10. [Bonus Game Elements](#x-bonus-game-elements)
@@ -36,7 +36,7 @@ If you secure and hold Mecatol Rex, you win. If you can't, you lose. It's that s
 
 ---
 
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
@@ -172,7 +172,7 @@ Loves speaker. Trade is your very best tool—makes a huge difference. Otherwise
 
 ---
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -301,7 +301,7 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 
 ---
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 

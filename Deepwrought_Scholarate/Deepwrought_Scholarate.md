@@ -8,11 +8,11 @@
 
 1. [Introduction](#i-introduction)
 2. [Playstyle](#ii-playstyle)
-3. [The Basics](#iii-the-basics)
-4. [Structural Weaknesses](#iv-structural-weaknesses)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
 5. [Technology](#v-technology)
 6. [Strategy Cards](#vi-strategy-cards)
-7. [Intermediate](#vii-intermediate)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
 8. [Objectives](#viii-objectives)
 9. [Alliance Priority](#ix-alliance-priority)
 10. [Bonus Game Elements](#x-bonus-game-elements)
@@ -38,7 +38,7 @@ Mid-game transitions into ocean card economy and technology trading. Your agent 
 
 Late game Deepwrought is about technological dominance and Radical Advancement value. By now, you should have a robust tech tree and be swapping technologies to get exactly what you need. Your hero can delete critical technologies from opponents' arsenals, shutting down their strategies. Your flagship's unique movement ability lets you navigate contested space. Most importantly, your "friendly fish" reputation should have kept you safe while you built an insurmountable advantage.
 
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
@@ -170,7 +170,7 @@ Since you're so flexible with tech and economy, focus on slices that help you sc
 
 You're very flexible with speaker order. Just grab value strategy cards (Trade, Leadership, Technology) and you'll make it work. You're not desperate for any particular card or position.
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -315,7 +315,7 @@ Your Round 1 (R1) priority is flexible - grab value cards (Trade, Leadership) an
 **Hate:**
 - **Warfare** - Fleet token return doesn't align with your strategy
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 

@@ -8,11 +8,11 @@
 
 1. [Introduction](#i-introduction)
 2. [Playstyle](#ii-playstyle)
-3. [The Basics](#iii-the-basics)
-4. [Structural Weaknesses](#iv-structural-weaknesses)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
 5. [Technology](#v-technology)
 6. [Strategy Cards](#vi-strategy-cards)
-7. [Intermediate](#vii-intermediate)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
 8. [Objectives](#viii-objectives)
 9. [Alliance Priority](#ix-alliance-priority)
 10. [Bonus Game Elements](#x-bonus-game-elements)
@@ -36,7 +36,7 @@ Opponents will try to minimize Pillage by spending TGs before hitting 3, trading
 
 ---
 
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
@@ -189,7 +189,7 @@ Mentak needs wormhole access or proximity to other players for Pillage positioni
 
 ---
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -313,7 +313,7 @@ Late-game tech to leverage your riches. After you gain control of a planet, you 
 
 ---
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 

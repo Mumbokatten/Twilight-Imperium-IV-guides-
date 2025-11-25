@@ -8,11 +8,11 @@
 
 1. [Introduction](#i-introduction)
 2. [Playstyle](#ii-playstyle)
-3. [The Basics](#iii-the-basics)
-4. [Structural Weaknesses](#iv-structural-weaknesses)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
 5. [Technology](#v-technology)
 6. [Strategy Cards](#vi-strategy-cards)
-7. [Intermediate](#vii-intermediate)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
 8. [Objectives](#viii-objectives)
 9. [Alliance Priority](#ix-alliance-priority)
 10. [Bonus Game Elements](#x-bonus-game-elements)
@@ -38,7 +38,7 @@ Aggression fuels your economy. Combat generates wealth through passive income, c
 
 Unpredictability is your weapon. Opponents can't defend everywhere, and your breach network means you can appear anywhere. Keep them guessing, exploit openings, and reshape the map to your advantage.
 
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
@@ -182,7 +182,7 @@ Anything high value works. Very flexible since your breakthrough is unlocked. Av
 **Avoid:**
 - Ultra-low influence slices (even if you get comms later, too low influence early is annoying)
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -287,7 +287,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 - **Warfare** - Secondary only. Primary pointless with agent.
 - **Diplomacy** - Late game scoring only.
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 
