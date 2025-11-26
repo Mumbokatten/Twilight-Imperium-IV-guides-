@@ -1,4 +1,29 @@
-# The Ghosts of Creuss Comprehensive Strategy Guide
+[← Back to Index](../index.html)
+
+# Ghosts of Creuss Guide
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+   - [First Turn Priorities](#a-first-turn-priorities) · [Faction Weaknesses](#b-faction-weaknesses)
+5. [Technology](#v-technology)
+   - [Overview](#a-starting-technologies) · [Tech Paths](#b-technology-paths) · [Key Technologies](#c-key-technologies)
+6. [Strategy Cards](#vi-strategy-cards)
+   - [Round 1](#a-round-1) · [Round 2+](#b-round-2)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+   - [Unit Composition](#a-unit-composition) · [Game Plan](#b-game-plan)
+8. [Objectives](#viii-objectives)
+   - [Objective Summary](#a-objective-summary) · [Stage I](#b-stage-i-objectives) · [Secret Objectives](#c-secret-objectives) · [Stage II](#d-stage-ii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+    - [Action Cards](#a-high-value-action-cards) · [Relics](#b-relic-priorities) · [Agendas](#c-agenda-awareness)
+11. [End Notes](#xi-end-notes)
+
+---
 
 ## I. Introduction
 
@@ -119,7 +144,9 @@ Your starting fleet is positioned at the **Creuss Gate system (tile 17)**, not y
 
 **Faction Technologies:**
 
-(Add faction technology information here if available from the cheat sheet)
+- **Wormhole Generator Ω (BB):** ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships. Essential for creating your custom wormhole network—place tokens strategically to enable scoring, production (with Particle Synthesis), or surprise attacks.
+
+- **Dimensional Splicer (R):** At the start of a space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships. Free pre-combat hit when fighting at wormholes—makes opponents think twice before attacking you on your turf.
 
 ### E. Leaders
 
@@ -494,7 +521,7 @@ Your R1 priority is establishing economic base and beginning tech path for wormh
 - Space docks OR Particle Synthesis for distributed production
 - Flagship for mobile wormhole utility, not primary combat
 
-### C. Game Plan
+### B. Game Plan
 
 **Round 1:**
 - **Strategy Card:** Trade (5) or Technology (7)
@@ -557,9 +584,9 @@ Your R1 priority is establishing economic base and beginning tech path for wormh
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🟡     |
 | **Control** |  |
-| Defend the Homeworld (3+ ground forces and 2+ structures in home)       | N/A    |
-| Demonstrate Your Power (Control MR or opponents' home system planet)    | N/A    |
-| Establish a Perimeter (Control 4 systems adjacent to MR)                | N/A    |
+| Defend the Homeworld (3+ ground forces and 2+ structures in home)       | 🔴     |
+| Demonstrate Your Power (Control MR or opponents' home system planet)    | 🟢     |
+| Establish a Perimeter (Control 4 systems adjacent to MR)                | 🟢     |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | **Ships in Systems** |  |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
@@ -575,9 +602,7 @@ Your R1 priority is establishing economic base and beginning tech path for wormh
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Ghosts excel at mobility and territorial objectives through Quantum Entanglement wormhole network.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
@@ -634,33 +659,31 @@ Ghosts excel at mobility and territorial objectives through Quantum Entanglement
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
 | **Spendies** |  |
-| Dictate Policy (Spend X influence)                                      | N/A    |
-| Drive the Debate (Spend X influence)                                    | N/A    |
-| Wield Authority (Spend X influence)                                     | N/A    |
-| Produce En Masse (Spend X resources)                                    | N/A    |
-| Dominate Economic Policy (Spend X resources/trade goods)                | N/A    |
+| Centralize Galactic Trade (Spend 10 trade goods)                        | 🟡     |
+| Found a Golden Age (Spend 16 resources)                                 | 🟡     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)        | 🟡     |
+| Manipulate Galactic Law (Spend 16 influence)                            | 🔴     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)      | 🟡     |
 | **Control** |  |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Form Galactic Brain Trust (Control 5 tech specialty planets)            | N/A    |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Master the Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
+| Conquer the Weak (Control 1 planet in another player's HS)              | 🟢     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)              | 🟢     |
+| Unify the Colonies (Control 6 planets with same trait)                  | 🟡     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)          | 🟡     |
 | **Ships in Systems** |  |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)               | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)       | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)        | 🟢     |
+| Patrol Vast Territories (Units in 5 systems without planets)            | 🟢     |
+| Control the Borderlands (Units in 5 edge systems not HS)                | 🟢     |
 | **Tech** |  |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                    | 🟡     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                 | 🟢     |
 | **Structure** |  |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
+| Construct Massive Cities (Have 7+ structures)                           | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                 | 🔴     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Ghosts' wormhole network enables exceptional mobility for territorial and expansion objectives. Mecatol access is superior.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ## IX. Alliance Priority
 
@@ -716,30 +739,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-The Ghosts of Creuss demand **spatial mastery and long-term planning**. Your Quantum Entanglement ability fundamentally changes how you view the game board: wormholes aren't just systems, they're your highways to anywhere. Every decision—from slice selection to technology choices to hero timing—should maximize your positional dominance.
+Ghosts of Creuss is the faction for players who see the map differently. While others plan one system at a time, you're thinking in networks—every wormhole a highway, every placement a trap or an escape route.
 
-**Key Principles for Success:**
+Your strength is inevitability. You're never far from anything. Mecatol? Adjacent. Their home system? One jump away. That legendary planet in the corner? You were there two rounds ago. Opponents can't plan around someone who can be everywhere.
 
-1. **Defend Creuss Gate:** It's not a home system; losing it is devastating. Keep a defensive fleet or PDS coverage.
+When you nail Creuss, you feel like a phantom haunting the galaxy. Your hero swaps the entire board state when victory is on the line. Your flagship creates wormholes wherever it goes. Your mech sacrifices itself to open paths no one saw coming.
 
-2. **Control Wormhole Systems:** These are your power bases. Units in wormhole systems unlock commander, enable Slipstream, and create Dimensional Splicer combat advantages.
+Ghosts of Creuss doesn't fight for the galaxy—they simply arrive when and where it matters.
 
-3. **Strategic Wormhole Placement:** Your promissory note, Wormhole Generator, and mech create custom wormholes. Place them to enable scoring, deny opponents, or create production hubs (with Particle Synthesis).
-
-4. **Time Your Hero Perfectly:** Singularity Reactor is game-breaking but one-use. Wait until Round 5-6 when objectives are clear, then swap systems to secure victory.
-
-5. **Leverage Mobility for Objectives:** You can score territorial, exploration, and Mecatol objectives easier than any faction. Build your game plan around objectives requiring reach.
-
-6. **Tech Diversity:** Wormhole Generator (blue), Dimensional Splicer (red), Particle Synthesis (blue/yellow) require diverse tech paths. Plan accordingly.
-
-7. **Trade Your Promissory Note:** Creuss Iff is one of the most valuable promissory notes. Trade it for significant value repeatedly.
-
-8. **Avoid Prolonged Wars:** Your combat stats are standard. Use positioning to avoid fights or fight only when you have Dimensional Splicer advantage.
-
-9. **Fleet Staging:** Always stage fleets at wormhole systems between rounds to maximize Slipstream movement bonuses.
-
-10. **Map Awareness:** Continuously track all alpha/beta wormhole positions. Your power scales with wormhole availability.
-
-Ghosts of Creuss are a **high-skill-ceiling faction** that rewards strategic thinking, map awareness, and tactical flexibility. Master the wormhole network, and you'll control the galaxy from the shadows. Misplay your positioning or hero timing, and you'll struggle against more straightforward factions. But when played optimally, no faction can match your reach, and few can escape your grasp.
-
-**May the void guide you through the wormholes to victory.**
+**THE VOID CONNECTS ALL.**
