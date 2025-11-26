@@ -27,543 +27,262 @@
 
 ## I. Introduction
 
-The Ghosts of Creuss are the galaxy's undisputed **masters of wormhole manipulation and strategic mobility**. Your unique Creuss Gate system (a delta wormhole that isn't your home), combined with Quantum Entanglement (treating all alpha/beta wormholes as adjacent) and Slipstream (+1 movement from wormholes/home), gives you unparalleled map control and tactical reach. You start with Gravity Drive and can place mobile Creuss wormhole tokens through your promissory note, mech ability, and faction technology, creating a custom highway network across the galaxy. This faction rewards careful planning, spatial awareness, and exploiting positioning advantages that other factions simply cannot achieve.
+Ghosts of Creuss owns the map. Quantum Entanglement makes every wormhole adjacent to every other wormhole—for you only. Slipstream gives +1 movement from wormholes. You start with Gravity Drive. While others crawl across the galaxy, you're already there.
+
+Your Creuss Gate isn't a home system, which matters for rules interactions. You can place additional wormhole tokens through your tech, mech, and promissory note, building a personal highway network across the galaxy.
 
 ## II. Playstyle
 
-**Early Game (Rounds 1-2):**
-Your opening focuses on leveraging your superior mobility to claim optimal slices and establish early board presence. Use Quantum Entanglement to reach distant high-value systems that would take other factions multiple rounds to access. Your starting Gravity Drive means you can move 2 spaces with your carrier (3 from wormholes with Slipstream), allowing aggressive expansion. Scout for alpha/beta wormholes on the board during setup—these are your highways. Look to score early explore objectives or territorial objectives by reaching systems others cannot. Your 4 commodities provide decent economic support. Don't over-extend; your ships are standard, not combat powerhouses.
+Playing Creuss means the map works differently for you than everyone else. Systems that are far apart for opponents are one jump away for you. You don't fight for position—you simply appear where you need to be.
 
-**Mid Game (Rounds 3-4):**
-This is when Creuss shines. Your commander (unlocked with units in 3 wormhole systems) generates free fighters after wormhole movement, creating sustainable fleet presence. Place Creuss wormhole tokens strategically using your agent, promissory note, or Wormhole Generator to create custom adjacencies for tactical actions. Control wormhole systems to maximize Quantum Entanglement utility. Your Dimensional Splicer technology gives you a pre-combat hit in wormhole systems, discouraging fights on your terms. Push for your hero unlock (3 scored objectives) to access Singularity Reactor, which swaps entire systems—a game-breaking map manipulation tool. Tech toward blue technologies to unlock Wormhole Generator.
+Your game is about building and exploiting your wormhole network. Place tokens, control wormhole systems, and create adjacencies that let you threaten multiple angles at once. Opponents can't pin you down because you're never truly committed to one area.
 
-**Late Game (Rounds 5-6+):**
-Your hero ability (swapping any 2 wormhole systems or systems with your units) becomes a massive swing play—swapping a player's slice with yours, bringing distant Mecatol systems adjacent, or denying critical scoring positions. Your flagship (Hil Colish) creates a mobile delta wormhole and can move separately from your fleet, offering flexible positioning. Use Particle Synthesis breakthrough to produce units at wormholes, turning your network into production hubs with cost reduction. Your end-game strength is **positional dominance**—you can threaten multiple objectives simultaneously, react to scoring requirements instantly, and deny opponents' plans through superior reach. Victory comes from converting mobility into points through objective scoring that leverages your unique positioning.
+You're not a combat faction. Your ships are standard, your units unremarkable. But you don't need to win fights when you can choose which fights happen and where. Score objectives others can't reach, take Mecatol when it's undefended, and use your hero to rearrange the entire board when victory is on the line.
 
 ## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
-**Creuss (Home System - Tile 51):** 4 resources, 2 influence
-- A balanced planet that starts in your play area, not on the board
-- The 4 resources support early production needs
-- 2 influence helps with early agenda phases
-- This system is NOT on the board during setup
+**Home System:**
+- **Creuss:** 4 resources / 2 influence, delta wormhole
+- **Total: 4 resources / 2 influence (4 optimal resources / 0 optimal influence)**
 
-**Creuss Gate (Tile 17):** Delta Wormhole System
-- Placed where your home system would normally go
-- This is NOT a home system (cannot build at it with Construction secondary, not immune to hero abilities that target home systems)
-- Contains a delta wormhole (only you can use delta wormholes)
-- Your home system (tile 51) sits in your play area until you use Creuss Gate faction ability rules
+**Creuss Gate:** Placed where your home system would normally go. Contains a frontier token. Not a home system.
 
 **Commodities:** 4
-- Above-average economic capacity
-- Supports Trade strategy card usage
-- Helps fund technology purchases and unit production
-- Trade actively to convert into trade goods for flexibility
 
-**Optimal Resource/Influence from Home Worlds:**
-- Creuss contributes 4 optimally both ways
-- Total: 4 optimal resources / 2 optimal influence from home
-- You'll need to expand for more influence for politics
+**Notes:** Decent resources, weak influence. One planet home system that's one extra move away is extremely safe—almost impossible to invade.
 
 ### B. Starting Fleet
 
-Your starting fleet is positioned at the **Creuss Gate system (tile 17)**, not your home system:
+- 1 Carrier
+- 2 Destroyers
+- 2 Fighters
+- 4 Infantry
+- 1 Space Dock
 
-**1 Carrier**
-- Standard capacity 6 carrier
-- Critical for moving infantry and fighters
-- With Gravity Drive, moves 2 normally (3 from wormholes with Slipstream)
-
-**2 Destroyers**
-- Anti-Fighter Barrage capabilities
-- Decent early game combat support
-- Help protect your carrier from fighter swarms
-
-**2 Fighters**
-- Standard space combat support
-- Can be replaced by commander-generated fighters later
-
-**4 Infantry**
-- Standard ground force complement
-- Adequate for early planet captures
-- You'll need more for sustained expansion
-
-**1 Space Dock**
-- Already built at Creuss Gate
-- Can immediately produce units
-- Remember: Creuss Gate is NOT a home system for building purposes
+Weak fleet with only 1 carrier. Even with solid movement, you need Sling Relay or Warfare secondary to solve the 1 capacity ship problem.
 
 ### C. Faction Abilities
 
-**Quantum Entanglement:**
-*You treat all systems that contain either an alpha or a beta wormhole as adjacent to each other. Game effects cannot prevent you from using this ability.*
+**Quantum Entanglement (Faction Ability):** You treat all systems that contain either an alpha or a beta wormhole as adjacent to each other. Game effects cannot prevent you from using this ability.
 
-- **THE** defining Creuss ability
-- All alpha wormholes are adjacent to all beta wormholes (and vice versa)
-- All alpha wormholes are adjacent to each other
-- All beta wormholes are adjacent to each other
-- Cannot be prevented by ANY game effect (Yin Spinner, faction abilities, action cards, etc.)
-- Applies to tactical actions, movement abilities, and tile activation
-- Does NOT mean wormholes are in the same system (for Dimensional Splicer or production purposes)
-- Wormhole nexus counts as both alpha and beta, so it's adjacent to all wormholes
+Your defining ability. All alpha and beta wormholes are adjacent to each other—for you only. Cannot be blocked by any game effect. Wormhole nexus counts as both alpha and beta.
 
-**Slipstream:**
-*During your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains either an alpha or beta wormhole.*
+**Slipstream (Faction Ability):** During your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains either an alpha or beta wormhole.
 
-- +1 movement for ships starting from home system or wormhole systems
-- Stacks with Gravity Drive for incredible range
-- Example: Carrier with Gravity Drive starting from wormhole moves 3 spaces
-- Applies per tactical action, not per movement
-- Encourages staging fleets at wormhole systems
-- Works with alpha, beta, but NOT delta wormholes
-- Positioning fleets at wormhole systems between turns maximizes this
++1 movement from wormholes and home system. Stacks with Gravity Drive. Stage fleets at wormhole systems to maximize. Works with alpha/beta, not delta.
 
-**Creuss Gate:**
-*When you create the game board, place the Creuss Gate (tile 17) where your home system would normally be placed. The Creuss Gate system is not a home system. Then place your home system (tile 51) in your play area.*
-
-- Unique setup ability
-- Creuss Gate is NOT a home system (critical rules distinction)
-- Players CAN take your Creuss Gate (unlike home systems)
-- Cannot use Construction secondary to build there
-- Other abilities that reference home systems don't apply to Creuss Gate
-- Your actual home system (tile 51) sits in your play area off-board
-- You can move your home system onto the board using specific abilities
+**Creuss Gate (Faction Ability):** When you create the game board, place the Creuss Gate (tile 17) where your home system would normally be placed. The Creuss Gate system is not a home system. Then place your home system (tile 51) in your play area.
 
 ### D. Starting and Faction Technologies
 
 **Starting Technologies:**
 
-**Gravity Drive:**
-- Your ships gain +1 movement
-- Absolutely critical for your mobility strategy
-- Enables 2-move carriers, 3-move destroyers, 4-move cruisers
-- Combined with Slipstream (+1 from wormholes), you move incredibly far
-- Supports Light/Wave Deflector path or tech toward Wormhole Generator
+**Gravity Drive (B):** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+
+**Notes:** Your mobility foundation. Combined with Slipstream (+1 from wormholes), your carriers move 3 from wormhole systems. Opens blue path toward Wormhole Generator.
 
 **Faction Technologies:**
 
-- **Wormhole Generator Ω (BB):** ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships. Essential for creating your custom wormhole network—place tokens strategically to enable scoring, production (with Particle Synthesis), or surprise attacks.
+**Wormhole Generator Ω (BB):**
+*ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships.*
 
-- **Dimensional Splicer (R):** At the start of a space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships. Free pre-combat hit when fighting at wormholes—makes opponents think twice before attacking you on your turf.
+Your key faction tech. On-demand wormhole placement creates custom adjacencies for scoring, surprise attacks, or production (with Particle Synthesis). Exhausts per use.
+
+**Dimensional Splicer (R):**
+*At the start of a space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships.*
+
+Free pre-combat hit at wormholes. Makes opponents think twice before attacking you on your turf. Works with alpha, beta, and delta wormholes.
 
 ### E. Leaders
 
-**Agent: Emissary Taivra**
-*After a player activates a system that contains a non-delta wormhole: You may exhaust this card; if you do, that system is adjacent to all other systems that contain a wormhole during this tactical action.*
+**Agent - Emissary Taivra:** After a player activates a system that contains a non-delta wormhole: You may exhaust this card; if you do, that system is adjacent to all other systems that contain a wormhole during this tactical action.
 
-- Exhausts AFTER any player activates a wormhole system
-- Makes that activated system adjacent to ALL wormhole systems (including delta wormholes) for that tactical action
-- Other players can use this through your promissory note
-- Enables incredible reach for yourself or transaction value for others
-- Can be used on opponents' activations to give them extended reach (usually for a price)
-- Powerful trading tool and tactical enabler
+Works on any player's activation, not just yours. Powerful trading tool—sell extended reach to other players, or use it yourself for surprise positioning. Can trigger on opponents' turns for a price.
 
-**Commander: Sai Seravus**
-*Unlock: Have units in 3 systems that contain alpha or beta wormholes.*
-*After your ships move: For each ship that has a capacity value and moved through 1 or more wormholes, you may place 1 fighter from your reinforcements with that ship if you have unused capacity in the active system.*
+**Commander - Sai Seravus:** *Unlock: Have units in 3 systems that contain alpha or beta wormholes.*
 
-- Unlock condition: Units in 3 systems with alpha/beta wormholes (not difficult)
-- FREE fighters after wormhole movement with capacity ships
-- One fighter per capacity ship that moved through wormholes
-- Fighters must be available in reinforcements
-- Requires unused capacity in the active system
-- Sustainable fleet generation that stacks over time
-- Carriers moving through wormholes = free fighter each time
-- Encourages wormhole-based movement patterns
+After your ships move: For each ship that has a capacity value and moved through 1 or more wormholes, you may place 1 fighter from your reinforcements with that ship if you have unused capacity in the active system.
 
-**Hero: Riftwalker Meian**
-*Unlock: Have 3 scored objectives.*
-*Singularity Reactor - Changing the Ways:*
-*ACTION: Swap the positions of any 2 systems that contain wormholes or your units, other than the Creuss system and the wormhole nexus. Then, purge this card.*
+Easy unlock if the map has wormholes. Free fighters every time your carriers move through wormholes—sustainable fleet generation that stacks over time.
 
-- One-time-use ability that SWAPS entire system tiles
-- Can swap wormhole systems OR systems containing your units
-- Cannot swap Creuss Gate or Wormhole Nexus
-- Game-breaking positional tool with multiple applications:
-  - Swap opponent's valuable slice with your systems
-  - Bring distant objectives within reach
-  - Swap Mecatol Rex system adjacent to your slice
-  - Deny opponent's scoring positions
-  - Create new wormhole adjacencies
-- Use timing carefully: often best Round 5-6 when objectives are revealed
-- All units/tokens in swapped systems remain in those systems
-- Can completely reshape the game board
+**Hero - Riftwalker Meian:** *Unlock: Have 3 scored objectives.* **Singularity Reactor** - ACTION: Swap the positions of any 2 systems that contain wormholes or your units, other than the Creuss system and the wormhole nexus. Then, purge this card.
 
-### F. Promissory Note
+Game-breaking one-time ability. Swap Mecatol adjacent to your slice, steal an opponent's valuable system, or deny critical scoring positions. Best used Round 5-6 when objectives are clear. All units in swapped systems stay with the tile.
 
-**Creuss Iff:**
-*At the start of your turn during the action phase: Place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships. Then, return this card to the Creuss player.*
+### F. Promissory Note - **Creuss Iff**
 
-- Allows another player to place/move YOUR Creuss wormhole token
-- Can only place in systems with their planets or empty non-home systems
-- Used at start of their turn during action phase
-- Extremely valuable for mobility-focused players
-- High transaction value: worth significant resources, commodities, or support
-- Can be used to create wormhole adjacencies benefiting both parties
-- Returns to you after use, so you can trade it again later
-- Don't give this away cheaply; it's extremely powerful
+At the start of your turn during the action phase: Place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships. Then, return this card to the Creuss player.
+
+Extremely valuable promissory. Lets another player place YOUR wormhole token, creating adjacencies that benefit both of you. Returns after use so you can trade it repeatedly. Don't give this away cheaply.
 
 ### G. Alliance
 
-**Alliance Ability:**
-*While you are neighbors with the Creuss player, you gain the following alliance ability:*
-*Quantum Entanglement - You treat all systems that contain either an alpha or a beta wormhole as adjacent to each other.*
+Your alliance grants Quantum Entanglement to a neighbor—they treat all alpha/beta wormholes as adjacent. This is your defining ability, so giving it away is huge. Best for slow factions (Sardakk, Arborec) who will pay top dollar for mobility. Be cautious—empowering another player with map-wide reach can backfire.
 
-- Grants the single most powerful Creuss ability to an ally
-- Neighbor must control or have units in systems adjacent to your units/controlled systems
-- Provides incredible map mobility to your ally
-- Can be very valuable for factions that struggle with movement
-- Creates powerful 2v1 positioning scenarios
-- Be cautious: empowering another player with your defining ability can backfire
-- Best traded for significant support or to cement a critical alliance
+### H. Mech - **Icarus Drive**
 
-### H. Mech
+Cost: 2 | Combat: 6 | **Sustain Damage**
 
-**Icarus Drive:**
-*Cost: 2*
-*Combat: 6*
-*Sustain Damage*
-*After any player activates a system, you may remove this unit from the game board to place or move a Creuss wormhole token into this system.*
+After any player activates a system, you may remove this unit from the game board to place or move a Creuss wormhole token into this system.
 
-- Standard mech combat stats (6) with Sustain Damage
-- **After ANY player activates a system**, you can sacrifice this mech
-- Sacrificing removes it from the board permanently
-- Places or MOVES a Creuss wormhole token into that activated system
-- Reactive positioning tool
-- Can disrupt opponent plans by creating unexpected wormhole adjacencies
-- Can enable your own follow-up activations
-- Having multiple mechs on different planets creates multiple response options
-- Use strategically: permanently losing a 2-cost sustain damage unit is significant
+Reactive wormhole placement on any player's activation. Sacrifice the mech to create unexpected adjacencies—disrupt opponent plans or enable your own follow-ups. Spread mechs across planets for multiple response options.
 
-### I. Flagship
+### I. Flagship - **Hil Colish**
 
-**Hil Colish:**
-*Cost: 8*
-*Combat: 5 (x1)*
-*Move: 1*
-*Capacity: 3*
-*Sustain Damage*
-*This ship's system contains a delta wormhole. During movement, this ship may move before or after your other ships.*
+Cost: 8 | Combat: 5 | Move: 1 | Capacity: 3 | **Sustain Damage**
 
-- Creates a mobile delta wormhole in its system
-- Delta wormhole moves with the flagship
-- Flexible movement timing: can move before OR after other ships
-- Capacity 3 allows transporting ground forces
-- Only 5 combat, so not a combat powerhouse
-- Mobile wormhole creates dynamic Quantum Entanglement applications
-- Can move flagship AFTER activating a system to create new adjacencies mid-action
-- Expensive at cost 8 but offers unique utility
-- Combined with Wormhole Generator and mech tokens, you can have 3+ mobile/placeable wormholes
+This ship's system contains a delta wormhole. During movement, this ship may move before or after your other ships.
 
-### J. Breakthrough
+Mobile delta wormhole that moves with the ship. Can move before OR after your other ships, creating adjacencies mid-action. Not a combat powerhouse but the utility is unique. Combined with Wormhole Generator and mech tokens, you can have multiple placeable wormholes.
 
-**Particle Synthesis (Blue <> Yellow):**
-*Each wormhole in a system that contains your ships gains PRODUCTION 1 as if it were a unit you control. Reduce the combined cost of units you produce in systems that contain wormholes by 1 for each wormhole in that system.*
+### J. Breakthrough - **Particle Synthesis (B<>Y)**
 
-- Wormholes in systems with your ships gain PRODUCTION 1
-- Cost reduction for producing at wormholes: -1 per wormhole in system
-- Example: System with 2 wormholes = 2 production capacity, -2 cost reduction
-- Wormhole nexus has both alpha AND beta wormholes (2 wormholes in one system)
-- Turns your wormhole network into production hubs
-- No space dock required at wormhole systems
-- Dramatically increases your production flexibility
-- Late-game breakthrough that scales with board control
-- Requires both blue and yellow technology prerequisites
+Each wormhole in a system that contains your ships gains PRODUCTION 1 as if it were a unit you control. Reduce the combined cost of units you produce in systems that contain wormholes by 1 for each wormhole in that system.
 
-### K. Slice Considerations
+Turns your wormhole network into production hubs—no space dock required. Wormhole nexus has 2 wormholes (alpha + beta) so it gets PRODUCTION 2 and -2 cost. Late-game breakthrough that scales with board control.
 
-**Critical Priorities:**
+**B<>Y Synergy:** Blue and yellow technologies count as each other for prerequisites. Helps you reach Carrier II or other blue techs if you went yellow.
 
-1. **Wormhole Access:**
-   - Systems with alpha or beta wormholes are PREMIUM value
-   - Multiple wormhole systems in/near your slice = maximum Quantum Entanglement
-   - Prioritize equidistant slices with wormhole access
-   - Avoid corner positions without nearby wormholes
+### K. Slice and Draft Considerations
 
-2. **Balanced Resources:**
-   - Your home gives only 4 resources, 2 influence
-   - Need resource-heavy slices for unit production
-   - Industrial planets (technology specialty) support your blue-heavy tech path
-   - Hazardous planets also helpful for red technologies (Dimensional Splicer)
+**Speaker Order:**
+- **Any position works** - Your mobility means you can adapt to any slice. Earlier picks let you grab wormhole systems.
 
-3. **Equidistant Positioning:**
-   - Creuss Gate is vulnerable (not a home system)
-   - Equidistant positions provide better defense
-   - Close proximity to multiple wormholes maximizes mobility
-   - Avoid isolated corners
+**Slice Priorities:**
+- **Wormhole access** - Alpha/beta wormholes in or near your slice are premium value.
+- **Resource bias** - Home is only 4R/2I. Need resources for production.
+- **Blue/red skips** - Speeds up Wormhole Generator and Dimensional Splicer.
 
-4. **Mecatol Access:**
-   - You can reach Mecatol from anywhere with wormholes
-   - Don't over-prioritize Mecatol proximity at setup
-   - Your mobility lets you strike when others are weak
-
-**Ideal Slice Characteristics:**
-- 10-11 resources, 7-8 influence (after Creuss)
-- At least 1 alpha or beta wormhole in or adjacent to slice
-- 1-2 industrial/hazardous technology specialties
-- Legendary planets or high-value anomalies (Mirage, Hope's End) accessible via wormholes
+**Avoid:**
+- **Corner positions without wormholes** - Limits your Quantum Entanglement value.
+- **Low resource slices** - You need to build carriers and expand production.
 
 ## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
-As Ghosts of Creuss, your first turn priorities should reflect your wormhole mobility and strategic positioning advantages. Here's the recommended ordering:
+**Round 1 Priority Rankings:**
 
-1. **Expansion + Production** - Your Quantum Entanglement (treat all alpha/beta wormholes as adjacent) and Slipstream (+1 movement from wormholes/home) with starting Gravity Drive give you unparalleled Round 1 reach. Claim distant high-value systems others cannot access. Your 4 commodities and 4 resources support this expansion.
+1. **Expansion + Production** - Use your mobility to claim systems others can't reach. Build a second carrier.
 
-2. **Scoring** - Your superior mobility lets you score positioning objectives (ships in edge systems, units in distant locations) before opponents. Act on these early while your mobility advantage is most pronounced. Territory objectives also favor your reach.
+2. **Scoring** - Positioning objectives favor your reach. Score early while mobility advantage is strongest.
 
-3. **Technology** - Push toward Dimensional Splicer (pre-combat hit in wormhole systems) or Wormhole Generator (place Creuss wormhole tokens). However, leveraging your existing mobility advantage comes first—tech enhances an already-strong position.
+3. **Technology** - Push toward Wormhole Generator or Fleet Logistics.
 
-4. **Breakthrough** - Particle Synthesis (produce units at wormholes with cost reduction) is powerful but requires established wormhole network. Your early strength is reaching systems others cannot, not production at those locations yet.
+4. **Breakthrough** - Low priority early. Particle Synthesis needs an established wormhole network.
 
-**1. Creuss Gate Vulnerability:**
-Your Creuss Gate is NOT a home system, meaning opponents can take it. Losing your gate is catastrophic: you lose your space dock, your delta wormhole access point, and your staging area. Opponents with early aggression (Barony, L1Z1X, Cabal) can threaten your gate Round 1-2. You MUST defend it or be prepared to rebuild elsewhere.
+**Expansion Notes:** Your 1 carrier start is weak. Prioritize Warfare secondary or building a second carrier. Use Gravity Drive + Slipstream to reach distant systems.
 
-**2. Standard Combat Stats:**
-Your units are completely standard (except flagship and Dimensional Splicer pre-combat hit). You have no inherent combat bonuses, no strong starting units, and no faction abilities that improve combat rolls. Against dedicated war factions (Sardakk, Sol, Argent), you'll struggle in straight fights. Your strength is positioning and avoiding unfavorable engagements, not winning them.
+### B. Creuss Gate Vulnerability
 
-**3. Production Limitations:**
-You start with only 1 space dock at Creuss Gate. Expanding production requires building more space docks or relying on Particle Synthesis breakthrough (late-game). Early-game production bottlenecks can slow your expansion compared to factions with multiple starting production facilities (Sol, Jol-Nar, Arborec).
+Your gate is NOT a home system—opponents can take it. Losing it means losing your space dock and delta wormhole access. Aggressive neighbors (Barony, L1Z1X, Cabal) can threaten it early. Defend it or be ready to rebuild elsewhere.
 
-**4. Commander Dependency:**
-Your sustainable fleet generation relies on commander unlock (units in 3 wormhole systems). If wormholes are scarce on the map or you can't control wormhole systems, your commander unlock delays, and you lose free fighter generation. Low-wormhole maps significantly weaken Creuss.
+### C. Standard Combat
 
-**5. Influence Deficiency:**
-With only 2 starting influence from Creuss, you're influence-starved early. Politics-heavy agendas can punish you if you don't expand to influence-rich planets quickly. You'll struggle against influence-rich factions (Xxcha, Hacan, Winnu) in early agenda phases.
+Your units are completely standard. No combat bonuses, no strong starting units. You'll lose straight fights against war factions. Your strength is positioning and avoiding unfavorable engagements.
 
-**6. Technology Prerequisites:**
-Your key technologies (Wormhole Generator, Dimensional Splicer) require specific prerequisites. Wormhole Generator needs 2 blue (you have 1), and Dimensional Splicer needs 1 red. You must diversify tech paths, which can delay other important technologies. Relying too heavily on blue path may neglect unit upgrades or other colors.
+### D. Map Dependency
 
-**7. Hero Timing:**
-Your hero is incredibly powerful but one-time-use. Using it too early wastes potential; using it too late may not impact the game enough. Opponents will anticipate it after you score your 3rd objective and play around it. Optimal timing requires reading the board state and predicting future objectives.
-
-**8. Reliance on Board State:**
-Your power scales with wormhole availability. Maps with few or no wormholes (rare but possible) cripple your faction. Similarly, if opponents avoid wormhole systems or deny you access, your abilities lose value. You're more map-dependent than most factions.
+Your power scales with wormhole availability. Low-wormhole maps weaken you significantly. Commander unlock requires units in 3 wormhole systems—if you can't get there, you lose free fighter generation.
 
 ## V. Technology
 
-### A. Starting Technologies
+### A. Overview
 
-**Gravity Drive (Blue):**
-- +1 movement to all ships
-- Essential for mobility strategy
-- Synergizes with Slipstream
-- Opens blue technology path toward Wormhole Generator
+You start with **Gravity Drive (Blue)**—your mobility foundation. Your tech path focuses on blue for Wormhole Generator, with red for Dimensional Splicer. Particle Synthesis breakthrough requires yellow, so plan for that if you want late-game production at wormholes.
 
-**Technology Specialties to Prioritize:**
-- **Industrial (Blue):** For Wormhole Generator path and Fleet Logistics
-- **Hazardous (Red):** For Dimensional Splicer
-- **Cybernetic (Yellow):** For Particle Synthesis breakthrough
+### B. Tech Path (Standard)
 
-### B. Technology Paths
+**Starting Tech:** Gravity Drive
 
-**Primary Path (Blue Focus):**
+**Round 1: Fleet Logistics (B)**
+- Perform 2 actions per turn instead of 1.
+- **Why:** Tempo advantage. Also your 2nd blue for Wormhole Generator.
 
-Round 1-2: **Gravity Drive (starting)** → **Wormhole Generator Ω (2 blue prereqs)**
-- Wormhole Generator requires 2 blue technologies
-- Options: Gravity Drive + Antimass Deflectors, or Gravity Drive + Fleet Logistics
-- **Fleet Logistics** highly recommended (allows 2 tactical actions per round)
-- Antimass Deflectors less valuable (you have high mobility already)
+**Round 2: Wormhole Generator Ω (BB)**
+- Place/move Creuss wormhole tokens.
+- **Why:** Your key faction tech. On-demand wormhole placement.
 
-Round 3-4: **Dimensional Splicer (Red)**
-- Requires 1 red technology prerequisite
-- Pre-combat hit in wormhole systems (excellent deterrent)
-- Consider Magen Defense Grid (opponent -1 bombardment rolls, +2 PDS rolls) or Assault Cannon
+**Round 3: Plasma Scoring or Magen (R)**
+- Red prereq for Dimensional Splicer.
+- **Why:** Opens your second faction tech.
 
-Round 4+: **Particle Synthesis (Breakthrough - Blue <> Yellow)**
-- Requires blue AND yellow prerequisites
-- Production at wormholes with cost reduction
-- Game-changing late-game tech
-- Yellow prerequisites: Sarween Tools, Neural Motivator, or Predictive Intelligence
+**Round 4: Dimensional Splicer (R)**
+- Pre-combat hit at wormholes.
+- **Why:** Deterrent. Opponents don't want to fight you on your turf.
 
-**Alternative Path (Unit Upgrades):**
+**Round 5+: Carrier II (BB) or Yellow for Breakthrough**
+- Carrier II for capacity and commander synergy.
+- Yellow (Sarween, Neural Motivator) opens Particle Synthesis.
 
-Some games require combat power over mobility tricks:
-- **Carrier II (BB)** - Capacity 8, movement 2, +1 combat
-- **Destroyer II (RR)** - AFB x3, combat 8
-- **Cruiser II (GYR)** - Capacity 1, combat 7
-- **Dreadnought II (BBY)** - Bombardment x2, sustain x2, combat 6
-
-Prioritize Carrier II if you're using carriers extensively for wormhole commander triggers.
-
-**Technology Sequencing Example (Optimal Path):**
-
-1. **Round 1:** Gravity Drive (starting)
-2. **Round 2:** Fleet Logistics (2nd blue) - Enables Wormhole Generator AND 2 tactical actions
-3. **Round 3:** Wormhole Generator Ω (2 blue) - Mobile wormhole placement
-4. **Round 4:** Magen Defense Grid (red) - Defensive tech + opens Dimensional Splicer
-5. **Round 5:** Dimensional Splicer (red) - Pre-combat hits at wormholes
-6. **Round 6:** Neural Motivator or Sarween Tools (yellow) - Opens Particle Synthesis
-
-### C. Key Technologies
-
-**Wormhole Generator Ω (2 Blue Prerequisites):**
-*ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships.*
-
-- On-demand Creuss wormhole token placement
-- Exhausts per use (once per round)
-- Can MOVE existing token or place new one
-- Restrictions: Planet you control OR empty non-home system
-- Combines with your promissory note, mech, and agent for extensive wormhole manipulation
-- Essential mid-game technology
-
-**Dimensional Splicer (Red - 1 Red Prerequisite):**
-*At the start of a space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships.*
-
-- Automatic pre-combat hit in wormhole systems
-- Must contain a wormhole (alpha, beta, OR delta)
-- One hit per space combat
-- Opponent chooses which ship takes the hit
-- Encourages opponents to avoid fighting you at wormholes
-- Synergizes with controlling wormhole systems
-
-**Fleet Logistics (Blue):**
-*During each of your turns in the action phase, you may perform 2 actions instead of 1.*
-
-- Two tactical actions per round instead of one
-- Dramatically increases tempo
-- Essential for competitive play
-- Unlocks aggressive expansion and multi-front strategies
-
-**Sarween Tools (Yellow):**
-*When 1 or more of your units use PRODUCTION, that unit produces 1 additional hit; that hit must be used to produce fighters or infantry.*
-
-- +1 free fighter or infantry per production use
-- Scales with number of space docks/war suns/particle synthesis wormholes
-- Economic efficiency technology
-
-**Carrier II (2 Blue Prerequisites):**
-*Cost: 3, Combat: 9, Move: 2, Capacity: 8, Sustain Damage*
-
-- Massive capacity increase (6 → 8)
-- Movement 2 (3 from wormholes with Slipstream)
-- Better combat value
-- More fighters from commander ability triggers
+**Key:** Blue skip makes this path smooth. Red skip speeds up Dimensional Splicer.
 
 ## VI. Strategy Cards
 
 ### A. Round 1
 
-Your R1 priority is establishing economic base and beginning tech path for wormhole dominance.
-
 **Round 1 Priority Ranking:**
 
-1. **Trade** - 4 commodities + trading promissory note for value. Top economic priority.
+1. **Technology** - Get Fleet Logistics for tempo and Wormhole Generator prereqs.
 
-2. **Technology** - You need technologies (Fleet Logistics, Wormhole Generator). Early tech advantage critical.
+2. **Trade** - 4 commodities. Sell Creuss Iff for value.
 
-3. **Construction** - Second space dock at equidistant system or forward planet accelerates expansion.
+3. **Warfare** - Secondary helps with your 1 carrier start.
 
-4. **Politics** - Speaker token valuable, action cards needed. Low influence makes speaker important for agendas.
+4. **Construction** - Second space dock accelerates expansion.
 
-5. **Leadership** - Command tokens for mobility-heavy playstyle. Not starved Round 1 but helpful.
+5. **Politics** - Speaker token and action cards.
 
-6. **Imperial** - Scoring if you have scoreable objective. Otherwise skip.
+6. **Leadership** - Command tokens for Fleet Logistics plays later.
 
-7. **Diplomacy** - Planet readying okay but not scoring Mecatol Round 1. Mobility trumps Diplomacy.
+7. **Diplomacy** - Readying planets is fine but not critical.
 
-8. **Warfare** - Not fighting Round 1 typically. Save for war factions.
+8. **Imperial** - Never R1.
 
 ### B. Round 2+
 
 **Love:**
-- **Trade** - Continue commodity economy. 4 commodities refreshed plus promissory trading creates strong economic base.
-- **Technology** - Push toward Wormhole Generator and Dimensional Splicer. Essential for wormhole network strategy.
-- **Imperial** - Score objectives from Mecatol or objectives. Needed rounds 3-5.
+- **Technology** - Keep pushing toward Wormhole Generator and Dimensional Splicer.
+- **Imperial** - Scoring and Mecatol points.
 
-**Like:**
-- **Construction** - Expand production capacity. Build PDS network for Creuss Gate defense if needed.
-- **Politics** - Speaker control and action card draw. Low influence makes speaker valuable.
-- **Leadership** - Command tokens for multi-activation plays with Fleet Logistics.
+**Good:**
+- **Trade** - Economy and promissory trading.
+- **Politics** - Speaker control and cards.
+- **Leadership** - Tokens for multi-activation plays.
 
 **Situational:**
-- **Warfare** - Only if scoring requires combat or Mecatol control. Otherwise skip.
+- **Warfare** - When you need fleet redistribution or combat.
+- **Construction** - Forward docks if needed.
+- **Diplomacy** - Defensive use.
 
 ## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 
-**Early Game Fleet (Rounds 1-2):**
-- 2-3 Carriers (capacity for infantry and fighters)
-- 4-6 Destroyers (anti-fighter barrage, affordable screening)
-- 6-8 Fighters (cost-effective space combat)
-- 8-10 Infantry (planet captures)
-- 2 Space Docks (Creuss Gate + 1 forward position)
-- 0-1 PDS (Creuss Gate defense if threatened)
+- **Carriers** - Core fleet. Trigger commander fighters when moving through wormholes. Build multiple early.
+- **Fighters** - Sustained by commander ability. Free fighters every time carriers move through wormholes.
+- **Destroyers** - Affordable screening. Anti-fighter barrage for protection.
+- **Infantry** - Standard ground game. Nothing special but nothing holding you back.
+- **Flagship (Hil Colish)** - Mobile delta wormhole. Utility over combat power.
+- **Mechs (Icarus Drive)** - Reactive wormhole placement. Sacrifice for surprise adjacencies.
 
-**Mid Game Fleet (Rounds 3-4):**
-- 3-4 Carriers (wormhole movement triggers for commander fighters)
-- 6-8 Destroyers OR 2-3 Cruisers (if upgraded)
-- 10-12 Fighters (commander generation supplements)
-- 12-14 Infantry
-- 2-3 Space Docks
-- 2-3 PDS (defensive coverage)
-- 1 Flagship (mobile delta wormhole utility)
-
-**Late Game Fleet (Rounds 5-6+):**
-- 4-5 Carriers (potentially Carrier II if researched)
-- 2-3 Dreadnoughts (if heavy combat expected)
-- 4-6 Cruisers (cost-efficient screening with Cruiser II)
-- 12-15 Fighters (sustained by commander)
-- 14-16 Infantry (Spec Ops II if available)
-- 3-4 Space Docks OR rely on Particle Synthesis production at wormholes
-- 3-4 PDS (coverage of key systems)
-- 1 Flagship
-- 1-2 War Suns (only if resources available and needed for combat)
-
-**Key Principles:**
-- Emphasize carriers for capacity and commander synergy
-- Fighters are sustainable through commander ability
-- Destroyers/Cruisers provide affordable screening
-- Space docks OR Particle Synthesis for distributed production
-- Flagship for mobile wormhole utility, not primary combat
+**Fleet Focus:** Carrier-heavy fleet to maximize commander fighter generation. Your fighters are essentially free—lean into that economy. Flagship for wormhole utility, not as a combat ship.
 
 ### B. Game Plan
 
-**Round 1:**
-- **Strategy Card:** Trade (5) or Technology (7)
-- **Objectives:** Score any available Stage I (Explore, Corners of the Map if accessible via wormholes)
-- **Expansion:** Claim 2-3 systems, prioritizing wormhole systems and resource-rich planets
-- **Transactions:** Trade commodities, potentially offer Creuss Iff for resources/commodities/support
-- **Tech:** Take Fleet Logistics if using Technology (critical)
+**Early Game (Rounds 1-2):**
 
-**Round 2:**
-- **Strategy Card:** Technology (7) or Construction (4)
-- **Objectives:** Score territorial objectives (3 ships in non-home, control planets of type X)
-- **Build:** Place 2nd space dock with Construction, produce distributed fleets
-- **Tech:** Wormhole Generator Ω if you have 2 blue (Gravity Drive + Fleet Logistics)
-- **Positioning:** Establish units in 3 wormhole systems to unlock commander
+Build a second carrier immediately—your 1 carrier start is weak. Expand to wormhole systems to unlock commander. Sell Creuss Iff for value. Get Fleet Logistics and start toward Wormhole Generator.
 
-**Round 3:**
-- **Strategy Card:** Warfare (6) or Imperial (8)
-- **Objectives:** Push for Mecatol Rex using wormhole adjacency, score control objectives
-- **Commander Unlock:** Confirm units in 3 wormhole systems, start generating free fighters
-- **Tech:** Dimensional Splicer (red) if possible, otherwise red prerequisite
-- **Warfare:** Use Warfare to remove tokens blocking your Quantum Entanglement paths
+**Mid Game (Rounds 3-4):**
 
-**Round 4:**
-- **Strategy Card:** Imperial (8) or Leadership (1)
-- **Objectives:** Score Stage II objectives (5+ technologies, spend X resources, control Mecatol)
-- **Hero Unlock:** Reach 3 scored objectives to unlock Riftwalker Meian
-- **Fleet Positioning:** Stage fleets at wormhole systems for maximum Slipstream value
-- **Production:** Use Wormhole Generator to create production-adjacent wormholes
+Unlock commander (units in 3 wormhole systems) and start generating free fighters. Get Wormhole Generator for on-demand token placement. Push for Mecatol using wormhole adjacencies. Unlock hero at 3 scored objectives.
 
-**Round 5:**
-- **Strategy Card:** Imperial (8) or Warfare (6)
-- **Objectives:** Score Stage II objectives, leverage hero for critical swaps
-- **Hero Usage:** Use Singularity Reactor to swap systems for scoring, Mecatol control, or denial
-- **Tech:** Particle Synthesis breakthrough if prerequisites met (massive production boost)
-- **Diplomacy:** Secure support for the throne or negotiated objectives
+**Late Game (Round 5+):**
 
-**Round 6+:**
-- **Endgame:** Convert positional advantages into final points
-- **Imperial:** Prioritize Imperial (8) for Mecatol scoring or Imperial Rider
-- **Denial:** Use wormhole mobility to block opponents' scoring opportunities
-- **Combat:** Win space combats in wormhole systems with Dimensional Splicer advantage
-- **Close Out:** Reach 10+ points through Stage II objectives, secrets, Mecatol, and support
+Use hero to swap systems for critical scoring or denial. Particle Synthesis turns your wormhole network into production hubs. Convert mobility into points—you can be everywhere, so score objectives others can't reach.
 
 ## VIII. Objectives
 
@@ -687,43 +406,22 @@ Your R1 priority is establishing economic base and beginning tech path for wormh
 
 ## IX. Alliance Priority
 
-Your alliance ability (granting Quantum Entanglement to a neighbor) is **extremely powerful** and should be traded very carefully.
+Your alliance grants Quantum Entanglement—your defining ability. Trade it carefully.
 
-**High-Value Alliance Partners:**
+**Top Alliances:**
 
-1. **Factions Struggling with Mobility:**
-   - **Sardakk N'orr:** Slow movement; Quantum Entanglement dramatically increases their reach for aggression
-   - **Arborec:** Slow expansion; wormhole adjacencies accelerate their spread
-   - **Titans of Ul:** Limited movement without gravity rifts; your alliance fixes this
-   - **Nekro Virus:** Benefits from accessing distant players to copy tech
+1. **Sardakk N'orr** - Slow faction that will pay top dollar for mobility.
+2. **Arborec** - Wormhole adjacencies accelerate their spread dramatically.
+3. **Titans of Ul** - Limited movement; your alliance fixes their biggest weakness.
+4. **Nekro Virus** - Access to distant players means more tech copying options.
+5. **Mentak Coalition** - Raid from wormhole systems across the entire map.
 
-2. **Factions That Leverage Positioning:**
-   - **Mentak Coalition:** Raid from wormhole systems across the map
-   - **Naalu Collective:** Already has initiative; adding mobility makes them dominant
-   - **Yin Brotherhood:** Kamikaze strikes from unexpected angles via wormholes
+**Avoid:**
 
-3. **Economic/Trade Factions:**
-   - **Hacan:** Can trade across wormhole networks, expanding their economic reach
-   - **Nomad:** Gains access to more systems for flexible Flagship positioning
+- **Winnu** - Already has Lazax Gate Folding.
+- **Factions already mobile** - Don't empower someone who doesn't need it.
 
-**Low-Value Alliance Partners:**
-
-- **Winnu:** Already has Lazax Gate Folding for similar effects
-- **Ghosts of Creuss:** You (cannot ally with yourself)
-- **Factions with strong inherent mobility:** Naalu (0 initiative), factions with Gravity Drive early
-
-**What to Demand in Exchange:**
-
-- **Military Support:** Defense of your Creuss Gate or offensive assistance
-- **Economic Support:** 5-8 trade goods, commodities, or promissory notes
-- **Political Support:** Votes on critical agendas, Speaker token trades
-- **Territory Agreements:** Non-aggression pacts, shared wormhole control agreements
-
-**Timing Considerations:**
-
-- Early alliance (Rounds 1-2): Helps secure your Creuss Gate and establishes strong diplomatic partner
-- Mid alliance (Rounds 3-4): Enables joint Mecatol control or territorial expansion
-- Late alliance (Rounds 5-6): Can create a kingmaker scenario; be cautious of empowering a leader
+**What to Demand:** Military support defending Creuss Gate, economic value (5+ TG), political support, or territory agreements.
 
 ## X. Bonus Game Elements
 
