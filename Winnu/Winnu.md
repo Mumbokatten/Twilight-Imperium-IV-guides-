@@ -361,99 +361,162 @@ Hold Mecatol Rex and keep scoring Imperial. Your Commander makes you surprisingl
 
 ### B. Stage I Objectives
 
+**Spendies**
+
+| Stage I Objective                                                       | Status |
+|-------------------------------------------------------------------------|--------|
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🔴     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| Sway the Council (Spend 8 influence)                                    | 🟡     |
+
+**Control**
+
+| Stage I Objective                                                       | Status |
+|-------------------------------------------------------------------------|--------|
+| Expand Borders (Control 6 planets in non-home systems)                  | 🔴     |
+| Push Boundaries (Control more planets than each neighbor)               | 🔴     |
+
+**Ships in Systems**
+
+| Stage I Objective                                                       | Status |
+|-------------------------------------------------------------------------|--------|
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+
+**Tech**
+
+| Stage I Objective                                                       | Status |
+|-------------------------------------------------------------------------|--------|
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+
+**Structure**
+
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
 | Erect a Monument (Spend 8 resources)                                    | 🟡     |
-| Sway the Council (Spend 8 influence)                                    | 🟡     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🔴     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🔴     |
-| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Build Defenses (Have 4 or more structures)                              | 🟢     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🔴     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
+**Combat**
+
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
 | Become a Martyr (Lose control of planet in home system)                 | 🔴     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🔴     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
-| Control the Region (Ships in 6 systems)                                 | 🟢     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Fight With Precision (AFB destroy last fighter)                         | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
+
+**Ships in Systems**
+
+| Secret Objective                                                         | Status |
+|--------------------------------------------------------------------------|--------|
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
+| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
+
+**Control**
+
+| Secret Objective                                                         | Status |
+|--------------------------------------------------------------------------|--------|
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
+| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🔴     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
-| Prove Endurance (Last to pass)                                          | 🔴     |
-| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
+
+**Tech**
+
+| Secret Objective                                                         | Status |
+|--------------------------------------------------------------------------|--------|
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
+| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
+
+**Structure/Units**
+
+| Secret Objective                                                         | Status |
+|--------------------------------------------------------------------------|--------|
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+
+**Other**
+
+| Secret Objective                                                         | Status |
+|--------------------------------------------------------------------------|--------|
+| Control the Region (Ships in 6 systems)                                 | 🟢     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
+| Prove Endurance (Last to pass)                                          | 🔴     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
+
 ### D. Stage II Objectives
+
+**Spendies**
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟡     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
-| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
+
+**Control**
+
+| Stage II Objective                                                       | Status |
+|--------------------------------------------------------------------------|--------|
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🔴     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+
+**Ships in Systems**
+
+| Stage II Objective                                                       | Status |
+|--------------------------------------------------------------------------|--------|
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
+
+**Tech**
+
+| Stage II Objective                                                       | Status |
+|--------------------------------------------------------------------------|--------|
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+
+**Structure**
+
+| Stage II Objective                                                       | Status |
+|--------------------------------------------------------------------------|--------|
 | Construct Massive Cities (Have 7+ structures)                            | 🟢     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 

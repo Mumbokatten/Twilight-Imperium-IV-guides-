@@ -15,7 +15,7 @@ This is when Saar's mobile production dominates. Your commander (Rowl Sarring) u
 **Late Game (Rounds 5-6+):**
 Your late-game strength is **production omnipresence and objective flexibility**. With 3-4 Floating Factory IIs (move 2 each), you can reposition entire production hubs in one action, responding to objectives instantly. Your Deorbit Barrage breakthrough (blue/red) lets you spend resources to bombard planets up to 2 systems away from asteroids containing your ships—long-range bombardment without needing to invade. Your flagship (Son of Ragh) has Anti-Fighter Barrage 6 x4, shredding fighter screens, and capacity 3 for ground force transport. Your mech (Scavenger Zeta) has DEPLOY ability: after conquering a planet, spend 1 trade good to place a mech there immediately, turning Scavenge trade goods into instant mechs. Victory comes from **scoring objectives through mobile production**, conquering planets for Scavenge trade goods, and leveraging commander + multiple factories to overwhelm opponents with distributed fleets.
 
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
@@ -286,7 +286,7 @@ Your late-game strength is **production omnipresence and objective flexibility**
 - Equidistant positioning (not corner)
 - Moderate Mecatol proximity (you can float factories to it)
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -462,7 +462,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 **Situational:**
 - **Politics** - Only if you've expanded to influence planets. Your 1 home influence makes this weak otherwise.
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 
@@ -556,105 +556,117 @@ Your R1 priority is expansion and building additional Floating Factories for com
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
+| **Spendies**                                                            |        |
 | Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Sway the Council (Spend 8 influence)                                    | 🔴     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
+| **Control**                                                             |        |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
+| **Ships in Systems**                                                    |        |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
+| **Structure**                                                           |        |
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
-
-Clan of Saar excel at territorial objectives due to mobile Floating Factories enabling rapid expansion anywhere on the map.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
+| **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
-| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| **Control**                                                              |        |
+| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
+| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Stake Your Claim (Control planet in contested system)                   | 🟡     |
+| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
 | Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🔴     |
-| Seize an Icon (Control legendary planet)                                | 🟢     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
+| Prove Endurance (Last to pass)                                          | 🔴     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
+| **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| **Control**                                                              |        |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
+| **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| **Structure**                                                            |        |
+| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Clan of Saar excel at territorial control through mobile production. Scavenge economy enables trade good objectives.
 
 ---
 

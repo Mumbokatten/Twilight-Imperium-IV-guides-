@@ -67,11 +67,11 @@ And you have the tools to act on that information when no one can react. Stall T
 
 **Stall Tactics (Faction Ability):** ACTION: Discard 1 action card from your hand.
 
-This is your strategic timing tool. Spend an action to discard a card—this lets you "skip" your turn to see what others do first.
+This is your strategic timing tool. Spend an action to discard a card—this lets you "skip" your turn to see what others do first. Also triggers your mech's DEPLOY ability for free early game reinforcement.
 
 **Scheming (Faction Ability):** When you draw 1 or more action cards, draw 1 additional action card. Then, choose and discard 1 action card from your hand.
 
-Your card advantage engine. Every time you draw action cards, you draw +1 additional and then discard 1. This means you see 2 cards and keep the better one. Over a game, you'll draw 20-30 action cards while opponents draw 10-15. You see more of the deck, you get better card selection, and you always have answers.
+Your card advantage engine. Every time you draw action cards, you draw +1 additional and then discard 1. With Neural Motivator (draw 2 during status) and Politics (draw 2), you draw 3 and pick 2. You see more of the deck, get better card selection, and always have answers.
 
 **Crafty (Faction Ability):** You can have any number of action cards in your hand. Game effects cannot prevent you from using this ability.
 
@@ -90,38 +90,38 @@ Removes the 7-card hand limit. This is HUGE. While everyone else discards down t
 **Mageon Implants (GGG):**
 *ACTION: Exhaust this card to look at another player's hand of action cards. Choose 1 of those cards and add it to your hand.*
 
-Action card theft tech. Exhaust to look at any player's action card hand and steal 1 card. Use this to take critical cards (Direct Hit, Sabotage, etc.) or deny opponents their best plays.
+Your key villain tech. Look at any player's hand and take their best action card. You know exactly what they have, and they know you'll take the good stuff—making them feel the agony of playing suboptimal cards just so you can't have them. Combine with Bio-Stims to use twice per round.
 
 **Transparasteel Plating (G):**
 *During your turn of the action phase, players that have passed cannot play action cards.*
 
-Anti-action card tech. During YOUR turn, passed players cannot play action cards. This shuts down late-game action card plays from passed players who are waiting to sabotage you. Excellent defensive tech.
+Competes with Bio-Stims for the 1 green prereq slot. But if you're tech rich, it's wonderful to see all players pass (common occurrence) and know there is literally nothing they can do to stop you.
 
 ### E. Leaders
 
 **Agent - Ssruu:** This card has the text ability of each other player's agent, even if that agent is exhausted.
 
-Incredibly versatile agent that copies ALL other agents at the table. If Nomad is in the game, you have their agent ability. If Hacan is in the game, you have their agent ability. Your agent is as good as the best agent at your table. Absurdly flexible and powerful in the right games.
+Copies ALL other agents at the table. Notable agents to look for: Mahact (use opponent's CC for strategy secondaries), Hacan (refresh someone's commodities—commonly Hacan's 6, split 4-2), Naalu (return CC when placed in system), Ral Nel (draw 2 action cards, give 1 away).
 
 **Commander - So Ata:** *Unlock: Have 7 action cards.*
 
 After another player activates a system that contains your units: You may look at that player's action cards, promissory notes, or secret objectives.
 
-Easy unlock with Crafty (unlimited hand size) and Scheming (draw 2 per draw). Once unlocked, you gain PERFECT INFORMATION whenever opponents activate systems with your units. Spread a few fighters or infantry around the map, and suddenly you're seeing everyone's hidden information constantly. This is one of the most powerful commanders in the game.
+Easy unlock with Neural Motivator and a few Politics follows. Once unlocked, you see opponents' hidden information whenever they activate systems with your units. Spread ships around the map to trigger this constantly. Also acts as a strong deterrent—opponents don't want you seeing their secrets.
 
 **Hero - Kyver, Blade and Key:** *Unlock: Have 3 scored objectives.* **Guild of Spies** - ACTION: Each other player shows you 1 action card from their hand. For each player, you may either take that card or force that player to discard 3 random action cards from their hand. Then, purge this card.
 
-Devastating hero. In a 6-player game, you either steal 5 cards OR force opponents to discard 15 cards total. Use this R4-R5 to cripple opponents' hands right before critical turns. The discard option is often stronger than taking cards—forcing someone to discard 3 random cards can remove their entire game plan.
+Devastating hero. In a 6-player game, you either steal 5 cards OR force opponents to discard 15 cards total. If you've already used Mageon to grab their best card, just take another for a stall or extra tool. If you know there's good stuff left, target strong players with the discard option to cripple their hands.
 
 ### F. Promissory Note - **Spy Net**
 
 At the start of your turn: Look at the Yssaril player's hand of action cards. Choose 1 of those cards and add it to your hand. Then, return this card to the Yssaril player.
 
-Strong promissory note. Opponent looks at your hand and steals 1 card. Trade value: 2-3 TG. Since you have 10-15 cards in hand, losing 1 isn't crippling. Trade this liberally for favors, votes, or peace agreements. The information they gain (seeing your hand) is offset by the political value you extract.
+Extremely annoying promissory note. Only really used for "selling action cards"—show them a specific card, agree on a price, and give them the PN to take it.
 
 ### G. Alliance
 
-Your Alliance promissory note gives another player access to So Ata's commander ability—they can look at an opponent's action cards, promissory notes, or secret objectives when that opponent activates a system containing their units. Highly situational since most factions don't spread units across the map like you do to maximize triggers. Information advantage is valuable but requires specific positioning to use. Trade value is moderate (2-3 TG) unless the buyer has units in contested positions. You likely value other factions' alliance abilities more than others value yours.
+Your Alliance promissory note gives another player access to So Ata's commander ability—they can look at an opponent's action cards, promissory notes, or secret objectives when that opponent activates a system containing their units. Try to sell to a faction that needs a deterrent and trade for something useful to you.
 
 ### H. Mech - **Blackshade Infiltrator**
 
@@ -129,7 +129,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 **DEPLOY:** After you use your Stall Tactics faction ability, you may place 1 mech on a planet you control.
 
-Interesting mech with DEPLOY synergy. Every time you use Stall Tactics (discard action card for an action), you can place a mech for free. This makes Stall Tactics a dual-purpose ability: timing manipulation + free mech deployment. Over a game, you can deploy 3-5 mechs without spending resources. Excellent economy.
+You should never build this mech the normal way—there's always a reason to stall. Free mechs throughout the game just for using Stall Tactics.
 
 ### I. Flagship - **Y'sia Y'ssrila**
 
@@ -137,7 +137,7 @@ Cost: 8 | Combat: 5 (x2) | Move: 2 | Capacity: 3 | **Sustain Damage**
 
 This ship can move through systems that contain other players' ships.
 
-Solid flagship with exceptional mobility. Moving through enemy ships means you can't be blocked—critical for reaching Mecatol Rex or contested objectives. The combat stats (5x2) are decent but not exceptional. The mobility is the real value—bypassing blockades and PDS networks.
+Combat and mobility are very solid. One of your key ships for clinching objectives in an otherwise low mobility fleet.
 
 ### J. Breakthrough - **Deepgloom Executable (Y<>G)**
 
@@ -145,30 +145,25 @@ You can allow other players to use your STALL TACTICS or SCHEMING faction abilit
 
 **Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
 
-**Ability:** You can "sell" your faction abilities to other players. Let them use Stall Tactics (discard action card for an action) or Scheming (draw 2, discard 1) in exchange for a transaction. This bypasses the once-per-player transaction limit, letting you trade with the same player multiple times per round. Excellent for extracting value from your unique abilities.
+People will sometimes pay for a stall or Scheming use, but two problems: do you actually want them to stall (they might reach Leadership before you)? And why would they buy Scheming for a better action card if you can just take it with Mageon anyway?
 
-**Y<>G synergy:** Neural Motivator (G) counts as yellow, opening yellow tech paths. Very flexible tech progression.
+**Y<>G synergy:** Not too helpful since you need blue for movement. Might come in handy somehow.
 
 ### K. Slice and Draft Considerations
 
-Yssaril is flexible and can thrive in most slices. Your priorities:
-
 **Speaker Order:**
-- **Prefer positions 2-4** - Lets you grab Politics or Trade early without being too early or too late.
-- **Avoid last position** - You want access to Politics strategy card for political control.
+- **Prefer top 4** - Grab valuable strategy cards. Peaceful neighbors help.
 
 **Slice Priorities:**
-- **Influence-heavy slice** - Your 5 influence at home makes you a natural politician. Stack more influence for voting dominance.
-- **High planet count** - More planets = more resources and influence for your needs.
-- **Tech skips (any color helpful)** - Yellow or green skips accelerate your tech path. Blue skip opens mobility options.
-- **Systems adjacent to Mecatol Rex** - Lets you place units near MR to trigger Commander snooping when others activate it.
+- **Balanced or high-res slice** - Counter your high influence home system with resources for production.
+- **Green skip** - Speeds up faction tech access.
+- **Entropic Scar** - Two fantastic faction techs that let you focus on other stuff instead of going deep green.
+- **Legendaries** - Hope's End (draw 2 action cards!) and Garbozia (take action cards back from discard) are incredible for you.
 
-**Slice Features to Avoid:**
-- **Resource-starved slices** - You need enough resources to fund production. Don't go below 6-7 total resources in slice.
-- **Low planet count** - Reduces your economic ceiling and objective scoring potential.
-
-**Summary:**
-Yssaril wants influence for politics, resources for production, and planet count for objectives. Your flexible tech path (Neural Motivator + Y<>G synergy) means tech skips are helpful but not mandatory. Focus on high-value slices with balanced economics.
+**Avoid:**
+- **Top heavy slices** - Best planets far away is bad for your low mobility.
+- **You're always a target** - Plan accordingly.
+- **Funny stuff in the middle** - Asteroids, supernovas, nebulae blocking your path.
 
 ---
 
@@ -178,33 +173,35 @@ Yssaril wants influence for politics, resources for production, and planet count
 
 **Round 1 Priority Rankings:**
 
-1. **Expansion + Production** - Expand to 3-4 systems using your 2 carriers (capacity 8), 1 cruiser, and 5 infantry. Dual carriers allow splitting forces effectively. Claim influence-heavy planets for political dominance and commander unlock.
+1. **Technology** - Get Bio-Stims to start toward Mageon Implants ASAP. This is your key villain tech.
 
-2. **Technology** - Begin tech path toward Mageon Implants (GGG) or unit upgrades. Neural Motivator starting tech opens green paths. Early tech acceleration supports your action card manipulation and political control.
+2. **Expansion + Production** - Expand to 2-3 systems. Dual carriers allow splitting forces effectively.
 
-3. **Scoring** - Avoid Imperial R1. Your strength is political control (Speaker manipulation, Stall Tactics, action card draw) and Commander unlock (hold 7 action cards). Defer scoring until R2-R3 when you have action card advantage and Commander-enabled omniscience.
+3. **Scoring** - Solid starting fleet so some scoring could be done with the right objective.
 
-4. **Breakthrough** - Not a priority R1. Focus on Mageon Implants faction tech and Commander unlock (7 action cards) before pursuing breakthrough technologies. Your political manipulation requires action card saturation first.
+4. **Breakthrough** - Not a priority. Just get it if you happen to get an opportunity for Thunder's Edge or likewise.
 
-**Expansion Notes:** You have 2 carriers (capacity 8 total), 1 cruiser, and 5 infantry. This gives you excellent R1 expansion capability. Aim for 3-4 systems R1. Your dual carriers let you split your forces effectively—send one carrier with 2-3 infantry to grab distant systems, and use the other carrier + cruiser for a closer cluster.
+**Expansion Notes:** Take your carriers to nearby systems. Produce off secondary Warfare if you get the chance. As long as your best planets are nearby you'll have a decent start and can handle any slice.
 
-### B. Commander Dependency
+### B. Military Mediocrity
 
-Your power level spikes dramatically once Commander unlocks. Before Commander: you're a faction with good card draw. After Commander: you're a faction that SEES EVERYTHING. Unlock Commander R2-R3 by drawing aggressively and holding 7 action cards (easy with Crafty).
-
-**Mitigation:** Draw action cards every opportunity. Take Imperial secondary R2 to draw cards. Trade with players for action cards. Unlock Commander by R2-R3 to maximize its impact.
-
-### C. Military Mediocrity
-
-Your units are standard. No combat bonuses, no special abilities (except mech). You're not winning fights through stats—you're winning through action cards (Direct Hit, Morale Boost) and political leverage.
+Your units are standard. No combat bonuses, no special abilities (except mech). You're not winning fights through stats—you're winning through action cards and diplomatic leverage.
 
 **Mitigation:** Use action cards for combat advantage. Avoid unnecessary fights. Let opponents fight each other, then capitalize on weakened winners.
+
+### C. Massive Target
+
+You are hated. Everyone at the table knows you're stealing their best action cards with Mageon, seeing their secrets with your commander, and stalling until they commit before you act. Nobody likes having their plans spoiled, their premiere action cards taken, and being forced to move first while you watch. You have every tool in the game and everyone knows it.
+
+**You critically need an ally.** Find someone who benefits from your chaos or fears your enemies more than you. Without protection, the table will coordinate to shut you down before you become unstoppable.
+
+**Mitigation:** Make yourself useful to at least one strong player. Trade information, share action cards via Spy Net, support their agendas. Be annoying to their enemies, not to them.
 
 ### D. Action Card Knowledge Requirement
 
 Your faction rewards high-skill play. You need to know which action cards are good, when to play them, and how to leverage them politically. Bad Yssaril players hoard cards uselessly. Good Yssaril players extract maximum value from every card.
 
-**Mitigation:** Study the action card deck. Learn which cards win games (Direct Hit, Sabotage, Diplomacy, Warfare, etc.). Practice timing and political leverage.
+**Mitigation:** Study the action card deck. Learn which cards win games.
 
 ---
 
@@ -214,110 +211,34 @@ Your faction rewards high-skill play. You need to know which action cards are go
 
 You start with **Neural Motivator (Green)** (draw 2 action cards during status phase instead of 1).
 
-Your main tech path is highly flexible thanks to Y<>G breakthrough synergy. Neural Motivator synergizes perfectly with Scheming—every status phase you see 3 cards and keep 2. You can go blue for mobility, yellow for economy, or stay green for political/economic tools.
+There is really no argument for skipping Mageon Implants. It is incredibly impactful—stealing opponents' best action cards while knowing exactly what they have. Your tech path should always work toward GGG for Mageon. After that, you can flex into blue for mobility or yellow for economy, but Mageon comes first.
 
-### B. Tech Path 1: Political/Economic (Standard)
+### B. Tech Path (Standard)
 
 **Starting Tech:** Neural Motivator
 
-**Round 1: Sarween Tools OR Bio-Stims (G)**
-- **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
-  - **Why:** Economy boost for constant production. With Y<>G synergy, Sarween counts as green prerequisite.
-  - **Prerequisites:** None (0)
-- **Bio-Stims:** At the end of your turn, you may exhaust this card to ready 1 planet you control with a technology specialty OR 1 of your other technologies
-  - **Why:** Doubles your economic output by readying planets or readying Sarween Tools for double use. Excellent for influence-heavy slices.
-  - **Prerequisites:** 1 green (Neural Motivator)
-
-**Round 2: Psychoarchaeology**
-- You can use technology specialties on planets you control without exhausting them, even if those planets are exhausted. During the action phase, you can exhaust planets you control that have technology specialties to gain 1 trade good.
-- **Why:** TG income from tech specialty planets. Extra economy addresses your 3-resource home system.
-- **Prerequisites:** None (0) - base tech
-
-**Round 3: Gravity Drive (B)**
-- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Why:** Mobility for reaching distant objectives and bypassing defenses. Essential for late game repositioning.
-- **Prerequisites:** 1 blue (need to pick up blue tech)
-
-**Round 4: Transparasteel Plating (G)**
-- During your turn of the action phase, players that have passed cannot play action cards
-- **Why:** Your faction tech. Shuts down opponents' action cards after they pass. Situationally powerful for preventing sabotage/interference.
+**Round 1: Bio-Stims (G)**
+- At the end of your turn, you may exhaust this card to ready 1 planet you control with a technology specialty OR 1 of your other technologies
+- **Why:** Enables double Mageon use per round. This is your core combo piece.
 - **Prerequisites:** 1 green (Neural Motivator)
 
-**Round 5+:** Flex based on objectives (Carrier II, Cruiser II, Fleet Logistics)
+**Round 2: Mageon Implants (GGG)**
+- **With green skip:** Take Mageon directly. Green skip + Neural Motivator + Bio-Stims = GGG.
+- **Without green skip:** Try for double tech that round. Get either:
+  - **Hyper Metabolism (GG)** + Mageon, or
+  - **Transparasteel Plating (G)** + Mageon
 
-**Tech Requirements:**
-- **Yellow skip (very helpful):** Enables Psychoarchaeology path
-- **Blue skip (helpful):** Accelerates Gravity Drive
-- **Green skip (bonus):** Speeds up Bio-Stims
+**Round 3: DET or Antimass Deflectors**
+- **Dark Energy Tap:** Your ships can retreat into adjacent systems with your units. You may produce 1 unit at the start of combat.
+- **Antimass Deflectors:** Your ships can move into and through asteroid fields. -1 to SPACE CANNON rolls against you.
 
-**Pros:**
-- Strong economy (Sarween + Psychoarchaeology TG income + Bio-Stims)
-- Gets faction tech (Transparasteel Plating)
-- Political control focus
+**Round 4: Gravity Drive (B)**
+- +1 move to 1 ship when you activate a system. Bonus fleet movement.
 
-**Cons:**
-- Requires yellow skip for optimal path
-- Delayed mobility (Gravity Drive R3)
-- No unit upgrades until late
+**Round 5: Carrier II (BB)**
+- Cost 3, Combat 9, Move 2, Capacity 6. Bonus fleet movement.
 
-**Best For:** Influence-heavy slices, political objectives, games where you dominate agendas.
-
----
-
-### C. Tech Path 2: Blue Mobility (Alternative)
-
-**Starting Tech:** Neural Motivator
-
-**Round 1: Sarween Tools OR Scanlink Drone Network**
-- **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
-  - **Prerequisites:** None (0)
-- **Scanlink Drone Network:** When you activate a system, you may explore 1 planet in that system that contains 1 or more of your units
-  - **Prerequisites:** None (0)
-  - **Why:** Gain relic fragments and exploration bonuses. Synergizes with spreading units for Commander triggers.
-
-**Round 2: Antimass Deflectors OR Gravity Drive (B) - WITH BLUE SKIP**
-- **Antimass Deflectors:** Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll
-  - **Prerequisites:** None (0)
-- **Gravity Drive:** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-  - **Prerequisites:** 1 blue (with blue skip)
-
-**Round 3: Gravity Drive (B) if skipped R2, otherwise Carrier II (BB)**
-- **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Prerequisites:** 2 blue
-
-**Round 4: Cruiser II (GYR) OR Carrier II (BB)**
-- **Cruiser II:** Cost 2 | Combat 7 | Move 3 | CAPACITY 1
-  - **Prerequisites:** 1 green + 1 yellow + 1 red
-
-**Round 5+:** Fleet Logistics, unit upgrades
-
-**Tech Requirements:**
-- **Blue skip (key):** Accelerates Gravity Drive significantly
-- **Yellow skip (helpful):** Enables Sarween R1
-- **Green skip (bonus):** Speeds Cruiser II
-
-**Pros:**
-- Early mobility (Gravity Drive R2-R3)
-- Unit upgrades for fleet power
-- Exploration bonuses (Scanlink)
-- Better board presence
-
-**Cons:**
-- Delays economy (no Psychoarchaeology TG income)
-- Skips faction tech
-- More military-focused, less political
-
-**Best For:** Resource-heavy slices, control objectives, games where you need fleet presence.
-
----
-
-### D. Tech Priorities by Slice & Neighbors
-
-**Influence-Heavy Slice:** Political path (Path 1). Maximize Psychoarchaeology + Bio-Stims for economy and political control.
-
-**Resource-Heavy Slice:** Blue path (Path 2). Build fleets and unit upgrades, use mobility to control objectives.
-
-**Weak Neighbors:** Consider Mageon Implants (GGG) - your other faction tech that lets you look at and steal from one player's action card hand. Good for targeting specific opponents.
+**Key:** Green skip makes this path smooth. Without it, you need double tech opportunities to hit Mageon by R2.
 
 ---
 
@@ -325,43 +246,41 @@ Your main tech path is highly flexible thanks to Y<>G breakthrough synergy. Neur
 
 ### A. Round 1
 
-Your R1 priority is establishing political control and economy.
-
 **Round 1 Priority Ranking:**
 
-1. **Politics** - Control speaker and agendas. This is YOUR card.
+1. **Trade** - Good way to make early allies. Strong economy solves R1 problems.
 
-2. **Trade** - You have 3 commodities and need economy for production.
+2. **Technology** - Solves your low resource home system. Get Bio-Stims.
 
-3. **Leadership** - Command counters for Stall Tactics usage and expansion.
+3. **Leadership** - Helpful to follow a ton of secondaries.
 
-4. **Technology** - Tech progression if going for fast Psychoarchaeology/Bio-Stims.
+4. **Politics** - Action cards and some extra coins from selling speaker.
 
-5. **Construction** - Build forward dock or PDS network for objectives.
+5. **Diplomacy** - Solid for extra resources R1 and not missing tech.
 
-6. **Warfare** - Redistribution is fine, but you're not hyper-aggressive R1.
+6. **Construction** - An extra forward dock doesn't hurt. Best if all planets are close.
 
-7. **Diplomacy** - Defensive tool but not your priority.
+7. **Warfare** - Fill out a problematic slice. Works with your decent starting fleet.
 
 8. **Imperial** - Never R1.
+
+**Strategy Token Priority:** Tech, Diplomacy, Politics secondaries are your priority follows.
 
 ### B. Round 2+
 
 **Love:**
-- **Politics** - Control agendas, gain speaker. Always take this when available.
-- **Trade** - Consistent economy from 3 commodities. Also good for trading your Spy Net promissory note for favors.
+- **Leadership** - Your stalling tactics are unmatched.
+- **Technology** - Increase late game swing options and get early Mageon.
 
 **Good:**
-- **Leadership** - Command counters for Stall Tactics and production secondaries. You use CCs more than most factions.
-- **Imperial** - Draw action cards from secondary (Scheming trigger). Also needed for scoring R3-R5.
-- **Technology** - Stay on tech path toward faction techs and unit upgrades.
+- **Politics** - Action cards and agenda control.
+- **Imperial** - Scoring and action card draw.
+- **Trade** - Economy and ally-making.
 
 **Situational:**
-- **Construction** - Only if you need structures for objectives or defensive PDS networks.
-- **Warfare** - Only if planning aggressive plays or needing redistribution.
-
-**Hate:**
-- **Diplomacy** - Rarely worth the pick. Your defensive abilities (Crafty + action cards) are sufficient.
+- **Warfare** - When you need fleet redistribution.
+- **Diplomacy** - Can be used for defense since you're prone to being attacked.
+- **Construction** - Forward docks if needed.
 
 ---
 
@@ -371,46 +290,28 @@ Your R1 priority is establishing political control and economy.
 
 Your ideal fleet composition in each system:
 
-- **Carrier + Fighter screen** - Core fleet for capacity and defense
-- **1 Cruiser or Flagship** - Speed and combat power
-- **Infantry** - Ground forces for objectives
-- **1-2 Mechs** - Deploy via Stall Tactics for free ground force power
+- **Carriers** - Core fleet for capacity. You need to transport infantry for objectives and your low mobility means you can't rely on repositioning—bring enough capacity from the start.
+- **Fighters** - Screening and fodder. Absorb hits while your action cards swing combat. Cheap to produce and replace.
+- **Dreadnoughts** - Combat power and Sustain Damage. You have no combat bonuses, so you need the raw dice and HP that dreads provide. Essential for holding contested systems.
+- **Infantry** - Ground forces for objectives. Standard ground game—nothing special but nothing holding you back either.
+- **Mechs (Blackshade Infiltrator)** - Free via Deploy from Stall Tactics. You should never build these normally—just use Stall Tactics and get free mechs throughout the game. Sustain Damage ground forces at no cost.
+- **Flagship (Y'sia Y'ssrila)** - Combat 5 (x2), Move 2, Capacity 3, Sustain Damage. Can move through enemy fleets. Your big hitter for clinching objectives. The move-through ability lets you bypass blockers for critical scoring plays.
 
-Your fleets are standard but efficient. Focus on spreading small forces (1-2 ships + 1-2 ground forces) across many systems to maximize Commander triggers. When opponents activate systems with your units, you see their secrets.
+**Fleet Focus:** Standard efficient fleet augmented by action cards. You don't have combat bonuses, so you win fights through Sabotage, Morale Boost, Direct Hit, and other action cards you've stolen with Mageon. Your mechs are free—use Stall Tactics liberally and accumulate them over time.
 
-**Strategic Unit Placement:**
-- Place 1 fighter or infantry in systems adjacent to Mecatol Rex (see opponents' secrets when they move toward MR)
-- Place ground forces on equidistant planets (see secrets when contested)
-- Spread thin presence across 6-8 systems by R3 for maximum Commander value
+### B. Game Plan
 
-### C. Game Plan
+**Early Game (Rounds 1-2):**
 
-**Strategic Approach:**
+Make a friend—you critically need an ally to survive. Setup your tech path with Bio-Stims R1 and Mageon R2. Reinforce your slice so it's not fun to engage with. Expand to your slice and build a deterrent fleet. Don't focus on building your action card pile yet—survive first.
 
-**Rounds 1-2: Build Hand & Unlock Commander**
-- Take Politics R1 for speaker control
-- Draw action cards aggressively (Scheming triggers, Imperial secondary)
-- Spread units across 6-8 systems for future Commander triggers
-- Unlock Commander by R2-R3 (hold 7 action cards—trivial with Crafty)
+**Mid Game (Rounds 3-4):**
 
-**Rounds 3-4: Information Dominance**
-- Commander active: see opponents' secrets whenever they activate systems with your units
-- Use Stall Tactics to discard cards and deploy free mechs via DEPLOY
-- Trade your Spy Net promissory for favors (letting opponents see your hand for political support)
-- Hero R4: force opponents to discard 3 cards each OR steal their best cards
+Grab the premiere action cards with Mageon. Use stalling to score efficiently while trying not to make yourself a target. Build your action card pile while staying under the radar.
 
-**Round 5: Political Victory**
-- Massive action card hand (10-15 cards) from constant Scheming
-- Perfect information from Commander (you've seen everyone's secrets multiple times)
-- Control final agendas with Politics/Speaker
-- Play action cards to deny opponents' scoring or secure your own
+**Late Game (Round 5+):**
 
-**Key Strategic Principles:**
-1. **Spread units everywhere** - Maximize Commander triggers
-2. **Draw cards constantly** - Scheming + Imperial secondary + Neural Motivator status phase
-3. **Hold 10+ action cards** - Crafty removes hand limit; maintain huge hand
-4. **See opponents' secrets** - Commander gives perfect information when they activate systems with your units
-5. **Trade information for favors** - "I know what you're planning; don't do X or I'll counter"
+Use your death star pile of action cards to swing the game in ways most people cannot understand. Have a clear plan and just flow until the others are done—then it's your time to strike as they sit helplessly and wait.
 
 ---
 
@@ -418,122 +319,123 @@ Your fleets are standard but efficient. Focus on spreading small forces (1-2 shi
 
 ### A. Objective Summary
 
-**Strengths:** Yssaril dominates political objectives with 5 home influence and action card manipulation abilities. Action card objectives like Form a Spy Network are trivial with Scheming and Stall Tactics, and information superiority from So Ata commander enables perfect objective timing.
+**Strengths:** Influence spendies are strong with 5 home influence. Control objectives are good—stalling lets you time your moves perfectly and score when others can't react.
 
-**Weaknesses:** Resource spending objectives are challenging with only 3 home resources. Combat objectives require investment without direct military bonuses, and aggressive objectives may conflict with political manipulation strategy focus.
+**Weaknesses:** Resource spendies are weak with only 3 home resources. Fighting objectives are average—no combat bonuses, but action cards can swing fights. Structures are average—nothing special but nothing holding you back.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
+| **Spendies**                                                            |        |
 | Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Sway the Council (Spend 8 influence)                                    | 🟢     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| **Control**                                                             |        |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
+| **Ships in Systems**                                                    |        |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
+| **Structure**                                                           |        |
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
-
-Yssaril excels at influence-spending objectives (Sway the Council), spread objectives (Intimidate the Council, Expand Borders), and action card objectives thanks to Scheming and unlimited hand size.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
+| **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
+| Darken the Skies (Win combat in another player's HS)                    | 🔴     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
-| Dictate Policy (3+ laws in play)                                        | 🟢     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| **Control**                                                              |        |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| Prove Endurance (Last to pass)                                          | 🔴     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟡     |
+| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟢     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                        | 🟡     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🟢     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
-
-**Notes:**
-- **Form a Spy Network (Discard 5 action cards)** is TRIVIAL for Yssaril—you discard constantly via Scheming and Stall Tactics
-- **Dictate Policy and Drive the Debate** are EASY due to your political dominance (Politics primary, 5 influence at home)
-- **Establish Hegemony (12+ influence)** is EASY with your 5 influence home system
-- **Mechanize the Military** is EASY because you deploy free mechs via Stall Tactics
-- **Commander lets you see opponents' secret objectives**—steal contested secrets or counter their plans
+| Prove Endurance (Last to pass)                                          | 🟢     |
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
+| **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
-| Found a Golden Age (Spend 16 resources)                                  | 🔴     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🟢     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🔴     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
+| **Control**                                                              |        |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| **Ships in Systems**                                                     |        |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| **Tech**                                                                 |        |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🔴     |
+| **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-**Notes:**
-- **Manipulate Galactic Law (16 influence)** is EASY with 5 influence at home + expansion
-- **Galvanize the People (6 tokens)** is achievable with standard command token management
-- Yssaril struggles with resource-heavy objectives (Founded a Golden Age) due to only 3 resources at home
-- Political and token objectives are your strength
 
 ---
 
@@ -551,19 +453,19 @@ Trading for other factions' Alliance promissory notes grants you access to their
 
 4. **Muaat (Magmus)** – Gain 1 TG after spending strategy token. Synergizes with active strategy card usage.
 
-5. **Titans of Ul (Tungstantus)** – Gain 1 TG when using PRODUCTION. Consistent income for constant production.
+5. **Nekro Virus (Nekro Acidos)** – Draw 1 action card after gaining technology. Synergizes perfectly with your action card focus.
 
 **Good:**
 
-6. **Empyrean (Xuange)** – Return command token when opponents move into systems with your tokens. Excellent late game slaying—you spread units everywhere for Commander triggers anyway.
+6. **Winnu (Rickar Rickani)** – Apply +2 combat in MR, home system, and legendary planet systems. Defensive boost in key locations.
 
-7. **Nekro Virus (Nekro Acidos)** – Draw 1 action card after gaining technology. Synergizes perfectly with your action card focus.
+7. **Last Bastion (Nip and Tuck)** – Action cards cannot be canceled by Sabotage. Your action cards become uncounterable.
 
-8. **Naaz-Rokha (Dart and Tai)** – After gaining control of planet from another player, explore that planet. Useful if playing aggressively.
+8. **Empyrean (Xuange)** – Return command token when opponents move into systems with your tokens. Excellent late game slaying—you spread units everywhere for Commander triggers anyway.
 
-9. **Barony of Letnev (Rear Admiral Farran)** – After unit uses Sustain Damage, gain 1 TG. Value from dreadnoughts and mechs.
+9. **Council Keleres (Suffi An)** – Perform additional action after action card component action. Large hand means more flexibility to find component actions.
 
-10. **Winnu (Rickar Rickani)** – Apply +2 combat in MR, home system, and legendary planet systems. Defensive boost in key locations.
+10. **Yin Brotherhood (Brother Omar)** – Green prereq + skip prereqs when researching others' tech. Helps tech path flexibility if acquired early.
 
 ---
 
@@ -581,15 +483,14 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Yssaril Tribes wins through unfair information advantage. Your job is to:
+Yssaril Tribes is the faction for players who want to feel like the smartest person at the table. You don't win through raw power—you win because you always have the answer. Sabotage when they commit. Direct Hit when they sustain. Stall Tactics when they want you to act.
 
-1. **Unlock Commander by R2-R3** - Hold 7 action cards (trivial with Crafty) to see opponents' secrets
-2. **Spread units everywhere** - Place 1-2 units in 6-8 systems to trigger Commander constantly
-3. **Draw action cards aggressively** - Scheming + Imperial secondary + Neural Motivator = 20-30 cards seen
-4. **Hold 10-15 action cards** - Crafty removes hand limit; always have the right answer
-5. **Use Stall Tactics liberally** - Discard cards for actions and deploy free mechs via DEPLOY
-6. **Hero R4-R5** - Force opponents to discard 15 cards total or steal their best cards
+The experience of playing Yssaril is uniquely satisfying. You're holding 15 cards while everyone else has 3. You know their secrets, their promissory notes, their plans. When Mageon steals their Sabotage and you use it against them next round, they realize the game was never fair.
 
-You see their secrets, their action cards, their objectives. Use that knowledge to always have the perfect counter ready.
+Your biggest strength is inevitability. Every round, your hand grows. Every activation against you, you see their cards. Every tech they research while you have Mageon, you might just take it first. The longer the game goes, the more unfair your advantage becomes.
+
+When you nail Yssaril, you feel like a puppet master pulling strings. The table knows you have answers but can't know which ones. They hesitate. They second-guess. They waste resources preparing for counters you may or may not have. That uncertainty is your real weapon.
+
+Yssaril doesn't win through fair fights—they win because fair was never part of the plan.
 
 **THE TRIBES SEE ALL.**

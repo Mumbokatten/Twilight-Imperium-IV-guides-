@@ -4,474 +4,424 @@
 
 ## I. Introduction
 
-The Federation of Sol is TI4's infantry and carrier specialist, humanity's faction built around overwhelming ground forces and exceptional transport capacity. While other factions see ground combat as secondary to space battles, you see it as your primary victory path. With upgraded carriers that cost only 3 resources, infantry that hit on 7, and the ability to drop infantry anywhere via Critical Drop, you're the faction that wins wars through boots on the ground.
+Federation of Sol is TI4's vanilla faction—and that's a compliment. No gimmicks, no weird restrictions, just solid fundamentals that let you do anything. Versatile gives you +1 command token per round. Neural Motivator draws you extra action cards. Your carriers and infantry are pre-upgraded. You have the tools to expand, fight, trade, or politic as the game demands.
 
-Your defining trait is Versatile, which gives you +1 command token during status phase. This seemingly small bonus compounds into significant action economy over a game - you get 7-8 command tokens per round while opponents get 6-7. Combined with Neural Motivator starting tech (refreshes command tokens on secondaries), you have more activations than almost anyone.
-
-The Federation of Sol excels at ground combat superiority, carrier-based expansion, and action economy through command token generation. You start with Neural Motivator and Antimass Deflectors, giving you immediate command token efficiency and movement flexibility. Your faction technologies upgrade your already-strong carriers and infantry. Your commander provides free infantry during defense. You don't win through flashy abilities - you win through having more units in more places with more activations than opponents can match.
+Sol's flexibility means you can adapt to any board state, any objective spread, any table dynamic. Other factions specialize; you generalize. That makes Sol excellent for learning the game and surprisingly strong at high levels when played by someone who understands how to leverage options.
 
 ## II. Playstyle
 
-The Sol philosophy is controlled aggression through superior numbers and logistics. You want to expand aggressively using your cheap carriers and numerous infantry, claim planets through ground combat superiority, and leverage your extra command tokens to maintain pressure across multiple fronts.
+Sol plays like a well-oiled military machine. You expand steadily, build up production, and overwhelm through sheer numbers rather than tricks. Your extra command tokens let you take more actions than opponents, and your upgraded carriers make expansion cheap and efficient.
 
-Early game Sol focuses on leveraging your starting advantages. You begin with 5 infantry (most in the game), 2 carriers (excellent transport), and Neural Motivator (command token efficiency). Use your carriers to claim 2-3 systems immediately, depositing infantry to hold planets. Your Advanced Carrier I costs only 3 resources, making fleet expansion affordable.
+You're not flashy—you're consistent. Claim territory early, defend it with your commander's free infantry, and scale into late game where your production and action economy compound into dominance.
 
-Mid-game transitions into ground combat dominance and command token advantage. Your Spec Ops I infantry hit on 7 instead of 8, giving you a significant edge in invasions. Your Versatile ability means you're generating 1 extra command token per round, funding additional activations. Use Critical Drop to deploy infantry directly to contested planets, bypassing normal transport limitations.
+Sol rewards fundamental TI4 skills: good expansion, smart token management, and knowing when to fight versus when to build. You don't have a "win button" ability—you win by doing everything slightly better than everyone else.
 
-Late game Sol is about overwhelming production and ground force superiority. Your Advanced Carrier II provides Sustain Damage and 8 capacity, making carriers incredibly resilient. Your Spec Ops II infantry have a 33% chance to return after dying, creating infinite recursion. Your Genesis flagship produces 1 free infantry per round. Your hero clears all your command tokens from the board, enabling massive multi-front assaults in one round.
-
-## III. The Basics
+## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
 **Home System:** Jord
 - 4 resources / 2 influence
-- **Total: 4 optimal resources / 2 optimal influence**
+- **Total: 4 resources / 2 influence (4 optimal resources / 0 optimal influence)**
 
 **Commodities:** 4
 
-Your home system provides strong resources (4) for production and moderate influence (2). It's a solid economic base that supports your production-heavy strategy.
+Strong resources at home combined with 4 commodities means excellent early economy. Combined with Versatile's extra command token, you have an incredible economic foundation. Single-planet home system is also nearly impenetrable with Spec Ops defending it.
 
 ### B. Starting Fleet
-- 2 Carriers (capacity 12 total - these are Advanced Carrier I)
+- 2 Carriers
 - 1 Destroyer
 - 3 Fighters
 - 5 Infantry
 - 1 Space Dock
 
-You start with more infantry than any other faction (5) and your carriers are already upgraded to Advanced Carrier I with 6 capacity each. This gives you immediate superiority in ground forces and transport.
+Very solid starting fleet. Two capacity ships and 5 infantry lets you solve almost any slice round 1.
 
 ### C. Faction Abilities
 
-**Critical Drop:** Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.
+**Orbital Drop:** Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.
 
-This is orbital drop capability. You can deploy infantry directly to any planet you control (even contested ones) without needing carriers present. This enables defensive reinforcement and surprise ground combat swings.
+Deploy infantry directly to any planet you control without needing carriers. Mid/late game ability—don't use early when you need those strategy tokens. Enables defensive reinforcement and surprise ground combat swings once you have tokens to spare.
 
 **Versatile:** When you gain command tokens during the status phase, gain 1 additional command token.
 
-You get +1 command token per round. Over a 7-round game, that's 7 extra activations compared to opponents. This is massive action economy advantage.
++1 command token per round. Massive action economy advantage over the course of a game.
+
+**Advanced Carrier I:** Cost 3, Combat 9, Move 1, Capacity 6. Your carriers have +2 capacity over standard carriers.
+
+**Spec Ops I:** Cost 1 (x2), Combat 7. Your infantry hit on 7 instead of 8.
 
 ### D. Starting and Faction Technologies
 
 **Starting Technologies:**
 
-**Neural Motivator:** During the action phase, after you perform an action, gain 1 command token if you have no command tokens in your strategy pool.
+- **Neural Motivator (G):** Draw 2 action cards instead of 1 during status phase. Bonus action cards always nice, part of your flexibility. Sets up Spec Ops II path.
+- **Antimass Deflectors (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against you. Allows for slice diversity, solving most issues. Sets up Advanced Carrier II path.
 
-**Antimass Deflectors:** Ships gain +1 movement when moving through or out of asteroid fields or supernovas.
+**Faction Unit Upgrades:**
 
-Neural Motivator is incredible - you can use secondaries freely because you'll regain the strategy pool token immediately. Antimass Deflectors provides movement flexibility.
-
-**Faction Technologies:**
-
-(Add faction technology information here if available from the cheat sheet)
+- **Advanced Carrier II (BB):** Cost 3, Combat 9, Move 2, Capacity 8, Sustain Damage. Takes an already incredible ship (Carrier II) and adds Sustain Damage plus extra capacity. Your carriers become nearly unkillable transports.
+- **Spec Ops II (GG):** Cost 1 (x2), Combat 7. On death, 5+ returns to home system. 60% recursion on a d10.
 
 ### E. Leaders
 
 **Agent - Evelyn DeLouis:** At the start of a ground combat round, you may exhaust this card to choose 1 ground force in the active system. That ground force rolls 1 additional die during this combat round.
 
-Your agent gives +1 die to one ground force per combat round. Use it on your Spec Ops infantry (which hit on 6-7 with upgrade) or mechs for maximum value.
+Pretty bad—just a single bonus roll. But you're already difficult to beat on the ground, and ground combat snowballs quickly since engagements are usually small. An extra hit early can make a big difference, and opponents have to account for it.
 
 **Commander - Claire Gibson:**
 - **Unlock:** Control planets that have a combined total of at least 12 resources
 - **Ability:** At the start of a ground combat on a planet you control, you may place 1 infantry from your reinforcements on that planet.
 
-Your commander gives you free defensive infantry whenever opponents invade your planets. This makes you incredibly difficult to invade - every planet defense gets +1 infantry automatically.
+Same theme—always nice but limited. Only triggers at start of ground combat, so can't defend empty planets or planets that get bombarded out first. Still, free infantry on defense is free infantry.
 
 **Hero - Jace X, 4th Air Legion:**
 - **Unlock:** Have 3 scored objectives
 - **Helio Command Array:** Remove each of your command tokens from the game board and return them to your reinforcements. Then, purge this card.
 
-This hero clears all your command tokens from the board, returning them to your pool. This enables massive multi-system activations in one round - potentially activating 8-10 systems in a single action round if you've been spreading tokens across the map.
+Clears all your command tokens from the board, returning them to your pool. Enables late game control plays as long as you have a big token bank saved up.
 
 ### F. Promissory Note
 
 **Military Support:** At the start of the Sol player's turn, remove 1 token from the Sol player's strategy pool, if able, and return it to his reinforcements. Then, you may place 2 infantry from your reinforcements on any planet you control. Then, return this card to the Sol player.
 
-This promissory note gives the holder free infantry deployment (like Critical Drop). It's valuable for factions needing ground force support, making your promissory note a strong diplomatic tool.
+Very solid economic tool. Make sure buyers only use it after you've spent your strategy tokens. Always sell for at least 1 TG and try to pawn it as many times as possible once your strategy pool is empty.
 
 ### G. Alliance
 
-When you activate a system, your ally may spend 1 token from their strategy pool to place 2 infantry from their reinforcements on 1 planet they control in that system. At the start of a ground combat on a planet you or your ally control, you or your ally may place 1 infantry from your or your ally's reinforcements on that planet.
+Your Alliance gives your ally your commander—free infantry when defending ground combat. Simple but solid for factions that struggle on the ground.
 
-This extends both Critical Drop and your commander's defensive infantry to your ally. They gain your ground combat advantages, creating a powerful military alliance.
+Your military reputation lets you trade up for better alliances. Factions scared of your production and infantry swarm will offer their Alliance to stay on your good side—use this leverage to get access to stronger commanders than your own.
 
-### H. Mech
+### H. Mech - **ZS Thunderbolt M2**
 
-**ZS Thunderbolt M2:** Cost 2, Combat 6, Sustain Damage
+Cost: 2 | Combat: 6 | **Sustain Damage**
 
-**DEPLOY:** After you use your Critical Drop faction ability, you may spend 3 resources to place 1 mech on that planet.
+**DEPLOY:** After you use your Orbital Drop faction ability, you may spend 3 resources to place 1 mech on that planet.
 
-Your mechs can deploy alongside infantry via Critical Drop for 3 additional resources. This enables rapid mech deployment to contested planets without needing carriers.
+Not a great mech. The deploy ability costs 3 resources on top of Orbital Drop's strategy token—expensive for what you get. Only use in emergency cases. Maybe build a few to complement your strong Spec Ops, but with Breakthrough you can produce so many infantry for a way cheaper cost—mechs become even less useful.
 
-### I. Flagship
+### I. Flagship - **Genesis**
 
-**Genesis:** Cost 8, Combat 5 (x2), Move 1, Capacity 12, Sustain Damage
+Cost: 8 | Combat: 5 (x2) | Move: 1 | Capacity: 12 | **Sustain Damage**
 
 At the end of the status phase, place 1 infantry from your reinforcements in this system's space area.
 
-Your flagship has massive capacity (12) and generates 1 free infantry per round. The infantry appears in space, requiring a carrier or landing to become useful, but it's free production that compounds over time.
+Crazy ship. Full fighting power with 2 dice at combat 5, massive 12 capacity, and free infantry every round. Can be sling relayed to drop another 12 infantry or fighters wherever needed. Should be the cornerstone of your already incredible armada of super carriers.
 
-### J. Breakthrough
+Note: If you have weak/damaged carriers on the frontline, move them back to a space dock—with Breakthrough you get bonus production when building new carriers.
 
-**Bellum Gloriosum:** Y<>G (Yellow-Green synergy)
+### J. Breakthrough - **Bellum Gloriosum (Y<>G)**
 
 When you produce a ship that has capacity, you may also produce any combination of ground forces or fighters up to that ship's capacity. They do not count against your PRODUCTION limit.
 
-This is absurd. When you produce a carrier (capacity 6-8), you can produce 6-8 additional infantry or fighters for free (still pay their cost, but they don't count against production). This enables massive army building in one production cycle.
+**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+
+Absurd production. Produce a carrier and get infantry/fighters up to its capacity without counting against production. Enables massive army building in one activation. The Y<>G synergy isn't useful unless you want Dreadnought II.
 
 ### K. Slice Considerations
 
-**Must Have:**
-- At least 4-5 high-resource planets for production (you'll be building many carriers and infantry)
-- Some influence planets (you need influence for politics despite being military-focused)
-- Access to Mecatol Rex or key military objectives
+**Speaker Priority:** Handles anything, but extra good with an early pick—taking the best slice makes the game harder for others while you thrive regardless. Always nice to have some target planets in equidistants from neighbors for early expansion pressure.
 
-**Nice to Have:**
-- Yellow tech skips (supports Spec Ops II and breakthrough)
-- Green tech skips (supports Spec Ops II and breakthrough)
-- Hazardous planets (your Spec Ops are effective at invading these)
+Slice priority isn't really a thing for Sol—you handle anything.
+
+**Prefer:**
+- Slight resource bias (Versatile and incredibly efficient production)
+- Access to Mecatol
+- Tech skips for Breakthrough
+- Top objectives in reach
+- Can prioritize 4 planets of one trait or 6 planet objectives since any slice layout works for you
+- Entropic very strong for tech tempo
 
 **Avoid:**
-- Low-resource slices (you're production-heavy and need resources)
-- Isolated slices with difficult expansion paths (you want to push outward aggressively)
-- Slices without ground combat opportunities (wastes your infantry advantage)
+- Things blocking Mecatol access
 
-**Speaker Priority:** Medium (3-5th pick)
-
-You're not desperate for early picks but benefit from Leadership or Construction for expansion. Mid-pack is fine.
-
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
-As Federation of Sol, your first turn priorities should reflect your infantry-focused expansion and command token advantage. Here's the recommended ordering:
+Sol has no real Round 1 problems—your starting fleet solves any slice, and your flexibility means you adapt to whatever objectives appear.
 
-1. **Expansion + Production** - Your 5 starting infantry (most in game), 2 Advanced Carrier I (cost 3 each), and Versatile (+1 CC per round) make you the premier expansion faction. Claim 2-3 systems Round 1 using your cheap carriers and abundant infantry. Neural Motivator ensures command token sustainability.
+**Round 1 Priority Rankings:**
 
-2. **Technology** - Push toward Advanced Carrier II (Sustain Damage + 8 capacity) or Spec Ops II (infantry return on 5-6 after death). However, territorial expansion comes first—tech accelerates an existing infantry empire, it doesn't create one.
+1. **Breakthrough** - Bellum Gloriosum is incredible for Sol. Produce infantry/fighters up to carrier capacity without counting against production limit—absurd army building.
 
-3. **Breakthrough** - Bellum Gloriosum (produce ground forces/fighters up to ship capacity without counting against production) is game-changing but requires multiple carriers and production infrastructure. Early expansion priority.
+2. **Scoring** - You can score most Round 1 objectives without issue.
 
-4. **Scoring** - Your ability to score Round 1 is decent (territorial objectives), but your real power emerges Round 3+ when commander unlocks (12 resources worth of planets) for defensive infantry and Critical Drop enables instant reinforcement anywhere.
+3. **Technology** - Grab a tech if you can, sets up your faction tech paths.
 
-**Space Combat Mediocrity:** You have no space combat bonuses or special abilities. Your carriers hit on 9 (terrible), and you rely on fighters for space combat power. Against dedicated space combat factions, you're outmatched.
+4. **Expansion + Production** - Two carriers with 5 infantry handles any slice. Take what you need and build more carriers.
 
-**Resource Intensity:** Carriers cost 3, infantry cost 0.5 each, but you're building many of both. You need strong resource economy to sustain your production rate.
+**Expansion Notes:** Split your carriers to take 2 systems. Your 5 infantry lets you garrison multiple planets solidly. Produce more carriers off secondary Warfare if possible—each carrier is only 3 resources. Your flexibility means any expansion pattern and movement works.
 
-**Commander Unlock Threshold:** Requiring 12 resources worth of planets sounds easy but is round 3-4 before you typically unlock. Early aggression can delay this significantly.
+### B. Flavorless / Low Surprise Factor
 
-**Ground Combat Dependency:** Your strength is ground combat, but you need to win space battles first to land troops. If you can't achieve space superiority, your infantry advantages are wasted.
+Sol doesn't have real weaknesses—that's the point of a vanilla faction. You have solid starting tech, solid starting fleet, extra command tokens, upgraded infantry, upgraded carriers, and flexibility to do anything.
 
-**Influence Poverty:** Only 2 influence from home system makes you influence-poor. You rely on planet expansion for influence, making politics challenging early.
-
-**Slow Tech Progression:** While you start with 2 techs, both your faction techs require significant prerequisites (Advanced Carrier II needs BB, Spec Ops II needs GG). Tech paths are expensive.
+The tradeoff is you're predictable. Everyone knows what Sol does—expand, produce, overwhelm. No tricks, no surprises, no "gotcha" moments. Other factions have crippling weaknesses but also game-warping abilities. Sol just plays TI4. Your "weakness" is that you don't have a broken ability that wins games by itself—you win through fundamentals.
 
 ## V. Technology
 
-### A. Starting Technologies
+### A. Overview
 
-**Neural Motivator:** Regain 1 command token after actions if strategy pool is empty
+You start with **Neural Motivator (Green)** and **Antimass Deflectors (Blue)**.
 
-**Antimass Deflectors:** +1 movement through/from asteroid fields and supernovas
+Tech path is easy for Sol. Rush Gravity Drive for mobility, Sling Relay for repositioning, then Advanced Carrier II for your incredible super carriers. Flex into whatever the game demands after that.
 
-### B. Technology Paths
+### B. Tech Path (Standard)
 
-**Path 1 - Carrier Upgrade Rush:**
-1. Neural Motivator + Antimass Deflectors (starting)
-2. Gravity Drive (B) - 2-movement for carriers
-3. Advanced Carrier II (BB) - Faction tech upgrading carriers
-4. Sarween Tools - Economic efficiency
-5. Spec Ops II (GG) or other tech
+**Starting Tech:** Neural Motivator, Antimass Deflectors
 
-Rushes Advanced Carrier II for Sustain Damage carriers with 8 capacity.
+**Round 1: Gravity Drive (B)**
+- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **Why:** 2-movement carriers. Essential for Sol's expansion and reach.
 
-**Path 2 - Infantry Upgrade Focus:**
-1. Neural Motivator + Antimass Deflectors (starting)
-2. Bio-Stims (G) - Exhaust planets for 2 infantry
-3. Spec Ops II (GG) - Faction tech upgrading infantry
-4. Hyper Metabolism (GG) - Planet readying
-5. Psychoarchaeology or other utility
+**Round 2: Sling Relay (B)**
+- ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
+- **Why:** Reposition carriers across the map. Combined with your production, this is huge.
 
-Maximizes ground combat through upgraded infantry and production.
+**Round 3: Advanced Carrier II (BB)**
+- Cost 3, Combat 9, Move 2, Capacity 8, Sustain Damage.
+- **Why:** Your faction tech. Makes an already incredible ship even better with Sustain Damage and 8 capacity.
 
-**Path 3 - Balanced Military:**
-1. Neural Motivator + Antimass Deflectors (starting)
-2. Gravity Drive (B) - Mobility
-3. Sarween Tools - Economy
-4. Advanced Carrier II (BB) - Faction tech
-5. Dreadnought II (BBY) or Cruiser II (GYR) - Space combat capability
+**Flex Techs (Round 4/5):**
 
-Balances carrier upgrades with space combat improvements.
-
-### C. Key Technologies
-
-**Must Get:**
-- **Advanced Carrier II:** Faction tech giving carriers Sustain Damage and 8 capacity
-- **Gravity Drive:** 2-movement carriers are critical for your expansion
-- **Sarween Tools:** Economic efficiency for your production-heavy strategy
-
-**High Priority:**
-- **Spec Ops II:** Faction tech making infantry return on 5-6 die roll after death
-- **Bellum Gloriosum:** Breakthrough producing free ground forces with carriers
-- **Bio-Stims:** 2 infantry production via planet exhaust
-
-**Solid Options:**
-- **Fleet Logistics:** Double activation
-- **Dreadnought II or Cruiser II:** Space combat capability
-- **Hyper Metabolism:** Planet readying for multiple productions
+- **Bio-Stims (G):** Ready a tech specialty planet or another technology at end of turn. Double Sling Relay use.
+- **Fleet Logistics (BB):** Perform 2 actions per turn instead of 1. Sneaky late game plays.
+- **Fighter II (GB):** Combat 8, Move 2. Fighters can move independently. You produce so many anyway.
+- **Light/Wave Deflector (BBB):** Your ships can move through systems with other players' ships. Control plays and blocking people.
+- **Dreadnought II (BBY):** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, Bombardment 5. If you need fleet mobility and have too many resources.
 
 ## VI. Strategy Cards
 
 ### A. Round 1
 
-Your R1 priority is maximizing expansion with Versatile ability and establishing production base.
+Your R1 priority is maximizing expansion and establishing production base. Early resources help unlock Breakthrough.
 
 **Round 1 Priority Ranking:**
 
-1. **Leadership** - 3 command tokens + Versatile means you get 4 total. Excellent for expansion.
+1. **Trade** - 4 commodities for early resources. Easy Breakthrough unlock with the TGs.
 
-2. **Technology** - You need Advanced Carrier II and Spec Ops II; Technology accelerates this.
+2. **Technology** - Early resources and get Gravity Drive. Accelerates your carrier swarm.
 
-3. **Trade** - 4 commodities makes Trade solid economic value for funding expansion.
+3. **Leadership** - Early resources and easy Breakthrough unlock.
 
-4. **Construction** - Extra space dock or PDS supports expansion and production capabilities.
+4. **Politics** - Early resources, action cards, selling speaker. Easy Breakthrough unlock.
 
-5. **Warfare** - Fleet token return is valuable; secondary redistributes tokens efficiently.
+5. **Diplomacy** - Extra resources R1 and not missing tech secondary.
 
-6. **Imperial** - Points are the goal; you can hold objectives with infantry superiority.
+6. **Construction** - Production secondary helpful if Warfare isn't picked.
 
-7. **Politics** - Only 2 home influence makes politics weaker for you than most.
+7. **Warfare** - Fleet token return is valuable but you expand fine without it.
 
-8. **Diplomacy** - You're aggressive, not defensive. Diplomacy conflicts with your playstyle.
+8. **Imperial** - Never R1.
+
+**Strategy Token Priority:** Trade and Warfare secondaries are your priority follows.
 
 ### B. Round 2+
 
 **Love:**
-- **Imperial** - Score objectives. Your infantry production enables holding key planets and objectives.
+- **Imperial** - Score objectives. You'll have Mecatol plays available late game.
 - **Leadership** - 3 command tokens + Versatile gives you 4 total. Essential for sustained expansion.
-- **Technology** - Stay on path for Advanced Carrier II and Spec Ops II. Critical upgrades.
+- **Trade** - Massive production needs massive economy. Refresh 4 commodities.
 
-**Like:**
-- **Warfare** - Fleet token return valuable for repositioning. Secondary helps redistribute efficiently.
-- **Trade** - Refresh 4 commodities for consistent economy.
-- **Construction** - Additional space docks or PDS for production and expansion support.
+**Good:**
+- **Technology** - One tech per round is fine.
+- **Politics** - Action cards and selling speaker. Setting up scoring.
 
 **Situational:**
-- **Politics** - Your 2 home influence makes voting difficult. Only take if you've expanded to influence planets.
+- **Warfare** - Fleet mobility for aggressive plays.
+- **Construction** - Additional space docks if needed.
+- **Diplomacy** - Defensive use only. Can protect key planets.
 
-## VII. Intermediate
+## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 
-**Early Game (Rounds 1-3):**
-- Core: 3-4 Carriers (Advanced Carrier I), 1-2 Destroyers, 0-1 Cruisers
-- Screen: 4-6 Fighters
-- Ground: 10-15 Infantry (Spec Ops I), 0-1 Mechs
-- Support: 1-2 Space Docks, 1-2 PDS
+Your ideal fleet composition in each system:
 
-**Mid Game (Rounds 3-5):**
-- Core: 5-6 Carriers (transitioning to Advanced Carrier II), 2-3 Destroyers, 1-2 Cruisers
-- Screen: 8-12 Fighters
-- Ground: 18-25 Infantry (Spec Ops I/II), 1-2 Mechs
-- Support: 2 Space Docks, 2-3 PDS
-- Special: Genesis flagship if affordable
+- **Carriers (Advanced Carrier II)** - Your core unit. Cost 3, Combat 9, Move 2, Capacity 8, Sustain Damage. Build more carriers than any other faction. The Sustain Damage makes them incredibly hard to kill—opponents need to chew through your carriers before reaching anything else.
+- **Infantry (Spec Ops)** - Hit on 7 instead of 8. Your bread and butter. With Breakthrough, every carrier you produce can bring infantry for free (not counting against production). Overwhelm opponents with sheer numbers.
+- **Fighters** - Cheap screening and combat dice. You produce so many with Breakthrough anyway. Protect your carriers and add space combat power.
+- **Flagship (Genesis)** - Cost 8, Combat 5 (x2), Move 1, Capacity 12, Sustain Damage. Free infantry every status phase. Cornerstone of your late game armada. Can be sling relayed to drop 12 units wherever needed.
+
+**Lower Priority:**
+- **Dreadnoughts** - Only if you have excess resources and want fleet mobility with Dreadnought II. Your carriers already have Sustain Damage so dreads add less value than for other factions.
+- **Mechs** - Emergency only. With Breakthrough you produce infantry so cheaply that mechs aren't worth the cost. The Deploy ability is overpriced.
+
+**Fleet Focus:** Carrier swarm with Genesis flagship. Your Advanced Carrier II with Sustain Damage is one of the best ships in the game. Stack multiple carriers with infantry and fighters, protected by Sustain Damage, and overwhelm through numbers.
+
+### B. Game Plan
+
+**Early Game (Rounds 1-2):**
+
+Expand and get custodian. Your starting fleet solves any slice—split carriers and take what you need. Focus on getting Gravity Drive and setting up for Breakthrough unlock. Build carriers and expand aggressively.
+
+**Mid Game (Rounds 3-4):**
+
+Decide on your target. You have three main options:
+
+1. **Fracture** - Go for legendary planets and relics. Your carrier mobility and infantry numbers make you excellent at taking and holding Fracture systems.
+
+2. **Mecatol Rex** - Grab it or defend it if you already have it. Your commander gives free infantry on defense, making you incredibly hard to dislodge. Orbital Drop can reinforce instantly.
+
+3. **Pick a Neighbor** - Extract value from a weak neighbor. Your carrier swarm and Spec Ops can pressure opponents into deals or take their planets outright.
 
 **Late Game (Rounds 5+):**
-- Core: 6-8 Carriers (Advanced Carrier II), 3-4 Destroyers/Cruisers, 1-2 Dreadnoughts
-- Screen: 12-16 Fighters
-- Ground: 25-35 Infantry (Spec Ops II), 2-3 Mechs
-- Support: 2-3 Space Docks, 3-4 PDS
-- Special: Genesis flagship producing free infantry
 
-**Notes:**
-- Carriers are your core unit; build more carriers than any other faction
-- Infantry count should be 2-3x higher than other factions
-- Don't over-invest in expensive ships; your strength is numbers, not quality
-- Flagship's free infantry compounds over time; build it by round 4-5 if possible
-
-### C. Game Plan
-
-**Carrier Swarm Strategy:**
-
-Your primary game plan revolves around building many Advanced Carriers and filling them with infantry for rapid expansion.
-
-**Round 1-2:** Build 2-3 additional carriers using your space dock. Each carrier costs only 3 resources and holds 6 infantry. Use these carriers to claim 3-4 systems rapidly, depositing infantry garrisons on valuable planets.
-
-**Round 3-4:** Research Advanced Carrier II if possible. Now your carriers have Sustain Damage and 8 capacity. This makes them incredibly resilient transports that can survive combat while carrying massive infantry armies. Continue expansion.
-
-**Round 5+:** You should have 6-8 carriers by now, each holding 6-8 infantry. This gives you 48-64 infantry distributed across the map. Use Critical Drop to reinforce contested planets. Use your commander's defensive infantry to make invasions costly. Your hero can clear tokens for multi-front assault.
-
-**Critical Drop Tactical Use:**
-
-Your Critical Drop ability (spend strategy token to place 2 infantry on a planet you control) has multiple applications:
-1. **Defensive Reinforcement:** Enemy threatens invasion? Drop 2 infantry before they land.
-2. **Ground Combat Swing:** During invasion, drop 2 infantry mid-combat for overwhelming numbers.
-3. **Rapid Garrison:** Just captured a planet? Drop 2 infantry to secure it immediately.
-
-The limitation is it costs a strategy pool token, which with Neural Motivator you'll regain, but timing matters.
-
-**Commander Defense Strategy:**
-
-Once Claire Gibson unlocks (12 resources worth of planets), every planet you control gets +1 free infantry when invaded. This makes you incredibly difficult to attack:
-- Opponent invades with 4 infantry? You defend with your garrison + 1 free infantry.
-- Multiple invasions? Every planet gets +1 infantry.
-
-Combined with Critical Drop, you can defend planets with 3+ additional infantry beyond what's already there.
-
-**Bellum Gloriosum Production:**
-
-Your breakthrough lets you produce ground forces/fighters up to capacity without counting against production when producing capacity ships. Example:
-- Produce 1 Advanced Carrier II (capacity 8) = use 1 production
-- Also produce 8 Spec Ops infantry = uses 0 additional production
-- Total: 1 carrier + 8 infantry using only 1 production value
-
-With PRODUCTION 5 space dock, you can produce 5 carriers + 40 infantry in one activation. This is absurd army building.
+Custodian and score actively—you can win from behind. Your hero (Jace X) clears all command tokens from the board for one massive multi-front assault round—use this to secure final objectives or eliminate threats. By now you should have Advanced Carrier II with Sustain Damage and Breakthrough production online. Overwhelm through numbers.
 
 ## VIII. Objectives
 
 ### A. Objective Summary
 
-**Strengths:** Sol excels at ground combat and invasion objectives with superior infantry and Versatile command token generation. Planet control objectives are easy with carrier mobility and numerous ground forces, and combat objectives benefit from overwhelming infantry numbers.
+**Strengths:** Almost everything is moderate or easy for Sol. Your flexibility, carrier mobility, and infantry numbers mean you can adapt to whatever objectives appear. Spendies, control, ships in systems, combat—all accessible.
 
-**Weaknesses:** Tech diversity objectives can be challenging depending on paths chosen. Spending objectives may be difficult without strong economic bonuses, though Versatile helps with command token spending goals.
+**Weaknesses:** Structure objectives are harder (you're not building PDS networks). Certain tech objectives can be tricky depending on your path. Stage II control objectives (6 same trait, 11 planets) require significant commitment.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
+| **Spendies** |
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
-| Sway the Council (Spend 8 influence)                                    | 🔴     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| Sway the Council (Spend 8 influence)                                    | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
+| **Control** |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
+| **Ships in Systems** |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech** |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
+| **Structure** |
+| Build Defenses (Have 4 or more structures)                              | 🔴     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
-
-Sol excels at CC-spending objectives (Versatile + Neural Motivator), unit upgrade objectives (Advanced Carrier II + Spec Ops II paths), and planet control objectives (carrier swarm expansion). You struggle with influence-spending before expansion (only 2 home influence) and tech diversity objectives.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
+| **Combat** |
+| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
-| Brave the Void (Win combat in anomaly)                                  | 🟡     |
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
+| Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟢     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟡     |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| **Ships in Systems** |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟢     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟢     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| **Control** |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                        | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                          | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
-| Strengthen Bonds (Have another player's PN)                             | 🟡     |
+| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
+| **Tech** |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
+| **Structure/Units** |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
+| **Other** |
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
+| Strengthen Bonds (Have another player's PN)                             | 🟢     |
+| Prove Endurance (Last to pass)                                          | 🟢     |
 
-**Notes:**
-- **Stake Your Claim** is EASY—ground combat superiority enables invasions of contested planets
-- **Darken the Skies** is EASY—carrier swarms can invade opponent home systems
-- **Mechanize the Military** is EASY—Critical Drop deploys mechs directly to planets
-- **Occupy the Fringe** is EASY—Spec Ops infantry production creates massive ground armies
-- Influence/political secrets are HARD—only 2 home influence limits political power
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| **Spendies** |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
-| Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
+| **Control** |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟢     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| **Ships in Systems** |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
+| **Tech** |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| **Structure** |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
-**Christmas-Land Points Tracker:**
-
-| Round | Strat Card  | Stage I | Stage II | Secrets | Total |
-|-------|-------------|---------|----------|---------|-------|
-| 1     | Leadership  | 0       | 0        | 0       | 0     |
-| 2     | Technology  | 1       | 0        | 1       | 2     |
-| 3     | Imperial    | 2       | 0        | 1       | 3     |
-| 4     | Warfare     | 3       | 1        | 2       | 6     |
-| 5     | Imperial    | 4       | 2        | 2       | 8     |
-| 6     | Leadership  | 5       | 2        | 2       | 9     |
-| 7     | Imperial    | 6       | 2        | 2       | 10    |
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ## IX. Alliance Priority
 
-**Best Alliance Partners:**
+Trading for other factions' Alliance promissory notes grants you access to their commanders, potentially boosting your strategy significantly. Your military reputation lets you trade up for better alliances.
 
-1. **Xxcha Kingdom:** Defensive faction values your Military Support PN; you benefit from their defensive PDS network
+**Top Tier:**
 
-2. **Arborec:** Your infantry production synergizes with their space-taking infantry; combined ground superiority
+1. **Nomad (Navarch Feng)** – Produce flagship without spending resources. Crazy combo with Genesis and Sling Relay—free flagship production then sling it across the map with 12 capacity.
 
-3. **Winnu:** Weak faction benefits from your military support; you benefit from their Mecatol focus
+2. **Crimson Rebellion (Ahk Siever)** – At end of combat, gain commodity/TG. You fight constantly—this adds up fast.
 
-4. **Yssaril:** Political faction provides influence you lack; you provide military muscle
+3. **Deepwrought (Aello)** – When others research tech, gain commodity/TG if they take -1 discount. Passive TG income.
 
-5. **Naalu:** Mobile faction benefits from your garrison support; you benefit from their initiative control
+4. **Muaat (Magmus)** – Gain 1 TG after spending strategy token. Synergizes with your high activation count.
 
-**Worst Alliance Partners:**
+5. **Barony of Letnev (Rear Admiral Farran)** – After unit uses Sustain Damage, gain 1 TG. Incredible value with Advanced Carrier II sustains.
 
-1. **L1Z1X Mindnet:** Another aggressive military faction; redundant strengths create competition
+**Good:**
 
-2. **Sardakk N'orr:** Combat faction doesn't provide what you need; overlapping military focus
+6. **Winnu (Rickar Rickani)** – Apply +2 combat in MR, home system, and legendary planet systems. Helps your weak space combat.
 
-3. **Mentak Coalition:** Pirates don't synergize with your production-heavy style
+7. **Empyrean (Xuange)** – Return command token when opponents move into systems with your tokens. Late game value with your spread-out presence.
+
+8. **Naaz-Rokha (Dart and Tai)** – After you gain control of planet from another player, explore that planet. Extra value from conquests.
+
+9. **Mentak Coalition (S'ula Mentarion)** – Force opponent to give PN after winning space combat. Steal promissory notes from your conquests.
+
+10. **Firmament Obsidian** – Firmament treats planets in systems with ships as controlled for scoring secrets (your carrier swarm is everywhere). Obsidian gives +1 combat in The Fracture for late game Styx plays.
 
 ## X. Bonus Game Elements
 
@@ -487,12 +437,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Federation of Sol is the faction for players who love combined arms warfare, logistics management, and overwhelming force. You're not the flashiest faction - no teleportation, no instant-win abilities, no game-breaking combos. You're the faction that simply has more infantry, more carriers, and more activations than opponents can match.
+Federation of Sol is the faction for players who want to master TI4 fundamentals. No gimmicks, no flashy combos—just carriers, infantry, and more activations than anyone can handle.
 
-The key to mastering Sol is understanding that quantity is a quality all its own. Your carriers cost 3 resources. Your infantry hit on 7. You get +1 command token per round. These small advantages compound into overwhelming superiority over 6-7 rounds.
+Your strength is flexibility. Any objective pool works. Any slice works. Any neighbor works. While other factions hunt for their combo pieces, you're already scoring.
 
-Your biggest strength is sustainability. Other factions spike in power then fade. You build momentum that accelerates. Every round you control more planets, produce more units, and have more activations. By round 5, you're an unstoppable force that owns half the galaxy's ground territory.
+When you nail Sol, the game feels simple. You spread, you produce, you score. Opponents are still setting up their engines when you're already at full capacity. The galaxy belongs to whoever shows up with more boots on the ground and ships in the sky.
 
-When you nail Sol, you feel like a military industrial complex conquering the galaxy through sheer production and logistics. Your carriers swarm across the map like locusts. Your infantry garrison every valuable planet. Your commander makes you impossible to invade. Your hero enables devastating multi-front assaults.
+Federation of Sol doesn't win through tricks—they win through showing up.
 
-Federation of Sol doesn't conquer the galaxy through tricks - they conquer it through boots on the ground, carriers in the sky, and more command tokens than anyone else. And when victory comes, it's because you controlled more planets with more troops executing more activations than opponents could possibly counter.
+**UNITY. RESOLVE. EXPANSION.**

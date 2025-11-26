@@ -114,7 +114,7 @@ Strong defensive alliance for factions that need flexible retreat options. Provi
 
 **Analysis:** Excellent action card economy tool. You collect every action card discarded by all players during the round, then cherry-pick the best one when you pass. This can give you critical cards like Direct Hit, Sabotage, or combat modifiers. The Y<>G synergy also helps with tech pathing.
 
-## IV. Structural Weaknesses
+## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
@@ -300,28 +300,29 @@ Opponent attacks System B:
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| Erect a Monument (Spend 8 resources)                                    | 🟡     |
-| Sway the Council (Spend 8 influence)                                    | 🟢     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
+| **Spendies** |  |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| Sway the Council (Spend 8 influence)                                    | 🟢     |
+| **Control** |  |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
+| **Ships in Systems** |  |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Build Defenses (Have 4 or more structures)                              | 🟢     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟡     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
+| **Tech** |  |
+| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
+| **Structure** |  |
+| Erect a Monument (Spend 8 resources)                                    | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
 
-**Legend:** 🟢 Easy | 🟡 Moderate | 🔴 Difficult
+🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 Ral Nel has particular strengths with structure-based objectives. Miniaturization makes moving structures trivial, and mobile PDS networks make Build Defenses and Improve Infrastructure easier than most factions. Your 4-influence home system helps with Sway the Council.
 
@@ -329,45 +330,50 @@ Ral Nel has particular strengths with structure-based objectives. Miniaturizatio
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🔴     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| **Combat** |  |
 | Become a Martyr (Lose control of planet in home system)                 | 🔴     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🔴     |
 | Brave the Void (Win combat in anomaly)                                  | 🔴     |
 | Darken the Skies (Win combat in another player's HS)                    | 🔴     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟡     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🔴     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟢     |
+| **Ships in Systems** |  |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟡     |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
+| **Control** |  |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
+| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
+| Seize an Icon (Control legendary planet)                                | 🟡     |
+| Stake Your Claim (Control planet in contested system)                   | 🟡     |
+| **Tech** |  |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
+| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
+| **Structure/Units** |  |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
+| **Other** |  |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
-| Control the Region (Ships in 6 systems)                                 | 🟡     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟡     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
 | Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
 | Prove Endurance (Last to pass)                                          | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟡     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
 | Strengthen Bonds (Have another player's PN)                             | 🟡     |
 
 Ral Nel has strong synergy with Turn their Fleets to Dust (Linkships provide abundant Space Cannon shots) and Establish a Perimeter (mobile PDS are core to your strategy). Commander retreat ability makes retreat-based objectives more feasible. Combat-focused secrets remain difficult since you're not a combat faction.
@@ -376,27 +382,32 @@ Ral Nel has strong synergy with Turn their Fleets to Dust (Linkships provide abu
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
-| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
-| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| **Spendies** |  |
+| Dictate Policy (Spend X influence)                                      | N/A    |
+| Drive the Debate (Spend X influence)                                    | N/A    |
+| Wield Authority (Spend X influence)                                     | N/A    |
+| Produce En Masse (Spend X resources)                                    | N/A    |
+| Dominate Economic Policy (Spend X resources/trade goods)                | N/A    |
+| **Control** |  |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🔴     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
-| Construct Massive Cities (Have 7+ structures)                            | 🟢     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
+| Form Galactic Brain Trust (Control 5 tech specialty planets)            | N/A    |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
+| **Ships in Systems** |  |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
+| **Tech** |  |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
+| **Structure** |  |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Construct Massive Cities (Have 7+ structures)                            | 🟢     |
 
-**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
+🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 Ral Nel excels at structure objectives in Stage II. Construct Massive Cities and Protect the Border are significantly easier due to Miniaturization. Your mobility and defensive tools make positioning objectives feasible, but aggressive combat objectives remain challenging for this faction.
 
