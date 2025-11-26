@@ -1,6 +1,31 @@
+[← Back to Index](../index.html)
+
 # Federation of Sol Guide
 
 *Art credit: Fantasy Flight Games*
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech---zs-thunderbolt-m2) · [Flagship](#i-flagship---genesis) · [Breakthrough](#j-breakthrough---bellum-gloriosum-yg) · [Slice and Draft](#k-slice-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+   - [First Turn Priorities](#a-first-turn-priorities) · [Flavorless / Low Surprise Factor](#b-flavorless--low-surprise-factor)
+5. [Technology](#v-technology)
+   - [Overview](#a-overview) · [Tech Path](#b-tech-path-standard)
+6. [Strategy Cards](#vi-strategy-cards)
+   - [Round 1](#a-round-1) · [Round 2+](#b-round-2)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+   - [Unit Composition](#a-unit-composition) · [Game Plan](#b-game-plan)
+8. [Objectives](#viii-objectives)
+   - [Objective Summary](#a-objective-summary) · [Stage I](#b-stage-i-objectives) · [Secret Objectives](#c-secret-objectives) · [Stage II](#d-stage-ii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+    - [Action Cards](#a-high-value-action-cards) · [Relics](#b-relic-priorities) · [Agendas](#c-agenda-awareness)
+11. [End Notes](#xi-end-notes)
+
+---
 
 ## I. Introduction
 
