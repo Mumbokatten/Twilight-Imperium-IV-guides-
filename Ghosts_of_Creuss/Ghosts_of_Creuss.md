@@ -430,10 +430,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-The map is a suggestion. You don't travel through space—you fold it.
+Ghosts of Creuss is the faction for players who want to rewrite the rules of movement. While others crawl across the galaxy system by system, you fold space itself. Every wormhole is your doorway, and by mid-game, the entire map is one jump away.
 
-Every wormhole is a door. By mid-game, the entire galaxy is one move away. Opponents can't hide. That back-line space dock? Adjacent. Their home system? One jump.
+Your biggest strength is positional omnipresence. That back-line space dock? Adjacent. Their home system? One move. Mecatol Rex? Always reachable. You don't fight for position—you simply appear where you need to be. Opponents can't hide because distance doesn't exist for you.
 
-Play Ghosts when you want to outmaneuver rather than outfight. You're not the strongest fleet on the board—you're the one that's always in position.
+The Ghosts experience is uniquely satisfying. You're not the strongest fleet at the table, but you're always in position. While others commit forces to one front, you threaten three. Your hero can literally rearrange the galaxy when victory is on the line. Your wormhole network becomes a production empire with Particle Synthesis—no space docks required.
+
+When you master Ghosts, you feel untouchable. Opponents can't pin you down because you're never truly committed. They can't defend everywhere, but you can attack anywhere. The galaxy bends to your will.
 
 **Distance is an illusion.**
