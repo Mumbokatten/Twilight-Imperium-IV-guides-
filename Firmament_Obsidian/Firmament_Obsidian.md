@@ -705,7 +705,10 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 
@@ -717,6 +720,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 **Structure**
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
 

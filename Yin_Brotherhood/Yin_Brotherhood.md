@@ -451,16 +451,20 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 | **Tech** | |
 | Corner the Market (Control 4 planets with same trait)                   | 🟡     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | **Structure** | |
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### C. Secret Objectives
 
