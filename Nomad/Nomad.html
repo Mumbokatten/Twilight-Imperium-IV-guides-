@@ -9,6 +9,151 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -25,60 +170,111 @@
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="../water.css" />
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Nomad Guide</h1>
 </header>
+<p><a href="../index.html">← Back to Index</a></p>
 <h1 id="nomad-guide">Nomad Guide</h1>
 <figure>
 <img src="NomadArt.webp" alt="Nomad" />
 <figcaption aria-hidden="true">Nomad</figcaption>
 </figure>
+<h2 id="contents">Contents</h2>
+<ol type="1">
+<li><a href="#i-introduction">Introduction</a></li>
+<li><a href="#ii-playstyle">Playstyle</a></li>
+<li><a href="#iii-faction-info-and-drafting">Faction Info and
+Drafting</a>
+<ul>
+<li><a href="#a-home-system--commodities">Home System &amp;
+Commodities</a> · <a href="#b-starting-fleet">Starting Fleet</a> · <a
+href="#c-faction-abilities">Faction Abilities</a> · <a
+href="#d-starting-and-faction-technologies">Technologies</a> · <a
+href="#e-leaders">Leaders</a> · <a
+href="#f-promissory-note---the-cavalry">Promissory Note</a> · <a
+href="#g-alliance">Alliance</a> · <a
+href="#h-mech---quantum-manipulator">Mech</a> · <a
+href="#i-flagship---memoria-i">Flagship</a> · <a
+href="#j-breakthrough---thunders-paradox">Breakthrough</a> · <a
+href="#k-slice-and-draft-considerations">Slice and Draft</a></li>
+</ul></li>
+<li><a href="#iv-round-1-problems-and-faction-weakness">Round 1 Problems
+and Faction Weakness</a>
+<ul>
+<li><a href="#a-first-turn-priorities">First Turn Priorities</a> · <a
+href="#b-flagship-reliance">Flagship Reliance</a></li>
+</ul></li>
+<li><a href="#v-technology">Technology</a>
+<ul>
+<li><a href="#a-overview">Overview</a> · <a href="#b-tech-path">Tech
+Path</a></li>
+</ul></li>
+<li><a href="#vi-strategy-cards">Strategy Cards</a>
+<ul>
+<li><a href="#a-round-1">Round 1</a> · <a href="#b-round-2">Round
+2+</a></li>
+</ul></li>
+<li><a href="#vii-unit-composition-and-game-plan">Unit Composition and
+Game Plan</a>
+<ul>
+<li><a href="#a-unit-composition">Unit Composition</a> · <a
+href="#b-game-plan">Game Plan</a></li>
+</ul></li>
+<li><a href="#viii-objectives">Objectives</a>
+<ul>
+<li><a href="#a-objective-summary">Objective Summary</a> · <a
+href="#b-stage-i-objectives">Stage I</a> · <a
+href="#c-secret-objectives">Secret Objectives</a> · <a
+href="#d-stage-ii-objectives">Stage II</a></li>
+</ul></li>
+<li><a href="#ix-alliance-priority">Alliance Priority</a></li>
+<li><a href="#x-bonus-game-elements">Bonus Game Elements</a>
+<ul>
+<li><a href="#a-high-value-action-cards">Action Cards</a> · <a
+href="#b-relic-priorities">Relics</a> · <a
+href="#c-agenda-awareness">Agendas</a></li>
+</ul></li>
+<li><a href="#xi-end-notes">End Notes</a></li>
+</ol>
 <hr />
 <h2 id="i.-introduction">I. Introduction</h2>
-<p>The Nomad are a unique agent-focused faction with THREE agents
-instead of one. This faction excels at agent manipulation, voting
-rewards through Future Sight, and flagship teleportation via mech
-placement. Nomad isn’t about raw military power—it’s about information
-control, political maneuvering, and leveraging your triple-agent
-advantage to create value from every transaction.</p>
-<p>The payoff? Having 3x the agent uses of normal factions, gaining
-trade goods from correct agenda predictions, and teleporting your
-flagship across the map via mech positioning. When you master agent
-timing and political reads, every agenda phase becomes a trade goods
-generator and every transaction leverages your agent superiority.</p>
+<p>The Nomad are temporal wanderers—collectors of agents and artifacts
+from across the multiverse. You’re the only faction that starts with
+your flagship on the board, and you have three agents instead of
+one.</p>
+<p>Your Memoria flagship treats any system with your mechs as adjacent.
+Place mechs across the galaxy and your flagship can appear anywhere in a
+single move. Future Sight lets you see which way the political winds
+blow, rewarding you with trade goods for voting correctly.</p>
+<p>This is a faction about leverage. Every agent exhaust is a favor
+someone owes you. Every mech placement expands your reach. Every agenda
+is income. You’re the table’s broker, and everyone needs what you’re
+selling.</p>
 <h2 id="ii.-playstyle">II. Playstyle</h2>
-<p>Playing Nomad is like being a political broker with perfect
-information. Your The Company ability gives you 3 agents (Thundarian,
-Artuno, Field Marshal Mercer), your Future Sight rewards correct
-voting/predictions with trade goods, and your Memoria flagship can
-teleport to systems with your mechs. You’re not trying to win through
-conquest—you’re winning through transactions, political capital, and
-strategic positioning.</p>
-<p>The key strength of Nomad is action economy. Three agents means 3x
-the exhausts, 3x the favors to trade, and 3x the tactical options each
-round. Understanding when to exhaust each agent—and which to save for
-critical moments—separates good Nomad players from great ones.</p>
-<p>Opponents will underestimate your political power until you’ve
-extracted 3 separate favors for your agent uses and gained 6+ trade
-goods from Future Sight predictions. That moment when you’ve traded all
-3 agents for alliance promissories and scored objectives off those
-deals? Pure efficiency.</p>
+<p>Playing Nomad means building wealth and spending it wisely. Future
+Sight generates passive trade goods every agenda phase. Four commodities
+fuel your trades. Artuno banks everything for perfectly timed objective
+scoring. By mid-game you’re sitting on piles of money.</p>
+<p>Your three agents are political currency. Every exhaust is a favor
+someone owes you, leverage you can call in when it matters. You solve
+objectives through wealth and diplomatic capital rather than military
+dominance. Other factions fight for what they need—you buy it (or take
+it).</p>
 <hr />
 <h2 id="iii.-faction-info-and-drafting">III. Faction Info and
 Drafting</h2>
 <h3 id="a.-home-system-commodities">A. Home System &amp;
 Commodities</h3>
-<p><strong>Home System:</strong> (No traditional home system - Nomad is
-special)</p>
+<p><strong>Home System:</strong> - <strong>Arcturus:</strong> 4
+resources / 4 influence = 2 optimal resources + 2 optimal influence -
+<strong>Total: 4 resources / 4 influence (2 optimal resources / 2
+optimal influence)</strong></p>
 <p><strong>Commodities:</strong> 4</p>
-<p><strong>Notes:</strong> Nomad has no traditional home system in PoK.
-This means you can score objectives even without controlling “planets in
-your home system.” Your 4 commodities fuel your trading-heavy playstyle.
-High commodity count pairs excellently with Trade strategy card and your
-Future Sight trade good generation.</p>
+<p><strong>Notes:</strong> Good defensively and good production. Strong
+for flexibility depending on needs and slice. 4 commodities support your
+trade-heavy playstyle.</p>
 <h3 id="b.-starting-fleet">B. Starting Fleet</h3>
 <ul>
 <li>1 Flagship (Memoria I)</li>
@@ -88,101 +284,86 @@ Future Sight trade good generation.</p>
 <li>4 Infantry</li>
 <li>1 Space Dock</li>
 </ul>
-<p><strong>Notes:</strong> You start with your flagship on the board,
-which is rare. The Memoria flagship has AFB 8(x3)—devastating against
-fighter swarms. Your starting fleet is mobile but not particularly
-strong in combat. Focus on expansion and mech placement R1-2 rather than
-aggression.</p>
+<p><strong>Notes:</strong> Very solid starting fleet. You start with
+your flagship on the board—no one will mess with you early. The Memoria
+has AFB 8(x3) which shreds fighter screens. Can handle most slices with
+access to blue tech for bonus movement.</p>
 <h3 id="c.-faction-abilities">C. Faction Abilities</h3>
 <p><strong>The Company (Faction Ability):</strong> During setup, take
 the 2 additional Nomad faction agents and place them next to your
 faction sheet; you have 3 agents.</p>
-<p>Your defining ability. You have THREE agents instead of
-one—Thundarian (combat reroll), Artuno (store TGs), and Field Marshal
-Mercer (move ground forces). This is absurd action economy. Each agent
-can be traded separately, exhausted for different tactical purposes, and
-creates political capital.</p>
+<p>Three agents instead of one—Thundarian, Artuno, and Field Marshal
+Mercer. Gives flexibility and combos with your breakthrough. Nothing
+special but fun flavor.</p>
 <p><strong>Future Sight (Faction Ability):</strong> During the agenda
 phase, after an outcome you voted for or predicted is resolved, gain 1
 trade good.</p>
-<p>Voting rewards ability. If you vote correctly OR predict correctly
-(via Riders/Xxcha), gain 1 TG. Over a game, this generates 8-15 TGs just
-from voting with the majority. Incentivizes political reads and
-coalition-building.</p>
+<p>Easily forgotten but helpful for small bonus income. Only triggers if
+you vote for the outcome that passes—assuming 4 agenda phases and voting
+with the majority, expect 4-8 TGs over a game.</p>
 <h3 id="d.-starting-and-faction-technologies">D. Starting and Faction
 Technologies</h3>
 <p><strong>Starting Technologies:</strong></p>
-<p><strong>Sling Relay (Blue)</strong> - During your tactical actions,
-if you do not control a planet in the active system, exhausted planets
-you control refresh before you produce units.</p>
-<p><strong>Notes:</strong> Incredibly powerful starting tech. Sling
-Relay lets you double-tap planets for production—exhaust for resources,
-produce, then they refresh for next activation. This effectively doubles
-your economy when expanding into unoccupied systems. Excellent for R1-2
-expansion.</p>
+<p><strong>Sling Relay (Blue)</strong> - ACTION: Exhaust this card to
+produce 1 ship in any system that contains 1 of your space docks.</p>
+<p><strong>Notes:</strong> Helpful R1 to get an extra ship out for a
+solid start on expansion. Also combos with commander—once Navarch Feng
+is unlocked, use Sling Relay to produce your flagship for free at any
+space dock.</p>
 <p><strong>Faction Technologies:</strong></p>
+<p>Kind of hard to tech—usually requires a yellow skip or green skip.
+With Gravity Drive, you can send your flagship all over the map to
+inflict damage and take objectives freely. If someone kills it, another
+one appears (commander + Sling Relay).</p>
 <p><strong>Memoria II (GBY):</strong> <em>Nomad Flagship - Cost: 8 |
 Combat: 5 (x2) | Move: 2 | Capacity: 6 | Sustain Damage | ANTI-FIGHTER
 BARRAGE 5 (x3)</em></p>
 <p>You may treat this unit as if it were adjacent to systems that
 contain 1 or more of your mechs.</p>
-<p>Upgraded flagship with Move 2 (instead of 1), Capacity 6 (instead of
-3), and can be treated as adjacent to systems with your mechs (enables
-mech-based teleportation).</p>
+<p>Move 2, Capacity 6. Heavy prerequisites but strong upgrade if you can
+get there. Also increases your Cavalry promissory value.</p>
 <p><strong>Temporal Command Suite (Y):</strong> <em>After any player’s
 agent becomes exhausted, you may exhaust this card to ready that agent;
 if you ready another player’s agent, you may perform a transaction with
 that player.</em></p>
-<p>Agent-ready tech. When any agent (yours or opponents’) is exhausted,
-exhaust this to ready it. If you ready an opponent’s agent, make a
-transaction with them. Incredible political leverage and allows
-double-use of agents.</p>
+<p>Can be a diplomatic tool and combos well with your breakthrough to
+gain even more leverage. Needs a strong target agent to make use of and
+fairly optimal setup.</p>
 <h3 id="e.-leaders">E. Leaders</h3>
 <p><strong>Agent - The Thundarian:</strong></p>
 <p>After the “Roll Dice” step of combat: You may exhaust this card. If
 you do, hits are not assigned to either player’s units. Return to the
 start of this combat round’s “Roll Dice” step.</p>
-<p>Combat reroll agent. After dice are rolled (before assigning hits),
-exhaust to reroll the entire combat round. Use this when you rolled
-poorly or opponent rolled perfectly. Devastating in critical space
-battles—essentially gives you 2 attempts at favorable rolls.</p>
+<p>Save for critical combats—flagship fights, MR invasions, defending
+home. Early rolls have more impact than late ones. Calculate expected
+hits for both sides to see if the roll was unlucky enough to reroll.</p>
 <p><strong>Agent - Artuno the Betrayer:</strong></p>
 <p>When you gain trade goods from the supply: You may exhaust this card
 to place an equal number of trade goods on this card. When this card
 readies, gain the trade goods on this card.</p>
-<p>Trade good banking agent. When you gain TGs (from Trade, Future
-Sight, transactions), exhaust Artuno to store them. They’re protected
-from effects like “each player loses 2 TGs” and you gain them all back
-when Artuno readies next turn. Also useful for timing: bank TGs R3,
-spend R4 for objectives.</p>
+<p>Mostly comboed with Trade TGs, otherwise fairly small value. Can add
+TGs from Future Sight if you think Trade isn’t happening. Also combos
+with Mallice.</p>
 <p><strong>Agent - Field Marshal Mercer:</strong></p>
 <p>At the end of a player’s turn: You may exhaust this card to allow
 that player to remove 2 of their ground forces from the game board and
 place them on planets they control in the active system.</p>
-<p>Ground force teleportation agent. Move 2 infantry from ANYWHERE to
-the active system (planets you control). Use this offensively: invade
-with carrier, exhaust Mercer to teleport 2 additional infantry for
-overwhelming force. Or defensively: move infantry to reinforce
-threatened planets.</p>
+<p>Really weak and rarely useful. Your main target for your
+breakthrough.</p>
 <p><strong>Commander - Navarch Feng:</strong> <em>Unlock: Have 1 scored
 secret objective.</em></p>
 <p>You can produce your flagship without spending resources.</p>
-<p>Extremely easy unlock (just score 1 secret). After unlocking, produce
-your flagship for FREE whenever you want. If your Memoria flagship dies,
-immediately rebuild it for 0 resources. This makes your flagship
-essentially unkillable economically—losing it costs 0 resources to
-replace.</p>
+<p>Not a great unlock condition if you get a good action secret you want
+to keep. Hopefully you’re not planning on losing your flagship early.
+One of the most sought after alliances.</p>
 <p><strong>Hero - Ahk-Syl Siven:</strong> <em>Unlock: Have 3 scored
 objectives.</em></p>
 <p><strong>Probability Matrix - ACTION:</strong> Place this card near
 the game board; your flagship and units it transports can move out of
 systems that contain your command tokens during this game round. At the
 end of that game round, purge this card.</p>
-<p>Movement Hero. For one entire round, your flagship ignores the
-“cannot move into/out of activated systems” rule. This is Fleet
-Logistics specifically for your flagship + cargo for one full round. Use
-R5-6 for rapid repositioning across the board, objective scoring, or
-surprise invasions.</p>
+<p>Late game to solve late game objectives, hopefully when people have
+passed. Can keep moving the flagship and/or reproduce.</p>
 <h3 id="f.-promissory-note---the-cavalry">F. Promissory Note -
 <strong>The Cavalry</strong></h3>
 <p>At the start of a space combat against a player other than the Nomad:
@@ -190,293 +371,202 @@ During this combat, treat 1 of your non-fighter ships as if it has the
 Sustain Damage ability, combat value, and ANTI-FIGHTER BARRAGE value of
 the Nomad’s flagship. Return this card to the Nomad player at the end of
 the combat.</p>
-<p>Temporary flagship promissory. Give a player’s ship Sustain + Combat
-7 + AFB 8(x3) for one combat. This is incredibly powerful—turns a
-cruiser into a pseudo-flagship. Trade value: 4-5 TG or alliance
-promissory. Best used for players about to fight difficult battles.</p>
+<p>Trade value: 1-2 TG with Memoria I, 3-4 TG with Memoria II. Careful
+not to give the wrong person a key battle victory.</p>
 <h3 id="g.-alliance">G. Alliance</h3>
-<p>Your system tiles can contain both your units and another player’s
-units without having combat. Your ships in your ally’s systems do not
-prevent them from taking actions with those systems.</p>
-<p>Shared systems alliance. Strong defensive value—ally can park ships
-in your systems for mutual defense without triggering combat. Trade
-value: 3-4 TG.</p>
+<p>Whoever holds your alliance card has your Commander (Navarch Feng -
+produce flagship without spending resources).</p>
+<p>Very strong alliance. The 8 resources saved is meaningful for anyone.
+Top tier alliance to trade—demand a good one in return.</p>
 <h3 id="h.-mech---quantum-manipulator">H. Mech - <strong>Quantum
 Manipulator</strong></h3>
 <p>Cost: 2 | Combat: 6 | <strong>Sustain Damage</strong></p>
 <p><strong>Special Ability:</strong> While this unit is in a space area
 during combat, you may use its Sustain Damage ability to cancel a hit
 that is produced against your ships in this system.</p>
-<p>Incredible defensive mech. During space combat, your mech on the
-planet can Sustain hits assigned to your ships. This effectively gives
-your fleet a free Sustain Damage tank. Place mechs on contested border
-planets for space defense.</p>
-<p><strong>Flagship Teleportation:</strong> Your Memoria flagship treats
-systems with your mechs as adjacent. Place mechs strategically to create
-teleportation network.</p>
+<p>Ability is okay—can be used if you have dominant ground force and
+need some juice in an unlucky space battle. Place mechs strategically to
+create your flagship teleportation network.</p>
 <h3 id="i.-flagship---memoria-i">I. Flagship - <strong>Memoria
 I</strong></h3>
 <p>Cost: 8 | Combat: 7 (x2) | Move: 1 | Capacity: 3 | <strong>Sustain
 Damage</strong> | <strong>ANTI-FIGHTER BARRAGE 8 (x3)</strong></p>
 <p><strong>Special Ability:</strong> You may treat this unit as if it
 were adjacent to systems that contain 1 or more of your mechs.</p>
-<p>Teleportation flagship. Your flagship can move as if adjacent to ANY
-system containing your mechs. If you have mechs in 5 systems across the
-board, your flagship can move to any of those systems (1 movement). This
-bypasses normal movement restrictions entirely.</p>
-<p><strong>Strategic Implications:</strong> - Place mechs in key systems
-R1-3 to create teleportation network - Your flagship can appear anywhere
-you have mechs with 1 movement - Use this for rapid Mecatol Rex claims,
-surprise invasions, or defensive repositioning - AFB 8(x3) deletes
-fighter screens—roll 3 dice needing 8+ to hit</p>
-<h3 id="j.-faction-technologies">J. Faction Technologies</h3>
-<p><strong>Memoria II (Green/Blue/Yellow)</strong> - Flagship
-Upgrade</p>
-<p>Cost: 8 | Combat: 5 (x2) | Move: 2 | Capacity: 6 | <strong>Sustain
-Damage</strong> | <strong>ANTI-FIGHTER BARRAGE 5 (x3)</strong></p>
-<p>You may treat this unit as if it were adjacent to systems that
-contain 1 or more of your mechs.</p>
-<p>Flagship upgrade with better stats. Combat drops from 7 to 5 (worse),
-but AFB improves from 8 to 5 (better hit chance), Move increases from 1
-to 2, and Capacity from 3 to 6. The 3-color prerequisite is steep—only
-research if you’re heavily invested in tech.</p>
-<p><strong>Temporal Command Suite (Y)</strong></p>
-<p>After any player’s agent becomes exhausted, you may exhaust this card
-to ready that agent; if you ready another player’s agent, you may
-perform a transaction with that player.</p>
-<p>Agent manipulation tech. When ANY player exhausts an agent (including
-yours or opponents’), exhaust this card to ready it immediately. If you
-ready opponent’s agent, you can transaction with them. Enables
-double-agent uses per round or powerful political trades.</p>
-<h3 id="k.-breakthrough-technology">K. Breakthrough Technology</h3>
-<p><strong>Thunder’s Paradox (Yellow&lt;&gt;Green)</strong> - Temporal
-Entanglement</p>
+<p>Okay flagship at the unupgraded version, but strong ship to start
+with. Use your strong early presence to not get bullied and perhaps
+greedily grab an extra equidistant.</p>
+<h3 id="j.-breakthrough---thunders-paradox-yg">J. Breakthrough -
+<strong>Thunder’s Paradox (Y&lt;&gt;G)</strong></h3>
 <p>At the start of any player’s turn, you may exhaust 1 of your agents
 to ready any other agent.</p>
-<p>More agent manipulation. Exhaust one agent to ready another at start
-of any turn. This lets you use the same agent twice per round or ready
-opponent agents for favors. Synergizes with having 3 agents—always have
-one to exhaust.</p>
+<p>Double-use agents or ready opponent agents for favors. Get if optimal
+agents available to combo with.</p>
+<p><strong>Y&lt;&gt;G Synergy:</strong> Helpful for Memoria II and
+Bio-Stims Sling Relay combo for stalling. Other than that, you’re
+probably more blue focused.</p>
+<h3 id="k.-slice-and-draft-considerations">K. Slice and Draft
+Considerations</h3>
+<p><strong>Speaker Order:</strong> Speaker is great. Earlier better but
+can handle most positions. Looking for friendly trade partners as
+neighbors.</p>
+<p><strong>Slice Priorities:</strong> - Flexible slice with high optimal
+values. - Access to Mecatol.</p>
+<p><strong>Avoid:</strong> - Anomalies in the middle of slice.</p>
+<p><strong>Nice to Have:</strong> - Entropic. - Yellow/green skips for
+breakthrough and faction tech.</p>
 <hr />
 <h2 id="iv.-round-1-problems-and-faction-weakness">IV. Round 1 Problems
 and Faction Weakness</h2>
 <h3 id="a.-first-turn-priorities">A. First Turn Priorities</h3>
-<p>As Nomad, your first turn priorities should reflect your unique
-triple-agent economy and mobile Memoria flagship. Here’s the recommended
-ordering:</p>
+<p><strong>Round 1 Priority Rankings:</strong></p>
 <ol type="1">
-<li><p><strong>Scoring</strong> - The Company ability (use 3 agents each
-once per round without exhausting) makes you incredibly flexible. Your
-starting tech (Sling Relay: ready planets after producing in
-uncontrolled systems) enables rapid expansion scoring. Score exploration
-secrets early. Future Sight generates trade goods from correct agenda
-voting.</p></li>
-<li><p><strong>Expansion + Production</strong> - Your Memoria flagship
-teleports to systems with your mechs. Deploy mechs Round 1 to create
-teleportation network, then use flagship to claim distant high-value
-planets. Your 4 commodities and Sling Relay support economic expansion.
-Arcturus (legendary planet) provides 4 influence + trade goods when
-exhausting neighbors.</p></li>
-<li><p><strong>Technology</strong> - Push toward Temporal Command Suite
-(exhausts opponent components when you gain tech via secondaries) or
-unit upgrades. However, leveraging your 3-agent flexibility and flagship
-teleportation comes first.</p></li>
-<li><p><strong>Breakthrough</strong> - Thunder’s Paradox (exhaust one
-agent to ready another) is powerful but requires multiple agents ready
-and positioned. Your early strength is agent flexibility and flagship
-mobility, not breakthrough production yet.</p></li>
+<li><p><strong>Scoring</strong> - You want to play from ahead.</p></li>
+<li><p><strong>Expansion + Production</strong> - Get more planets and
+stronger economy. Better at ship objectives than tech
+objectives.</p></li>
+<li><p><strong>Technology</strong> - If you need to reach stuff with
+Gravity Drive.</p></li>
+<li><p><strong>Breakthrough</strong> - If easily obtainable and good
+game for it.</p></li>
 </ol>
-<h3 id="a.-no-traditional-home-system">A. No Traditional Home
-System</h3>
-<p>You have no home system, which means: - No automatic planet control
-for objectives requiring “home system planets” - No space dock in home
-(you start with 1 dock but must place it manually) - Confusing objective
-interactions (read carefully)</p>
-<p><strong>Mitigation:</strong> Your faction ability explicitly says
-“you can score objectives even without controlling planets in your home
-system.” Most objectives work normally; just read carefully.</p>
-<h3 id="b.-flagship-move-1">B. Flagship Move 1</h3>
-<p>Memoria I has only Move 1, making it slow without mech teleportation
-network.</p>
-<p><strong>Mitigation:</strong> Place mechs in 4-6 systems by R3 to
-create teleportation options. Research Gravity Drive or Memoria II for
-Move 2.</p>
-<h3 id="c.-combat-dice-variance">C. Combat Dice Variance</h3>
-<p>Combat 7(x2) on flagship is strong but not overwhelming. You’ll lose
-fights without support.</p>
-<p><strong>Mitigation:</strong> Use Thundarian agent to reroll bad
-combat rounds. Bring supporting ships. Don’t rely on flagship alone.</p>
-<h3 id="d.-agent-complexity">D. Agent Complexity</h3>
-<p>Managing 3 agents is decision-heavy. Poor exhausts waste value.</p>
-<p><strong>Mitigation:</strong> Prioritize exhausts: Thundarian for
-critical combats, Artuno when gaining multiple TGs, Mercer for key
-invasions. Trade exhausts you don’t need this round for favors.</p>
+<p><strong>Expansion Notes:</strong> Solid start. Can handle almost all
+slices. Aim for 2 systems nearby, get a 3rd if you got Gravity
+Drive.</p>
+<h3 id="b.-flagship-reliance">B. Flagship Reliance</h3>
+<p>Your entire faction revolves around your flagship. You’re only strong
+in one spot at a time—wherever your flagship is. Without Memoria, you
+lose your combat presence and early game intimidation factor. Even with
+commander unlocked and free reproduction, losing your flagship means
+losing tempo while you rebuild. Plan around protecting your flagship or
+being ready to reproduce quickly.</p>
 <hr />
 <h2 id="v.-technology">V. Technology</h2>
-<h3 id="a.-recommended-tech-paths">A. Recommended Tech Paths</h3>
-<p><strong>Path 1: Agent Enhancement</strong> 1. AI Development
-Algorithm (R2) 2. Neural Motivator (R2-3) 3. Scanlink Drone Network (R3)
-4. Temporal Command Suite (R4) <em>faction tech</em> 5. Carrier II /
-Destroyer II (R4-5)</p>
-<p><strong>Path 2: Production Focus</strong> 1. Sarween Tools (R2) 2. AI
-Development Algorithm (R3) 3. Cruiser II (R3-4) 4. Destroyer II /
-Carrier II (R4) 5. Gravity Drive (R5)</p>
-<p><strong>Path 3: Flagship Mobility</strong> 1. Gravity Drive (R2) 2.
-AI Development Algorithm (R3) 3. Carrier II (R3-4) 4. Destroyer II (R4)
-5. Fleet Logistics (R5)</p>
-<h3 id="b.-key-technologies">B. Key Technologies</h3>
-<p><strong>Sling Relay:</strong> You start with this. Use it
-aggressively R1-3 for expansion.</p>
-<p><strong>Neural Motivator:</strong> Draw 2 action cards when you gain
-CCs. Synergizes with your trading/political style.</p>
-<p><strong>Temporal Command Suite:</strong> Your faction tech. Readying
-agents mid-round is powerful if you have the Yellow investment.</p>
-<p><strong>AI Development Algorithm:</strong> You’ll research 3-4 unit
-upgrades. This pays for itself.</p>
-<p><strong>Gravity Drive:</strong> Mobility is always good. Your
-flagship needs Move 2 to be threatening.</p>
-<p><strong>Sarween Tools:</strong> If you build multiple space docks,
-Sarween becomes very efficient.</p>
+<h3 id="a.-overview">A. Overview</h3>
+<p>You start with <strong>Sling Relay (B)</strong> (ACTION: produce 1
+ship at any space dock).</p>
+<p>Prefer to have a green or yellow skip.</p>
+<h3 id="b.-tech-path">B. Tech Path</h3>
+<p><strong>Starting Tech:</strong> Sling Relay (B)</p>
+<p><strong>Round 1:</strong> Gravity Drive (B) - +1 move to 1 ship per
+activation - <strong>Why:</strong> Mobility for flagship and carriers.
+Reach more systems.</p>
+<p><strong>Round 2:</strong> Bio-Stims (G) if you have
+skip/breakthrough, otherwise Scanlink or Neural Motivator -
+<strong>Bio-Stims:</strong> Ready a tech specialty planet or another
+tech - <strong>Scanlink:</strong> Explore when you activate a system
+with your units - <strong>Neural:</strong> Draw 2 action cards instead
+of 1 - <strong>Why:</strong> Bio-Stims combos with Sling Relay for
+stalling. Scanlink/Neural as prereq if no skip.</p>
+<p><strong>Round 3:</strong> Bio-Stims (G) if you didn’t get it R2,
+otherwise Carrier II (BB) - <strong>Carrier II:</strong> Cost 3, Combat
+9, Move 2, Capacity 6 - <strong>Why:</strong> Get Bio-Stims online, then
+transport capacity.</p>
+<p><strong>Round 4:</strong> Carrier II (BB) or Memoria II (GBY) -
+<strong>Memoria II:</strong> Cost 8, Combat 5 (x2), Move 2, Capacity 6,
+AFB 5 (x3) - <strong>Why:</strong> Transport capacity or flagship
+upgrade depending on game state.</p>
+<p><strong>Round 5:</strong> Memoria II (GBY) or unit upgrades -
+<strong>Why:</strong> Flagship upgrade if you can reach it, otherwise
+flex.</p>
+<p><strong>Flex:</strong> Fleet Logistics (BB), Light/Wave Deflector
+(BBB), Dreadnought II (BBY) if you got more techs.</p>
 <hr />
 <h2 id="vi.-strategy-cards">VI. Strategy Cards</h2>
 <h3 id="a.-round-1">A. Round 1</h3>
-<p>Your R1 priority is leveraging Nomad Agent for free technologies and
-establishing economic base.</p>
 <p><strong>Round 1 Priority Ranking:</strong></p>
 <ol type="1">
-<li><p><strong>Technology</strong> - Free tech via Agent accelerates
-your tech path significantly.</p></li>
-<li><p><strong>Trade</strong> - 4 commodities + TG for expansion.
-Refreshing TGs for Artuno banking.</p></li>
-<li><p><strong>Politics</strong> - Speaker for agenda control + Future
-Sight synergy.</p></li>
-<li><p><strong>Leadership</strong> - CCs for expansion and agent
-exhausts.</p></li>
-<li><p><strong>Warfare</strong> - Fleet readying for positioning and
-combat.</p></li>
-<li><p><strong>Construction</strong> - 1 dock is enough R1. Extra dock
-for forward production later.</p></li>
-<li><p><strong>Imperial</strong> - Unlikely to score R1.</p></li>
-<li><p><strong>Diplomacy</strong> - Your flagship has Move 1; protecting
-1 system less valuable.</p></li>
+<li><p><strong>Trade</strong> - 4 commodities + TG generation. Bank with
+Artuno for later.</p></li>
+<li><p><strong>Technology</strong> - Blue path toward Gravity Drive for
+mobility.</p></li>
+<li><p><strong>Leadership</strong> - Many extra secondaries and good
+free value.</p></li>
+<li><p><strong>Politics</strong> - Nice for custodian and next round
+setup.</p></li>
+<li><p><strong>Construction</strong> - Good to get free build for extra
+system and forward dock for Sling Relay.</p></li>
+<li><p><strong>Diplomacy</strong> - Only if objective requires. Good to
+be in control of timing.</p></li>
+<li><p><strong>Warfare</strong> - Fleet readying for
+positioning.</p></li>
+<li><p><strong>Imperial</strong> - Never Round 1.</p></li>
 </ol>
+<p><strong>Strategy Token Priority:</strong> Technology and Warfare.
+Diplomacy if you got a bonus one.</p>
 <h3 id="b.-round-2">B. Round 2+</h3>
-<p><strong>Love:</strong> - <strong>Technology</strong> - Agent tech
-path + unit upgrades. Free techs via Agent are massive value. -
-<strong>Trade</strong> - 4 commodities + refreshing TGs for Artuno
-banking. - <strong>Politics</strong> - Future Sight synergy + control
-agendas. - <strong>Leadership</strong> - Gain CCs for expansion and
-agent exhausts. - <strong>Imperial</strong> - Points are points. Needed
-rounds 3-5.</p>
-<p><strong>Like:</strong> - <strong>Construction</strong> - Extra dock
-for forward production. - <strong>Warfare</strong> - Fleet readying for
-combat and repositioning. - <strong>Diplomacy</strong> - Protect
-flagship system.</p>
+<p><strong>Love:</strong> - <strong>Trade</strong> - 4 commodities +
+Artuno banking synergy. - <strong>Leadership</strong> - CCs for
+continued expansion. - <strong>Imperial</strong> - Points are
+points.</p>
+<p><strong>Good:</strong> - <strong>Politics</strong> - Future Sight TG
+generation + agenda control. - <strong>Technology</strong> - Unit
+upgrades and Bio-Stims.</p>
+<p><strong>Situational:</strong> - <strong>Construction</strong> - Solid
+production for offensive/defensive builds. Forward docks for Sling
+Relay. - <strong>Warfare</strong> - Fleet readying and repositioning. -
+<strong>Diplomacy</strong> - Protect key systems.</p>
 <hr />
 <h2 id="vii.-unit-composition-and-game-plan">VII. Unit Composition and
 Game Plan</h2>
-<h3 id="a.-agent-management">A. Agent Management</h3>
-<p>You have 3 agents. NEVER exhaust all 3 casually—always save at least
-1 for emergency or trading.</p>
-<p><strong>Priority Exhausts:</strong></p>
-<ol type="1">
-<li><strong>Thundarian</strong> - Save for critical combats (flagship
-fights, MR invasions, defending home)</li>
-<li><strong>Artuno</strong> - Use when gaining 3+ TGs at once (Trade,
-big transactions)</li>
-<li><strong>Mercer</strong> - Use for invasion support or defensive
-reinforcement</li>
-</ol>
-<p><strong>Trading Exhausts:</strong></p>
-<p>“I’ll Mercer you this round if you vote my way on this agenda.” “I’ll
-Thundarian your fight with Player X if you give me Support for the
-Throne.”</p>
-<p>Each agent exhaust is worth 2-3 TG in trade value. Over a game,
-trading your 3 agents strategically nets 20+ TG equivalent value.</p>
-<h3 id="b.-future-sight-optimization">B. Future Sight Optimization</h3>
-<p>Future Sight rewards correct voting/predictions. To maximize:</p>
-<ol type="1">
-<li><strong>Read the table:</strong> Vote with the majority
-coalition</li>
-<li><strong>Prediction effects:</strong> If anyone has Xxcha Rider or
-prediction effects, coordinate</li>
-<li><strong>Speaker control:</strong> If you’re speaker, set agendas
-where your vote is obvious winner</li>
-<li><strong>Average gain:</strong> 1-2 TGs per agenda round = 6-12 TGs
-per game</li>
-</ol>
-<p><strong>Artuno Synergy:</strong> When Future Sight triggers multiple
-times in one agenda phase, exhaust Artuno to bank all TGs.</p>
-<h3 id="c.-mech-teleportation-network">C. Mech Teleportation
-Network</h3>
-<p>Your flagship treats systems with mechs as adjacent. Strategic mech
-placement:</p>
-<p><strong>Round 1-2:</strong> Place mechs on 2-3 planets in different
-directions (toward MR, toward opponents, toward expansion)</p>
-<p><strong>Round 3:</strong> Have mechs in 4-5 systems creating web of
-teleportation points</p>
-<p><strong>Round 4+:</strong> Use flagship teleportation for: - Rapid MR
-claim (mech on adjacent system, teleport flagship there) - Defensive
-redeployment (enemy threatens border, teleport flagship to defend) -
-Surprise invasions (teleport flagship to opponent’s border with loaded
-infantry)</p>
-<p><strong>Pro Tip:</strong> Place mechs in systems with space docks for
-production + teleportation synergy.</p>
-<h3 id="d.-flagship-combat-tactics">D. Flagship Combat Tactics</h3>
-<p>Memoria I has Combat 7(x2) and AFB 8(x3). Use this properly:</p>
-<p><strong>Against Fighter Swarms:</strong> - AFB 8(x3) kills ~0.5
-fighters before combat - Your 2 combat dice with 7+ hit ~60% chance for
-1-2 hits - Excellent anti-swarm</p>
-<p><strong>Against Capital Ships:</strong> - Combat 7(x2) is decent but
-not overwhelming - Bring supporting ships (destroyers, cruisers) - Use
-Thundarian to reroll bad rounds - Use Quantum Manipulator mechs to
-Sustain hits for your fleet</p>
-<p><strong>Flagship + Mech Combo:</strong> - Place mech on contested
-planet - During space combat, mech Sustains hits for your ships - This
-gives your entire fleet a bonus Sustain tank</p>
-<h3 id="e.-commander-timing-navarch-feng">E. Commander Timing (Navarch
-Feng)</h3>
-<p>Unlocks after 1 secret objective (very early—usually R2-3).</p>
-<p><strong>Free Flagship Production:</strong> - If Memoria dies, produce
-it for FREE - This makes your flagship economically risk-free -
-Opponents must kill it twice (once, then you rebuild for 0)</p>
-<p><strong>Aggressive Implications:</strong> - Take riskier flagship
-engagements knowing rebuild is free - Use flagship for invasion knowing
-loss doesn’t hurt economy - Park flagship in contested zones—even if
-killed, you rebuild immediately</p>
+<h3 id="a.-unit-composition">A. Unit Composition</h3>
+<p><strong>Preferred Units:</strong> - <strong>Flagship</strong> - Your
+core unit. Start with it on the board. - <strong>Carriers</strong> -
+Transport capacity for objectives. - <strong>Mechs</strong> - Create
+your teleportation network. Mech ability can absorb hits for ships. -
+<strong>Infantry</strong> - Ground presence for planets. -
+<strong>Fighters</strong> - Cheap fleet filler. -
+<strong>Dreadnoughts</strong> - Mini capital ship to keep around.</p>
+<p>Use strong production to build cost effective fleets.</p>
+<h3 id="b.-game-plan">B. Game Plan</h3>
+<p><strong>Early Game (Rounds 1-2):</strong></p>
+<p>Use your flagship presence to expand safely and grab an extra
+equidistant if possible. Place mechs to start building your
+teleportation network. Get Gravity Drive for mobility. Trade your agents
+for favors and bank TGs with Artuno when Trade fires. Custodians if
+setup for it.</p>
+<p><strong>Mid Game (Rounds 3-4):</strong></p>
+<p>Your flagship with Gravity Drive can reach anywhere. Use mech
+teleportation to appear where needed. Unlock commander (1 secret) so
+flagship becomes free to reproduce. Start solving objectives with your
+wealth and diplomatic leverage.</p>
+<p><strong>Late Game (Round 5+):</strong></p>
+<p>Use hero to move flagship multiple times for late game objective
+solves. With commander online, your flagship is economically
+unkillable—take aggressive trades knowing you can rebuild for free.
+Close out with your accumulated TGs and political favors.</p>
 <hr />
 <h2 id="viii.-objectives">VIII. Objectives</h2>
 <h3 id="a.-objective-summary">A. Objective Summary</h3>
-<p><strong>Strengths:</strong> Nomad excels at exploration objectives
-with Memoria ability converting planets to command tokens, enabling
-aggressive exploration without sacrificing economy. Mobility with
-flagship and Agent supports territorial objectives, and Future Sight
-commander generates trade goods from agenda predictions.</p>
-<p><strong>Weaknesses:</strong> Planet control objectives are
-challenging since Memoria abandons planets for tokens. Structure
-objectives are very difficult without traditional planet-holding
-strategy, and resource spending may be limited by Memoria economy
-trade-offs.</p>
+<p><strong>Strengths:</strong> Spending objectives are easy. Ships in
+systems objectives are solvable with mobility. Tech objectives are
+solvable.</p>
+<p><strong>Weaknesses:</strong> Structure and control objectives can be
+tougher.</p>
 <h3 id="b.-stage-i-objectives">B. Stage I Objectives</h3>
 <table>
 <colgroup>
-<col style="width: 63%" />
-<col style="width: 36%" />
+<col style="width: 90%" />
+<col style="width: 9%" />
 </colgroup>
 <thead>
 <tr>
-<th><strong>Spendies</strong></th>
-<th></th>
+<th>Stage I Objective</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td><strong>Spendies</strong></td>
+<td></td>
+</tr>
+<tr>
 <td>Erect a Monument (Spend 8 resources)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Sway the Council (Spend 8 influence)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Negotiate Trade Routes (Spend 5 trade goods)</td>
@@ -500,16 +590,16 @@ trade-offs.</p>
 </tr>
 <tr>
 <td>Corner the Market (Control 4 planets with same trait)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Found Research Outposts (Control 3 planets with tech
 specialties)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Discover Lost Outposts (Control 2 planets with attachments)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Push Boundaries (Control more planets than each neighbor)</td>
@@ -549,7 +639,7 @@ specialties)</td>
 </tr>
 <tr>
 <td>Diversify Research (Own 2 tech in each of 2 colors)</td>
-<td>🟢</td>
+<td>🟡</td>
 </tr>
 <tr>
 <td>Develop Weaponry (Own 2 unit upgrade technologies)</td>
@@ -561,32 +651,32 @@ specialties)</td>
 </tr>
 <tr>
 <td>Build Defenses (Have 4 or more structures)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Improve Infrastructure (Structures on 3 planets outside HS)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Legend:</strong> 🟢 Likely | 🟡 Possible | 🔴 Difficult</p>
-<p>Nomad excels at TG-spending objectives (Future Sight generates TGs),
-tech objectives (Sling Relay economy), and fleet objectives (flagship +
-AFB strength). You struggle with structure objectives (only 1 starting
-dock).</p>
 <h3 id="c.-secret-objectives">C. Secret Objectives</h3>
 <table>
 <colgroup>
-<col style="width: 60%" />
-<col style="width: 40%" />
+<col style="width: 90%" />
+<col style="width: 9%" />
 </colgroup>
 <thead>
 <tr>
-<th><strong>Combat</strong></th>
-<th></th>
+<th>Secret Objective</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Combat</strong></td>
+<td></td>
+</tr>
 <tr>
 <td>Unveil Flagship (Win space combat with flagship)</td>
 <td>🟢</td>
@@ -609,7 +699,7 @@ dock).</p>
 </tr>
 <tr>
 <td>Darken the Skies (Win combat in another player’s HS)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Demonstrate your Power (3+ non-fighter ships after space
@@ -626,7 +716,7 @@ combat)</td>
 </tr>
 <tr>
 <td>Fight With Precision (AFB destroy last fighter)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td><strong>Ships in Systems</strong></td>
@@ -660,7 +750,7 @@ anomalies)</td>
 </tr>
 <tr>
 <td>Occupy the Seat of the Empire (Control MR with 3+ ships)</td>
-<td>🟢</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td><strong>Control</strong></td>
@@ -668,23 +758,23 @@ anomalies)</td>
 </tr>
 <tr>
 <td>Monopolize Production (Control 4 industrial planets)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Mine Rare Minerals (Control 4 hazardous planets)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Forge an Alliance (Control 4 cultural planets)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Establish Hegemony (Control planets with 12+ influence)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Hoard Raw Materials (Control planets with 12+ resources)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Seize an Icon (Control legendary planet)</td>
@@ -696,7 +786,7 @@ anomalies)</td>
 </tr>
 <tr>
 <td>Become a Martyr (Lose control of planet in home system)</td>
-<td>🟢</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td><strong>Tech</strong></td>
@@ -704,11 +794,11 @@ anomalies)</td>
 </tr>
 <tr>
 <td>Adapt New Strategies (Own 2 faction technologies)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Master the Laws of Physics (Own 4 tech of same color)</td>
-<td>🔴</td>
+<td>🟡</td>
 </tr>
 <tr>
 <td><strong>Structure/Units</strong></td>
@@ -720,24 +810,24 @@ anomalies)</td>
 </tr>
 <tr>
 <td>Fuel the War Machine (Have 3 space docks)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Gather a Mighty Fleet (Have 5 dreadnoughts)</td>
-<td>🔴</td>
+<td>🟡</td>
 </tr>
 <tr>
 <td>Mechanize the Military (1 mech on each of 4 planets)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Occupy the Fringe (9+ ground forces on planet without space
 dock)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Produce en Masse (Units with PRODUCTION 8+ in single system)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td><strong>Other</strong></td>
@@ -749,7 +839,7 @@ dock)</td>
 </tr>
 <tr>
 <td>Drive the Debate (You/your planet elected by agenda)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Destroy Heretical Works (Purge 2 relic fragments)</td>
@@ -761,7 +851,7 @@ dock)</td>
 </tr>
 <tr>
 <td>Foster Cohesion (Be neighbors with all players)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Strengthen Bonds (Have another player’s PN)</td>
@@ -769,37 +859,35 @@ dock)</td>
 </tr>
 <tr>
 <td>Prove Endurance (Last to pass)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Legend:</strong> 🟢 Likely | 🟡 Possible | 🔴 Difficult</p>
-<p><strong>Notes:</strong> - <strong>Become a Martyr</strong> is
-EASY—you have no traditional home system, so this is effectively free -
-<strong>Unveil Flagship</strong> is EASY—you start with flagship and use
-it frequently - <strong>Occupy the Seat of the Empire</strong> is
-EASY—flagship teleportation enables rapid MR claims - Political secrets
-slightly favor Nomad due to Future Sight voting synergy</p>
 <h3 id="d.-stage-ii-objectives">D. Stage II Objectives</h3>
 <table>
 <colgroup>
-<col style="width: 63%" />
-<col style="width: 36%" />
+<col style="width: 90%" />
+<col style="width: 9%" />
 </colgroup>
 <thead>
 <tr>
-<th><strong>Spendies</strong></th>
-<th></th>
+<th>Stage II Objective</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Spendies</strong></td>
+<td></td>
+</tr>
 <tr>
 <td>Centralize Galactic Trade (Spend 10 trade goods)</td>
 <td>🟢</td>
 </tr>
 <tr>
 <td>Found a Golden Age (Spend 16 resources)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Galvanize the People (Spend 6 tokens from tactic/strategy
@@ -808,7 +896,7 @@ pools)</td>
 </tr>
 <tr>
 <td>Manipulate Galactic Law (Spend 16 influence)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade
@@ -821,7 +909,7 @@ goods)</td>
 </tr>
 <tr>
 <td>Conquer the Weak (Control 1 planet in another player’s HS)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Rule Distant Lands (Control 2 planets in/adjacent to different
@@ -830,7 +918,7 @@ players’ HS)</td>
 </tr>
 <tr>
 <td>Subdue the Galaxy (Control 11 planets in non-home systems)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Unify the Colonies (Control 6 planets with same trait)</td>
@@ -838,7 +926,7 @@ players’ HS)</td>
 </tr>
 <tr>
 <td>Reclaim Ancient Monuments (Control 3 planets with attachments)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td><strong>Ships in Systems</strong></td>
@@ -846,7 +934,7 @@ players’ HS)</td>
 </tr>
 <tr>
 <td>Command an Armada (Have 8+ non-fighter ships in 1 system)</td>
-<td>🟡</td>
+<td>🟢</td>
 </tr>
 <tr>
 <td>Achieve Supremacy (Flagship/War Sun in another player’s HS or
@@ -856,7 +944,7 @@ MR)</td>
 <tr>
 <td>Become a Legend (Units in 4 systems with
 legendary/MR/anomalies)</td>
-<td>🟡</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Patrol Vast Territories (Units in 5 systems without planets)</td>
@@ -884,7 +972,7 @@ legendary/MR/anomalies)</td>
 </tr>
 <tr>
 <td>Construct Massive Cities (Have 7+ structures)</td>
-<td>🟢</td>
+<td>🔴</td>
 </tr>
 <tr>
 <td>Protect the Border (Structures on 5 planets outside HS)</td>
@@ -893,100 +981,34 @@ legendary/MR/anomalies)</td>
 </tbody>
 </table>
 <p><strong>Legend:</strong> 🟢 Likely | 🟡 Possible | 🔴 Difficult</p>
-<p><strong>Christmas-Land Points Tracker:</strong></p>
-<table>
-<thead>
-<tr>
-<th>Round</th>
-<th>Strat Card</th>
-<th>Stage I</th>
-<th>Stage II</th>
-<th>Secrets</th>
-<th>Total</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Trade</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Politics</td>
-<td>2</td>
-<td>0</td>
-<td>1</td>
-<td>4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Technology</td>
-<td>3</td>
-<td>0</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Imperial</td>
-<td>4</td>
-<td>1</td>
-<td>2</td>
-<td>8</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Leadership</td>
-<td>5</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-</tr>
-</tbody>
-</table>
 <hr />
 <h2 id="ix.-alliance-priority">IX. Alliance Priority</h2>
-<h3 id="s-tier-actively-pursue">S-Tier (Actively Pursue)</h3>
-<p><strong>Xxcha Kingdom</strong> - Prediction synergy with Future
-Sight. When Xxcha predicts agendas and you vote correctly, you gain TGs.
-Quash + your voting creates political control.</p>
-<p><strong>Hacan</strong> - Trade synergy. Hacan generates TGs for both
-players; you bank them with Artuno. Mutual benefit.</p>
-<p><strong>Argent Flight</strong> - Combat support. Trade your
-Thundarian uses for their military favors. They invade, you provide
-rerolls.</p>
-<h3 id="a-tier-opportunistic-alliances">A-Tier (Opportunistic
-Alliances)</h3>
-<p><strong>Naalu Collective</strong> - Initiative control. Naalu 0-token
-+ your agent trading creates strong political coalition.</p>
-<p><strong>Yin Brotherhood</strong> - Agent trading. They want agent
-uses for Commander unlock; you have 3 agents to trade.</p>
-<p><strong>Nekro Virus</strong> - Military alliance. Trade Cavalry
-promissory for non-aggression. Thundarian support in their fights.</p>
-<h3 id="b-tier-neutral">B-Tier (Neutral)</h3>
-<p><strong>Jol-Nar</strong> - Tech trading. Steal their faction techs
-with your Commander (if you research it).</p>
-<p><strong>Sardakk N’orr</strong> - Combat faction. Offer Thundarian
-uses for their invasions in exchange for territorial agreements.</p>
-<p><strong>Sol</strong> - Ground force faction. Mercer synergy for their
-invasions.</p>
-<h3 id="c-tier-difficult-synergies">C-Tier (Difficult Synergies)</h3>
-<p><strong>Muaat</strong> - Slow faction. Limited synergy with your
-agent-heavy playstyle.</p>
-<p><strong>Barony of Letnev</strong> - Debt economy. Limited synergy
-with Future Sight / agent style.</p>
-<p><strong>Mahact Gene-Sorcerers</strong> - Commander theft. They may
-steal your Commander (free flagship production) which is
-devastating.</p>
-<h3 id="d-tier-avoid-compete">D-Tier (Avoid / Compete)</h3>
-<p><strong>Empyrean</strong> - Your promissory is strong; they may
-extract it for disadvantageous trades.</p>
-<p><strong>Naaz-Rokha Alliance</strong> - Mech competition. You both
-want mechs on many planets; territorial overlap likely.</p>
+<p><strong>Top Tier:</strong></p>
+<ol type="1">
+<li><strong>Crimson Rebellion</strong> - TG from combat. Solid passive
+income since you’ll fight occasionally.</li>
+<li><strong>Deepwrought</strong> - Passive TG when others research with
+discount. More economy is always good.</li>
+<li><strong>Muaat</strong> - TG when spending strategy tokens.
+Synergizes with your political playstyle.</li>
+<li><strong>Winnu</strong> - +2 combat in MR/legendary/HS. Your flagship
+teleportation lets you reach these easily.</li>
+</ol>
+<p><strong>Good Tier:</strong></p>
+<ol start="5" type="1">
+<li><strong>Empyrean</strong> - Late game slaying tool. Your flagship
+mobility makes positioning tokens easy.</li>
+<li><strong>Vuil’raith Cabal</strong> - Extra production capacity for
+fighters/infantry outside production limit.</li>
+<li><strong>Nekro Virus</strong> - Action cards on tech gain. You’ll
+research enough to trigger this.</li>
+<li><strong>Barony of Letnev</strong> - TG from sustain damage. Your
+flagship has sustain.</li>
+<li><strong>Mentak Coalition</strong> - Sneaky late game forcing support
+by winning many battles against the same person.</li>
+<li><strong>Naaz-Rokha</strong> - Explore after conquests. Extra value
+from planets you take.</li>
+</ol>
 <hr />
 <h2 id="x.-bonus-game-elements">X. Bonus Game Elements</h2>
 <p>This section highlights action cards that synergize particularly well
@@ -995,23 +1017,23 @@ offer exceptional value for your faction’s strategy and abilities, and
 agendas to pursue that benefit your position, and agendas to watch out
 for that could hurt you.</p>
 <h3 id="a.-high-value-action-cards">A. High-Value Action Cards</h3>
+<ul>
+<li><strong>Scuttle</strong> - Scuttle dreadnought + flagship for 12
+TGs, bank with Artuno for 12 more when he readies, reproduce flagship
+free with commander. 20 TG profit.</li>
+</ul>
 <h3 id="b.-relic-priorities">B. Relic Priorities</h3>
 <h3 id="c.-agenda-awareness">C. Agenda Awareness</h3>
 <hr />
 <h2 id="xi.-end-notes">XI. End Notes</h2>
-<p>Nomad rewards: - <strong>Agent mastery:</strong> Use all 3 agents
-optimally each round - <strong>Political reads:</strong> Future Sight
-requires correct voting - <strong>Mech positioning:</strong> Create
-teleportation network by R3 - <strong>Transaction discipline:</strong>
-Trade agent uses for maximum value</p>
-<p>You’re a high-skill faction with political/diplomatic focus. Master
-agent timing and mech placement, and you’ll consistently score 8-10
-points.</p>
-<p><strong>Core Principles:</strong> 1. Trade agent exhausts for favors
-(each worth 2-3 TG) 2. Bank TGs with Artuno when gaining multiples 3.
-Place mechs in 4-6 systems for flagship teleportation 4. Vote correctly
-for Future Sight TG generation 5. Rebuild flagship for free after
-Commander unlock</p>
-<p><strong>The wanderers adapt.</strong></p>
+<p>Nomad is the faction for players who want strong early presence and
+flexibility. You start with your flagship on the board and three agents
+to trade. Nobody messes with you early, and by mid-game your flagship
+threatens the entire map.</p>
+<p>The Nomad experience rewards good timing and leverage. Your agents
+are political currency, your wealth solves objectives, and your flagship
+hits where needed.</p>
+<p><strong>“Wanderers across time, collectors of lost souls. The Nomad
+remember what the galaxy forgets.”</strong></p>
 </body>
 </html>
