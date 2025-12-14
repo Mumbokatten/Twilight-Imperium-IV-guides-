@@ -469,6 +469,7 @@ Your game plan is patient accumulation into overwhelming late game power. Solve 
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 
 🟢 Likely | 🟡 Possible | 🔴 Difficult
 

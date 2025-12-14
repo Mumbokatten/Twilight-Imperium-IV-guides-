@@ -547,6 +547,7 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 
 🟢 Likely | 🟡 Possible | 🔴 Difficult
 

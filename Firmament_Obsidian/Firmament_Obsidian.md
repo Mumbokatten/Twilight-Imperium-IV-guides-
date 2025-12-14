@@ -813,6 +813,7 @@ As Firmament, focus on scoring opponent secrets for plots. As Obsidian, leverage
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 | Construct Massive Cities (Have 7+ structures)                            | 🟡     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |

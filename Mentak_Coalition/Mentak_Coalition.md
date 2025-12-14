@@ -490,6 +490,7 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Unify the Colonies (Control 6 planets of the same trait)                 | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 | **Ships in Systems** |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |

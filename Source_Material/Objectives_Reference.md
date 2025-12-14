@@ -23,7 +23,7 @@
 19. **Push Boundaries** - Control more planets than each neighbor.
 20. **Raise a Fleet** - Have 5+ non-fighter ships in 1 system.
 
-## Stage II Objectives (18 Total) - 2 VP Each
+## Stage II Objectives (20 Total) - 2 VP Each
 
 1. **Found a Golden Age** - Spend 16 resources.
 2. **Manipulate Galactic Law** - Spend 16 influence.
@@ -37,13 +37,14 @@
 10. **Hold Vast Reserves** - Spend 6 influence, 6 resources, 6 trade goods.
 11. **Construct Massive Cities** - Have 7+ structures.
 12. **Reclaim Ancient Monuments** - Control 3 planets with attachments.
-13. **Achieve Supremacy** - Have flagship/war sun in opponent's home or MR.
-14. **Patrol Vast Territories** - Have units in 5 systems without planets.
-15. **Protect the Border** - Have structures on 5 planets outside home.
-16. **Become a Legend** - Have units in 4 systems with legendary/MR/anomalies.
-17. **Control the Borderlands** - Have units in 5 edge systems (not home).
-18. **Rule Distant Lands** - Control 2 planets in/adjacent to different opponent homes.
-19. **Command an Armada** - Have 8+ non-fighter ships in 1 system.
+13. **Form Galactic Brain Trust** - Control 5 planets with tech specialties.
+14. **Achieve Supremacy** - Have flagship/war sun in opponent's home or MR.
+15. **Patrol Vast Territories** - Have units in 5 systems without planets.
+16. **Protect the Border** - Have structures on 5 planets outside home.
+17. **Become a Legend** - Have units in 4 systems with legendary/MR/anomalies.
+18. **Control the Borderlands** - Have units in 5 edge systems (not home).
+19. **Rule Distant Lands** - Control 2 planets in/adjacent to different opponent homes.
+20. **Command an Armada** - Have 8+ non-fighter ships in 1 system.
 
 ## Secret Objectives (40 Total) - 1 VP Each
 
