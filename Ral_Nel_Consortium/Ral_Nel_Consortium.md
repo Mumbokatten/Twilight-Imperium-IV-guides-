@@ -320,7 +320,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 **Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get Linkship II for enhanced Space Cannon coverage. Transport PDS with fleet for mobile coverage.
 
-**Late Game (R5+):** Hero lets you un-pass for surprise final turn. Commander makes retreat advantageous - reposition safely. Linkships trigger PDS remotely. Graviton Laser System (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
+**Late Game (R5+):** Elusiveness and stall potential really strong. Commander makes your fleet hard to pin down - retreat and reposition safely. Hero lets you un-pass for surprise final turn. Linkships trigger PDS remotely. Graviton Laser System (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
 
 ---
 
