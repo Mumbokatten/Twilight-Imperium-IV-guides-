@@ -491,14 +491,12 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ## XI. End Notes
 
-Ral Nel Consortium rewards creative positioning, defensive mastery, and technological focus. Your mobile structures enable unconventional plays. Survival Instinct + Linkship Space Cannon makes you hard to attack. Master mobile structures and you'll frustrate opponents while efficiently scoring objectives.
+Ral Nel Consortium is the faction for players who love defensive flexibility and outsmarting opponents through positioning. You're not winning through brute force—you're winning because your infrastructure moves with you and your fleet is impossible to pin down. When they attack, you consolidate. When they commit, you retreat and kill their ship on the way out.
 
-**Core Principles:**
-1. Research AI Development Algorithm start, then Nanomachines and Linkship II
-2. Transport 2 PDS with main fleet (mobile Space Cannon platform)
-3. Use Survival Instinct to reinforce when attacked
-4. Deploy structures immediately after conquering planets
-5. Pass last at least once to unlock Commander
-6. Use Hero for extra turn advantage
+Your biggest strength is elusiveness. Survival Instinct pulls ships from adjacent systems when attacked. Your Commander lets you retreat safely while punishing pursuers. Your flagship kills a ship when it retreats. Data Skimmer collects discarded action cards—opponents assume you have Sabotage and Direct Hit even when you don't. You're always where they don't expect, with answers they can't predict.
 
-**THE CONSORTIUM ADAPTS.**
+When you master Ral Nel, you feel untouchable. Opponents spend resources chasing fleets that slip away. They attack systems expecting easy wins, only to face reinforcements from three directions. Your PDS network travels with your carriers, your space docks relocate to wherever production matters most. Nothing is static, everything adapts.
+
+The table learns to fear uncertainty. They know your structures move, but not where. They know you collect their discards, but not which cards you kept. They know you can retreat and kill, but not when you'll trigger it. That hesitation—that moment of doubt before every attack—is your real victory.
+
+**"Strike where we stood. We are already elsewhere."**
