@@ -455,19 +455,27 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 **Top Tier:**
 
-1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Solid passive income with your mobile space docks.
+1. **Deepwrought (Aello)** - When others research tech with -1 discount, gain commodity/TG. Passive TG income addresses your weak economy.
 
-2. **Vuil'raith Cabal (That Which Molds Flesh)** - When you produce fighters or infantry, up to 2 don't count against PRODUCTION limit. Helps overcome your weak home production.
+2. **Crimson Rebellion (Ahk Siever)** - At end of combat, gain commodity/TG. Combat-focused TG generation.
 
-3. **Nekro Virus (Nekro Acidos)** - After you gain a technology, draw 1 action card. You tech frequently with AI Dev efficiency.
+3. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources - Last Dispatch with retreat synergy is excellent.
+
+4. **Muaat (Magmus)** - After you spend strategy token, gain 1 TG. Passive income every round.
+
+5. **Jol-Nar (Ta Zern)** - Reroll unit ability dice. Works with your Space Cannon from Linkships triggering PDS remotely.
 
 **Good:**
 
-4. **Naalu Collective (M'aban)** - After another player moves ships into system with your ships, lock 1 of their non-fighter ships. Defensive synergy with Survival Instinct.
+6. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Helps overcome weak home production.
 
-5. **Argent Flight (Trillossa)** - When you win a combat, place 1 fighter or infantry from reinforcements in that system. Combat reward.
+7. **Barony of Letnev (Rear Admiral Farran)** - After unit uses Sustain Damage, gain 1 TG. Dreadnought synergy.
 
-6. **Mahact Gene-Sorcerers (Il Na Vansen)** - After you win a combat, you may spend 2 influence to move 1 command token from opponent's fleet pool to yours. Fleet pool growth.
+8. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planet systems. Strong boost in key battles.
+
+9. **Empyrean (Xuange)** - After another player moves ships into system with your token, return token to reinforcements. Late game slaying tool.
+
+10. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra die for Space Cannon synergy.
 
 ---
 
