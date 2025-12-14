@@ -297,8 +297,8 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 **Situational:**
 - **Construction** - No need after first space dock placed. Miniaturization lets you move it.
-- **Warfare** - Fleet token return for aggressive plays.
-- **Diplomacy** - Rarely good. Survival Instinct provides defensive response instead.
+- **Warfare** - Budget Saar with mobile space dock.
+- **Diplomacy** - Only for objectives.
 
 ---
 
