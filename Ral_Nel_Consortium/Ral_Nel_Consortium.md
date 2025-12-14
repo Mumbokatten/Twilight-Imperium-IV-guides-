@@ -178,7 +178,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 1. **Scoring** - Stay in the mix. If people try to stop you, use action cards to deter.
 
-2. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
+2. **Breakthrough** - Data Skimmer gives you action card economy. Collect other players' discards and cherry-pick the best one.
 
 3. **Technology** - Start your tech path. AI Development Algorithm enables efficient tech progression.
 
