@@ -407,8 +407,8 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 | Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟢     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟢     |
 | **Other**                                                                |        |
-| Dictate Policy (3+ laws in play)                                         | 🟡     |
-| Drive the Debate (You/your planet elected by agenda)                     | 🟡     |
+| Dictate Policy (3+ laws in play)                                         | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                     | 🔴     |
 | Destroy Heretical Works (Purge 2 relic fragments)                        | 🔴     |
 | Form a Spy Network (Discard 5 action cards)                              | 🟢     |
 | Foster Cohesion (Be neighbors with all players)                          | 🟡     |
