@@ -441,7 +441,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
 | **Tech**                                                                 |        |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
 | **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🟢     |
