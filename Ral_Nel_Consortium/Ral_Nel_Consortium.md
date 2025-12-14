@@ -212,29 +212,41 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - AI Development Algorithm Start:**
 
-**Round 1:** Nanomachines (YY)
+**Round 1:** Nanomachines (YY) - Your faction tech
+- *Place 1 PDS, repair all units in 1 system, or trade 1 action card with another player*
 
-**Round 2:** Dark Energy Tap (B)
+**Round 2:** Dark Energy Tap - Exploration + retreat flexibility
+- *Explore frontier tokens after tactical actions. Ships can retreat into adjacent systems without your units*
 
-**Round 3:** Gravity Drive (B)
+**Round 3:** Gravity Drive (B) - Mobility
+- *After you activate a system, apply +1 to the move value of 1 of your ships*
 
-**Round 4:** Carrier II (BB)
+**Round 4:** Carrier II (BB) - Transport capacity
+- *Cost 3, Combat 9, Move 2, Capacity 6*
 
 **Round 5+:** Dreadnought II (BBY) or Fleet Logistics (BB)
+- *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
+- *Fleet Logistics: Perform 2 actions per turn*
 
 ---
 
 **Path 2 - Psychoarchaeology Start:**
 
-**Round 1:** Nanomachines (YY)
+**Round 1:** Nanomachines (YY) - Your faction tech
+- *Place 1 PDS, repair all units in 1 system, or trade 1 action card with another player*
 
-**Round 2:** Dark Energy Tap (B)
+**Round 2:** Dark Energy Tap - Exploration + retreat flexibility
+- *Explore frontier tokens after tactical actions. Ships can retreat into adjacent systems without your units*
 
-**Round 3:** Gravity Drive (B)
+**Round 3:** Gravity Drive (B) - Mobility
+- *After you activate a system, apply +1 to the move value of 1 of your ships*
 
-**Round 4:** Carrier II (BB)
+**Round 4:** Carrier II (BB) - Transport capacity
+- *Cost 3, Combat 9, Move 2, Capacity 6*
 
 **Round 5+:** Dreadnought II (BBY) or Fleet Logistics (BB)
+- *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
+- *Fleet Logistics: Perform 2 actions per turn*
 
 ---
 
