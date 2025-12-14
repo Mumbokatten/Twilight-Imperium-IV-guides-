@@ -497,6 +497,6 @@ Your biggest strength is elusiveness. Survival Instinct pulls ships from adjacen
 
 When you master Ral Nel, you feel untouchable. Opponents spend resources chasing fleets that slip away. They attack systems expecting easy wins, only to face reinforcements from three directions. Your PDS network travels with your carriers, your space docks relocate to wherever production matters most. Nothing is static, everything adapts.
 
-The table learns to fear uncertainty. They know your structures move, but not where. They know you collect their discards, but not which cards you kept. They know you can retreat and kill, but not when you'll trigger it. That hesitation—that moment of doubt before every attack—is your real victory.
+The table learns to fear uncertainty. They know your structures move, but not where. They watch you cherry-pick their best discarded action cards—and adjust their play knowing you have them. They know you can retreat and kill, but not when you'll trigger it. That hesitation—that moment of doubt before every attack—is your real victory.
 
 **"Strike where we stood. We are already elsewhere."**
