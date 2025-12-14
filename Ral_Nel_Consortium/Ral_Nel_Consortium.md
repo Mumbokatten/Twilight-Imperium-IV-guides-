@@ -182,7 +182,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 3. **Technology** - Get started early with Nanomachines.
 
-4. **Expansion and Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
+4. **Expansion and Production** - Aim for 2 systems, 3 if you got Gravity Drive and production or all planets are nearby.
 
 **Expansion Notes:**
 
