@@ -264,14 +264,14 @@ Ral Nel has two distinct tech paths:
 
 **Round 1 Priority Ranking:**
 
-1. **Trade** - Breakthrough on Trade.
+1. **Trade**
 2. **Technology**
 3. **Construction**
 4. **Leadership**
-5. **Politics**
-6. **Warfare**
-7. **Imperial**
-8. **Diplomacy** - Only if you have tech skip planet to refresh.
+5. **Politics** - Breakthrough on Politics.
+6. **Diplomacy** - Only if you have tech skip planet to refresh.
+7. **Warfare**
+8. **Imperial**
 
 **Strategy Token Priority:** Politics, Leadership, Diplomacy.
 
