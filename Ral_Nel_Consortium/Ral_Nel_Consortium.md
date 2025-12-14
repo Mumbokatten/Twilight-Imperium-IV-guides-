@@ -250,6 +250,14 @@ Ral Nel has two distinct tech paths:
 
 ---
 
+**Supplemental Techs:**
+
+- **Graviton Laser System (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y<>G breakthrough.
+
+- **Bio-Stims (G)** - Ready a tech specialty planet or technology. Combos with Psychoarchaeology - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y<>G breakthrough.
+
+---
+
 ## VI. Strategy Cards
 
 ### A. Round 1
