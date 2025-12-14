@@ -1,8 +1,35 @@
+[← Back to Index](../index.html)
+
 # Ral Nel Consortium Guide
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-and-draft-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+   - [First Turn Priorities](#a-first-turn-priorities) · [Low Starting Resources](#b-low-starting-resources) · [Commander Unlock Challenge](#c-commander-unlock-challenge)
+5. [Technology](#v-technology)
+   - [Overview](#a-overview) · [Technology Paths](#b-technology-paths)
+6. [Strategy Cards](#vi-strategy-cards)
+   - [Round 1](#a-round-1) · [Round 2+](#b-round-2)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+   - [Unit Composition](#a-unit-composition) · [Game Plan](#b-game-plan)
+8. [Objectives](#viii-objectives)
+   - [Objective Summary](#a-objective-summary) · [Stage I](#b-stage-i-objectives) · [Secret Objectives](#c-secret-objectives) · [Stage II](#d-stage-ii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+    - [Action Cards](#a-high-value-action-cards) · [Relics](#b-relic-priorities) · [Agendas](#c-agenda-awareness)
+11. [End Notes](#xi-end-notes)
+
+---
 
 ## I. Introduction
 
 The Ral Nel Consortium (from Thunder's Edge expansion) are TI4's mobile structure specialists. They can transport PDS and Space Docks on their ships, trigger structure abilities remotely via Linkship destroyers, and respond defensively when opponents activate systems near them. Ral Nel rewards creative positioning, defensive play, and understanding when mobility beats static defenses.
+
+---
 
 ## II. Playstyle
 
@@ -16,11 +43,24 @@ You're a mid-tier faction that excels at:
 - Reactive play (Survival Instinct moves ships when opponents activate near you)
 - Economic efficiency (4 commodities + mobile space docks)
 
-**Key Mindset:** Your structures aren't anchors—they're assets you relocate constantly. Think of PDS as mobile artillery and Space Docks as forward bases you move with your fleet.
+**Key Mindset:** Your structures aren't anchors—they're assets you relocate constantly. Think of PDS as mobile artillery and Space Docks as forward bases you move with your fleet. Your commander makes your fleet elusive and hard to predict.
 
-## III. Components
+---
 
-### A. Starting Fleet
+## III. Faction Info and Drafting
+
+### A. Home System & Commodities
+
+**Home System:** 2 planets
+- **Mez Lo Orz Pei Zsha:** 2 resources / 1 influence
+- **Rep Lo Orz Oet:** 1 resource / 3 influence
+- **Total: 3 resources / 4 influence**
+
+**Commodities:** 4
+
+**Notes:** 4-influence home system (excellent for politics) but only 3 resources (below average for production). Your economy comes from commodities and mobile space docks, not your home system.
+
+### B. Starting Fleet
 - 1 Dreadnought
 - 1 Carrier
 - 1 Destroyer (Linkship)
@@ -29,754 +69,406 @@ You're a mid-tier faction that excels at:
 - 1 Space Dock
 - 2 PDS
 
-### B. Starting Technology
-Choose 1 red or green technology with no prerequisites.
+**Notes:** Strong defensive start with 2 PDS. Dreadnought provides early combat presence. Linkship destroyer is your unique unit that triggers PDS remotely.
 
-**Recommendations:**
-- **Sarween Tools** (Yellow - but you can take with no prereq) - Best economic tech
-- **Antimass Deflectors** - Synergizes with your PDS mobility
-- **Neural Motivator** - Flexible opener
-- **Psychoarchaeology** - If you want to go exploration route
-
-### C. Home Systems
-- **Mez Lo Orz Pei Zsha:** 2/1 (2 resources, 1 influence)
-- **Rep Lo Orz Oet:** 1/3 (1 resource, 3 influence)
-- **Total:** 3/4 (3 resources, 4 influence)
-
-This is a **4-influence home system** (excellent for politics) but only 3 resources (below average for production).
-
-### D. Faction Abilities
+### C. Faction Abilities
 
 **Survival Instinct:** After opponent activates a system containing your ships, you may relocate up to 2 of your vessels into that system from adjacent systems lacking your command tokens.
 
+Excellent defensive tool. Spread ships across adjacent systems and consolidate when attacked. This makes your fleets hard to pin down.
+
 **Miniaturization:** Your structures can be transported by any ships without requiring or consuming capacity. While in space, structures cannot use abilities. At the end of tactical actions, you may deploy structures from space onto controlled planets within their systems.
 
-### E. Unique Units
+Your defining ability. Transport PDS and Space Docks with your fleet, deploy on conquered planets immediately. Mobile infrastructure is your core identity.
 
-**Linkship I (Destroyer Upgrade):**
-- Cost: 1, Combat: 9, Move: 3
-- Can use the SPACE CANNON ability of 1 of your structures in its space area
-- Each structure can only be triggered once per round
+### D. Starting and Faction Technologies
 
-**Linkship II:**
-- Cost: 1, Combat: 8, Move: 4
-- Can trigger same structure multiple times
+**Starting Technologies:** Choose 1 red or green technology with no prerequisites.
 
-### F. Leaders
+**Recommendations:**
+- **AI Development Algorithm (Red)** - Best for tech path efficiency
+- **Neural Motivator (Green)** - Flexible opener for action cards
 
-**Agent - Kan Kip Rel:**
-At the start of a player's turn: You may exhaust this agent to draw 2 action cards, then give 1 action card from your hand to that player.
+**Faction Technologies:**
 
-**Commander - Watchful Ojz:** [Unlocks after passing last during Action Phase]
-When retreating from space combat: You may retreat up to 2 ships to a system that does not contain another player's ships; if you do, place 1 command token from your reinforcements in that system.
-
-**Hero - (Unnamed in source):** [Activates after scoring 3 objectives]
-You may remove yourself from passed status, gain 2 command tokens, and draw 1 action card.
-
-### G. Flagship - Last Dispatch
-- Cost: 8
-- Combat: 8 (x2)
-- Move: 2
-- Capacity: 4
-- SUSTAIN DAMAGE
-- **Ability:** When this ship retreats, you may destroy 1 ship in this system that does not have SUSTAIN DAMAGE.
-
-### H. Mech - Alarum
-- Cost: 2
-- Combat: 6
-- SUSTAIN DAMAGE
-- **Ability:** After a combat round during ground combat, you may move up to 2 of your ground forces from planets in adjacent systems to this planet.
-
-### I. Faction Technology - Nanomachines
-**Prerequisites:** 2 Yellow
-**Effect:** Exhaust this card to either:
+**Nanomachines (YY):**
+Exhaust this card to either:
 1. Place 1 PDS from reinforcements on planet you control
 2. Repair all units in 1 system
 3. Trade 1 action card with another player
 
-### J. Promissory Note - Nano-Link Permit
-After the Ral Nel player activates a system:
-Return this card to the Ral Nel player; you may move your structures from adjacent systems onto planets you control in the active system.
+Flexible utility tech. PDS deployment synergizes with your mobile structure strategy. Repair option helps sustain your fleet.
 
-### K. Alliance
+### E. Leaders
 
-**Alliance Ability:**
-*While you are neighbors with the Ral Nel player and their commander is unlocked:*
-*When you declare a retreat, you may immediately retreat up to 2 of your ships from the active system to an adjacent system that does not contain another player's ships. Place a command token from your reinforcements into that system.*
+**Agent - Kan Kip Rel:**
+At the start of a player's turn: You may exhaust this agent to draw 2 action cards, then give 1 action card from your hand to that player.
 
-Strong defensive alliance for factions that need flexible retreat options. Provides additional tactical flexibility and escape routes during combat. Particularly valuable for factions that struggle with being pinned down. Trade value: 2-3 TG.
+Action card generation + trading leverage. You net +1 action card per use while giving value to other players.
 
-### L. Breakthrough - Data Skimmer (Y<>G)
+**Commander - Watchful Ojz:** [Unlocks after passing last during Action Phase]
+When retreating from space combat: You may retreat up to 2 ships to a system that does not contain another player's ships; if you do, place 1 command token from your reinforcements in that system.
 
-**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+Enhanced retreat makes your fleet elusive and hard to predict. Fight battles you might lose—retreating with Commander gives you repositioning advantage.
 
-**Effect:** During the action phase, if you have not passed, when other players would discard action cards, they are placed on this card instead. When you pass, take 1 action card from this card and discard the rest.
+**Hero - (Unnamed):** [Activates after scoring 3 objectives]
+You may remove yourself from passed status, gain 2 command tokens, and draw 1 action card.
 
-**Analysis:** Excellent action card economy tool. You collect every action card discarded by all players during the round, then cherry-pick the best one when you pass. This can give you critical cards like Direct Hit, Sabotage, or combat modifiers. The Y<>G synergy also helps with tech pathing.
+Extra turn in late game. Pass, see opponent moves, un-pass and take optimal action. Game-winning surprise potential.
+
+### F. Promissory Note
+
+**Nano-Link Permit:** After the Ral Nel player activates a system: Return this card to the Ral Nel player; you may move your structures from adjacent systems onto planets you control in the active system.
+
+Lets other players mimic your Miniaturization. Trade for Alliance promissories, political support, or trade goods.
+
+### G. Alliance
+
+**Alliance Ability:** *While you are neighbors with the Ral Nel player and their commander is unlocked:* When you declare a retreat, you may immediately retreat up to 2 of your ships from the active system to an adjacent system that does not contain another player's ships. Place a command token from your reinforcements into that system.
+
+Strong defensive alliance for factions that need flexible retreat options. Trade value: 2-3 TG.
+
+### H. Mech
+
+**Alarum:** Cost 2, Combat 6, Sustain Damage
+
+After a combat round during ground combat, you may move up to 2 of your ground forces from planets in adjacent systems to this planet.
+
+Ground force reinforcement mid-combat. Leave mechs around your slice to surprise people with defensive reinforcements. Opponents attack expecting 2v2, suddenly it's 4v2.
+
+### I. Flagship
+
+**Last Dispatch:** Cost 8, Combat 8 (x2), Move 2, Capacity 4, Sustain Damage
+
+When this ship retreats, you may destroy 1 ship in this system that does not have SUSTAIN DAMAGE.
+
+Parting shot on retreat. Good with the bonus movement from hero timing. Combos with Commander—retreat flagship, kill enemy ship, reposition safely.
+
+### J. Breakthrough
+
+**Data Skimmer (Y<>G):** Yellow and green technologies count as each other for prerequisites.
+
+During the action phase, if you have not passed, when other players would discard action cards, they are placed on this card instead. When you pass, take 1 action card from this card and discard the rest.
+
+Excellent action card economy. Cherry-pick the best discarded action card each round. Y<>G synergy helps tech pathing flexibility.
+
+### K. Slice and Draft Considerations
+
+**Speaker Priority:** Mid-priority (3-5)
+
+**Priorities:**
+- **Defensible slice** - Your reactive abilities work best when you can predict attack vectors
+- **Adjacent systems for Survival Instinct** - Need systems close together for ship consolidation
+- **Production planets** - Your home is only 3 resources; need strong expansion targets
+
+**Nice to Have:**
+- Yellow or green tech skip (works with Y<>G breakthrough)
+- Systems with multiple planets (deploy structures after conquest)
+- Wormholes for Linkship positioning flexibility
+
+**Avoid:**
+- Isolated slices (Survival Instinct needs adjacent systems)
+- Slices with poor production capacity
+
+---
 
 ## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
-As Ral Nel Consortium, your first turn priorities should reflect your mobile structure strategy and reactive movement. Here's the recommended ordering:
+1. **Expansion + Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
 
-1. **Technology** - Miniaturization (transport structures with your carriers) is your defining tech. Prioritize researching this Round 2-3 to enable mobile space dock production. However, Round 1 focus on expansion and structure placement.
+2. **Technology** - Start your tech path. AI Development Algorithm enables efficient tech progression.
 
-2. **Expansion + Production** - Build additional space docks and PDS Round 1 using Construction strategy card. Your Linkship destroyers trigger PDS globally when present. Place structures strategically for future Miniaturization transport. Your 3 resources from home are below average—expansion is critical.
+3. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
 
-3. **Breakthrough** - Survival Instinct (reactive movement when opponent activates adjacent system) requires board positioning first. Place structures near borders to enable future reactive repositioning. This comes after territorial control.
+4. **Scoring** - Structure objectives are your strength. Position for Build Defenses and Improve Infrastructure.
 
-4. **Scoring** - Score structure objectives (4+ structures, structures on planets) easily due to mobile structure strategy. However, you need Round 2-3 infrastructure before these objectives appear. Focus on structure placement first.
+### B. Low Starting Resources
 
-### A. Low Starting Resources
 3 resources at home is below average (most factions have 4-5). This delays your builds early game.
 
-**Mitigation:** Expand aggressively R1-2 to compensate. Use 4 commodities via Trade for economic boost.
+**Mitigation:** Expand aggressively R1-2. Use 4 commodities via Trade for economic boost. Mobile space docks let you produce from better planets.
 
-### B. Mobile Structures Complexity
-Tracking which structures are in space vs on planets, which can be activated, which Linkships have triggered which PDS... this is cognitively demanding.
+### C. Commander Unlock Challenge
 
-**Mitigation:** Practice. Use clear markers for structures in space vs deployed.
-
-### C. Linkship Trigger Limit (Linkship I)
-Each structure can only trigger once per round with Linkship I. This limits your Space Cannon spam early game.
-
-**Mitigation:** Research Linkship II R3-4 for unlimited triggers per structure.
-
-### D. Commander Unlock Challenge
 Commander requires passing LAST during action phase. This means giving up initiative control.
 
-**Mitigation:** Only pass last when you need Commander (defensive games) or when last-pass position is strategically valuable.
+**Mitigation:** Only pass last when Commander value is high (defensive games) or when last-pass position is strategically valuable. Late game you no longer need to move your space dock around as much, so passing last has less cost.
 
-## V. Miniaturization Strategy
+---
 
-### A. Transporting Structures
+## V. Technology
 
-Your structures can be transported by ANY ship without using capacity.
+### A. Overview
 
-**Example:**
-- 1 Carrier (Capacity 4) carries: 4 infantry + 2 PDS + 1 Space Dock
-- Normal factions: Carrier can only carry 4 units
-- You: Carry 4 units PLUS unlimited structures
+Ral Nel has two distinct tech paths:
 
-**Applications:**
-1. **Mobile PDS:** Transport PDS with fleet, deploy on conquered planets
-2. **Forward Space Docks:** Transport dock with fleet, deploy when you've secured territory
-3. **Rapid Redeployment:** Pick up structures from old planets, redeploy on new frontiers
+**Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on Dark Energy Tap for exploration and retreat synergy, then Gravity Drive for mobility, into Carrier II and Linkship II/Fleet Logistics.
 
-### B. Deploying Structures
+**Path 2 - Christmas Land (Red + Blue Skips):** High-reward path requiring both red and blue tech skips in your slice. Skips directly to Dreadnought II for early combat power, then Fleet Logistics for double actions.
 
-At end of tactical action, deploy structures from space onto planets you control in system.
+### B. Technology Paths
 
-**Optimal Workflow:**
-1. Activate system
-2. Fight/conquer
-3. END OF ACTIVATION: Deploy PDS from carrier to planet
-4. Next opponent's turn: That PDS is active and can Space Cannon
+**Path 1 - AI Development Algorithm Start:**
 
-**Strategic Implications:**
-- You can conquer planet and immediately have PDS defense on it
-- Opponents can't easily take planets back (you've fortified instantly)
-- You can relocate PDS from unimportant planets to frontlines constantly
+**Round 1:** AI Development Algorithm (R) - Start with this
+- *Exhaust to ignore 1 prerequisite when researching unit upgrades. Exhaust to reduce production cost by number of unit upgrades owned.*
 
-### C. Structure Positioning
+**Round 2:** Nanomachines (YY) - Your faction tech
+- *Place PDS, repair units, or trade action cards*
 
-**Early Game (R1-2):**
-- Keep PDS at home for defense
-- Transport 1 Space Dock with forward fleet (for expansion production)
+**Round 3:** Dark Energy Tap (B) - Exploration + retreat flexibility
+- *Explore frontier tokens. Ships can retreat into adjacent systems without your units.*
 
-**Mid Game (R3-4):**
-- Transport 1-2 PDS with main fleet
-- Deploy PDS on conquered planets (instant defense)
-- Keep mobile Space Dock near front lines
+**Round 4:** Gravity Drive (B) - Mobility
+- *+1 movement to 1 ship per tactical action*
 
-**Late Game (R5+):**
-- 2-3 PDS transported with fleet (massive Space Cannon coverage via Linkships)
-- Space Dock repositions to support new objectives
+**Round 5+:** Carrier II (BB) or Linkship II or Fleet Logistics (BB)
+- *Carrier II: Move 2, Capacity 6*
+- *Linkship II: Move 4, can trigger same structure multiple times*
+- *Fleet Logistics: Perform 2 actions per turn*
 
-## VI. Linkship Destroyer Strategy
+**Supplemental Tech Options:**
+- **Bio-Stims (G)** - Ready a tech specialty planet or technology. Needs green skip but works with Y<>G breakthrough.
+- **Graviton Laser System (Y)** - Space Cannon hits must target non-fighters. Needs yellow skip but works with Y<>G breakthrough.
 
-### A. Linkship I Mechanics
+---
 
-Your Linkship I can trigger Space Cannon of 1 structure in its space area. Each structure triggers once per round.
+**Path 2 - Christmas Land (Red + Blue Skips):**
 
-**Example:**
-- You have 2 PDS in space with your fleet
-- 1 Linkship I can trigger 1 PDS for Space Cannon
-- If you have 2 Linkship Is, you can trigger both PDS
+**Prerequisite:** Have both red and blue tech skips in your slice
 
-**Space Cannon Trigger Math:**
-- 1 Linkship + 2 PDS = 2 Space Cannon shots (1 per PDS via 1 Linkship)
-- 2 Linkships + 2 PDS = 4 Space Cannon shots (2 per PDS via 2 Linkships)
+**Round 1:** AI Development Algorithm (R) - Start
+- *Exhaust to ignore 1 prerequisite when researching unit upgrades*
 
-Wait, let me re-read... "can use the SPACE CANNON ability of 1 of your structures" means each Linkship triggers 1 structure once. So:
-- 1 Linkship + 2 PDS = 1 Space Cannon shot (Linkship triggers 1 PDS)
-- 2 Linkships + 2 PDS = 2 Space Cannon shots (each Linkship triggers 1 PDS)
+**Round 2:** Dreadnought II (BBY) - Use blue skip + AI Dev to ignore prereqs
+- *Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.*
 
-### B. Linkship II Upgrade
+**Round 3:** Dark Energy Tap (B)
+- *Explore frontier tokens. Ships can retreat into adjacent systems without your units.*
 
-Linkship II removes the "once per structure" limit. Now multiple Linkships can trigger the same structure.
+**Round 4:** Fleet Logistics (BB)
+- *Perform 2 actions per turn*
 
-**Example:**
-- 3 Linkship IIs + 1 PDS in space
-- All 3 Linkships trigger that 1 PDS
-- 3 Space Cannon shots from 1 PDS
+**Round 5+:** Carrier II (BB) or Linkship II or Nanomachines (YY)
 
-**Value:** Linkship II turns your small PDS count into devastating Space Cannon volleys.
+**Note:** Requires excellent slice with both skips. High payoff with early Dreadnought II combat power.
 
-### C. Optimal Linkship Usage
+---
 
-**Fleet Composition:**
-- 4-6 Linkship destroyers
-- 2-3 PDS in space (transported via carriers)
-- Supporting carriers, cruisers, dreadnoughts
+## VI. Strategy Cards
 
-**Combat Sequence:**
-1. Opponent activates your system
-2. Your Linkships trigger PDS Space Cannon (4-6 shots before combat begins)
-3. Space combat begins (you've already killed 2-4 enemy ships)
-4. You have numerical advantage
+### A. Round 1
 
-**Linkship Positioning:**
-- Always keep 2+ Linkships with your main fleet
-- Keep 1-2 PDS transported with that fleet
-- Mobile Space Cannon platform anywhere on the board
+**Round 1 Priority Ranking:**
 
-## VII. Survival Instinct (Defensive Response)
+1. **Technology** - Start your tech path immediately. AI Development Algorithm is critical.
 
-After opponent activates system with your ships, relocate up to 2 ships from adjacent systems (without your CCs) into that system.
+2. **Trade** - 4 commodities + economic foundation. You need resources with your weak home system.
 
-**This is emergency reinforcement.**
+3. **Leadership** - Command tokens for expansion and token economy in general.
 
-### A. Defensive Applications
+4. **Diplomacy** - Only for specific slice issues where you need protection.
 
-**Scenario 1: Opponent Attacks You**
-- Opponent activates your system with 5 ships
-- You have 3 ships in system + 2 ships in adjacent system
-- Survival Instinct: Move 2 adjacent ships into system
-- Now defending with 5 ships instead of 3
+5. **Warfare** - Defensive unlock for Survival Instinct positioning. Flexibility in general.
 
-**Scenario 2: Speed Bump Ships**
-- Place 1 destroyer in key system
-- Opponent activates to pass through
-- Survival Instinct: Bring 2 more ships from adjacent systems
-- Now they're fighting 3 ships instead of 1 (delays them)
+6. **Politics** - 4 influence home makes you decent politically.
 
-### B. Optimal Ship Placement
+7. **Construction** - You have mobile structures; less need for static building.
 
-To maximize Survival Instinct:
-- Place small fleets (1-2 ships) in 3-4 systems
-- Keep these systems adjacent to each other
-- When opponent attacks ANY of them, you can consolidate
+8. **Imperial** - Points come later. Focus on setup first.
 
-**Example Map:**
-```
-System A: 2 ships
-System B: 2 ships (adjacent to A and C)
-System C: 2 ships
-```
+**Strategy Token Priority:** Technology, Warfare.
 
-Opponent attacks System B:
-- Survival Instinct: Move 2 ships from A + 2 ships from C into B
-- Now defending with 6 ships total
+### B. Round 2+
 
-### C. Limitations
+**Love:**
+- **Technology** - Linkship II, Carrier II, Fleet Logistics are all critical. Tons of good tech.
+- **Leadership** - Token economy in general. Essential for flexible play.
 
-- Can only move ships from systems WITHOUT your command tokens
-- Only triggers when opponent activates (not when you activate)
-- Maximum 2 ships moved
+**Like:**
+- **Trade** - Flexibility and economic engine.
+- **Imperial** - Score objectives. Push for points.
+- **Politics** - 4 influence home + agenda control. Not a big need but solid.
 
-**Strategic Implication:** This is purely defensive. You can't use it offensively.
+**Situational:**
+- **Construction** - No need after first space dock placed. Mobile structures make this less critical.
+- **Warfare** - Fleet token return useful for specific aggressive plays.
+- **Diplomacy** - Rarely good. Survival Instinct provides defensive response.
+
+---
+
+## VII. Unit Composition and Game Plan
+
+### A. Unit Composition
+
+- **Dreadnought** - Good if low on production capacity. Combat power with sustain damage.
+- **Carrier II** - Core transport. Move 2, Capacity 6 for structures + ground forces.
+- **Fighters** - Always needed for some extra HP. Cheap combat dice.
+- **Linkship Destroyers** - Your unique unit. Trigger PDS Space Cannon remotely. Essential.
+- **Infantry** - Ground forces for planet control.
+- **Mech (Alarum)** - Leave around slice to surprise people with defensive reinforcements.
+- **Flagship** - Good with hero timing for the bonus movement. Retreat + kill synergy.
+
+### B. Game Plan
+
+**Early Game (R1-2):** Expand aggressively to compensate for weak home system. Transport 1 Space Dock with forward fleet. Deploy PDS on conquered planets for instant defense. Research AI Development Algorithm and start tech path.
+
+**Mid Game (R3-4):** Research Linkship II for enhanced Space Cannon coverage. Transport 2 PDS with main fleet—mobile Space Cannon platform. Use Survival Instinct to consolidate when attacked. Pass last once to unlock Commander.
+
+**Late Game (R5+):** Hero provides extra turn for surprise plays. Commander makes retreat advantageous. Mobile fortress with multiple PDS + Linkships dominates space combat. Score structure objectives easily with Miniaturization.
+
+---
 
 ## VIII. Objectives
 
 ### A. Objective Summary
 
-**Strengths:** Ral Nel dominates structure objectives with Miniaturization allowing PDS and space docks on every planet at minimal cost. Construct Massive Cities and Protect the Border are significantly easier than other factions, and mobility from Linkship supports territorial objectives.
+**Strengths:** Ral Nel dominates structure objectives with Miniaturization allowing PDS and space docks on every planet. Build Defenses and Improve Infrastructure are significantly easier. Ships in Systems objectives are easy with mobile fleet. Tech objectives achievable with AI Dev efficiency.
 
-**Weaknesses:** Combat objectives are challenging without direct military bonuses, requiring fleet investment. Resource spending can be difficult depending on slice composition, and tech diversity objectives may be harder with specialized tech focus.
+**Weaknesses:** Control objectives challenging—you're not an expansion powerhouse. Spending objectives depend on slice quality with your weak home system.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| **Spendies** |  |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| **Spendies**                                                            |        |
+| Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🟢     |
-| **Control** |  |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
+| **Control**                                                             |        |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
-| **Ships in Systems** |  |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟡     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
-| **Tech** |  |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
-| **Structure** |  |
+| **Ships in Systems**                                                    |        |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
+| **Structure**                                                           |        |
 | Build Defenses (Have 4 or more structures)                              | 🟢     |
-| Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Ral Nel has particular strengths with structure-based objectives. Miniaturization makes moving structures trivial, and mobile PDS networks make Build Defenses and Improve Infrastructure easier than most factions. Your 4-influence home system helps with Sway the Council.
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| **Combat** |  |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🔴     |
-| Brave the Void (Win combat in anomaly)                                  | 🔴     |
-| Darken the Skies (Win combat in another player's HS)                    | 🔴     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟡     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🔴     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟢     |
-| **Ships in Systems** |  |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟡     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
-| **Control** |  |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟡     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-| **Tech** |  |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
+| **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟡     |
-| **Structure/Units** |  |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| **Other** |  |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
-| Strengthen Bonds (Have another player's PN)                             | 🟡     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
+| Betray a Friend (Win combat vs player whose PN you have)                 | 🟡     |
+| Brave the Void (Win combat in anomaly)                                   | 🟡     |
+| Darken the Skies (Win combat in another player's HS)                     | 🔴     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)         | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)               | 🟢     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                 | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                          | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                 | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                 | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                            | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)         | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)   | 🟢     |
+| Control the Region (Ships in 6 systems)                                  | 🟢     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                 | 🟡     |
+| **Control**                                                              |        |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                  | 🟡     |
+| Hoard Raw Materials (Control planets with 12+ resources)                 | 🟡     |
+| Seize an Icon (Control legendary planet)                                 | 🟡     |
+| Stake Your Claim (Control planet in contested system)                    | 🟡     |
+| Become a Martyr (Lose control of planet in home system)                  | 🟡     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                        | 🔴     |
+| Master the Laws of Physics (Own 4 tech of same color)                    | 🟡     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                              | 🟢     |
+| Fuel the War Machine (Have 3 space docks)                                | 🟢     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟡     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟡     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                         | 🟡     |
+| Drive the Debate (You/your planet elected by agenda)                     | 🟡     |
+| Destroy Heretical Works (Purge 2 relic fragments)                        | 🟡     |
+| Form a Spy Network (Discard 5 action cards)                              | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                          | 🟡     |
+| Strengthen Bonds (Have another player's PN)                              | 🟢     |
+| Prove Endurance (Last to pass)                                           | 🟢     |
 
-Ral Nel has strong synergy with Turn their Fleets to Dust (Linkships provide abundant Space Cannon shots) and Establish a Perimeter (mobile PDS are core to your strategy). Commander retreat ability makes retreat-based objectives more feasible. Combat-focused secrets remain difficult since you're not a combat faction.
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| **Spendies** |  |
-| Dictate Policy (Spend X influence)                                      | N/A    |
-| Drive the Debate (Spend X influence)                                    | N/A    |
-| Wield Authority (Spend X influence)                                     | N/A    |
-| Produce En Masse (Spend X resources)                                    | N/A    |
-| Dominate Economic Policy (Spend X resources/trade goods)                | N/A    |
-| **Control** |  |
+| **Spendies**                                                             |        |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟢     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
+| **Control**                                                              |        |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
-| Form Galactic Brain Trust (Control 5 tech specialty planets)            | N/A    |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡  |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
+| **Ships in Systems**                                                     |        |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
+| **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
-| **Ships in Systems** |  |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
-| **Tech** |  |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
-| **Structure** |  |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🟢     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-Ral Nel excels at structure objectives in Stage II. Construct Massive Cities and Protect the Border are significantly easier due to Miniaturization. Your mobility and defensive tools make positioning objectives feasible, but aggressive combat objectives remain challenging for this faction.
+---
 
-## IX. Technology
+## IX. Alliance Priority
 
-### A. Recommended Tech Paths
+**Top Tier:**
 
-**Path 1: Linkship Rush**
-1. Antimass Deflectors (Start - choose red tech)
-2. Linkship I (R2)
-3. Linkship II (R3-4)
-4. Carrier II (R4-5)
-5. Gravity Drive (R5)
+1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Solid passive income with your mobile space docks.
 
-**Path 2: Economic Build**
-1. Sarween Tools (Start - if allowed)
-2. Carrier II (R2-3)
-3. Gravity Drive (R3-4)
-4. Linkship I (R4)
-5. AI Development Algorithm (R5)
+2. **Vuil'raith Cabal (That Which Molds Flesh)** - When you produce fighters or infantry, up to 2 don't count against PRODUCTION limit. Helps overcome your weak home production.
 
-**Path 3: Balanced**
-1. Neural Motivator (Start)
-2. Scanlink Drone Network (R2)
-3. Linkship I (R3)
-4. Carrier II (R4)
-5. Linkship II (R5)
+3. **Nekro Virus (Nekro Acidos)** - After you gain a technology, draw 1 action card. You tech frequently with AI Dev efficiency.
 
-### B. Critical Technologies
+**Good:**
 
-**Linkship I:** Your faction identity. You MUST research this R2-4. Without Linkships, you're just a faction with mobile structures (weak).
+4. **Naalu Collective (M'aban)** - After another player moves ships into system with your ships, lock 1 of their non-fighter ships. Defensive synergy with Survival Instinct.
 
-**Linkship II:** Upgrades Linkship I. Multiple Linkships can trigger same PDS. This turns 2 PDS into 6-8 Space Cannon shots. Research R4-5.
+5. **Argent Flight (Trillossa)** - When you win a combat, place 1 fighter or infantry from reinforcements in that system. Combat reward.
 
-**Antimass Deflectors:** Apply -1 to opponent Space Cannon rolls. Since you rely on Space Cannon defensively, denying enemy Space Cannon is valuable.
+6. **Mahact Gene-Sorcerers (Il Na Vansen)** - After you win a combat, you may spend 2 influence to move 1 command token from opponent's fleet pool to yours. Fleet pool growth.
 
-**Carrier II:** You transport structures constantly. Carrier II (Move 2, Capacity 8) is essential for rapid repositioning.
+---
 
-**Nanomachines (Faction Tech):** Deploy PDS, repair units, or trade action cards. The PDS deployment is most valuable (instant PDS on conquered planets).
-
-**Sarween Tools:** You have 3 home resources (low). Sarween helps stretch production. If you can start with this, do it.
-
-### C. Tech Skip Usage
-
-You choose 1 red or green tech with no prerequisites at start.
-
-**Best Choices:**
-1. **Sarween Tools (Yellow - need to check if you can take this)** - If allowed, this is #1
-2. **Antimass Deflectors (Red)** - Space Cannon defense
-3. **Plasma Scoring (Red)** - Opens path to Linkship I/II
-4. **Neural Motivator (Green)** - Flexible
-
-## X. Strategy Cards
-
-### A. Round 1
-
-Your R1 priority is accelerating toward Linkship I and establishing mobile structure network.
-
-**Round 1 Priority Ranking:**
-
-1. **Trade** - 4 commodities + you're excellent trade partner. Economic engine foundation.
-
-2. **Technology** - You need to accelerate toward Linkship I. Mandatory tech path.
-
-3. **Politics** - 4 influence home makes you strong politically. Agenda control.
-
-4. **Leadership** - CCs for expansion + Survival Instinct uses.
-
-5. **Warfare** - Defensive unlock for Survival Instinct reinforcements.
-
-6. **Construction** - You have mobile structures; less need for this.
-
-7. **Imperial** - Unlikely to score R1.
-
-8. **Diplomacy** - Survival Instinct provides defensive response; Diplomacy is redundant.
-
-### B. Round 2+
-
-**Love:**
-- **Trade** - 4 commodities + economic engine. Excellent trade partner value.
-- **Technology** - Linkship I/II are mandatory techs. Critical for mobile structure strategy.
-- **Politics** - 4 influence home + agenda control.
-- **Leadership** - CCs for expansion + Survival Instinct uses.
-- **Warfare** - Unlock systems for reinforcement/Survival Instinct.
-- **Imperial** - Points are points. Needed rounds 3-5.
-
-**Like:**
-- **Construction** - Mobile structures make Construction less critical, but objectives may require it.
-- **Diplomacy** - Additional protection (but Survival Instinct is better).
-
-## XI. Agent (Kan Kip Rel)
-
-At start of player's turn, exhaust Agent: Draw 2 action cards, give 1 to that player.
-
-**This is action card generation + trading.**
-
-**Optimal Usage:**
-- Draw 2, keep best 1, give worst 1 to another player
-- Trade agent uses: "I'll agent you R2 if you vote my way on agendas"
-- Generate extra action cards for yourself
-
-**Value:**
-- You net +1 action card per use
-- Other player gets +1 action card (they value this)
-- Political trading chip
-
-**Timing:**
-- Use R2-5 when action cards matter most
-- Trade to players before their critical turns ("I'll agent you before your turn if you don't attack me")
-
-## XII. Commander (Watchful Ojz)
-
-Unlocks after passing last during Action Phase.
-
-When retreating: Retreat up to 2 ships to system without enemy ships, place 1 CC from reinforcements there.
-
-**This is enhanced retreat.**
-
-**Applications:**
-1. **Retreat to Safety:** Lose space combat, retreat 2 ships to safety, place CC to hold system
-2. **Tactical Repositioning:** Retreat ships to staging system for future assault
-3. **CC Generation:** Gain 1 CC from reinforcements (minor economic benefit)
-
-**Unlock Challenge:**
-- Requires passing LAST
-- This means giving up initiative control
-- Usually opponents prefer to pass last (Speaker advantage)
-
-**When to Unlock:**
-- R3-4 in defensive games (you're being attacked frequently)
-- When you don't need early initiative
-- When last-pass position has strategic value (you want to act last next round)
-
-**Post-Commander Strategy:**
-- Fight battles you can lose (retreating with Commander is valuable)
-- Use retreat to reposition fleets without spending CCs
-- Generate CCs via retreats
-
-## XIII. Hero (Unnamed)
-
-Activates after scoring 3 objectives.
-
-Remove yourself from passed status, gain 2 CCs, draw 1 action card.
-
-**This is an extra turn.**
-
-**Optimal Timing:**
-- R5 after passing but opponents are still active
-- You've passed, seen their moves, now you un-pass and take optimal action
-- Gain 2 CCs (1 strategy + 1 tactic) to enable this action
-
-**Applications:**
-1. **Objective Steal:** Opponent is about to score objective, you un-pass and score it first
-2. **MR Theft:** Opponent takes MR, you un-pass and take it from them
-3. **Final Assault:** You've passed but see opening, un-pass and attack
-
-**Strategic Value:**
-- Essentially gain 1 extra turn R5 (game-winning)
-- Opponent thinks you're done, you surprise them
-- 2 CCs + 1 action card = you have resources for meaningful action
-
-## XIV. Flagship (Last Dispatch)
-
-Combat: 8(x2), Move: 2, Capacity: 4, Sustain Damage
-
-**Ability:** When retreating, destroy 1 non-Sustain ship in system.
-
-**This is a parting shot.**
-
-**Applications:**
-1. **Retreat with Value:** Lose combat, retreat, kill 1 enemy ship as you leave
-2. **Trade Up:** Your flagship takes damage, retreat, kill enemy dreadnought on way out (you saved flagship, they lost dreadnought)
-3. **Deterrent:** Opponents hesitate to attack flagship (even if they win, you'll kill one of their ships)
-
-**Optimal Usage:**
-- Engage in fights you can't win
-- Use Sustain to absorb hit
-- Retreat, kill enemy's most valuable ship
-- You've traded 0 ships for 1 enemy ship
-
-**Combo with Commander:**
-- Commander lets you retreat 2 ships + place CC
-- Flagship retreats, kills 1 ship
-- You've retreated 3 ships, killed 1 ship, placed CC
-
-## XV. Mech (Alarum)
-
-Combat: 6, Sustain Damage
-
-**Ability:** After combat round in ground combat, move up to 2 ground forces from adjacent systems to this planet.
-
-**This is ground force reinforcement.**
-
-**Applications:**
-1. **Defensive:** Enemy invades planet with mech, mid-combat bring 2 infantry from adjacent systems (suddenly you have numerical advantage)
-2. **Offensive:** You invade with mech + 1 infantry, mid-combat bring 2 more infantry (3v2 instead of 1v2)
-3. **Sustained Invasions:** Attack planet, bring mech, reinforcements arrive mid-combat
-
-**Optimal Placement:**
-- On border planets (likely to be invaded)
-- On key defensive planets (MR, legendaries)
-- With invasion forces (reinforcement mid-combat)
-
-## XVI. Promissory Note (Nano-Link Permit)
-
-After Ral Nel activates system, return card: Move your structures from adjacent systems onto planets you control in active system.
-
-**This lets other players mimic your Miniaturization.**
-
-**Trading Value:**
-- Other players value mobile structures
-- Trade for Alliance promissories, political support, or trade goods
-- "I'll let you move structures if you vote X way"
-
-## XVII. Advanced Strategies
-
-### A. Mobile PDS Fortress
-
-**Strategy:**
-- Build 3-4 PDS total
-- Research Linkship II
-- Transport all PDS with main fleet (3-4 carriers)
-- Position 4-6 Linkship destroyers with fleet
-
-**Result:**
-- Your fleet generates 12-16 Space Cannon shots per combat (4 PDS x 3-4 Linkships each)
-- Opponents need overwhelming force to attack you
-- You're a mobile fortress
-
-**Applications:**
-- Control Mecatol Rex with this fleet (unkillable)
-- Threaten opponents (they can't defend against this much Space Cannon)
-- Score control objectives (you can hold any system)
-
-### B. Hit-and-Run Warfare
-
-**Strategy:**
-- Attack with fleet + structures
-- Win space combat (likely, due to Space Cannon advantage)
-- Deploy structures on conquered planets
-- Next turn: Opponent counter-attacks, your PDS defends
-- If you lose, Survival Instinct brings reinforcements
-- If you lose badly, retreat with Flagship (kill 1 ship) + Commander (retreat safely)
-
-**Result:**
-- You're attacking constantly but rarely losing ships
-- Opponents exhaust resources counter-attacking
-- You're expanding efficiently
-
-### C. Last-Pass Commander Unlock
-
-**Strategy:**
-- R3: Deliberately pass last
-- Unlock Commander
-- R4-5: Use enhanced retreats constantly
-
-**Tactics:**
-- Bait opponents into attacking (you'll retreat with advantage)
-- Fight unwinnable battles (retreat, kill 1 ship with Flagship, reposition 2 ships with Commander)
-- Deny opponents easy victories
-
-## XVIII. Faction Matchups
-
-### Ral Nel vs Titans of Ul
-**Difficulty: Medium**
-
-Titans have static PDS networks. You have mobile PDS.
-
-**Strategy:**
-- Avoid Titans' PDS range
-- Use Linkships to match their Space Cannon output
-- Your mobility > their static defense
-
-### Ral Nel vs Argent Flight
-**Difficulty: Medium**
-
-Argent is aggressive. Survival Instinct helps you defend.
-
-**Strategy:**
-- Place small fleets in multiple systems
-- When Argent attacks, Survival Instinct reinforces
-- Linkship Space Cannon kills Strike Wing Alphas before combat
-
-### Ral Nel vs Nekro
-**Difficulty: Hard**
-
-Nekro wants to kill your ships for tech. You want to avoid combat.
-
-**Strategy:**
-- Use Survival Instinct defensively (reinforce when attacked)
-- Retreat with Flagship/Commander (deny Nekro tech stealing)
-- Pay Nekro off to attack others
-
-### Ral Nel vs Saar
-**Difficulty: Medium-Hard**
-
-Saar has mobile space docks. You have mobile everything.
-
-**Strategy:**
-- You're both mobile
-- Use Linkships for Space Cannon advantage (Saar doesn't have this)
-- Avoid direct conflict; out-expand Saar
-
-## XIX. Common Mistakes
-
-### 1. Forgetting to Deploy Structures
-"I transported PDS but forgot to deploy it at end of activation." Your PDS stays in space (useless).
-
-**Correct:** Always deploy structures at end of tactical action.
-
-### 2. Not Researching Linkship I/II
-"I'll skip Linkships and focus on other tech." You're wasting your faction abilities.
-
-**Correct:** Linkship I by R3, Linkship II by R5. Non-negotiable.
-
-### 3. Over-Extending Structures
-"I'll transport all 4 PDS with my fleet!" Now you have no home defense.
-
-**Correct:** Transport 2 PDS max. Leave 2 at home.
-
-### 4. Not Using Survival Instinct
-"I didn't have ships adjacent so I couldn't use it." Place ships in adjacent systems specifically for this.
-
-**Correct:** Spread ships across 3-4 adjacent systems to maximize Survival Instinct.
-
-### 5. Passing Early (Not Unlocking Commander)
-"I'll pass early for better initiative." You'll never unlock Commander.
-
-**Correct:** Pass last at least once (R3-4) to unlock Commander.
-
-## XX. Point Path Examples
-
-### Mobile Fortress Path
-
-| Round | Strat Card | Stage I | Stage II | Secrets | MR | Linkships | PDS in Space | Total |
-|-------|-----------|---------|----------|---------|----|-----------|--------------| ------|
-| 1 | Trade | 1 | 0 | 0 | 0 | 1 (starting) | 0 (at home) | 1 |
-| 2 | Technology | 2 | 0 | 1 | 0 | 3 (researched Linkship I) | 2 | 3 |
-| 3 | Politics | 3 | 0 | 1 | 0 | 5 (built more) | 2 | 4 |
-| 4 | Warfare | 4 | 1 | 2 | 1 | 6 (Linkship II researched) | 3 | 8 |
-| 5 | Imperial | 5 | 2 | 2 | 1 | 6 | 3 (Hero turn) | 10 |
-
-### Defensive Path (Commander Focus)
-
-| Round | Strat Card | Stage I | Stage II | Secrets | MR | Notes | Total |
-|-------|-----------|---------|----------|---------|----| ------|-------|
-| 1 | Leadership | 1 | 0 | 0 | 0 | Expand defensively | 1 |
-| 2 | Trade | 2 | 0 | 1 | 0 | Economic build | 3 |
-| 3 | Construction | 3 | 0 | 1 | 0 | Pass last (Commander unlocks) | 4 |
-| 4 | Politics | 4 | 1 | 2 | 0 | Use retreats with Commander | 7 |
-| 5 | Imperial | 5 | 2 | 2 | 1 | Hero turn + final push | 10 |
-
-### Aggressive Expansion Path
-
-| Round | Strat Card | Stage I | Stage II | Secrets | MR | Structures Transported | Total |
-|-------|-----------|---------|----------|---------|----|-----------------------| ------|
-| 1 | Technology | 1 | 0 | 0 | 0 | 1 Space Dock | 1 |
-| 2 | Warfare | 2 | 0 | 1 | 0 | 1 Space Dock + 1 PDS | 3 |
-| 3 | Trade | 3 | 0 | 1 | 0 | 2 PDS (Linkship I researched) | 4 |
-| 4 | Imperial | 4 | 1 | 2 | 1 | 2 PDS (Linkship II researched) | 8 |
-| 5 | Politics | 5 | 2 | 2 | 1 | Hero turn + mobile fortress | 10 |
-
-## XXI. Bonus Game Elements
-
-This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
+## X. Bonus Game Elements
 
 ### A. High-Value Action Cards
 
@@ -786,22 +478,16 @@ This section highlights action cards that synergize particularly well with your 
 
 ---
 
-## XXII. End Notes
+## XI. End Notes
 
-Ral Nel Consortium rewards:
-- **Creative positioning:** Mobile structures enable unconventional plays
-- **Defensive mastery:** Survival Instinct + Linkship Space Cannon = hard to attack
-- **Technological focus:** Linkship I/II are mandatory research priorities
-- **Tactical flexibility:** Move structures, retreat with advantage, respond to threats
-
-You're a solidly mid-tier faction with a unique playstyle. Master mobile structures and Linkship Space Cannon, and you'll frustrate opponents while efficiently scoring objectives.
+Ral Nel Consortium rewards creative positioning, defensive mastery, and technological focus. Your mobile structures enable unconventional plays. Survival Instinct + Linkship Space Cannon makes you hard to attack. Master mobile structures and you'll frustrate opponents while efficiently scoring objectives.
 
 **Core Principles:**
-1. Research Linkship I R2-3, Linkship II R4-5 (mandatory)
+1. Research AI Development Algorithm start, then Nanomachines and Linkship II
 2. Transport 2 PDS with main fleet (mobile Space Cannon platform)
 3. Use Survival Instinct to reinforce when attacked
 4. Deploy structures immediately after conquering planets
 5. Pass last at least once to unlock Commander
-6. Use Hero R5 for extra turn advantage
+6. Use Hero for extra turn advantage
 
 **THE CONSORTIUM ADAPTS.**
