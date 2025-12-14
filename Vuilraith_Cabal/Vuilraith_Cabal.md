@@ -462,6 +462,7 @@ You should have massive captured unit reserves. Produce entire fleets for free u
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 
 **Ships in Systems**
 
