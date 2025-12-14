@@ -469,13 +469,11 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 6. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Helps overcome weak home production.
 
-7. **Barony of Letnev (Rear Admiral Farran)** - After unit uses Sustain Damage, gain 1 TG. Dreadnought synergy.
+7. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planet systems. Strong boost in key battles.
 
-8. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planet systems. Strong boost in key battles.
+8. **Empyrean (Xuange)** - After another player moves ships into system with your token, return token to reinforcements. Late game slaying tool.
 
-9. **Empyrean (Xuange)** - After another player moves ships into system with your token, return token to reinforcements. Late game slaying tool.
-
-10. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra die for Space Cannon synergy.
+9. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra die for Space Cannon synergy.
 
 ---
 
