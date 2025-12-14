@@ -316,11 +316,11 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ### B. Game Plan
 
-**Early Game (R1-2):** Expand aggressively to compensate for weak home system. Transport 1 Space Dock with forward fleet. Deploy PDS on conquered planets for instant defense. Research AI Development Algorithm and start tech path.
+**Early Game (R1-2):** Trade for breakthrough unlock via Politics secondary. Get Nanomachines R1. Expand to 2 systems (3 if Gravity Drive and good production). Move Space Dock to better production planet with Miniaturization. Deploy PDS on conquered planets for instant defense.
 
-**Mid Game (R3-4):** Research Linkship II for enhanced Space Cannon coverage. Transport 2 PDS with main fleet—mobile Space Cannon platform. Use Survival Instinct to consolidate when attacked. Pass last once to unlock Commander.
+**Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get Linkship II for enhanced Space Cannon coverage. Transport PDS with fleet for mobile coverage.
 
-**Late Game (R5+):** Hero provides extra turn for surprise plays. Commander makes retreat advantageous. Mobile fortress with multiple PDS + Linkships dominates space combat. Score structure objectives easily with Miniaturization.
+**Late Game (R5+):** Hero lets you un-pass for surprise final turn. Commander makes retreat advantageous - reposition safely. Linkships trigger PDS remotely. Graviton Laser System (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
 
 ---
 
