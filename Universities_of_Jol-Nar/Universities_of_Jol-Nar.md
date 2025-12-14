@@ -1,6 +1,29 @@
+[← Back to Index](../index.html)
+
 # Universities of Jol-Nar Guide
 
 ![Universities of Jol-Nar](JolNarArt.webp)
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note---research-agreement) · [Alliance](#g-alliance) · [Mech](#h-mech---shield-paling) · [Flagship](#i-flagship---jns-hylarim) · [Breakthrough](#j-breakthrough---specialized-compounds-yg) · [Slice and Draft](#k-slice-and-draft-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+   - [First Turn Priorities](#a-first-turn-priorities) · [Fragile Weakness](#b-fragile-weakness) · [Commander Unlock Requirement](#c-commander-unlock-requirement) · [Low Resource Home System](#d-low-resource-home-system)
+5. [Technology](#v-technology)
+   - [Overview](#a-overview) · [Technology Paths](#b-technology-paths)
+6. [Strategy Cards](#vi-strategy-cards)
+   - [Round 1](#a-round-1) · [Round 2+](#b-round-2)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+   - [Unit Composition](#a-unit-composition) · [Game Plan](#b-game-plan)
+8. [Objectives](#viii-objectives)
+   - [Objective Summary](#a-objective-summary) · [Stage I](#b-stage-i-objectives) · [Secret Objectives](#c-secret-objectives) · [Stage II](#d-stage-ii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+    - [Action Cards](#a-high-value-action-cards) · [Relics](#b-relic-priorities) · [Agendas](#c-agenda-awareness)
+11. [End Notes](#xi-end-notes)
 
 ---
 
@@ -50,7 +73,7 @@ Opponents will underestimate your military until they realize your -1 combat is 
 
 Your weakness. All your units roll at -1 for combat. Infantry hit on 9 instead of 8, fighters hit on 10 instead of 9, dreadnoughts hit on 6 instead of 5. This makes you weaker in combat than most factions.
 
-**HOWEVER:** Plasma Scoring gives +1 vs non-fighters, offsetting this to net 0 against ships. You only suffer -1 against fighters and ground forces.
+**HOWEVER:** Unit upgrades offset this. Dreadnought II combat 5 - 1 (Fragile) = combat 4 (still strong). Commander rerolls help significantly. You're weaker in combat but not helpless.
 
 **Brilliant (Faction Ability):** When you spend a command token to resolve the secondary ability of the "Technology" strategy card, you may resolve the primary ability instead.
 
@@ -68,15 +91,15 @@ Skip ahead in tech trees. Want Gravity Drive (BB)? Ignore 1 blue prerequisite, o
 
 **Starting Technologies:**
 
-1. **Neural Motivator** - You have +2 starting command counters
-2. **Antimass Deflectors** - Ships move through asteroids; -1 to enemy SPACE CANNON
-3. **Sarween Tools** - Reduce production costs by 1
-4. **Plasma Scoring** - Ships +1 to combat rolls vs non-fighter ships
+1. **Neural Motivator (G)** - During the status phase, draw 2 action cards instead of 1
+2. **Antimass Deflectors (B)** - Ships move through asteroids; -1 to enemy SPACE CANNON rolls
+3. **Sarween Tools (Y)** - Reduce production costs by 1
+4. **Plasma Scoring (R)** - When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die
 
 **Notes:** You start with MORE technologies than any faction (4 vs 1-2 for most). This is ABSURD. You have immediate advantages:
-- +2 CCs from Neural Motivator (5 starting CCs instead of 3)
+- Extra action cards from Neural Motivator (draw 2 instead of 1)
 - Production efficiency from Sarween (save 1 resource per production)
-- Combat bonus from Plasma Scoring (+1 vs non-fighters offsets your -1 Fragile = net 0)
+- Extra SPACE CANNON/BOMBARDMENT die from Plasma Scoring (synergizes with 2 starting PDS)
 - Mobility from Antimass Deflectors (move through asteroids)
 
 You're ahead of everyone technologically from R1.
@@ -144,12 +167,9 @@ Cost: 8 | Combat: 6 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 When making a combat roll for this ship, each result of 9 or 10, before applying modifiers, produces 2 additional hits.
 
-Explosive flagship. Rolls 2 dice at combat 6. With Fragile (-1) and Plasma Scoring (+1 vs non-fighters), net combat 6. Each natural 9 or 10 produces 3 TOTAL hits (1 normal + 2 additional). Expected output:
-- 2 dice rolling 6+ (modified) = ~1 hit normally
-- BUT natural 9-10 (20% chance per die) produces 3 hits = 0.4 extra hits per die
-- Average: 1.8 hits per round (better than most flagships)
+Explosive flagship. Rolls 2 dice at combat 6, but with Fragile you hit on 7+. Each natural 9 or 10 produces 3 TOTAL hits (1 normal + 2 additional). This makes fishing for 9-10 extremely valuable.
 
-With Commander rerolls, this becomes even more deadly—reroll misses, fish for natural 9-10s.
+With Commander rerolls, this becomes deadly—reroll misses to fish for natural 9-10s. The flagship can devastate fleets when the dice cooperate.
 
 ### J. Breakthrough - **Specialized Compounds (Y<>G)**
 
@@ -205,9 +225,9 @@ Jol-Nar MUST have tech specialty planets (2-3 minimum). Your entire gameplan rev
 
 ### B. Fragile Weakness
 
--1 to all combat rolls makes you vulnerable to aggression. Without Plasma Scoring (+1 vs non-fighters), you'd be extremely weak militarily. Even with Plasma, you're at net 0 against ships and -1 against fighters/ground forces.
+-1 to all combat rolls makes you vulnerable to aggression. All your units are weaker in straight combat. Fighters hit on 10s, infantry on 9s, and even dreadnoughts hit on 6s instead of 5s.
 
-**Mitigation:** Research unit upgrades early (Dreadnought II, Carrier II offset Fragile). Unlock Commander R3-R4 (reroll dice to negate misses). Use mechs to remove Fragile from infantry. Build 2 PDS for defensive SPACE CANNON.
+**Mitigation:** Research unit upgrades early (Dreadnought II, Carrier II have better base stats). Unlock Commander R3-R4 (reroll dice to negate misses). Use mechs to remove Fragile from infantry. Build PDS for defensive SPACE CANNON (Plasma Scoring adds extra die).
 
 ### C. Commander Unlock Requirement
 
@@ -237,13 +257,13 @@ Your main tech path should focus on unit upgrades (offset Fragile), Commander un
 
 **Round 1: Dreadnought II (BBY) - WITH ANALYTICAL**
 - Cost 4 | Combat 5 | Move 2 | BOMBARDMENT 5 | Sustain Damage
-- **Why:** Offset Fragile with superior unit. Dreadnought II at combat 5 - 1 (Fragile) + 1 (Plasma) = net combat 5 (same as normal Dreadnought II). Move 2 and Sustain make it excellent.
-- **Prerequisites:** 2 blue + 1 yellow (with Analytical ignoring 1 prereq)
+- **Why:** Offset Fragile with superior unit. Dreadnought II combat 5 - 1 (Fragile) = combat 4 (still strong). Move 2 and Sustain make it excellent. Cannot be destroyed by Direct Hit.
+- **Prerequisites:** 2 blue + 1 yellow (with Analytical ignoring 1 prereq, you only need Antimass + Sarween)
 
 **Round 2: Carrier II (BB) AND PDS II (RY) - DOUBLE TECH WITH BRILLIANT**
 - **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Why:** Combat 9 - 1 (Fragile) + 1 (Plasma) = net 9. Hits easily, massive capacity.
-  - **Prerequisites:** 2 blue
+  - **Why:** Combat 9 - 1 (Fragile) = combat 8. Still hits often, massive capacity.
+  - **Prerequisites:** 2 blue (Antimass + Gravity Drive or use Analytical)
 - **PDS II:** Planetary Shield | SPACE CANNON 5 | Shoots adjacent systems
   - **Why:** Defensive upgrade. You start with 2 PDS; upgrade both.
   - **Prerequisites:** 1 red + 1 yellow (Plasma + Sarween)
@@ -411,30 +431,30 @@ R5: Fully upgraded armada with Commander rerolls
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| **Spendies** |  |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
+| **Spendies**                                                            |        |
+| Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Sway the Council (Spend 8 influence)                                    | 🟢     |
-| **Control** |  |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
-| **Ships in Systems** |  |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
+| **Control**                                                             |        |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🟢     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟡     |
+| **Ships in Systems**                                                    |        |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟡     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
-| **Tech** |  |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟢     |
-| **Structure** |  |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
+| **Structure**                                                           |        |
 | Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
@@ -445,114 +465,114 @@ Jol-Nar excels at tech objectives (Diversify Research, Develop Weaponry, Found R
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| **Combat** |  |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
-| Brave the Void (Win combat in anomaly)                                  | 🟡     |
-| Darken the Skies (Win combat in another player's HS)                    | 🔴     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟢     |
-| **Ships in Systems** |  |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| **Control** |  |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟢     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-| **Tech** |  |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
+| **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟡     |
-| **Structure/Units** |  |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| **Other** |  |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
-| Dictate Policy (3+ laws in play)                                        | 🟡     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟢     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| Prove Endurance (Last to pass)                                          | 🔴     |
-| Strengthen Bonds (Have another player's PN)                             | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
+| Betray a Friend (Win combat vs player whose PN you have)                 | 🟡     |
+| Brave the Void (Win combat in anomaly)                                   | 🟡     |
+| Darken the Skies (Win combat in another player's HS)                     | 🔴     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)         | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)               | 🟢     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                 | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                          | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                 | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                 | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                            | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)         | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)   | 🟢     |
+| Control the Region (Ships in 6 systems)                                  | 🟢     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                 | 🟡     |
+| **Control**                                                              |        |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                  | 🟢     |
+| Hoard Raw Materials (Control planets with 12+ resources)                 | 🟡     |
+| Seize an Icon (Control legendary planet)                                 | 🟡     |
+| Stake Your Claim (Control planet in contested system)                    | 🟡     |
+| Become a Martyr (Lose control of planet in home system)                  | 🔴     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                        | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                    | 🟢     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                              | 🟢     |
+| Fuel the War Machine (Have 3 space docks)                                | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟡     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                         | 🟡     |
+| Drive the Debate (You/your planet elected by agenda)                     | 🟢     |
+| Destroy Heretical Works (Purge 2 relic fragments)                        | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                              | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                          | 🟡     |
+| Strengthen Bonds (Have another player's PN)                              | 🟢     |
+| Prove Endurance (Last to pass)                                           | 🔴     |
 
-**Notes:**
-- **Adapt New Strategies (2 faction techs)** is EASY—E-Res Siphons + Spacial Conduit Cylinder
-- **Master the Laws of Physics (4 techs of same color)** is EASY—you naturally research 8+ techs
-- **Establish Hegemony (12+ influence)** is EASY with 5 influence home
-- **Turn their Fleets to Dust (SPACE CANNON)** is EASY—you start with 2 PDS, upgrade to PDS II
-- All tech secrets strongly favor Jol-Nar
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| **Spendies** |  |
-| Dictate Policy (Spend X influence)                                      | N/A    |
-| Drive the Debate (Spend X influence)                                    | N/A    |
-| Wield Authority (Spend X influence)                                     | N/A    |
-| Produce En Masse (Spend X resources)                                    | N/A    |
-| Dominate Economic Policy (Spend X resources/trade goods)                | N/A    |
-| **Control** |  |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
-| Form Galactic Brain Trust (Control 5 tech specialty planets)            | N/A    |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
-| **Ships in Systems** |  |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
+| **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
-| **Tech** |  |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟢     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
+| **Control**                                                              |        |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🔴  |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
-| **Structure** |  |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| **Tech**                                                                 |        |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-**Notes:**
-- **Master of Sciences (2 techs in each of 4 colors)** is EASY—you research 8-12 techs total
-- **Revolutionize Warfare (3 unit upgrades)** is EASY—you naturally research unit upgrades
-- **Centralize Galactic Trade (10 TG)** is EASY—E-Res Siphons generates 4 TG per activation, plus 4 commodities
-- **Manipulate Galactic Law (16 influence)** is EASY—5 influence home + expansion
-- Jol-Nar struggles with conquest/aggression objectives due to Fragile
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ---
 
 ## IX. Alliance Priority
 
-Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
+**Top Tier:**
 
-**Super Top Tier:**
-1. **Hacan (Carth of Golden Sands)** - After you roll dice for combat/SPACE CANNON/AFB, reroll any number. Stacks with Commander (Ta Zern) for double rerolls = massively offsets Fragile.
-2. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. You produce constantly = constant TG income.
-3. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources for tech research.
-4. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces, commit 1 ground force from each planet. Helps offset weak infantry (Fragile).
+1. **Nekro Virus (Nekro Acidos)** - After you gain tech, draw 1 action card. You research constantly—this generates massive action card flow.
 
-**Really Useful:**
-5. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. CC usage = TG income.
-6. **Empyrean (Xuange)** - After player moves ships into system with your tokens, return token. Useful for defensive plays.
-7. **L1Z1X (Il Na Viroset)** - During tactical actions, activate systems with your tokens and return both tokens. Flexibility.
-8. **Xxcha (Elder Qanoj)** - Each planet exhausted for votes gives +1 vote. Stacks with your 5 influence home for voting dominance.
+2. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. You produce constantly = constant TG income for more tech.
+
+3. **Muaat (Magmus)** - After you spend strategy token, gain 1 TG. You use lots of secondaries = passive income.
+
+4. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Saves 8 resources for tech research.
+
+5. **Deepwrought (Aello)** - When others research tech with -1 discount, gain commodity/TG. Passive income in tech-heavy games.
+
+**Good:**
+
+6. **Crimson Rebellion (Ahk Siever)** - At end of combat, gain commodity/TG. Combat-focused income.
+
+7. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity.
+
+8. **Empyrean (Xuange)** - After player moves ships into system with your tokens, return token. Late game slaying tool.
+
+9. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra die for SPACE CANNON synergizes with your PDS.
+
+10. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planets. Helps offset Fragile in key battles.
 
 ---
 
@@ -578,7 +598,7 @@ Universities of Jol-Nar are a top-tier technology faction with the fastest tech 
 4. **Use Specialized Compounds** - Research for free using tech specialty planets (save 20+ resources over game)
 5. **E-Res Siphons placement** - Place ships in high-traffic systems to gain 4 TG per enemy activation
 6. **Hero R5** - Swap 6-8 non-unit techs for optimal endgame technologies (Fleet Logistics, Lightwave Deflector, etc.)
-7. **Fragile mitigation** - Plasma Scoring (+1 vs non-fighters) + unit upgrades + Commander rerolls = competitive combat
+7. **Fragile mitigation** - Unit upgrades (better base stats) + Commander rerolls + mechs (remove Fragile from infantry) = competitive combat
 
 Don't let anyone tell you Fragile makes you weak. You offset it through technological supremacy—unit upgrades, Commander rerolls, and superior positioning. Research aggressively, unlock Commander early, and dominate through superior technology.
 
