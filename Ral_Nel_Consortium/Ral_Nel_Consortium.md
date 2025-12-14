@@ -306,12 +306,12 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ### A. Unit Composition
 
-- **Dreadnought** - Good if low on production capacity. Combat power with sustain damage.
 - **Carrier II** - Core transport. Move 2, Capacity 6 for structures + ground forces.
 - **Fighters** - Always needed for some extra HP. Cheap combat dice.
 - **Linkship Destroyers** - Your unique unit. Trigger PDS Space Cannon remotely. Essential.
 - **Infantry** - Ground forces for planet control.
 - **Mech (Alarum)** - Leave around slice to surprise people with defensive reinforcements.
+- **Dreadnought** - Good if low on production capacity. Combat power with sustain damage.
 - **Flagship** - Retreat + kill synergy. Punishes opponents for engaging you, combos with Commander.
 
 ### B. Game Plan
