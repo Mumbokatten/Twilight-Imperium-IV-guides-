@@ -328,9 +328,9 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ### A. Objective Summary
 
-**Strengths:** Structure objectives easy with Miniaturization - PDS and space docks on every planet. Ships in Systems easy with mobile fleet. Projected strength from visible action cards deters attacks. Elusiveness and stall potential strong late game.
+**Strengths:** Spendies easy with 4 commodities and trade flexibility. Structure objectives easy with Miniaturization - PDS and space docks on every planet. Ships in Systems easy with mobile fleet. Tech objectives achievable with solid tech path.
 
-**Weaknesses:** Control objectives hard - not an expansion powerhouse. Production capacity issues with 2 resource home planet. Need good production planets in slice.
+**Weaknesses:** Control objectives hard - not an expansion powerhouse. Planet trait objectives difficult without lucky slice.
 
 ### B. Stage I Objectives
 
