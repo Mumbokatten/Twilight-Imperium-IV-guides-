@@ -184,15 +184,15 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 4. **Expansion and Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
 
-### B. Expansion Notes
+**Expansion Notes:**
 
-### C. Low Starting Resources
+### B. Low Starting Resources
 
 3 resources at home is below average (most factions have 4-5). This delays your builds early game.
 
 **Mitigation:** Expand aggressively R1-2. Use 4 commodities via Trade for economic boost. Mobile space docks let you produce from better planets.
 
-### D. Commander Unlock Challenge
+### C. Commander Unlock Challenge
 
 Commander requires passing LAST during action phase. This means giving up initiative control.
 
