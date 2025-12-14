@@ -186,17 +186,13 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 **Expansion Notes:**
 
-### B. Low Starting Resources
+### B. Production Capacity
 
-3 resources at home is below average (most factions have 4-5). This delays your builds early game.
+Production capacity issues if you don't have good planets for it in your slice.
 
-**Mitigation:** Expand aggressively R1-2. Use 4 commodities via Trade for economic boost. Mobile space docks let you produce from better planets.
+### C. Projected Strength
 
-### C. Commander Unlock Challenge
-
-Commander requires passing LAST during action phase. This means giving up initiative control.
-
-**Mitigation:** Only pass last when Commander value is high (defensive games) or when last-pass position is strategically valuable. Late game you no longer need to move your space dock around as much, so passing last has less cost.
+Visible action cards make you seem stronger than people who have the same power hidden.
 
 ---
 
