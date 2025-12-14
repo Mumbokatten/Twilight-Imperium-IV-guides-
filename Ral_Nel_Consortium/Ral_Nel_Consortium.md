@@ -192,7 +192,7 @@ Your best home planet is only 2 resources - low production capacity per activati
 
 ### C. Projected Strength
 
-Visible action cards make you seem stronger than people who have the same power hidden.
+Data Skimmer collects discarded action cards visibly - opponents see you cherry-picking the best cards from the table. This creates projected strength: they assume you have Sabotage, Direct Hit, and combat tricks even when you don't. Use this reputation to deter attacks. You seem stronger than factions with the same power hidden in their hand.
 
 ---
 
