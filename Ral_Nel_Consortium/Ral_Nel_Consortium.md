@@ -264,21 +264,14 @@ Ral Nel has two distinct tech paths:
 
 **Round 1 Priority Ranking:**
 
-1. **Technology** - Start your tech path immediately. AI Development Algorithm is critical.
-
-2. **Trade** - 4 commodities + economic foundation. You need resources with your weak home system.
-
-3. **Leadership** - Command tokens for expansion and token economy in general.
-
-4. **Diplomacy** - Only for specific slice issues where you need protection.
-
-5. **Warfare** - Defensive unlock for Survival Instinct positioning. Flexibility in general.
-
-6. **Politics** - 4 influence home makes you decent politically.
-
-7. **Construction** - You have mobile structures; less need for static building.
-
-8. **Imperial** - Points come later. Focus on setup first.
+1. **Trade**
+2. **Technology**
+3. **Construction**
+4. **Leadership**
+5. **Politics**
+6. **Warfare**
+7. **Imperial**
+8. **Diplomacy**
 
 **Strategy Token Priority:** Technology, Warfare.
 
