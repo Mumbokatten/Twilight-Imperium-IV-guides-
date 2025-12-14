@@ -212,48 +212,29 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - AI Development Algorithm Start:**
 
-**Round 1:** AI Development Algorithm (R) - Start with this
-- *Exhaust to ignore 1 prerequisite when researching unit upgrades. Exhaust to reduce production cost by number of unit upgrades owned.*
+**Round 1:** Nanomachines (YY)
 
-**Round 2:** Nanomachines (YY) - Your faction tech
-- *Place PDS, repair units, or trade action cards*
+**Round 2:** Dark Energy Tap (B)
 
-**Round 3:** Dark Energy Tap (B) - Exploration + retreat flexibility
-- *Explore frontier tokens. Ships can retreat into adjacent systems without your units.*
+**Round 3:** Gravity Drive (B)
 
-**Round 4:** Gravity Drive (B) - Mobility
-- *+1 movement to 1 ship per tactical action*
+**Round 4:** Carrier II (BB)
 
-**Round 5+:** Carrier II (BB) or Linkship II or Fleet Logistics (BB)
-- *Carrier II: Move 2, Capacity 6*
-- *Linkship II: Move 4, can trigger same structure multiple times*
-- *Fleet Logistics: Perform 2 actions per turn*
-
-**Supplemental Tech Options:**
-- **Bio-Stims (G)** - Ready a tech specialty planet or technology. Needs green skip but works with Y<>G breakthrough.
-- **Graviton Laser System (Y)** - Space Cannon hits must target non-fighters. Needs yellow skip but works with Y<>G breakthrough.
+**Round 5+:** Dreadnought II (BBY) or Fleet Logistics (BB)
 
 ---
 
-**Path 2 - Christmas Land (Red + Blue Skips):**
+**Path 2 - Psychoarchaeology Start:**
 
-**Prerequisite:** Have both red and blue tech skips in your slice
+**Round 1:** Nanomachines (YY)
 
-**Round 1:** AI Development Algorithm (R) - Start
-- *Exhaust to ignore 1 prerequisite when researching unit upgrades*
+**Round 2:** Dark Energy Tap (B)
 
-**Round 2:** Dreadnought II (BBY) - Use blue skip + AI Dev to ignore prereqs
-- *Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.*
+**Round 3:** Gravity Drive (B)
 
-**Round 3:** Dark Energy Tap (B)
-- *Explore frontier tokens. Ships can retreat into adjacent systems without your units.*
+**Round 4:** Carrier II (BB)
 
-**Round 4:** Fleet Logistics (BB)
-- *Perform 2 actions per turn*
-
-**Round 5+:** Carrier II (BB) or Linkship II or Nanomachines (YY)
-
-**Note:** Requires excellent slice with both skips. High payoff with early Dreadnought II combat power.
+**Round 5+:** Dreadnought II (BBY) or Fleet Logistics (BB)
 
 ---
 
