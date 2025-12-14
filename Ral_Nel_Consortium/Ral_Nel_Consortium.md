@@ -188,7 +188,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 ### B. Production Capacity
 
-Production capacity issues if you don't have good planets for it in your slice.
+Only 3 resources at home - below average. Production capacity issues if you don't have good planets in your slice. Miniaturization helps - transport your Space Dock to better production planets as you expand. Your 4 commodities provide economic flexibility but can't replace actual production capacity.
 
 ### C. Projected Strength
 
