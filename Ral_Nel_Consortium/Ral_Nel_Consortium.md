@@ -176,7 +176,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 ### A. First Turn Priorities
 
-1. **Scoring** - Structure objectives are your strength. Position for Build Defenses and Improve Infrastructure.
+1. **Scoring** - Stay in the mix. If people try to stop you, use action cards to deter.
 
 2. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
 
