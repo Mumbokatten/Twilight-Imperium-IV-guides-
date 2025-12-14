@@ -328,9 +328,9 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ### A. Objective Summary
 
-**Strengths:** Ral Nel dominates structure objectives with Miniaturization allowing PDS and space docks on every planet. Build Defenses and Improve Infrastructure are significantly easier. Ships in Systems objectives are easy with mobile fleet. Tech objectives achievable with AI Dev efficiency.
+**Strengths:** Structure objectives easy with Miniaturization - PDS and space docks on every planet. Ships in Systems easy with mobile fleet. Projected strength from visible action cards deters attacks. Elusiveness and stall potential strong late game.
 
-**Weaknesses:** Control objectives challenging—you're not an expansion powerhouse. Spending objectives depend on slice quality with your weak home system.
+**Weaknesses:** Control objectives hard - not an expansion powerhouse. Production capacity issues with 2 resource home planet. Need good production planets in slice.
 
 ### B. Stage I Objectives
 
