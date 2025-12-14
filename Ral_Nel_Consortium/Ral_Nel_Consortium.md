@@ -437,9 +437,9 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 | **Ships in Systems**                                                     |        |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
 | **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
