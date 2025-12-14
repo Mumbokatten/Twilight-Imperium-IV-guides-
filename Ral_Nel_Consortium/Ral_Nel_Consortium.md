@@ -178,19 +178,21 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 1. **Scoring** - Structure objectives are your strength. Position for Build Defenses and Improve Infrastructure.
 
-2. **Technology** - Start your tech path. AI Development Algorithm enables efficient tech progression.
+2. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
 
-3. **Expansion + Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
+3. **Technology** - Start your tech path. AI Development Algorithm enables efficient tech progression.
 
-4. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
+4. **Expansion and Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
 
-### B. Low Starting Resources
+### B. Expansion Notes
+
+### C. Low Starting Resources
 
 3 resources at home is below average (most factions have 4-5). This delays your builds early game.
 
 **Mitigation:** Expand aggressively R1-2. Use 4 commodities via Trade for economic boost. Mobile space docks let you produce from better planets.
 
-### C. Commander Unlock Challenge
+### D. Commander Unlock Challenge
 
 Commander requires passing LAST during action phase. This means giving up initiative control.
 
