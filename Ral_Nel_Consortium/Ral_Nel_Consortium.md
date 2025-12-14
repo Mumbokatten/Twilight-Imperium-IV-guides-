@@ -282,7 +282,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 8. **Imperial** - Points come later. Focus on setup first.
 
-**Strategy Token Priority:** Politics, Leadership, Diplomacy.
+**Strategy Token Priority:** Construction, Technology.
 
 ### B. Round 2+
 
