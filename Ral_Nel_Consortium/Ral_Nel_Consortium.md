@@ -262,16 +262,25 @@ Ral Nel has two distinct tech paths:
 
 ### A. Round 1
 
+Your R1 priority is getting your breakthrough and starting your tech path while expanding to better production planets.
+
 **Round 1 Priority Ranking:**
 
-1. **Trade**
-2. **Technology**
-3. **Construction**
-4. **Leadership**
-5. **Politics** - Breakthrough on Politics.
+1. **Trade** - 4 commodities + economic foundation. Need resources with your weak home system.
+
+2. **Technology** - Start your tech path immediately. Nanomachines R1 for PDS placement and utility.
+
+3. **Construction** - Forward space dock on better production planet. Your home is only 2 resources.
+
+4. **Leadership** - Command tokens for expansion and token economy.
+
+5. **Politics** - Breakthrough on Politics. 4 influence home makes you decent politically.
+
 6. **Diplomacy** - Only if you have tech skip planet to refresh.
-7. **Warfare**
-8. **Imperial**
+
+7. **Warfare** - Extra tactical action for slice filling.
+
+8. **Imperial** - Points come later. Focus on setup first.
 
 **Strategy Token Priority:** Politics, Leadership, Diplomacy.
 
