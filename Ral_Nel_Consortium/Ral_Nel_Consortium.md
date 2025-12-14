@@ -274,7 +274,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 4. **Leadership** - Command tokens for expansion and token economy.
 
-5. **Politics** - Breakthrough on Politics. 4 influence home makes you decent politically.
+5. **Politics** - Breakthrough on Politics. Speaker token and action cards.
 
 6. **Diplomacy** - Only if you have tech skip planet to refresh.
 
