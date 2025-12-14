@@ -397,7 +397,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 | Stake Your Claim (Control planet in contested system)                    | 🟢     |
 | Become a Martyr (Lose control of planet in home system)                  | 🟡     |
 | **Tech**                                                                 |        |
-| Adapt New Strategies (Own 2 faction technologies)                        | 🔴     |
+| Adapt New Strategies (Own 2 faction technologies)                        | 🟢     |
 | Master the Laws of Physics (Own 4 tech of same color)                    | 🟡     |
 | **Structure/Units**                                                      |        |
 | Establish a Perimeter (Have 4 PDS on board)                              | 🟢     |
