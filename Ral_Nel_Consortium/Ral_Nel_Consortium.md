@@ -176,13 +176,13 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 ### A. First Turn Priorities
 
-1. **Expansion + Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
+1. **Scoring** - Structure objectives are your strength. Position for Build Defenses and Improve Infrastructure.
 
 2. **Technology** - Start your tech path. AI Development Algorithm enables efficient tech progression.
 
-3. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
+3. **Expansion + Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
 
-4. **Scoring** - Structure objectives are your strength. Position for Build Defenses and Improve Infrastructure.
+4. **Breakthrough** - Data Skimmer (Y<>G) provides action card economy and tech flexibility.
 
 ### B. Low Starting Resources
 
