@@ -475,6 +475,8 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 9. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra die for Space Cannon synergy.
 
+10. **Yssaril Tribes (So Ata)** - Look at action cards/PNs/secrets after activating system with your units. Information gathering synergizes with Data Skimmer action card focus.
+
 ---
 
 ## X. Bonus Game Elements
