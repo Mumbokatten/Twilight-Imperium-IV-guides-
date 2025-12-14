@@ -142,7 +142,7 @@ Ground force reinforcement mid-combat. Leave mechs around your slice to surprise
 
 When this ship retreats, you may destroy 1 ship in this system that does not have SUSTAIN DAMAGE.
 
-Parting shot on retreat. Good with the bonus movement from hero timing. Combos with Commander—retreat flagship, kill enemy ship, reposition safely.
+Parting shot on retreat - destroy 1 ship without Sustain Damage when retreating. Combos with Commander for enhanced retreat positioning. Punishes opponents for engaging you.
 
 ### J. Breakthrough
 
@@ -312,7 +312,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 - **Linkship Destroyers** - Your unique unit. Trigger PDS Space Cannon remotely. Essential.
 - **Infantry** - Ground forces for planet control.
 - **Mech (Alarum)** - Leave around slice to surprise people with defensive reinforcements.
-- **Flagship** - Good with hero timing for the bonus movement. Retreat + kill synergy.
+- **Flagship** - Retreat + kill synergy. Punishes opponents for engaging you, combos with Commander.
 
 ### B. Game Plan
 
