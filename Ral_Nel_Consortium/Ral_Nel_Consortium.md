@@ -287,11 +287,11 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 ### B. Round 2+
 
 **Love:**
-- **Technology** - Linkship II, Carrier II, Fleet Logistics all critical. Tons of good tech to research.
 - **Leadership** - Token economy essential for flexible play. You need tokens for Survival Instinct positioning.
+- **Trade** - Economic flexibility. 4 commodities still valuable.
 
 **Like:**
-- **Trade** - Economic flexibility. 4 commodities still valuable.
+- **Technology** - Linkship II, Carrier II, Fleet Logistics all critical. Tons of good tech to research.
 - **Imperial** - Score objectives. Start pushing for points.
 - **Politics** - Speaker priority and action cards. Data Skimmer loves action card flow.
 
