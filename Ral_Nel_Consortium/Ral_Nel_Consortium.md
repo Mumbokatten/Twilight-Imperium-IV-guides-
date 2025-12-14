@@ -200,6 +200,8 @@ Visible action cards make you seem stronger than people who have the same power 
 
 ### A. Overview
 
+**Starting Tech:** Psychoarchaeology or AI Development Algorithm.
+
 Ral Nel has two distinct tech paths:
 
 **Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on Dark Energy Tap for exploration and retreat synergy, then Gravity Drive for mobility, into Carrier II and Linkship II/Fleet Logistics.
