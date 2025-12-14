@@ -180,7 +180,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 2. **Breakthrough** - Data Skimmer gives you action card economy. Collect other players' discards and cherry-pick the best one.
 
-3. **Technology** - Start your tech path. AI Development Algorithm enables efficient tech progression.
+3. **Technology** - Get started early with Nanomachines.
 
 4. **Expansion and Production** - Your 3 home resources are below average. Expand aggressively R1-2 to compensate.
 
