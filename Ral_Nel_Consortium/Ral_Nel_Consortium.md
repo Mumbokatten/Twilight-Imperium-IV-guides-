@@ -206,7 +206,7 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on Dark Energy Tap for exploration and retreat synergy, then Gravity Drive for mobility, into Carrier II and Linkship II/Fleet Logistics.
 
-**Path 2 - Christmas Land (Red + Blue Skips):** High-reward path requiring both red and blue tech skips in your slice. Skips directly to Dreadnought II for early combat power, then Fleet Logistics for double actions.
+**Path 2 - Psychoarchaeology Start:**
 
 ### B. Technology Paths
 
