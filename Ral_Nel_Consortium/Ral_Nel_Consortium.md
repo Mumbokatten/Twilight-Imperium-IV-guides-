@@ -436,7 +436,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 | Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 | **Ships in Systems**                                                     |        |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
