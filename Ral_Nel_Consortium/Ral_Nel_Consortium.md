@@ -404,7 +404,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 | Fuel the War Machine (Have 3 space docks)                                | 🟢     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🟡     |
 | Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟡     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟢     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟢     |
 | **Other**                                                                |        |
 | Dictate Policy (3+ laws in play)                                         | 🟡     |
