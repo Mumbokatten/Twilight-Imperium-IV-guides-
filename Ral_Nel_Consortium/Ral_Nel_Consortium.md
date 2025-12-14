@@ -212,8 +212,8 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - AI Development Algorithm Start:**
 
-**Round 1:** Nanomachines (YY) - Your faction tech
-- *Place 1 PDS, repair all units in 1 system, or trade 1 action card with another player*
+**Round 1:** Nanomachines (R) - Your faction tech
+- *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
 **Round 2:** Dark Energy Tap - Exploration + retreat flexibility
 - *Explore frontier tokens after tactical actions. Ships can retreat into adjacent systems without your units*
@@ -232,8 +232,8 @@ Ral Nel has two distinct tech paths:
 
 **Path 2 - Psychoarchaeology Start:**
 
-**Round 1:** Nanomachines (YY) - Your faction tech
-- *Place 1 PDS, repair all units in 1 system, or trade 1 action card with another player*
+**Round 1:** Nanomachines (R) - Your faction tech
+- *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
 **Round 2:** Dark Energy Tap - Exploration + retreat flexibility
 - *Explore frontier tokens after tactical actions. Ships can retreat into adjacent systems without your units*
