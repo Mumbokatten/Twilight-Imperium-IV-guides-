@@ -318,7 +318,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 **Early Game (R1-2):** Trade for breakthrough unlock via Politics secondary. Get Nanomachines R1. Expand to 2 systems (3 if Gravity Drive and good production). Move Space Dock to better production planet with Miniaturization. Deploy PDS on conquered planets for instant defense.
 
-**Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get Linkship II for enhanced Space Cannon coverage. Transport PDS with fleet for mobile coverage.
+**Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get Gravity Drive and Carrier II. Transport PDS with fleet for mobile coverage.
 
 **Late Game (R5+):** Elusiveness and stall potential really strong. Commander makes your fleet hard to pin down - retreat and reposition safely. Hero lets you un-pass for surprise final turn. Linkships trigger PDS remotely. Graviton Laser System (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
 
