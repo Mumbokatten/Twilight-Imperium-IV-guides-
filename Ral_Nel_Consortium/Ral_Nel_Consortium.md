@@ -188,7 +188,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 ### B. Production Capacity
 
-Only 3 resources at home - below average. Production capacity issues if you don't have good planets in your slice. Miniaturization helps - transport your Space Dock to better production planets as you expand. Your 4 commodities provide economic flexibility but can't replace actual production capacity.
+Your best home planet is only 2 resources - low production capacity per activation. You need good production planets in your slice. Miniaturization helps - transport your Space Dock to better production planets as you expand.
 
 ### C. Projected Strength
 
@@ -206,7 +206,7 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on Dark Energy Tap for exploration and retreat synergy, then Gravity Drive for mobility, into Carrier II and Linkship II/Fleet Logistics.
 
-**Path 2 - Psychoarchaeology Start:**
+**Path 2 - Psychoarchaeology Start (Red + Blue Skip):** Requires tech skips in your slice. Psychoarchaeology lets you use tech specialties without exhausting them and generate TG from tech planets. Rush Gravity Drive R1, then Nanomachines, Carrier II, Linkship II.
 
 ### B. Technology Paths
 
