@@ -1,6 +1,29 @@
+[← Back to Index](../index.html)
+
 # Yin Brotherhood Guide
 
 ![Yin Brotherhood](YinArt.webp)
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-and-draft-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+   - [First Turn Priorities](#a-first-turn-priorities) · [Kamikaze Math Dependency](#b-kamikaze-math-dependency) · [Influence Scarcity](#c-influence-scarcity) · [Flagship Double-Edged Sword](#d-flagship-double-edged-sword)
+5. [Technology](#v-technology)
+   - [Overview](#a-overview) · [Yin Spinner Path](#b-tech-path-1-yin-spinner-focus-standard) · [Blue Mobility Path](#c-tech-path-2-blue-mobility-alternative) · [Kamikaze Math](#d-kamikaze-math--devotion-strategy)
+6. [Strategy Cards](#vi-strategy-cards)
+   - [Round 1](#a-round-1) · [Round 2+](#b-round-2)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+   - [Unit Composition](#a-unit-composition) · [Game Plan](#c-game-plan)
+8. [Objectives](#viii-objectives)
+   - [Objective Summary](#a-objective-summary) · [Stage I](#b-stage-i-objectives) · [Secret Objectives](#c-secret-objectives) · [Stage II](#d-stage-ii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+    - [Action Cards](#a-high-value-action-cards) · [Relics](#b-relic-priorities) · [Agendas](#c-agenda-awareness)
+11. [End Notes](#xi-end-notes)
 
 ---
 
@@ -24,11 +47,13 @@ Opponents will underestimate your kamikaze threat until you delete their capital
 
 ### A. Home System & Commodities
 
-**Home System:** Darien (4 resources / 4 influence = 4 optimal resources / 4 optimal influence)
+**Home System:** 1 planet
+- **Darien:** 4 resources / 4 influence
+- **Total: 4 resources / 4 influence**
 
 **Commodities:** 2
 
-**Notes:** Perfectly balanced home system with 4/4 split. The 4 resources fund your destroyer production, while 4 influence enables Indoctrination uses. Single-planet home system is easier to defend than multi-planet systems.
+**Notes:** Perfectly balanced home system with 4/4 split. The 4 resources fund your destroyer production, while 4 influence enables Indoctrination uses. Single-planet home system is easier to defend than multi-planet systems. Low commodities (only 2) means you rely on other income sources.
 
 ### B. Starting Fleet
 
@@ -202,12 +227,10 @@ Your main tech path focuses on Yin Spinner (GG) for infantry spam, blue techs fo
 **Starting Tech:** Sarween Tools
 
 **Round 1: Neural Motivator OR Psychoarchaeology**
-- **Neural Motivator:** You have +2 starting command counters
-  - **Why:** More CCs for kamikaze aggression and expansion. Provides green prerequisite for Yin Spinner.
-  - **Prerequisites:** None (0)
-- **Psychoarchaeology:** When you resolve the primary or secondary ability of the Politics or Imperial strategy card, you may draw 1 action card
-  - **Why:** Action card draw for political leverage.
-  - **Prerequisites:** None (0)
+- **Neural Motivator:** During the status phase, draw 2 action cards instead of 1.
+  - **Why:** Action card draw for combat tricks and flexibility. Provides green prerequisite for Yin Spinner.
+- **Psychoarchaeology:** Use tech specialties without exhausting them. Exhaust tech planets for 1 TG.
+  - **Why:** Economy from tech planets and prerequisite flexibility.
 
 **Round 2: Yin Spinner (GG)**
 - After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
@@ -357,14 +380,16 @@ Your R1 priority is economy and expansion for early aggression.
 
 8. **Imperial** - Never R1.
 
+**Strategy Token Priority:** Technology, Warfare.
+
 ### B. Round 2+
 
 **Love:**
 - **Trade** - Refresh 2 commodities for destroyer production. Need constant economy.
-- **Leadership** - Command counters for kamikaze aggression, expansion, and Yin Spinner spawns.
-- **Warfare** - Redistribution after kamikaze attacks. Unlock sacrificed fleets for reinforcement.
+- **Leadership** - Command counters for kamikaze aggression and Yin Spinner spawns.
+- **Warfare** - Redistribution after kamikaze attacks. Fleet pool token for more destroyers.
 
-**Good:**
+**Like:**
 - **Technology** - Stay on tech path toward Yin Spinner and unit upgrades.
 - **Imperial** - Needed for scoring R3-R5.
 - **Politics** - Agenda control and speaker token.
@@ -435,33 +460,30 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| **Spendies** | |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🔴     |
+| **Spendies**                                                            |        |
+| Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🟡     |
-| **Control** | |
-| Defend the Homeworld (Control all planets in home system)               | 🟢     |
-| Demonstrate Your Power (Control 3 planets with same trait)              | 🟡     |
-| Establish a Perimeter (Ships in 3 edge systems)                         | 🟢     |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
-| **Ships in Systems** | |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🔴     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
-| **Tech** | |
+| **Control**                                                             |        |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | Corner the Market (Control 4 planets with same trait)                   | 🟡     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
-| **Structure** | |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
+| **Ships in Systems**                                                    |        |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
+| **Structure**                                                           |        |
 | Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
@@ -470,104 +492,114 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| **Combat** | |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
-| Brave the Void (Win combat in anomaly)                                  | 🟢     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
-| **Ships in Systems** | |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| **Control** | |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟢     |
-| **Tech** | |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
+| **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| **Structure/Units** | |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
-| **Other** | |
-| Control the Region (Ships in 6 systems)                                 | 🟢     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| Prove Endurance (Last to pass)                                          | 🔴     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-| Strengthen Bonds (Have another player's PN)                             | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
+| Betray a Friend (Win combat vs player whose PN you have)                 | 🟢     |
+| Brave the Void (Win combat in anomaly)                                   | 🟢     |
+| Darken the Skies (Win combat in another player's HS)                     | 🟡     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)         | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)               | 🔴     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                 | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                          | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                 | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                 | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                            | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)         | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)   | 🟢     |
+| Control the Region (Ships in 6 systems)                                  | 🟢     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                 | 🟢     |
+| **Control**                                                              |        |
+| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Establish Hegemony (Control planets with 12+ influence)                  | 🟡     |
+| Hoard Raw Materials (Control planets with 12+ resources)                 | 🟡     |
+| Seize an Icon (Control legendary planet)                                 | 🟢     |
+| Stake Your Claim (Control planet in contested system)                    | 🟢     |
+| Become a Martyr (Lose control of planet in home system)                  | 🔴     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                        | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                    | 🔴     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                              | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                                | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🔴     |
+| Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟢     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟡     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                         | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                     | 🔴     |
+| Destroy Heretical Works (Purge 2 relic fragments)                        | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                              | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                          | 🟢     |
+| Strengthen Bonds (Have another player's PN)                              | 🟢     |
+| Prove Endurance (Last to pass)                                           | 🔴     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| **Spendies** | |
+| **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🔴     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
-| **Control** | |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
+| **Control**                                                              |        |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡  |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
-| **Ships in Systems** | |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| **Tech** | |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
-| **Structure** | |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
 | Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
+| **Ships in Systems**                                                     |        |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| **Tech**                                                                 |        |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
+| **Structure**                                                            |        |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ---
 
 ## IX. Alliance Priority
 
-Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
+**Top Tier:**
 
-**Super Top Tier:**
 1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Perfect for destroyer spam. You produce 10-15 times per game = 10-15 TG.
-2. **Nomad (Navarch Feng)** - Produce your flagship without spending resources. Saves 8 resources for destroyer production.
-3. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces step, commit 1 ground force from each planet in active/adjacent systems. Synergizes with Yin Spinner infantry everywhere.
-4. **Muaat (Magmus)** - After you spend token from strategy pool, gain 1 trade good. You spend CCs constantly = constant TG income.
 
-**Really Useful:**
-5. **Hacan (Carth of Golden Sands)** - After you roll dice for combat, SPACE CANNON, or AFB, reroll any number. Useful for rerolling bad kamikaze combat rounds.
-6. **L1Z1X (Il Na Viroset)** - During tactical actions, you can activate systems with your command tokens and return both tokens. Useful for recycling kamikaze systems.
-7. **Jol-Nar (Ta Zern)** - When units use PRODUCTION, AFB, BOMBARDMENT, or SPACE CANNON, reroll any dice. Boosts your production and destroyer AFB.
+2. **Muaat (Magmus)** - After you spend token from strategy pool, gain 1 trade good. You spend CCs constantly = constant TG income.
+
+3. **Nomad (Navarch Feng)** - Produce your flagship without spending resources. Saves 8 resources for destroyer production.
+
+4. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces step, commit 1 ground force from each planet in active/adjacent systems. Synergizes with Yin Spinner infantry everywhere.
+
+5. **Crimson Rebellion (Ahk Siever)** - At the end of a combat between any players, gain 1 commodity or convert 1 of your commodities to a trade good. Constant passive income from combat.
+
+**Good:**
+
+6. **Jol-Nar (Ta Zern)** - When units use PRODUCTION, AFB, BOMBARDMENT, or SPACE CANNON, reroll any dice. Boosts your production and destroyer AFB.
+
+7. **Hacan (Carth of Golden Sands)** - After you roll dice for combat, SPACE CANNON, or AFB, reroll any number. Useful for rerolling bad kamikaze combat rounds.
+
 8. **Empyrean (Xuange)** - After player moves ships into system with your tokens, return token. Recycles kamikaze system activations.
+
+9. **Deepwrought (Aello)** - When others research tech with -1 discount, gain commodity/TG. Passive income in tech-heavy games.
+
+10. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity.
 
 ---
 
@@ -585,16 +617,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Yin Brotherhood is a mid-tier faction with unique kamikaze mechanics and unconventional strategies. Your job is to:
+Yin Brotherhood is the faction for players who love asymmetric warfare and unconventional tactics. You're not winning through overwhelming force—you're winning because your destroyer just guaranteed-killed their dreadnought, and that math works in your favor every time.
 
-1. **Master kamikaze math** - Only sacrifice when 2:1+ resource advantage (destroyer killing dreadnought = good)
-2. **Spam destroyers** - Build 10-15 over the game, kamikaze 5-8 of them
-3. **Research Yin Spinner R2** - Spawn 2 infantry after every production (20-30 free infantry over game)
-4. **Use Indoctrination strategically** - 2-4 times per game on high-value planets (Mecatol Rex, legendary planets)
-5. **Unlock Commander R1-R2** - Use Devotion once (trivial unlock)
-6. **Hero R5** - Drop 3 infantry onto 3 key planets for instant invasions
-7. **Leverage Yin Ascendant** - Gain 5-6 random Alliance abilities by endgame for massive power scaling
+Your biggest strength is value calculation. One destroyer costs 1 resource. One dreadnought costs 4. When your destroyer kamikazes their dreadnought, you're up 3 resources. Repeat this across a game, and you've generated massive economic advantage through controlled sacrifice. Other factions fight for survival—you fight for efficiency.
 
-Don't let anyone tell you kamikaze is wasteful. You're trading cheap ships for expensive ships—that's efficiency. Play the math correctly, understand when to sacrifice for value, and dominate through asymmetric warfare.
+When you master Yin, every combat becomes profitable. Opponents hesitate to attack your fleets because they know your destroyers are suicide bombers waiting to delete their capital ships. Your Yin Spinner spawns infantry everywhere, making invasions trivial. Your Indoctrination converts their defenders to your side. Your flagship threatens to nuke entire fleets if killed.
 
-**FOR THE BROTHERHOOD. DEATH FUELS VICTORY.**
+The table learns to fear your math. They watch you sacrifice three destroyers and delete their entire dreadnought squadron. They see infantry appear from nowhere to claim planets they thought were safe. They know your flagship is a nuclear option—kill it, and everything dies. That hesitation, that careful calculation before every engagement, is your real advantage.
+
+**"Our deaths are not sacrifices. They are investments."**
