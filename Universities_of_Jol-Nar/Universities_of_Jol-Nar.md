@@ -171,7 +171,7 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 - Hero targets: **Graviton Laser System** (Y), Predictive Intelligence (Y), Transit Diodes (YY), **Integrated Economy** (YYY)
 
 **Red:**
-- Likely to have teched: Plasma Scoring (starting), Magen Defense Grid (R)
+- Likely to have teched: Plasma Scoring (starting), Magen Defense Grid (R), Self-Assembly Routines (R)
 - Hero targets: Duranium Armor (RR), Assault Cannon (RRR)
 
 ### F. Promissory Note - **Research Agreement**
@@ -200,31 +200,27 @@ Excellent mech that basically fixes your ground game problem. Your infantry on t
 
 **Spread, don't stack:** Unlike other factions who stack 2-3 mechs together for massive damage with sustains absorbing hits, your mechs don't synergize that way. A single mech added to an infantry stack provides minimal additional firepower (one combat 7 roll). Instead, spread your mechs across multiple planets—each one fixes an entire infantry stack's ground combat. One mech per contested planet is more valuable than three mechs in one place.
 
-**Why get mechs:** The only thing bad about Jol-Nar is ground combat. You literally have a mech that fixes it. Get these out—not for the mech's combat dice, but to enable your infantry to fight competitively. With Self-Assembly Routines (if you get it), you can put four mechs on the board for free, then swap the tech with your hero later.
-
 ### I. Flagship - **J.N.S. Hylarim**
 
 Cost: 8 | Combat: 6 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 When making a combat roll for this ship, each result of 9 or 10, before applying modifiers, produces 2 additional hits.
 
-Explosive flagship. Rolls 2 dice at combat 6, but with Fragile you hit on 7+. Each natural 9 or 10 produces 3 TOTAL hits (1 normal + 2 additional)—a 1-in-5 chance per die of just rolling that kind of damage. This is the "maximize dice" philosophy—you're not competing on raw quality, you're gambling on quantity and high rolls.
+Explosive flagship. Rolls 2 dice at combat 6, but with Fragile you hit on 7+. Each natural 9 or 10 produces 3 TOTAL hits (1 normal + 2 additional).
 
-**Home system defense:** This is a great one to just park in your home system and force people to really consider if your home system is worth taking. Combined with your 2 PDS (3 SPACE CANNON shots with Plasma Scoring) and Commander rerolls, attackers face real risk. Your flagship plus rerolls can devastate fleets when the dice cooperate—and that uncertainty makes aggression expensive.
+**Average hits comparison:**
+- Jol-Nar flagship (7+, 9-10 = 3 hits): 0.8 avg hits per die × 2 = **1.6 avg hits**
+- Standard flagship (5, x2): 0.6 avg hits per die × 2 = **1.2 avg hits**
 
-**Combat philosophy:** The flagship embodies Jol-Nar's approach to space combat. You don't have more stuff, but you might hit more times. Maximize dice rolls and fish for 9-10s. With Commander online, reroll misses to increase your chances of explosive damage.
+Despite Fragile, your flagship is 33% better on average.
 
 ### J. Breakthrough - **Specialized Compounds (Y<>G)**
 
 When you research technology using the "Technology" strategy card, you may exhaust a planet that has a technology specialty instead of spending resources; if you do, you must research a technology of that color.
 
-**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites. 100% useless for you—Analytical already handles prerequisites.
 
-**Ability:** When using Technology card (primary or Brilliant secondary), exhaust a tech specialty planet to research for FREE (0 resources). Must research a tech matching the planet's color. Incredible economic efficiency—research 2 techs per round for 0 resources.
-
-**Y<>G synergy:** Sarween Tools and Neural Motivator count as each other's color. Very flexible tech progression.
-
-**Strategic Value:** With 2-3 tech specialty planets, you can research 4-6 technologies for free over the game (save 12-24 resources).
+**Ability:** Exhaust a tech specialty planet to research instead of spending resources. Must research a tech matching the planet's color. Not actually "free"—you lose the planet's resource/influence value that round. Average tech skip planet is ~2 value, so you're saving maybe 4-6 resources total over a game (2-3 uses). Minor value—only get this breakthrough if it unlocks Thunder's Edge.
 
 ### K. Slice and Draft Considerations
 
@@ -235,18 +231,17 @@ Jol-Nar wants tech specialty planets and defensive positioning:
 - **Avoid last position** - You want access to Technology every round.
 
 **Slice Priorities:**
-- **Tech specialty planets (CRITICAL)** - Need 2-3 tech specialty planets for Analytical acceleration and Specialized Compounds efficiency.
+- **Tech specialty planets (helpful)** - Tech skips let Analytical work without exhausting. Nice for minor Specialized Compounds savings.
 - **Influence-heavy planets** - Your 5 influence home makes you natural politician. Stack influence.
 - **Defensive positioning** - Fragile makes you vulnerable. Want corner/edge slices with fewer aggressive neighbors.
 - **High planet count** - More planets = more resources for tech research.
 
 **Slice Features to Avoid:**
-- **Zero tech specialty planets** - Wastes Analytical and Specialized Compounds. UNPLAYABLE.
 - **Aggressive neighbor-heavy slices** - Fragile makes you weak to early aggression.
 - **Low planet count** - Need resources for tech research.
 
 **Summary:**
-Jol-Nar MUST have tech specialty planets (2-3 minimum). Your entire gameplan revolves around accelerated tech research. Without tech specialties, you lose massive economic efficiency.
+Tech specialty planets are nice but not critical. Your tech acceleration comes from Brilliant (double research) and Analytical (skip prereqs), not from tech skips.
 
 ---
 
@@ -339,7 +334,6 @@ Your main tech path should focus on unit upgrades (offset Fragile), Commander un
 **Tech Requirements:**
 - **Blue skip (very helpful):** Accelerates Carrier II and Gravity Drive
 - **Yellow skip (helpful):** Speeds Dreadnought II
-- **Tech specialty planets (CRITICAL):** Use Specialized Compounds to research for free
 
 **Pros:**
 - Early unit upgrades (Dreadnought II R1, Carrier II + PDS II R2)
@@ -348,7 +342,7 @@ Your main tech path should focus on unit upgrades (offset Fragile), Commander un
 - Superior combat through technology
 
 **Cons:**
-- Expensive tech research early (mitigated by Sarween + Specialized Compounds)
+- Expensive tech research early (mitigated by Sarween Tools)
 
 **Best For:** Most games. Unit upgrades offset Fragile, Commander unlocks early for rerolls.
 
@@ -470,7 +464,6 @@ R5: Fully upgraded armada with Commander rerolls
 4. **E-Res Siphons placement** - Place ships in high-traffic systems (gain 4 TG per activation).
 5. **Unit upgrades early** - Dreadnought II and Carrier II offset Fragile through superior stats.
 6. **Hero R5** - Swap 6-8 techs for optimal endgame technologies.
-7. **Specialized Compounds** - Research for free using tech specialty planets (save 20+ resources).
 
 ---
 
@@ -650,10 +643,9 @@ Universities of Jol-Nar are a top-tier technology faction with the fastest tech 
 1. **Research 8+ technologies by R3-R4** - Leverage Brilliant and Analytical
 2. **Unlock Commander R3-R4** - 8 techs for Ta Zern (reroll any dice for unit abilities = offsets Fragile completely)
 3. **Research unit upgrades early** - Dreadnought II R1, Carrier II R2 (superior stats offset Fragile)
-4. **Use Specialized Compounds** - Research for free using tech specialty planets (save 20+ resources over game)
-5. **E-Res Siphons placement** - Place ships in high-traffic systems to gain 4 TG per enemy activation
-6. **Hero R5** - Swap 6-8 non-unit techs for optimal endgame technologies (Fleet Logistics, Lightwave Deflector, etc.)
-7. **Fragile mitigation** - Unit upgrades (better base stats) + Commander rerolls + mechs (remove Fragile from infantry) = competitive combat
+4. **E-Res Siphons placement** - Place ships in high-traffic systems to gain 4 TG per enemy activation
+5. **Hero R5** - Swap 6-8 non-unit techs for optimal endgame technologies (Fleet Logistics, Lightwave Deflector, etc.)
+6. **Fragile mitigation** - Unit upgrades (better base stats) + Commander rerolls + mechs (remove Fragile from infantry) = competitive combat
 
 Don't let anyone tell you Fragile makes you weak. You offset it through technological supremacy—unit upgrades, Commander rerolls, and superior positioning. Research aggressively, unlock Commander early, and dominate through superior technology.
 
