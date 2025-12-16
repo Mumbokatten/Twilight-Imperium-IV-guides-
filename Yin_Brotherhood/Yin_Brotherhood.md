@@ -29,17 +29,23 @@
 
 ## I. Introduction
 
-The Yin Brotherhood are the most sacrificial faction in TI4. This faction excels at kamikaze destroyer attacks through Devotion, stealing planets via Indoctrination, and spawning units from nothing through their Yin Spinner faction tech. Yin isn't about preserving units—it's about trading efficiently, using deaths as fuel for expansion, and understanding when self-sacrifice creates more value than survival.
+The Yin Brotherhood are TI4's suicide bombers—a faction for players who understand that sacrifice isn't loss, it's investment. While other factions protect their ships and mourn their casualties, you're calculating which destroyer to detonate next. Your cheap units exist to die profitably.
 
-The payoff? Watching opponents realize your "weak" destroyer just guaranteed-killed their dreadnought, seeing infantry spawn from nowhere to invade undefended planets, and converting enemy ground forces to your side mid-combat. When you master trading down in cost but up in value, every space battle becomes a net win even when you "lose."
+This is a faction about asymmetric value. Your Devotion ability guarantees kills after combat rounds. Your Indoctrination steals enemy infantry before ground combat begins. Your Yin Spinner spawns free infantry everywhere you produce. Death fuels your expansion—every sacrifice generates more value than survival would have.
+
+Watch opponents hesitate before engaging your fleets. They know your destroyers are missiles waiting to launch. They know your flagship nukes everything when it dies. They know attacking you costs more than it gains. That fear, that careful calculation before every engagement, is your real advantage.
+
+---
 
 ## II. Playstyle
 
-Playing Yin Brotherhood is like being a tactical suicide bomber with perfect math. Your Devotion ability lets you destroy your own destroyers/cruisers to deal guaranteed hits, your Indoctrination converts enemy infantry to yours for 2 influence, and your Yin Spinner tech spawns 2 infantry anywhere after production. You're not trying to win through overwhelming force—you're winning through asymmetric trades and unconventional tactics.
+Playing Yin means treating your units as expendable resources rather than precious assets. Your faction rewards players who understand that sacrifice generates value—Devotion guarantees kills, Indoctrination steals infantry, and Yin Spinner floods your planets with free ground forces.
 
-The key strength of Yin is value calculation. One destroyer (1 resource) kamikaze-killing one dreadnought (4 resources) is a +3 resource advantage even though you "lost" the destroyer. Understanding this math—when to sacrifice units for maximum value—separates good Yin players from great ones.
+Your early game focuses on establishing your economic engine. Get Yin Spinner online and watch infantry accumulate automatically with every production. Expand aggressively—Indoctrination lets you invade with fewer ground forces since you're converting defenders before combat even starts. Your cheap production means you can afford to trade units and rebuild quickly.
 
-Opponents will underestimate your kamikaze threat until you delete their capital ships with cheap destroyers. That moment when your 2-resource investment kills their 8-resource flagship? Pure efficiency.
+As the game develops, your presence becomes a deterrent. Opponents learn that fighting you costs more than expected. Your flagship threatens mutually assured destruction. Devotion picks off cruisers and destroyers after every combat round. Use this reputation to expand into contested space while others hesitate to engage.
+
+Your endgame leverages everything you've built. Infantry swarms from Yin Spinner secure planets. Breakthrough alliances stack up from scoring objectives. Your production efficiency lets you rebuild faster than opponents can destroy. You don't need the strongest fleet—you need opponents who dread the cost of fighting you.
 
 ---
 
@@ -48,12 +54,12 @@ Opponents will underestimate your kamikaze threat until you delete their capital
 ### A. Home System & Commodities
 
 **Home System:** 1 planet
-- **Darien:** 4 resources / 4 influence
-- **Total: 4 resources / 4 influence**
+- **Darien:** 4 resources / 4 influence = 2 optimal resources + 2 optimal influence
+- **Total: 4 resources / 4 influence (2 optimal resources / 2 optimal influence)**
 
 **Commodities:** 2
 
-**Notes:** Perfectly balanced home system with 4/4 split. The 4 resources fund your destroyer production, while 4 influence enables Indoctrination uses. Single-planet home system is easier to defend than multi-planet systems. Low commodities (only 2) means you rely on other income sources.
+**Notes:** Balanced 4/4 home system gives flexibility. Single planet is easy to defend. Low commodities (2) means your economy comes from slice planets, not trade.
 
 ### B. Starting Fleet
 
@@ -63,17 +69,17 @@ Opponents will underestimate your kamikaze threat until you delete their capital
 - 4 Infantry
 - 1 Space Dock
 
-**Notes:** Solid starting fleet with 2 carriers for massive capacity (8 total). The 4 infantry and dual carriers give you excellent R1 expansion capability. Your starting destroyer can be used for early kamikaze demonstrations.
+**Notes:** Strong expansion start with dual carriers and 4 infantry. Split forces across multiple systems R1.
 
 ### C. Faction Abilities
 
-**Devotion (Faction Ability):** After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.
+**Devotion:** After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.
 
-Your signature kamikaze ability. After each combat round (after both players roll dice), you may sacrifice a destroyer/cruiser to deal one guaranteed hit to any enemy ship. This is ABSURDLY powerful when used correctly. Trade cheap ships (destroyers = 1 resource) for expensive ships (dreadnoughts = 4 resources, flagships = 8 resources).
+Guaranteed hit after each combat round. Sacrifice a destroyer or cruiser to deal one hit you assign to any enemy ship. Used to avoid variance—you don't have to rely on dice to secure kills. Best targets are ships that already used Sustain Damage, or cruisers and destroyers you can kill outright. Against fresh dreadnoughts or war suns, the hit just gets absorbed—only use Devotion on capital ships if they're already damaged.
 
-**Indoctrination (Faction Ability):** At the start of a ground combat, you may spend 2 influence to replace 1 of your opponent's participating infantry with 1 infantry from your reinforcements.
+**Indoctrination:** At the start of a ground combat, you may spend 2 influence to replace 1 of your opponent's participating infantry with 1 infantry from your reinforcements.
 
-Planet-stealing ability. Before ground combat begins, spend 2 influence to convert one enemy infantry to yours. This swings combat math dramatically—if they had 2 infantry and you had 1, after Indoctrination it's 2 vs 1 in YOUR favor. Excellent for conquering lightly defended planets.
+Convert one enemy infantry to yours before ground combat starts. Costs 2 influence but swings the fight by 2 units (they lose one, you gain one). Works best as a deterrent—opponents leave extra infantry on planets because they know you can convert. When you do use it, spend smaller influence planets or trade goods to avoid wasting your 4-influence home system.
 
 ### D. Starting and Faction Technologies
 
@@ -81,49 +87,43 @@ Planet-stealing ability. Before ground combat begins, spend 2 influence to conve
 
 **Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
 
-**Notes:** One of the best starting techs in the game. Sarween gives you immediate economic efficiency—every production saves 1 resource. Over a game, this saves 15-25 resources. Perfect for your destroyer-spam strategy (destroyers cost 1, Sarween makes them effectively 0 when producing 2+).
+Strong starting tech. Every production saves 1 resource, adding up over the game.
 
 **Faction Technologies:**
 
-**Yin Spinner (GG):**
-*After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.*
+**Yin Spinner (GG):** After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.
 
-Infantry spawn tech. After producing, place up to 2 free infantry anywhere you have planets or ships. Incredible for rapid ground force deployment and invasions.
+Your priority faction tech. Triggers on "produce" not "PRODUCTION"—meaning Sling Relay, exploration cards, and Integrated Economy all trigger Yin Spinner. Look for small production opportunities to maximize infantry generation.
 
-**Impulse Core (YY):**
-*At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.*
+**Impulse Core (YY):** At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.
 
-Pre-combat kamikaze tech. Before combat begins, sacrifice a destroyer/cruiser to deal 1 hit that MUST go to a non-fighter ship. This is Devotion but happens before combat starts, guaranteeing you kill a valuable ship before dice are rolled.
+Pre-combat Devotion that forces the hit onto a non-fighter. Situational—only worth it if you're heavily invested in the kamikaze playstyle.
 
 ### E. Leaders
 
-**Agent - Brother Milor:** *Codex 3 Version*
+**Agent - Brother Milor:** After a player's unit is destroyed: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry if it was a ground force.
 
-After a player's unit is destroyed: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry if it was a ground force.
+Solid agent. Works as a deterrent for your own combats, swing unlucky combat rolls, or save an ally from embarrassing ground combat losses. Sell for 2-3 TG or use as leverage.
 
-Interesting support agent. When any player (including you or opponents) loses a unit, you can exhaust this to let them spawn 2 fighters (if ship) or 2 infantry (if ground force). Primarily a trading/political tool—"I'll Agent you after your units die if you vote my way."
+**Commander - Brother Omar:** *Unlock: Use one of your faction abilities.* This card satisfies a green technology prerequisite. When you research a tech owned by another player, you may return 1 of your infantry to reinforcements to ignore its prerequisites.
 
-**Commander - Brother Omar:** *Codex 3 Version* *Unlock: Use one of your faction abilities.*
+Easy unlock (use Devotion or Indoctrination once). Green prereq helps rush Yin Spinner R2 with a green skip. Copy ability is useless against some factions, invaluable against others—depends who's at the table.
 
-This card satisfies a green technology prerequisite. When you research a tech owned by another player, you may return 1 of your infantry to reinforcements to ignore its prerequisites.
+**Hero - Dannel of the Tenth:** *Unlock: Have 3 scored objectives.* Commit up to 3 infantry from your reinforcements to any non-home planets and resolve invasions on those planets; players cannot use SPACE CANNON against those units.
 
-Very easy unlock (just use Devotion or Indoctrination once). Provides a green prerequisite (useful for tech paths) AND lets you copy opponent faction techs by sacrificing infantry instead of meeting prerequisites. Situationally powerful for stealing strong faction techs like L1Z1X's Harrow or Jol-Nar's E-Res Siphons.
-
-**Hero - Dannel of the Tenth:** *Codex 3 Version* *Unlock: Have 3 scored objectives.* **ACTION:** Commit up to 3 infantry from your reinforcements to any non-home planets and resolve invasions on those planets; players cannot use SPACE CANNON against those units.
-
-Devastating invasion hero. Drop 3 infantry from nowhere onto any non-home planets, resolve invasions immediately, and opponents can't use SPACE CANNON to stop you. Use this R4-R5 to steal 3 lightly-defended planets instantly (legendary planets, equidistant planets, or Mecatol Rex if weakly garrisoned).
+Great hero, especially with Fracture. Steal potential is 3 relics from guarded planets, VP at Styx, screw opponents on key control objectives. Save influence to combo with Indoctrination on the drops.
 
 ### F. Promissory Note - **Greyfire Mutagen**
 
 At the start of a ground combat against 2 or more ground forces that are not controlled by the Yin player: Replace 1 of your opponent's infantry with 1 infantry from your reinforcements. Then, return this card to the Yin player.
 
-Your promissory note is effectively Indoctrination for another player. They can use it once to convert an enemy infantry before ground combat. Trade value: 2-3 TG. Works best for aggressive factions (Nekro, Cabal) who invade frequently.
+Indoctrination for another player. Trade value: 1-3 TG.
 
 ### G. Alliance
 
-When you produce ships, you may produce 1 additional fighter or infantry for its cost.
+**Alliance Ability:** When you produce ships, you may produce 1 additional fighter or infantry for its cost.
 
-Standard production bonus. Useful for economic factions. Trade value: 3-4 TG or equivalent.
+Solid production bonus for ally. Free fighter or infantry with every ship production. Trade value: 2-3 TG.
 
 ### H. Mech - **Moyin's Ashes**
 
@@ -131,7 +131,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 **DEPLOY:** When you use your Indoctrination faction ability, you may spend 1 additional influence to replace your opponent's unit with 1 mech instead of 1 infantry.
 
-Powerful DEPLOY synergy. Normally Indoctrination converts 1 enemy infantry to yours for 2 influence. With this mech ability, spend 3 influence total (2 for Indoctrination + 1 for DEPLOY) to place a mech instead of infantry. This gives you Sustain Damage ground force instantly during invasion—excellent for conquering well-defended planets.
+Spend 3 influence instead of 2 to place a mech instead of infantry. Keeps opponents guessing how much they need to take your planets—are they fighting 2 infantry with 4, or a mech + 2 infantry with 3?
 
 ### I. Flagship - **Van Hauge**
 
@@ -139,40 +139,31 @@ Cost: 8 | Combat: 9 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 When this ship is destroyed, destroy all ships in this system.
 
-Nuclear flagship. When Van Hauge dies, it takes ALL ships in the system with it (yours AND opponents'). This is simultaneously amazing and dangerous. Use strategically—if you're losing a space battle, let your flagship die last and delete the entire enemy fleet. Opponents will be terrified to kill your flagship (mutually assured destruction).
+Mutually assured destruction. Most likely a defensive tool parked at home. Fun to have on the board and great for extorting big fleets—opponents won't engage if it costs them everything.
 
 ### J. Breakthrough - **Yin Ascendant (Y<>G)**
 
 When you gain this card or score a public objective, gain the alliance ability of a random, unused faction.
 
-**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+**Y<>G Synergy:** Sarween counts as green for Yin Spinner (GG) and opens Integrated Economy (YYY) + X-89 (GGG) paths.
 
-**Ability:** Every time you score a public objective, you gain a random Alliance ability from unused factions. Over a game, you'll gain 5-6 Alliance abilities—this is massive power scaling. You effectively have 6 faction commanders by endgame.
-
-**Y<>G synergy:** Sarween Tools (Y) counts as green, opening green tech paths. Very flexible tech progression.
-
-**Note:** The random nature makes this inconsistent, but the sheer volume of alliances (5-6 over a game) guarantees strong value.
+**Random Alliances:** Excellent ability. Expect 4-6 alliances over a game, which averages out to great value. Unlock before first public objective scores to maximize. Having multiple commander abilities stacking makes you significantly stronger than your components suggest.
 
 ### K. Slice and Draft Considerations
 
-Yin is flexible and can adapt to most slices. Your priorities:
-
-**Speaker Order:**
-- **Prefer positions 2-4** - Lets you grab Trade or Leadership early for expansion economy.
-- **Avoid last position** - You want strategy card flexibility R1.
+**Speaker Order:** Prefer early positions 1-4 to unlock breakthrough before first public objective scores and get some good value. You like a target neighbor—you can play nice but should be opportunistic.
 
 **Slice Priorities:**
-- **Balanced resources/influence** - Your 4/4 home makes you flexible. Look for slices with 50/50 resource/influence split.
-- **High planet count** - More planets = more targets for Indoctrination invasions and Yin Spinner spawns.
-- **Tech skips (yellow/green ideal)** - Yellow skip accelerates into blue tech, green skip speeds Yin Spinner.
-- **Avoid isolated slices** - You need access to neighbors for aggressive kamikaze trades.
+- **Balanced resources/influence** - Your 4/4 home makes you flexible.
+- **Influence access** - You need influence for Indoctrination (2 per use).
 
-**Slice Features to Avoid:**
-- **Influence-starved slices** - You need influence for Indoctrination (2 per use). Don't go below 8-10 total influence.
-- **Low planet count** - Reduces your Indoctrination targets and Yin Spinner spawn opportunities.
+**Nice to Have:**
+- 2-3 influence planets to threaten Indoctrination without wasting your 4-influence home.
+- Green/yellow tech skips to accelerate Yin Spinner.
+- Entropic Scar is fine but nothing special.
 
-**Summary:**
-Yin wants balanced economics (resources for destroyers, influence for Indoctrination), planet count for expansion, and neighbor access for kamikaze opportunities. Your flexible tech path (Sarween + Y<>G synergy) means tech skips are helpful but not mandatory.
+**Avoid:**
+- Slices that require early mobility.
 
 ---
 
@@ -182,35 +173,23 @@ Yin wants balanced economics (resources for destroyers, influence for Indoctrina
 
 **Round 1 Priority Rankings:**
 
-1. **Expansion + Production** - Expand to 3-4 systems using your 2 carriers (capacity 8 total), 1 destroyer, and 4 infantry. Dual carriers allow splitting forces—send one carrier to distant systems, another for closer expansion. Build destroyers using Indoctrination (convert fighters to destroyers) for cheap fleet expansion.
+1. **Breakthrough** - Yin Ascendant is excellent. Getting it before first public objective scores means you start collecting alliance abilities immediately, maximizing value over the game.
 
-2. **Technology** - Begin tech path toward Yin Spinner (GGY - upgraded flagship) or blue mobility (Gravity Drive). Destroyer II synergizes with kamikaze tactics. Early tech acceleration supports your R4-R5 power spike.
+2. **Scoring** - If available, take it. Once you have Yin Ascendant, every public objective you score gives you a random alliance ability, making scoring even more valuable than for other factions.
 
-3. **Scoring** - Acceptable R1 for combat/expansion objectives. Your kamikaze ability makes combat-based objectives easier. However, your strength is mid-game Commander unlock (R2-R3) and Yin Spinner domination (R4-R5).
+3. **Expansion and Production** - Your dual carriers and 4 infantry give you strong expansion capability. Claim 3 systems R1 to establish economy. Build units with Sarween discount to prepare for R2 aggression.
 
-4. **Breakthrough** - Not a priority R1. Focus on Yin Spinner faction tech and unit upgrades (Destroyer II, Carrier II) before pursuing breakthrough technologies. Your kamikaze tactics require fleet saturation first.
+4. **Technology** - Start your path toward Yin Spinner (GG). This is your faction's core tech and should be online R2-R3. Every production after Yin Spinner generates 2 free infantry.
 
-**Expansion Notes:** You have 2 carriers (capacity 8 total), 1 destroyer, and 4 infantry. This gives you excellent R1 expansion capability. Aim for 3-4 systems R1. Your dual carriers let you split forces effectively—send one carrier with 2 infantry to distant systems, keep the other for closer expansion.
+**Expansion Notes:** You have 2 carriers, 1 destroyer, and 4 infantry. Split forces across multiple systems using your dual carriers. Aim for 2-3 systems R1.
 
-Your Commander unlock is trivial (just use Devotion or Indoctrination once), so aim to unlock R1-R2 through aggressive play.
+### B. Economic Weakness
 
-### B. Kamikaze Math Dependency
+Only 2 commodities combined with expensive abilities creates constant economic pressure. Indoctrination costs 2 influence per use. Devotion sacrifices ships. Your abilities are powerful but drain resources quickly. Expand to high-value planets and budget carefully—you can't afford to spam your faction abilities every round.
 
-Your power level depends entirely on correct kamikaze evaluation. Bad Yin players kamikaze randomly. Good Yin players calculate exact value trades—only kamikaze when trading down in cost but up in value (2:1 resource ratio minimum).
+### C. Lack of Mobility
 
-**Mitigation:** Learn kamikaze math (section V.C). Practice identifying profitable trades. Never kamikaze for marginal gains.
-
-### C. Influence Scarcity
-
-Indoctrination costs 2 influence per use. With only 4 influence at home, you can use it 2 times per round maximum (if you refresh planets). Budget Indoctrination carefully—use it 2-4 times per game on high-value targets only.
-
-**Mitigation:** Expand to influence-heavy planets. Prioritize cultural planets (usually high influence). Don't waste Indoctrination on low-value targets.
-
-### D. Flagship Double-Edged Sword
-
-Your flagship destroys ALL ships when it dies (yours AND theirs). If you have valuable ships in the system when flagship dies, you lose them too. Requires careful positioning—keep flagship separate from your main fleet until you want to use its "nuke" ability.
-
-**Mitigation:** Use flagship as a defensive deterrent ("Don't attack here or we both lose everything") or offensive finisher ("I'm losing this battle anyway, so I'll nuke your fleet with me").
+No mobility tech in your faction kit. You're stuck at move 1 until you research Gravity Drive. This makes early expansion slower and limits your ability to project force across the map. Plan your slice positioning carefully and prioritize blue tech if the map requires it.
 
 ---
 
@@ -218,141 +197,72 @@ Your flagship destroys ALL ships when it dies (yours AND theirs). If you have va
 
 ### A. Overview
 
-You start with **Sarween Tools (Yellow)** (reduce production costs by 1).
+**Starting Tech:** Sarween Tools (reduce production costs by 1).
 
-Your main tech path focuses on Yin Spinner (GG) for infantry spam, blue techs for mobility, or red techs for unit upgrades depending on slice and strategy.
+Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The paths diverge on tech priorities:
 
-### B. Tech Path 1: Yin Spinner Focus (Standard)
+**Yin Spinner Path:** Rush your faction tech for infantry spam and ground dominance. Focuses on Yin Spinner early (R2) then pivots into Integrated Economy + X-89 Bacterial Weapon for production flexibility and nuclear ground combat. Maximizes your infantry generation and ground force control. Best when you need to hold planets and score control objectives.
 
-**Starting Tech:** Sarween Tools
+**Blue Path:** Prioritize mobility and unit upgrades over faction tech. Gets Gravity Drive R2, delays Yin Spinner to R3, then pushes into Carrier II and Dreadnought II for fleet strength. More flexible and well-rounded but sacrifices early infantry spam. Best for aggressive tables or slices requiring early mobility.
 
-**Round 1: Neural Motivator OR Psychoarchaeology**
-- **Neural Motivator:** During the status phase, draw 2 action cards instead of 1.
-  - **Why:** Action card draw for combat tricks and flexibility. Provides green prerequisite for Yin Spinner.
-- **Psychoarchaeology:** Use tech specialties without exhausting them. Exhaust tech planets for 1 TG.
-  - **Why:** Economy from tech planets and prerequisite flexibility.
+### B. Technology Paths
 
-**Round 2: Yin Spinner (GG)**
+**Yin Spinner Path (No Skips):**
+
+**Round 1:** Bio-Stims (G)
+- At the start of a combat round, you may exhaust this card to apply +2 to the result of 1 unit's combat roll
+- Ready a technology (or tech specialty planet if you own Psychoarchaeology)
+- **Why:** Green prereq for Yin Spinner. Combat bonus is useful.
+
+**Round 2:** Yin Spinner (GG)
 - After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
-- **Why:** Your faction tech. Spawn 2 infantry anywhere after every production. Over a game, this is 20-30 free infantry (10-15 resources saved). Enables constant invasions and objective scoring.
-- **Prerequisites:** 2 green (Sarween with Y<>G + Neural Motivator OR green skip)
+- **Why:** Core faction tech. Free infantry with every production. Triggers on "produce" not PRODUCTION—works with Sling Relay, exploration, Integrated Economy.
 
-**Round 3: Gravity Drive (B)**
+**Round 3:** Gravity Drive (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Why:** Mobility for kamikaze strikes and rapid repositioning. Essential for reaching distant targets.
-- **Prerequisites:** 1 blue
+- **Why:** Mobility. Move 2 carriers. Essential for map control.
 
-**Round 4: Destroyer II (RR) OR Carrier II (BB)**
-- **Destroyer II:** Cost 1 | Combat 8 | Move 2 | ANTI-FIGHTER BARRAGE 6 (x3)
-  - **Prerequisites:** 2 red
-  - **Why:** Better kamikaze destroyers with AFB. Cheaper to sacrifice, more effective before dying.
-- **Carrier II:** Cost 3 | Combat 9 | Move 2 | Capacity 6
-  - **Prerequisites:** 2 blue
-  - **Why:** Transport 6 units (including Yin Spinner infantry). Essential for mass invasions.
+**Round 4:** Integrated Economy (YYY)
+- When you gain trade goods or resolve the secondary ability of the Trade strategy card, gain 1 additional trade good
+- **Why:** If unlocking Yin Ascendant (Y<>G), this counts as 3 green techs for X-89. Extra trade goods help your weak economy.
 
-**Round 5+:** Flex based on objectives (Fleet Logistics, Cruiser II, etc.)
-
-**Tech Requirements:**
-- **Green skip (very helpful):** Enables Yin Spinner R2 with just Sarween
-- **Blue skip (helpful):** Accelerates Gravity Drive
-- **Yellow skip (bonus):** Opens yellow tech options
-
-**Pros:**
-- Early Yin Spinner (R2) for constant infantry spam
-- Balanced mobility (Gravity Drive)
-- Economic efficiency (Sarween + Yin Spinner = free units)
-- Scales into late game (more production = more Yin Spinner procs)
-
-**Cons:**
-- Delayed unit upgrades (Destroyer II R4)
-- Requires green prerequisite investment
-
-**Best For:** Most games. Yin Spinner is your faction identity—spawn infantry everywhere, invade constantly, use Indoctrination to convert defenders.
+**Round 5:** X-89 Bacterial Weapon (GGG)
+- At the start of ground combat, choose up to 2 planets and exhaust this card; destroy all infantry on those planets
+- **Why:** Nuclear ground combat option. Clears planets before invasions. Works with Indoctrination to convert survivors after X-89 kills their army.
 
 ---
 
-### C. Tech Path 2: Blue Mobility (Alternative)
+**Blue Path (Boring but Reliable):**
 
-**Starting Tech:** Sarween Tools
+**Round 1:** Dark Energy Tap (B)
+- After you exhaust a planet to activate a system, you may exhaust this card to explore that planet
+- Ships can retreat into adjacent systems that do not contain other players' units
+- **Why:** Exploration value. Retreat flexibility. Blue prereq for Gravity Drive.
 
-**Round 1: Gravity Drive (B) - WITH BLUE SKIP**
+**Round 2:** Gravity Drive (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Prerequisites:** 1 blue (with blue skip)
-- **Why:** Early mobility for kamikaze strikes across the map. Hit-and-run destroyer attacks.
+- **Why:** Mobility. Move 2 carriers. Essential early.
 
-**Round 2: Destroyer II (RR)**
-- Cost 1 | Combat 8 | Move 2 | ANTI-FIGHTER BARRAGE 6 (x3)
-- **Prerequisites:** 2 red
-- **Why:** Upgraded kamikaze destroyers. Move 2 + Gravity Drive = move 3 reach. Strike anywhere.
+**Round 3:** Yin Spinner (GG)
+- After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
+- **Why:** Core faction tech. Delayed to R3 for early mobility priority.
 
-**Round 3: Fleet Logistics (BB)**
-- During each of your turns in the action phase, you may perform 2 actions instead of 1
-- **Prerequisites:** 2 blue
-- **Why:** Double activations enable kamikaze + invasion combos in one turn.
-
-**Round 4: Carrier II (BB)**
+**Round 4:** Carrier II (BB)
 - Cost 3 | Combat 9 | Move 2 | Capacity 6
-- **Prerequisites:** 2 blue
-- **Why:** Transport armies for invasions.
+- **Why:** Transport capacity for Yin Spinner infantry. Move 2 + Gravity Drive = move 3 carriers.
 
-**Round 5+:** Yin Spinner (GG) or other flex techs
+**Round 5:** Dreadnought II (BBY)
+- Cost 4 | Combat 5 | Move 2 | Capacity 1 | SUSTAIN DAMAGE | BOMBARDMENT 5
+- Cannot be destroyed by Direct Hit action cards
+- **Why:** Move 2 capital ships. Bombardment synergy. Immune to Direct Hit.
 
-**Tech Requirements:**
-- **Blue skip (key):** Enables Gravity Drive R1
-- **Red skip (helpful):** Accelerates Destroyer II
-- **Green skip (bonus):** Speeds Yin Spinner late
+**Commander Flexibility:**
 
-**Pros:**
-- Early mobility (Gravity Drive R1)
-- Fast destroyer upgrades (R2)
-- Fleet Logistics R3 for double actions
-- Kamikaze strikes anywhere on map
+Your Commander lets you research any tech someone else has by sacrificing an infantry to skip prerequisites. This means you can pick up powerful table techs if they're available:
 
-**Cons:**
-- Delays Yin Spinner (your best tech) until R5
-- More military-focused, less economic
-
-**Best For:** Aggressive slices with weak neighbors. Hit-and-run kamikaze attacks, conquer planets before they can reinforce.
-
----
-
-### D. Kamikaze Math & Devotion Strategy
-
-**Core Principle:** Only kamikaze when you trade DOWN in cost but UP in value (minimum 2:1 ratio).
-
-**Good Kamikazes:**
-- Destroyer (1 resource) → Kill Dreadnought (4 resources) = +3 advantage ✅
-- Destroyer (1 resource) → Kill Carrier with 4 infantry (3 + 2 resources) = +4 advantage ✅
-- Cruiser (2 resources) → Kill Flagship (8 resources) = +6 advantage ✅
-- Destroyer (1 resource) → Kill Cruiser (2 resources) = +1 advantage ✅ (acceptable)
-
-**Bad Kamikazes:**
-- Destroyer (1 resource) → Kill Fighter (0.5 resources) = -0.5 advantage ❌
-- Cruiser (2 resources) → Kill Destroyer (1 resource) = -1 advantage ❌
-- Destroyer (1 resource) → Kill Destroyer (1 resource) = 0 advantage ❌ (neutral, usually skip)
-
-**Targeting Priority:**
-1. **Expensive capital ships** (Dreadnoughts, Carriers, Flagships, War Suns)
-2. **Carriers with units inside** (killing carrier strands infantry in space—they die)
-3. **Ships that used Sustain Damage** (finish them off before they repair)
-4. **Ships about to deal damage** (remove their hits before next combat round)
-
-**Example Combat:**
-- Opponent: 2 Dreadnoughts, 1 Carrier (with 4 infantry), 3 Fighters
-- You: 5 Destroyers, 1 Carrier
-- **Combat Round 1:**
-  - Both sides roll dice
-  - After rolls, Devotion triggers:
-    - Kamikaze Destroyer 1 → Kill Dreadnought A (trade 1 for 4)
-    - Kamikaze Destroyer 2 → Kill Dreadnought B (trade 1 for 4)
-    - Kamikaze Destroyer 3 → Kill Carrier (trade 1 for 3, plus 4 infantry die)
-  - **Result:** You lost 3 destroyers (3 resources), killed 2 dreads + carrier + 4 infantry (15 resources). +12 advantage.
-
-**Devotion Timing:**
-Devotion triggers AFTER each space battle round (after both players roll, assign hits, and use Sustain Damage). This means:
-- You see opponent's rolls before deciding to kamikaze
-- You can kamikaze to finish wounded ships (opponent used Sustain, you kamikaze to kill it)
-- You can kamikaze multiple times per combat (once per round)
+- **Sling Relay** - Produce 2 ships in any system with your ships (including other players' space docks). Synergizes with Yin Spinner.
+- **Light/Wave Deflector** - Your ships can move through opponent ships and systems. Excellent mobility.
+- **Fleet Logistics** - 2 actions per turn. Always strong if you can afford the prerequisites or skip them with Commander.
 
 ---
 
@@ -360,43 +270,34 @@ Devotion triggers AFTER each space battle round (after both players roll, assign
 
 ### A. Round 1
 
-Your R1 priority is economy and expansion for early aggression.
-
 **Round 1 Priority Ranking:**
 
-1. **Trade** - You have 2 commodities and need economy for destroyer production.
-
-2. **Leadership** - Command counters for expansion and kamikaze aggression.
-
-3. **Technology** - Tech progression toward Yin Spinner or Destroyer II.
-
-4. **Warfare** - Enables aggressive R1-R2 plays with fleet redistribution.
-
-5. **Politics** - Speaker for political control (less critical for Yin).
-
-6. **Construction** - Forward dock is fine but not urgent R1.
-
-7. **Diplomacy** - Defensive tool but you're aggressive, not defensive.
-
+1. **Leadership** - Return your secret objective to unlock Yin Ascendant breakthrough. Critical to get it before first objective scores.
+2. **Trade** - Refresh your 2 commodities. Economy foundation with low commodity count.
+3. **Politics** - Action cards begone. Try to make speaker deal—offer 2 TG for 2nd pick position.
+4. **Technology** - Good value, saves a strategy token. Solve breakthrough in another way (Leadership or Trade).
+5. **Diplomacy** - Flip a tech skip planet if you have one in slice.
+6. **Warfare** - Fill out slice with extra tactical action.
+7. **Construction** - Only if structure objective revealed.
 8. **Imperial** - Never R1.
 
-**Strategy Token Priority:** Technology, Warfare.
+**Strategy Token Priority:** Diplomacy and Technology as secondary.
 
 ### B. Round 2+
 
 **Love:**
-- **Trade** - Refresh 2 commodities for destroyer production. Need constant economy.
-- **Leadership** - Command counters for kamikaze aggression and Yin Spinner spawns.
-- **Warfare** - Redistribution after kamikaze attacks. Fleet pool token for more destroyers.
+- **Trade** - Flexible spending. Refresh commodities for economy.
+- **Leadership** - Need 3 command tokens to use influence for abilities like Indoctrination.
+- **Imperial** - Scoring synergizes with breakthrough alliances.
 
 **Like:**
-- **Technology** - Stay on tech path toward Yin Spinner and unit upgrades.
-- **Imperial** - Needed for scoring R3-R5.
-- **Politics** - Agenda control and speaker token.
+- **Technology** - Save resources and increase tempo.
+- **Politics** - Setup for objectives. Agenda control.
 
 **Situational:**
-- **Construction** - Only if needing forward docks or structure objectives.
-- **Diplomacy** - Rarely useful for aggressive Yin.
+- **Warfare** - Solves low mobility. Fleet pool and redistribution.
+- **Construction** - If poor for objectives or need forward dock.
+- **Diplomacy** - Refresh planets if needed.
 
 ---
 
@@ -404,47 +305,24 @@ Your R1 priority is economy and expansion for early aggression.
 
 ### A. Unit Composition
 
-Your ideal fleet composition in each system:
+Your ideal fleet composition:
 
-- **5-8 Destroyers** - Core kamikaze fleet. Build these constantly (cost 1 with Sarween = effectively 0).
-- **1-2 Carriers** - Transport capacity for Yin Spinner infantry.
-- **1 Cruiser (optional)** - Alternative kamikaze target (cost 2, can be sacrificed if needed).
-- **Infantry (6-10)** - Yin Spinner spawns 2 per production. Build massive armies.
-- **1-2 Mechs (optional)** - Deploy via Indoctrination for Sustain Damage ground forces.
+- **Carriers** - Core transport for Yin Spinner infantry swarms.
+- **Infantry** - Yin Spinner generates 2 per production. Build massive ground force advantage.
+- **Fighters** - Cheap hit points for fleet protection. Absorb hits.
+- **Destroyers/Cruisers** - Devotion fodder when profitable trades exist. Only build if combat value justifies it.
+- **Mechs** - Deploy by spending 3 influence instead of 2 when using Indoctrination. Sustain Damage ground forces.
+- **Flagship** - Parked at home as deterrent. Mutually assured destruction keeps opponents away.
 
-Your strategy is destroyer spam + infantry spam. Destroyers for kamikaze strikes, infantry for invasions via Yin Spinner. Avoid expensive ships (dreadnoughts, flagships) until late game—you're built for cheap, expendable units.
+Focus on carriers and infantry. Yin Spinner makes infantry free, so maximize production opportunities. Avoid expensive capital ships early—your strength is infantry spam and ground control, not fleet battles.
 
-**Kamikaze Fleet Cycling:**
-R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyers → R5: Kamikaze again
+### B. Game Plan
 
-### C. Game Plan
+**Early Game (R1-2):** Unlock Yin Ascendant breakthrough R1—this is critical for starting your alliance ability collection before first objective scores. Expand to 2-3 systems with your dual carriers while pushing toward Yin Spinner tech. Commander unlock is trivial (just use Devotion or Indoctrination once), so get it done R1-R2. Build your economy foundation and position for R3+ infantry spam.
 
-**Strategic Approach:**
+**Mid Game (R3-4):** Yin Spinner comes online and your game changes completely. Produce constantly to generate 2 free infantry per production. Look for Sling Relay, exploration opportunities, and Integrated Economy to trigger bonus Yin Spinner productions. Start invading planets with Indoctrination—convert defenders before ground combat to swing the math in your favor. Breakthrough alliances begin stacking (4-5 by R4), giving you multiple commander abilities. Use Devotion to avoid variance in critical space battles. Focus on control objectives and planet accumulation since your infantry swarms excel at holding territory.
 
-**Rounds 1-2: Build Destroyer Swarm & Unlock Commander**
-- Take Trade or Leadership R1
-- Build 8-10 destroyers by R2
-- Use Devotion once R1-R2 to unlock Commander (trivial)
-- Research Yin Spinner R2 (if going standard path)
-
-**Rounds 3-4: Kamikaze Aggression & Yin Spinner Invasions**
-- Kamikaze 3-5 destroyers R3-4 targeting expensive capital ships
-- Use Yin Spinner after every production to spawn 2 infantry anywhere
-- Invade lightly-defended planets using Indoctrination (convert defenders)
-- Commander's green prerequisite enables tech flexibility (copy faction techs if valuable)
-
-**Round 5: Hero Invasions & Final Push**
-- Hero R5: Drop 3 infantry onto 3 key planets (legendary planets, Mecatol Rex, or objective planets)
-- Kamikaze remaining destroyers in critical battles
-- Use Yin Ascendant alliances (5-6 by now) for massive power spike
-- Score final objectives via Yin Spinner ground force saturation
-
-**Key Strategic Principles:**
-1. **Spam destroyers** - Build 10-15 total over the game, kamikaze 5-8 of them
-2. **Kamikaze math** - Only sacrifice when 2:1+ resource advantage
-3. **Yin Spinner procs** - Produce in 3-4 systems per round to spawn 6-8 infantry per round
-4. **Indoctrination targets** - Use on 2-4 high-value planets (legendary, Mecatol Rex, or key objectives)
-5. **Hero timing** - R5 for 3 simultaneous invasions without SPACE CANNON risk
+**Late Game (R5+):** Your power peaks. Hero lets you drop 3 infantry anywhere without Space Cannon defense—use this to steal key planets, grab Mecatol, or secure objective planets. X-89 Bacterial Weapon (if researched) nukes entire planets before invasions. You have 4-6 breakthrough alliance abilities stacking together for massive power. Stay flexible—make your late game plans based on which alliances you rolled. Combat alliances push you toward aggression, economy alliances fund more production, mobility alliances open new strategic options. Infantry swarms from Yin Spinner secure everything. Deploy mechs via Indoctrination on critical planets for Sustain Damage ground forces. Convert your overwhelming ground force advantage into victory points and close out the game.
 
 ---
 
@@ -452,9 +330,9 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 
 ### A. Objective Summary
 
-**Strengths:** Yin excels at fleet composition objectives with destroyer spam naturally achieving armada requirements. Spending objectives are easy with 4/4 balanced home economy, and combat objectives benefit from Devotion guaranteed hits.
+**Strengths:** Control objectives benefit from Yin Spinner infantry spam and Indoctrination invasions. Ships in systems objectives are achievable with standard fleet building. Combat secrets align with Devotion and aggressive play.
 
-**Weaknesses:** Structure objectives are challenging without natural building focus. Tech diversity objectives require investment, and peaceful objectives contradict your aggressive kamikaze playstyle requiring combat for maximum efficiency.
+**Weaknesses:** Spending objectives are challenging with only 2 commodities and weak economy. Trade good spendies are especially hard. Structure objectives require investment you don't naturally make. Tech objectives take time without dedicated tech focus.
 
 ### B. Stage I Objectives
 
@@ -464,20 +342,20 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🟡     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🔴     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
 | **Control**                                                             |        |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | **Ships in Systems**                                                    |        |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
 | **Tech**                                                                |        |
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
@@ -493,12 +371,12 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
 | **Combat**                                                               |        |
-| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
+| Unveil Flagship (Win space combat with flagship)                         | 🔴     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
 | Betray a Friend (Win combat vs player whose PN you have)                 | 🟢     |
 | Brave the Void (Win combat in anomaly)                                   | 🟢     |
-| Darken the Skies (Win combat in another player's HS)                     | 🟡     |
+| Darken the Skies (Win combat in another player's HS)                     | 🔴     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)         | 🟢     |
 | Turn their Fleets to Dust (SPACE CANNON destroy last ship)               | 🔴     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                 | 🔴     |
@@ -512,9 +390,9 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 | Control the Region (Ships in 6 systems)                                  | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                 | 🟢     |
 | **Control**                                                              |        |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🔴     |
 | Establish Hegemony (Control planets with 12+ influence)                  | 🟡     |
 | Hoard Raw Materials (Control planets with 12+ resources)                 | 🟡     |
 | Seize an Icon (Control legendary planet)                                 | 🟢     |
@@ -522,14 +400,14 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 | Become a Martyr (Lose control of planet in home system)                  | 🔴     |
 | **Tech**                                                                 |        |
 | Adapt New Strategies (Own 2 faction technologies)                        | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                    | 🔴     |
+| Master the Laws of Physics (Own 4 tech of same color)                    | 🟢     |
 | **Structure/Units**                                                      |        |
 | Establish a Perimeter (Have 4 PDS on board)                              | 🔴     |
 | Fuel the War Machine (Have 3 space docks)                                | 🟡     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🔴     |
 | Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
 | Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟢     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟡     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🔴     |
 | **Other**                                                                |        |
 | Dictate Policy (3+ laws in play)                                         | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                     | 🔴     |
@@ -547,22 +425,22 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 |--------------------------------------------------------------------------|--------|
 | **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🔴     |
-| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🔴     |
 | **Control**                                                              |        |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡  |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢  |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
 | Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 | **Ships in Systems**                                                     |        |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🔴     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🔴     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
 | **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
@@ -577,29 +455,45 @@ R2: Build 8 destroyers → R3: Kamikaze 4 destroyers → R4: Rebuild 8 destroyer
 
 ## IX. Alliance Priority
 
-**Top Tier:**
+When you unlock Yin Ascendant, you gain random alliance abilities every time you score a public objective. Here's how to evaluate your draws:
 
-1. **Titans of Ul (Tungstantus)** - When you use PRODUCTION, gain 1 trade good. Perfect for destroyer spam. You produce 10-15 times per game = 10-15 TG.
+**Top Tier (You Got Lucky):**
 
-2. **Muaat (Magmus)** - After you spend token from strategy pool, gain 1 trade good. You spend CCs constantly = constant TG income.
+1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Free Van Hauge (8 resources saved).
+2. **Crimson Rebellion (Ahk Siever)** - Gain commodity/TG at end of combat. Passive income from table-wide combat.
+3. **Deepwrought (Aello)** - Gain commodity/TG when others research tech with discount. Passive income.
+4. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income from secondaries.
+5. **Sardakk N'orr (G'hom Sek'kus)** - Commit 1 ground force from adjacent planets during invasion. Pairs perfectly with Yin Spinner infantry everywhere.
+6. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planets. Strong combat boost.
+7. **Empyrean (Xuange)** - Return command token after players move ships into your systems. Token economy.
+8. **Naaz-Rokha (Dart and Tai)** - Explore planet after conquering from another player. Extra value from invasions.
+9. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Passive income.
+10. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Action card economy.
 
-3. **Nomad (Navarch Feng)** - Produce your flagship without spending resources. Saves 8 resources for destroyer production.
+**Good (Solid Value):**
 
-4. **Sardakk N'orr (G'hom Sek'kus)** - During Commit Ground Forces step, commit 1 ground force from each planet in active/adjacent systems. Synergizes with Yin Spinner infantry everywhere.
+11. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Money every time you produce.
+12. **Mentak Coalition (S'ula Mentarion)** - Force opponent to give PN after winning space combat. Extract value.
+13. **Arborec (Dirzuga Rophal)** - Produce 1 unit when others activate systems with your PRODUCTION units. Combos with flagship.
+14. **Federation of Sol (Claire Gibson)** - Place 1 infantry when defending ground combat. Defensive boost.
+15. **Jol-Nar (Ta Zern)** - Reroll unit ability dice (BOMBARDMENT, AFB, SPACE CANNON). Versatile.
+16. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. More production capacity.
+17. **Yssaril Tribes (So Ata)** - Look at action cards/PNs/secrets when activating systems with your units. Information.
+18. **Ral Nel (Watchful OJZ)** - Retreat up to 2 ships to adjacent system, place token. Defensive flexibility.
+19. **Ghosts of Creuss (Sai Seravus)** - Place fighters after moving through wormholes. Fighter generation.
+20. **Firmament (Captain Aroz)** - Treat planets in systems with ships as controlled for scoring secrets. Niche but useful.
 
-5. **Crimson Rebellion (Ahk Siever)** - At the end of a combat between any players, gain 1 commodity or convert 1 of your commodities to a trade good. Constant passive income from combat.
+**Life Sucks (Bad Draws):**
 
-**Good:**
-
-6. **Jol-Nar (Ta Zern)** - When units use PRODUCTION, AFB, BOMBARDMENT, or SPACE CANNON, reroll any dice. Boosts your production and destroyer AFB.
-
-7. **Hacan (Carth of Golden Sands)** - After you roll dice for combat, SPACE CANNON, or AFB, reroll any number. Useful for rerolling bad kamikaze combat rounds.
-
-8. **Empyrean (Xuange)** - After player moves ships into system with your tokens, return token. Recycles kamikaze system activations.
-
-9. **Deepwrought (Aello)** - When others research tech with -1 discount, gain commodity/TG. Passive income in tech-heavy games.
-
-10. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity.
+21. **Clan of Saar (Rowl Sarring)** - Place fighters/infantry at any space dock when producing. Production flexibility you don't need.
+22. **Obsidian (Aroz Hollow)** - Apply +1 combat in The Fracture. Ultra-niche.
+23. **Last Bastion (Nip and Tuck)** - Action cards cannot be canceled by Sabotage. Nekro protection. Situational.
+24. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra dice for unit abilities.
+25. **Xxcha Kingdom (Elder Qanoj)** - Each exhausted planet provides +1 vote. Voting focus doesn't help you.
+26. **Council Keleres (Suffi An)** - Perform additional action after component action. Very situational.
+27. **L1Z1X Mindnet (2RAM)** - Ignore Planetary Shield for BOMBARDMENT. Only useful if you build dreads.
+28. **Hacan (Gila the Silvertongue)** - Spend TGs for 2 votes each. Completely dead—you're poor and can't trade.
+29. **Naalu Collective (M'aban)** - Look at neighbors' PNs and top/bottom agenda card. Information doesn't win games.
 
 ---
 
@@ -617,12 +511,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Yin Brotherhood is the faction for players who love asymmetric warfare and unconventional tactics. You're not winning through overwhelming force—you're winning because your destroyer just guaranteed-killed their dreadnought, and that math works in your favor every time.
+Yin Brotherhood is the faction for players who understand that units are resources to spend, not assets to preserve. You're not the strongest military faction, but you scale better than most through Yin Ascendant's alliance collection and Yin Spinner's infantry generation.
 
-Your biggest strength is value calculation. One destroyer costs 1 resource. One dreadnought costs 4. When your destroyer kamikazes their dreadnought, you're up 3 resources. Repeat this across a game, and you've generated massive economic advantage through controlled sacrifice. Other factions fight for survival—you fight for efficiency.
+Your biggest strength is flexibility through randomness. Yin Ascendant gives you 4-6 random alliance abilities over the game—some games you roll money commanders and swim in trade goods, other games you get combat buffs and become a military threat. Adapt your strategy to what you draw. The faction rewards players who can pivot based on what alliances appear.
 
-When you master Yin, every combat becomes profitable. Opponents hesitate to attack your fleets because they know your destroyers are suicide bombers waiting to delete their capital ships. Your Yin Spinner spawns infantry everywhere, making invasions trivial. Your Indoctrination converts their defenders to your side. Your flagship threatens to nuke entire fleets if killed.
+When you master Yin, you use Devotion to avoid variance in critical combats. Your Indoctrination acts as a deterrent—opponents leave extra infantry on planets because they fear conversion. Yin Spinner generates massive infantry swarms with every production, making ground control objectives trivial. Your flagship parks at home as mutually assured destruction, keeping your slice safe.
 
-The table learns to fear your math. They watch you sacrifice three destroyers and delete their entire dreadnought squadron. They see infantry appear from nowhere to claim planets they thought were safe. They know your flagship is a nuclear option—kill it, and everything dies. That hesitation, that careful calculation before every engagement, is your real advantage.
+The table learns to respect your abilities without overvaluing them. Devotion is powerful but situational—it won't save bad fights. Indoctrination swings key invasions but you can't afford to spam it. Your breakthrough alliances stack up gradually, making you stronger each round. By late game, you're not the faction they thought they knew.
 
-**"Our deaths are not sacrifices. They are investments."**
+**"Sacrifice is just another word for investment."**
