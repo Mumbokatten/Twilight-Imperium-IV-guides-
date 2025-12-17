@@ -81,13 +81,23 @@ Setup all structures for free. If critically need mobile ground forces, use mech
 
 **COALESCENCE:** If your flagship or your Awaken faction ability places units into the same space area or onto the same planet as another player's units, your units must participate in combat during the "Space Combat" or "Ground Combat" steps.
 
-Forced combat when awakening sleepers on contested planets or deploying flagship into occupied systems. Trade-off for powerful free infrastructure placement.
+Forced combat when awakening sleepers on contested planets or deploying flagship into occupied systems. Rarely activate without knowing combat outcome, so not usually a problem.
+
+**Saturn Engine I (Special Unit):** Cost: 2 | Combat: 7 | Move: 2 | Capacity: 1
+
+Makes ton of difference for early expansion. Capacity and move 2 on an early ship frees you from needing Gravity Drive.
+
+**Hel-Titan I (Special Unit):** Cost: 4 | Combat: 7 | Planetary Shield | Sustain Damage | SPACE CANNON 6 | PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported.
+
+Your unique PDS. Functions as both structure (SPACE CANNON, PRODUCTION) and ground force (combat 7, Sustain Damage). Core unit for distributed production and defense.
 
 ### D. Starting and Faction Technologies
 
 **Starting Technologies:**
 
 **Antimass Deflectors** - Ships move through asteroids; -1 to enemy SPACE CANNON
+
+Love to have, hate to tech. Good to start with.
 
 **Scanlink Drone Network** - When you activate a system, explore 1 planet in that system
 
@@ -97,31 +107,31 @@ Perfect synergy with Terragenesis. Every activation explores a planet, every exp
 
 **Saturn Engine II (GYR):** Ul Cruiser - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2 | Sustain Damage
 
-Your mobile cruiser upgrade. Move 3 with Sustain Damage makes them excellent for map control.
+Probably the strongest ship in the game. Versatility and combat power are unmatched. Get most of these on board for constant presence across the map.
 
 **Hel-Titan II (YR):** Ul PDS - Combat: 6 | Planetary Shield | Sustain Damage | SPACE CANNON 5 | PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
 
-Priority faction tech. SPACE CANNON 5 hits more reliably. Shoots at adjacent systems for overlapping defensive coverage.
+Difference isn't huge—shoots adjacent systems for defensive value and potential extortion. Won't affect people's willingness to attack you much considering your cruisers and well-defended planets already deter aggression.
 
 ### E. Leaders
 
 **Agent - Tellurian:** When a hit is produced against a unit: You may exhaust this card to cancel that hit.
 
-Cancel 1 hit per round. Save key units from death.
+Rarely useful but comes up when someone might lose critical ground combat or their capacity ship gets into unfortunate circumstances. People usually willing to pay 2-3 TG.
 
 **Commander - Tungstantus:** *Unlock: Have 5 structures on the game board.* When 1 or more of your units use PRODUCTION: You may gain 1 trade good.
 
-Easy unlock (5 structures by R2-R3). Every production generates 1 TG. With 6 Hel-Titans producing plus space docks, you generate significant TG per round. Elite economic engine.
+Your main economic engine. Natural unlock with awakened PDS. Makes a big difference. Notable: turns your influence (tokens) into resources but not the other way around—be careful about overusing secondaries.
 
 **Hero - Ul the Progenitor:** *Unlock: Have 3 scored objectives.* ACTION: Ready Elysium and attach this card to it. Its resource and influence values are each increased by 3, and it gains the SPACE CANNON 5 (x3) ability as if it were a unit.
 
-Elysium becomes 7/4 (from 4/1) with SPACE CANNON 5 (x3). Massive production and voting boost for late game.
+Elite defenses. SPACE CANNON isn't huge but might help. Biggest thing is 9 production at home—combined with your PDS network, you rarely need bonus space docks. Can be annoying to unlock if you get bad secrets and tough objectives.
 
 ### F. Promissory Note - **Terraform**
 
 ACTION: Attach this card to a non-home planet you control other than Mecatol Rex. Its resource and influence values are each increased by 1, and it is treated as having all 3 planet traits (cultural, hazardous, and industrial).
 
-Planet upgrade (+1 resource, +1 influence, gains all traits). Helps with trait objectives. Trade value: 2-3 TG.
+Planet upgrade (+1 resource, +1 influence, gains all traits). Try to sell to rich neighbor R1 for good start. Aim for 3 TG unless planet type objective on the table.
 
 ### G. Alliance
 
@@ -135,7 +145,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 **DEPLOY:** When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead.
 
-Deploy mech + infantry instead of PDS when awakening or building. Use for offensive invasions instead of defensive structures.
+Helpful if you need ground forces. Also useful after your 6 PDS are already placed—can still get value from awakening sleepers.
 
 ### I. Flagship - **Ouranos**
 
@@ -143,48 +153,39 @@ Cost: 8 | Combat: 7 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 **DEPLOY:** After you activate a system that contains 1 or more of your PDS, you may replace 1 of those PDS with this unit.
 
-Teleport flagship anywhere via PDS network. With 10+ PDS across the map, flagship can appear anywhere instantly.
+Good for getting flagship free if you're already at PDS limit. Otherwise very weak.
 
-### J. Hel-Titan I - **Ul PDS (Special Unit)**
-
-Cost: 4 | Combat: 7 | **Planetary Shield** | **Sustain Damage** | **SPACE CANNON 6** | **PRODUCTION 1**
-
-This unit is treated as both a structure and a ground force. It cannot be transported.
-
-Your unique PDS. Functions as both structure (SPACE CANNON, PRODUCTION) and ground force (combat 7, Sustain Damage). Cannot be transported. Core unit for distributed production and defense.
-
-### K. Saturn Engine I - **Ul Cruiser (Special Unit)**
-
-Cost: 2 | Combat: 7 | Move: 2 | **Capacity: 1**
-
-Cruisers with capacity 1. Transport infantry with move 2 cruisers. Start with 2 for early expansion.
-
-### L. Breakthrough - **Slumberstate Computing (Y<>G)**
+### J. Breakthrough - **Slumberstate Computing (Y<>G)**
 
 When COALESCENCE results in a ground combat, if you commit no other units, you may choose for your units to coexist instead. During the status phase, for each player you are coexisting with, you and that player each draw 1 additional action card. Other players may allow you to place a sleeper token on a planet they control.
 
-**Y<>G Synergy:** Yellow and green count as each other for prerequisites. Scanlink (0) counts as both yellow and green.
+**Y<>G Synergy:** Yellow and green count as each other for prerequisites. Scanlink (0) counts as both yellow and green. Rarely useful.
 
 **Coexistence Option:** Choose peaceful coexistence instead of combat when awakening on contested planets (if no other units committed). Both players draw 1 action card per status phase.
 
 **Sleeper Permission:** Negotiate to place sleeper tokens on opponents' planets. Diplomatic or aggressive tool depending on situation.
 
-### M. Slice and Draft Considerations
+**Value Assessment:** Not overly useful if it messes with your R1. You don't like messing with turn 1 and like your tokens—you're always token starved. Politics gives 2 action cards immediately for 1 token. Solving breakthrough then activating someone R2 nets you 3 bonus cards (R2, R3, R4) but they also got 3 cards, and yours come later. Not superb value. Upside is control objectives—more planets, more neighbors. But if not many control objectives exist, don't make big deal of it. Use general strength of Titans to stay ahead and be hard to stop at the end.
 
-**Speaker Order:** Prefer positions 2-4 for Construction or Technology access. Flexible overall.
+**Fun Option:** Go Leadership, unlock breakthrough, convince 2-3 people to let you spend your 3 early bonus tokens for crazy action card game. Might be fun, not sure if helpful since best action cards are holders and not use right away.
+
+### K. Slice and Draft Considerations
+
+**Speaker Order:** Earlier the better, but can handle almost any position. Focus more on getting a good slice. Your neighbors are not too important—you won't be the target.
 
 **Slice Priorities:**
 - **High planet count** - More sleeper token opportunities.
 - **Multi-planet systems** - Awaken multiple PDS per activation.
-- **Tech specialty planets** - Accelerate faction tech upgrades.
-- **Resource planets** - Need resources for distributed production.
+- **High influence** - You can turn tokens into resources but not the other way around.
 
 **Nice to Have:**
-- Yellow/red tech skips for faster Hel-Titan II.
+- Tech skips.
+- Tech specialty planets.
+- The Fracture.
 
 **Avoid:**
-- Low planet count slices (under 5 planets).
-- Influence-heavy slices (you have 1 influence home).
+- Low planet count slices.
+- Empty tiles in middle of your slice (bad for defensive coverage).
 
 ---
 
@@ -194,27 +195,19 @@ When COALESCENCE results in a ground combat, if you commit no other units, you m
 
 **Round 1 Priority Rankings:**
 
-1. **Expansion and Production** - Explore 4-5 systems with Scanlink, placing sleeper tokens everywhere. Saturn Engine cruisers transport infantry efficiently. Focus on seeding the galaxy.
+1. **Scoring** - Unlock your hero ASAP.
 
-2. **Technology** - Path toward Hel-Titan II. Sarween Tools accelerates your distributed production economy.
+2. **Expansion and Production** - Setup economy. Explore systems with Scanlink, place sleeper tokens everywhere.
 
-3. **Breakthrough** - Slumberstate Computing enables diplomatic coexistence or sleepers on enemy planets. Lower priority than infrastructure setup.
+3. **Technology** - Get your cool toys. Path toward Hel-Titan II and Saturn Engine II.
 
-4. **Scoring** - Avoid R1. Your strength comes online R3+ with Commander and awakened PDS network.
+4. **Breakthrough** - Only if game pushes you that way. Combos with Leadership but hate to throw secret to bad proposition most of the time.
 
-**Expansion Notes:** 1 dreadnought, 2 Saturn Engine cruisers, 2 fighters, 3 infantry. Aim for 4-5 systems R1 using Scanlink to explore and place sleepers.
+**Expansion Notes:** Dread + Saturn to 2-planet system nearby if high value. Otherwise cherry-pick with cruisers to get best planets early.
 
-### B. Commander Dependency
+### B. Token Scarcity
 
-Commander requires 5 structures. Easy by R2-R3 (awaken 3-4 sleepers + starting dock + 1 built). Pre-Commander economy is weak. Post-Commander economy is elite.
-
-### C. Political Weakness
-
-1 influence home makes voting terrible. Expand to influence planets or use Hero for +3 influence late game.
-
-### D. Sleeper Token Telegraphing
-
-Opponents see sleepers and know you can awaken PDS. Place sleepers on many planets—they can't contest all of them. Use as deterrent.
+You want to spend tokens to Scanlink (activations), awaken sleepers, use for breakthrough, and send to potentially be aggressive. Always token starved—Commander helps by converting tokens into resources via production TG, but doesn't solve the token shortage itself.
 
 ---
 
@@ -224,21 +217,34 @@ Opponents see sleepers and know you can awaken PDS. Place sleepers on many plane
 
 **Starting Tech:** Antimass Deflectors (Blue) and Scanlink Drone Network (0).
 
-Priority is upgrading your special units: Hel-Titan II for defensive/production coverage, Saturn Engine II for mobility and transport.
+Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth getting.
 
 ### B. Technology Paths
 
 **Standard Path:**
 
-**Round 1:** Sarween Tools (Y) - Production cost reduction
+**Round 1:** AI Development Algorithm (R)
+- When you research a unit upgrade technology, you may exhaust to ignore 1 prerequisite. When using PRODUCTION, you may exhaust to reduce cost by number of unit upgrades you own
+- **Prerequisites:** 4 technologies (Antimass + Scanlink + 2 more)
+- **Why:** Get prereqs for Saturn Engine II.
 
-**Round 2:** Hel-Titan II (YR) - Priority faction tech. SPACE CANNON 5, shoots adjacent systems
+**Round 2:** Saturn Engine II (GYR)
+- Ul Cruiser: Cost 2, Combat 6, Move 3, Capacity 2, Sustain Damage
+- **Why:** Strongest ship in game. Elite fleet mobility.
 
-**Round 3:** Saturn Engine II (GYR) - Move 3, Capacity 2, Sustain Damage cruisers
+**Round 3:** Gravity Drive (B)
+- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
+- **Why:** Mobility boost for cruiser fleet.
 
-**Round 4:** Gravity Drive (B) - Mobility
+**Round 4:** Fleet Logistics (BB) OR Carrier II (BB) OR Dreadnought II (BBY)
+- **Fleet Logistics:** 2 actions per turn
+- **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
+- **Dreadnought II:** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5
+- **Why:** Utility upgrades or unit upgrades based on objectives.
 
-**Round 5+:** Carrier II, Fleet Logistics, or flex techs
+**Round 5:** Light/Wave Deflector (BBB) OR continue unit upgrades
+- **Light/Wave:** Move through enemy ships
+- **Why:** Utility or combat power based on needs.
 
 ---
 
@@ -248,32 +254,32 @@ Priority is upgrading your special units: Hel-Titan II for defensive/production 
 
 **Round 1 Priority Ranking:**
 
-1. **Construction** - Build structures for Commander unlock (need 5 by R2-R3).
-2. **Leadership** - Command tokens for exploration (Scanlink explores every activation).
-3. **Technology** - Path toward Hel-Titan II.
-4. **Trade** - Refresh commodities for economy.
-5. **Warfare** - Redistribution if needed.
-6. **Politics** - Less useful (1 influence home).
-7. **Diplomacy** - Less useful (1 influence home).
+1. **Trade** - Refresh 2 commodities. Economy foundation with low commodity count.
+2. **Leadership** - Command tokens for Scanlink activations. You're always token starved.
+3. **Technology** - Path toward Saturn Engine II. Save resources.
+4. **Politics** - Sell speaker token for money. Best chance if you get 2 bad action cards to unlock breakthrough.
+5. **Construction** - Produce at home. Use your 4 resources to get 2 cruisers, get 2 more ground forces via mech + infantry to fill out slice. If you have bonus TG, add more infantry in the build.
+6. **Diplomacy** - Flip tech skip if you have one.
+7. **Warfare** - Extra tactical action for expansion.
 8. **Imperial** - Never R1.
 
-**Strategy Token Priority:** Technology.
+**Strategy Token Priority:** Technology and Diplomacy as secondary.
 
 ### B. Round 2+
 
 **Love:**
-- **Construction** - Build structures. Commander makes every production generate 1 TG.
-- **Leadership** - Command tokens for awakening sleepers and expansions.
-- **Imperial** - Scoring synergizes with structure objectives.
+- **Trade** - Refresh commodities. Economy for production.
+- **Leadership** - Command tokens for awakening and activations. Always need tokens.
+- **Imperial** - Scoring tempo and hero unlock.
 
 **Like:**
-- **Technology** - Continue Hel-Titan II and Saturn Engine II path.
-- **Trade** - Economy for production.
+- **Technology** - Continue Saturn Engine II path. Save resources and increase tempo.
+- **Politics** - Setup for objectives.
 
 **Situational:**
-- **Warfare** - Redistribution if needed.
-- **Politics** - Only after Hero or influence planet expansion.
+- **Warfare** - If you need to make a key play. Redistribution and fleet pool.
 - **Diplomacy** - Refresh planets if needed.
+- **Construction** - Worst. If you need structures, secondary works fine (space dock objectives, etc.).
 
 ---
 
@@ -293,11 +299,13 @@ Focus on Saturn Engine cruiser fleet with Hel-Titan production support. Cruisers
 
 ### B. Game Plan
 
-**Early Game:** Expand with Scanlink, placing sleeper tokens on explored planets. Awaken sleepers to unlock Commander. Build economy foundation for cruiser fleet production. Commander transforms your economy—every production generates trade goods.
+Your game plan is straightforward: excavate planets with Scanlink, seed sleeper tokens everywhere, awaken them for Commander unlock, then leverage elite Saturn Engine cruiser fleet with distributed Hel-Titan production support.
 
-**Mid Game:** Hel-Titan II online for defensive coverage. Saturn Engine II creates elite cruiser fleet. Awaken remaining sleepers for distributed production network. Commander generates massive passive income. Build cruiser fleet and swing across map for objectives. Distributed production provides reinforcements wherever needed.
+**Early Game (R1-2):** Explore 3-4 systems with Scanlink (only systems with planets need exploring), placing sleeper tokens everywhere. Get AI Development Algorithm R1 for tech prereqs. Try to have Commander unlocked by R2 (5 structures—awaken 3-4 sleepers + starting dock + built structures). Best case scenario: hero unlocked in status phase R2 as well—aim for that. Build cruisers and expand your slice. Commander transforms economy—every production generates trade goods. Start accumulating wealth.
 
-**Late Game:** Hero upgrades Elysium for extreme production capacity. Commander has generated significant wealth. Saturn Engine fleet dominates contested space. Structure objectives are trivial. Defensive networks keep home secure while fleet operates freely. Close out with mobility and production advantage.
+**Mid Game (R3-4):** Saturn Engine II online—your cruisers become elite fleet with move 3, capacity 2, Sustain Damage. Gravity Drive adds mobility. Awaken remaining sleepers for distributed production network. Commander generates passive TG income with every production. Build Saturn Engine fleet and swing across map for objectives. Distributed Hel-Titan production means you produce reinforcements wherever your fleet operates. Hero upgrades Elysium to 7/4 for extreme production capacity at home.
+
+**Late Game (R5+):** Commander has generated significant wealth over the game. Your Saturn Engine fleet dominates contested space—fastest mobile capital ships with Sustain Damage. Structure objectives are doable with 6+ Hel-Titans. Most things are doable if you got a good start. Fleet Logistics or Light/Wave adds final layer of dominance. Close out with overwhelming mobility and production advantage.
 
 ---
 
@@ -305,135 +313,125 @@ Focus on Saturn Engine cruiser fleet with Hel-Titan production support. Cruisers
 
 ### A. Objective Summary
 
-**Strengths:** Structure objectives are trivial with 6 Hel-Titans naturally deployed. Resource spending benefits from Commander TG generation. Control objectives work with high planet count strategy.
+**Strengths:** Structure objectives are easy with 6 Hel-Titans naturally deployed. Control objectives benefit from high planet count strategy. Spending benefits from Commander TG generation. Saturn Engine fleet makes ships in systems objectives achievable.
 
-**Weaknesses:** Influence spending objectives are difficult with 1 influence home. Political objectives require expansion. Tech diversity takes time.
+**Weaknesses:** Influence spending objectives are very difficult with 1 influence home. Token spending objectives are hard—you're always token starved.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| **Spendies** |  |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
-| Sway the Council (Spend 8 influence)                                    | 🔴     |
-| **Control** |  |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| **Ships in Systems** |  |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🔴     |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🔴     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
-| **Tech** |  |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
-| **Structure** |  |
-| Build Defenses (Have 4 or more structures)                              | 🟢     |
+| **Spendies**                                                            |        |
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
+| Sway the Council (Spend 8 influence)                                    | 🔴     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🔴     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
+| **Control**                                                             |        |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
+| **Ships in Systems**                                                    |        |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
+| **Structure**                                                           |        |
+| Build Defenses (Have 4 or more structures)                              | 🟢     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Titans excels at structure objectives (Build Defenses, Improve Infrastructure), resource objectives (Commander generates massive TG = resources), and expansion objectives (sleeper tokens encourage wide expansion).
 
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| **Combat** |  |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
-| Brave the Void (Win combat in anomaly)                                  | 🟡     |
+| **Combat**                                                               |        |
+| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
+| Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟡     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟢     |
-| **Ships in Systems** |  |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
-| **Control** |  |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                 | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                 | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                            | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)         | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)   | 🟢     |
+| Control the Region (Ships in 6 systems)                                  | 🟢     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                 | 🟢     |
+| **Control**                                                              |        |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                  | 🟡     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-| **Tech** |  |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
-| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
-| **Structure/Units** |  |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| **Other** |  |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟡     |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
-| Strengthen Bonds (Have another player's PN)                             | 🟡     |
+| Stake Your Claim (Control planet in contested system)                   | 🟢     |
+| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                        | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                    | 🟢     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                              | 🟢     |
+| Fuel the War Machine (Have 3 space docks)                                | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🟡     |
+| Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟡     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟢     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                         | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                     | 🔴     |
+| Destroy Heretical Works (Purge 2 relic fragments)                        | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                              | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                          | 🟢     |
+| Strengthen Bonds (Have another player's PN)                              | 🟢     |
+| Prove Endurance (Last to pass)                                           | 🔴     |
 
-**Notes:**
-- **Establish a Perimeter (4 PDS)** is TRIVIAL—you naturally build 6 Hel-Titan PDS
-- **Fuel the War Machine (3 space docks)** is EASY—awakened Hel-Titans count as structures
-- **Mechanize the Military (mech on 4 planets)** is EASY—use Hel-Titan DEPLOY to place mechs
-- All structure secrets strongly favor Titans
 
 ### D. Stage II Objectives
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| **Spendies** |  |
-| Dictate Policy (Spend X influence)                                      | N/A    |
-| Drive the Debate (Spend X influence)                                    | N/A    |
-| Wield Authority (Spend X influence)                                     | N/A    |
-| Produce En Masse (Spend X resources)                                    | N/A    |
-| Dominate Economic Policy (Spend X resources/trade goods)                | N/A    |
-| **Control** |  |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Form Galactic Brain Trust (Control 5 tech specialty planets)            | N/A    |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
-| **Ships in Systems** |  |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
+| **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🔴     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🔴     |
+| **Control**                                                              |        |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡  |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
+| **Ships in Systems**                                                     |        |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
-| **Tech** |  |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
-| **Structure** |  |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| **Tech**                                                                 |        |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🟢     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
 
-🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-**Notes:**
-- **Construct Massive Cities (7+ structures)** is EASY—you have 6 Hel-Titans + space docks
-- **Protect the Border (5 structures outside HS)** is EASY—Hel-Titans everywhere
-- Titans struggles with influence objectives (1 influence home)
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
 ---
 
@@ -441,19 +439,19 @@ Titans excels at structure objectives (Build Defenses, Improve Infrastructure), 
 
 **Top Tier:**
 
-1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Free Ouranos (8 resources saved).
-2. **Crimson Rebellion (Ahk Siever)** - Gain commodity/TG at end of combat. Passive income.
-3. **Deepwrought (Aello)** - Gain commodity/TG when others research tech with discount. Passive income.
-4. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income from secondaries.
-5. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. More production capacity.
+1. **Crimson Rebellion (Ahk Siever)** - Gain commodity/TG at end of combat. Passive income.
+2. **Deepwrought (Aello)** - Gain commodity/TG when others research tech with discount. Passive income.
+3. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income from secondaries.
+4. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Passive income.
+5. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Combos with PDS production.
 
 **Good:**
 
-6. **Jol-Nar (Ta Zern)** - Reroll unit ability dice (BOMBARDMENT, AFB, SPACE CANNON). Reroll Space Cannon.
-7. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra Space Cannon die.
-8. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Action card economy.
-9. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Passive income.
-10. **Empyrean (Xuange)** - Return command token after players move ships into your systems. Token economy.
+6. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Free Ouranos (8 resources saved).
+7. **Jol-Nar (Ta Zern)** - Reroll unit ability dice (BOMBARDMENT, AFB, SPACE CANNON). Reroll Space Cannon.
+8. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Extra Space Cannon die.
+9. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Action card economy.
+10. **Empyrean (Xuange)** - Return command token after players move ships into your systems. Winslaying.
 
 ---
 
@@ -471,12 +469,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Titans of Ul is the faction for players who understand that infrastructure is power. You're not the fastest expander or the strongest military force, but you scale better than almost anyone through distributed production and Commander's economic engine.
+Titans of Ul is the faction for players who understand that infrastructure and mobility create unstoppable advantages. You're absolutely racing for early points—unlocking hero by status phase R2 accelerates your scaling. You're building one of the strongest fleets in the game while maintaining impenetrable defenses.
 
-Your biggest strength is patience. While others race for territory, you're planting sleeper tokens on every explored planet. Those dormant markers transform into Hel-Titan PDS networks when activated—instant defense and production facilities across the galaxy.
+Your biggest strength is the Saturn Engine II cruiser fleet. These aren't normal cruisers—they're mobile capital ships that swing across the map, projecting force anywhere while your Hel-Titan PDS networks defend controlled territory. Combined with distributed production, you build reinforcements wherever your fleet operates.
 
-When you master Titans, your Commander generates absurd wealth. Every production triggers Tungstantus for 1 TG. With 6 Hel-Titans plus space docks producing across the map, passive TG generation funds everything—more structures, fleet expansions, political leverage when Hero boosts your influence. Your distributed production means you can build ships wherever needed, making you impossible to corner or contain.
+Your value comes from excavation and Commander. Scanlink explores planets constantly, placing sleeper tokens everywhere. Awaken transforms sleepers into instant infrastructure. Commander generates wealth with every production—passive TG income funds your economy without effort. Hero upgrades your home system for massive late-game production.
 
-The table learns to respect your sleeper tokens. They see those markers and know awakening them creates instant PDS networks with overlapping SPACE CANNON coverage. Hel-Titan II shoots at adjacent systems—your defensive networks layer across the map. By late game, you're not just controlling territory—you've transformed it into an extension of your production infrastructure.
+The table learns to respect your patient buildup. Sleeper tokens transform into defensive networks. Your elite cruiser fleet swings freely while Hel-Titans defend. You don't conquer the galaxy—you cultivate it, then dominate with superior mobility and production.
 
 **"We do not conquer. We cultivate."**
