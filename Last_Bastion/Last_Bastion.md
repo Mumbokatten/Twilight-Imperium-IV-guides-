@@ -1,8 +1,33 @@
-# The Last Bastion Comprehensive Strategy Guide
+[← Back to Index](../index.html)
+
+# Last Bastion Guide
+
+![Last Bastion](BastionArt.png)
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-and-draft-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+5. [Technology](#v-technology)
+6. [Strategy Cards](#vi-strategy-cards)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+8. [Objectives](#viii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+11. [End Notes](#xi-end-notes)
+
+---
 
 ## I. Introduction
 
-The Last Bastion are Twilight Imperium's **escalating combat faction**, rewarding sustained warfare through the unique **Galvanize** mechanic. Each combat allows you to galvanize units (placing tokens beneath them that grant +1 die for all combat rolls), creating a snowball effect where your fleet becomes progressively stronger with each engagement. Your Liberate ability readies planets instantly if you invade with infantry equal to the planet's resource value, accelerating economic recovery. You start with a choice of any blue or yellow technology with no prerequisites, control the legendary Ordinian planet (exhaust when passing for action card + command token), and deploy unique Helios space docks that increase planet resources. This faction rewards aggressive expansion, frequent combat to stack galvanize tokens, and leveraging your scaling flagship (+1 combat per planet you control) to dominate late-game.
+The Last Bastion are TI4's escalating combat faction—a faction for players who understand that every battle makes you stronger. Your Galvanize mechanic places tokens on units after combat, granting +1 die per token. The more you fight, the more powerful your fleet becomes. This isn't gradual scaling—it's exponential. A galvanized dreadnought doesn't just roll better dice, it snowballs into an unstoppable force.
+
+This is a faction about sustained warfare and territorial expansion. Your Liberate ability readies planets instantly when you invade with infantry equal to resource value. Your Helios space docks increase planet resources. Your flagship gains +1 combat per planet you control. Everything synergizes toward aggressive expansion and constant combat.
+
+Watch opponents realize their mistake when your galvanized units dominate battles they should have won. Your flagship scales to combat 15+ by late game. Your galvanized fleet rolls extra dice in every engagement. You don't avoid combat—you seek it, knowing each battle makes you stronger.
 
 ## II. Playstyle
 
