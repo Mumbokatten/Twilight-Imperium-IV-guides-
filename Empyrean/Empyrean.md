@@ -31,13 +31,13 @@ Watch opponents realize their invasion plans depend on your permission. Your com
 
 ## II. Playstyle
 
-Playing Empyrean means treating adjacency as currency. Your power comes from positioning yourself strategically adjacent to key systems and players, then leveraging that position for value. You want to expand toward multiple neighbors, unlock your commander by neighboring everyone, then extract command tokens from every activation near you.
+Playing Empyrean means treating adjacency and positioning as your primary resources. Your power comes from being strategically located adjacent to multiple players, controlling who can move where through permission and spatial manipulation. You're not fighting for territory—you're controlling access to it.
 
-Your early game focuses on leveraging your nebula mobility advantage. Voidborn lets you claim nebula systems opponents struggle to reach. Dark Energy Tap draws secret objectives with every tech research. Establish neighbor relationships early—your entire gameplan requires being adjacent to other players.
+Your Voidborn ability makes nebulae irrelevant for your movement while they slow everyone else. Your home nebula becomes a defensive stronghold—carriers and fighters leveraging nebula defense for HP advantage. Aetherpassage lets you grant or deny passage through your ships, creating diplomatic leverage every time someone wants to move. Your two promissory notes provide unprecedented flexibility for building alliances and extracting value.
 
-Mid-game transitions into diplomatic tax collection. Aetherstream gives +1 movement to neighbors activating systems near anomalies, making you valuable as an ally. Voidwatch forces players moving into your systems to give you promissory notes—toll network in action. Trade your two faction promissory notes for powerful alliances while extracting value from neighbors.
+As the game progresses, you expand toward becoming everyone's neighbor. Your commander rewards this positioning by returning command tokens whenever opponents activate near you—massive action economy payoff. Aetherstream and Voidwatch are sellable abilities that make you valuable to neighbors while extracting concessions. Your breakthrough severs adjacencies, breaking the map for opponents while maintaining your own routes.
 
-Late game Empyrean is about commander value and breakthrough control. Commander returns command tokens when players activate systems with your tokens—incredible action economy. Void Tether severs adjacencies, preventing movement between systems while you still treat them as adjacent. Your hero generates massive exploration value by flooding empty systems with frontier tokens.
+Your power isn't in raw military strength or overwhelming economy. It's in being positioned where everyone needs you to be cooperative, then extracting maximum value from that position. You control space through permission, not force.
 
 ## III. Faction Info and Drafting
 
