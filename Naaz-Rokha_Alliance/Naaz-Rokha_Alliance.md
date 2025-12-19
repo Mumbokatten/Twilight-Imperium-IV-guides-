@@ -1,22 +1,43 @@
+[← Back to Index](../index.html)
+
 # Naaz-Rokha Alliance Guide
 
 ![Naaz-Rokha Alliance](NaazRokhaArt.webp)
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-and-draft-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+5. [Technology](#v-technology)
+6. [Strategy Cards](#vi-strategy-cards)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+8. [Objectives](#viii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+11. [End Notes](#xi-end-notes)
 
 ---
 
 ## I. Introduction
 
-The Naaz-Rokha Alliance are TI4's exploration and relic fragment specialists that convert exploration into board presence. They excel at fragment collection through their Distant Suns ability (draw extra cards when exploring with mechs), and convert those fragments into relics or command tokens via Fabrication. Naaz-Rokha rewards aggressive early exploration, fragment management, and understanding when to convert fragments versus saving them for relic sets.
+The Naaz-Rokha Alliance are TI4's exploration specialists—a faction for players who understand that relic fragments are currency. While others explore planets once and move on, you're drawing multiple cards from every exploration, choosing the best results, and converting fragments into relics or command tokens. You don't just explore—you extract maximum value from every frontier token.
 
-The payoff? Exploring planets with mechs gives double card draw (choose the best result), gaining free relics by purging 2 matching fragments, and generating command tokens on demand. When you master exploration timing and mech placement, every planet becomes a double exploration opportunity and your economy scales through fragment conversion.
+This is a faction about information advantage and resource conversion. Your Distant Suns ability lets you see twice as many exploration results, always choosing the best. Your Fabrication converts fragments you don't need into exactly what you do—relics for power plays, command tokens for expansion. Your Z-Grav Eidolon mechs flip between ground and space modes, defending planets while fighting in space combat.
+
+Watch opponents realize they're competing for fragments they'll never collect as efficiently as you do. Your mechs guarantee double exploration draws. Your fragment collection becomes an economy engine. You don't conquer territory—you excavate it for everything it's worth.
 
 ## II. Playstyle
 
-Playing Naaz-Rokha is like being a relic hunter with perfect information—you explore more efficiently than any other faction and convert those discoveries into tangible advantages. Your Distant Suns draws extra exploration cards when mechs are present, your Fabrication converts fragments into relics or CCs, and your Z-Grav Eidolon mechs flip between ground and space modes for tactical flexibility. You're not trying to win through combat—you're winning through exploration efficiency, relic acquisition, and economic scaling.
+Playing Naaz-Rokha means treating exploration as your primary resource generation. Every planet with a frontier token is an opportunity to draw multiple cards, see more options, and choose optimal results. Your Distant Suns draws extra exploration cards when mechs are present—over 8-10 explorations, you see 16-20 cards instead of 8-10, doubling your value extraction.
 
-The key strength of Naaz-Rokha is exploration value extraction. Normal factions explore once per planet. You explore with mechs present and draw 2+ cards, choosing the best. Over a game with 8-10 planet explorations, this means seeing 16-20 exploration cards instead of 8-10—double the value, double the fragments, double the relics.
+Your early game focuses on mech-enabled exploration. Load mechs into carriers, land them on unexplored planets, then explore for double card draw. Fabrication converts orphan fragments into command tokens for continued expansion or completes matching sets for relics. Your exploration efficiency outpaces everyone—more fragments, more relics, more options.
 
-Opponents will compete with you for exploration—Nomad, Nekro (via predictions), and exploration-focused players all want fragments. That moment when you've collected 10+ fragments by R3, converted them to 5 relics, and have CCs to spare? Pure efficiency.
+As the game develops, your advantage compounds. Commander unlocks (3 mechs in 3 systems) and lets you explore every planet you conquer. Your Z-Grav Eidolon mechs flip to space mode during combat, providing free combat dice without building ships. Flagship enhances your mechs to 3 dice each. You're not the strongest military faction, but your economic engine from exploration and flexible mech combat keeps you competitive.
+
+Your endgame leverages accumulated advantages. Hero (R5-6) gains a free relic and performs 2 strategy card secondaries without spending command tokens—massive swing turn for double-scoring. Multiple relics from fragment conversion provide power spikes. Your exploration dominance and economic flexibility close out games through superior resource efficiency.
 
 ---
 
@@ -24,11 +45,14 @@ Opponents will compete with you for exploration—Nomad, Nekro (via predictions)
 
 ### A. Home System & Commodities
 
-**Home System:** Naazir (2 resources / 1 influence), Rokha (1 resource / 2 influence)
+**Home System:** 2 planets
+- **Naazir:** 2 resources / 1 influence = 2 optimal resources
+- **Rokha:** 1 resource / 2 influence = 2 optimal influence
+- **Total: 3 resources / 3 influence (2 optimal resources / 2 optimal influence)**
 
 **Commodities:** 3
 
-**Notes:** Two-planet home system with 3/3 total split (balanced but low). Naazir provides resources for military production, Rokha provides influence for objectives. The low total (3/3) means you must expand aggressively R1-2 to build economy. Two planets are easier to defend than single-planet homes and provide more total resources when building.
+**Notes:** Low 3/3 home system requires aggressive expansion R1-2. Two planets easier to defend than single-planet homes. Balanced split provides flexibility but weak starting economy.
 
 ### B. Starting Fleet
 
@@ -39,64 +63,65 @@ Opponents will compete with you for exploration—Nomad, Nekro (via predictions)
 - 3 Infantry
 - 1 Space Dock
 
-**Notes:** Strong starting fleet with 2 carriers (8 capacity total) for aggressive R1 expansion. You start with 1 mech—place it strategically for Distant Suns exploration bonuses. The destroyer provides AFB defense. Single space dock means you'll want Construction R1-2 for forward production.
+**Notes:** Strong expansion fleet with 2 carriers (8 capacity total). Place starting mech strategically for Distant Suns. Single space dock limits early production.
 
-### C. Starting Technologies
+### C. Faction Abilities
+
+**Distant Suns:** When you explore a planet that contains 1 or more of your mechs, you may draw 1 additional card; choose 1 to resolve and discard the rest.
+
+Your exploration multiplier. Draws 2 cards total, choose best, discard other. Doubles exploration value over the game.
+
+**Fabrication:** ACTION: Either purge 2 of your relic fragments of the same type to gain 1 relic or purge 1 of your relic fragments to gain 1 command token.
+
+Fragment conversion engine. Convert 2 matching fragments to relic or 1 fragment to command token. Use for relics when completing sets, command tokens when expansion-starved.
+
+### D. Starting and Faction Technologies
+
+**Starting Technologies:**
 
 **Psychoarchaeology** - When 1 or more of your units use PRODUCTION in a system, you may exhaust this card to reduce the cost of 1 of those units by 2.
 
+Saves 2 resources when producing expensive units. Niche but useful.
+
 **AI Development Algorithm** - When you research a unit upgrade technology, you may exhaust this card to ignore 1 prerequisite.
 
-**Notes:** Psychoarchaeology is niche—saves 2 resources when producing (useful for expensive units like dreadnoughts/war suns). AI Dev Algorithm is excellent—you'll research 3-4 unit upgrades, and this skips prerequisites for all of them. Both yellow and blue starting techs give you flexible tech paths.
+Excellent for your 3-4 unit upgrade tech path. Skips prerequisites.
 
-### D. Faction Abilities
+**Faction Technologies:**
 
-**Distant Suns (Faction Ability):** When you explore a planet that contains 1 or more of your mechs, you may draw 1 additional card; choose 1 to resolve and discard the rest.
+**Pre-Fab Arcologies (GGG):** After you explore a planet, ready that planet.
 
-Your exploration multiplier. When exploring a planet WITH A MECH PRESENT, draw 2 cards total (1 normal + 1 from Distant Suns), choose 1 to resolve, discard the other. This is absurdly powerful—you see twice as many exploration results, always take the best. Over a game, this nets 5-10 extra valuable exploration results (fragments, TGs, attachments).
+Triple-green tech. Immediately ready explored planets. Steep prerequisite—only research if heavily invested in green.
 
-**Strategic Implication:** Always place mechs on planets BEFORE exploring them if possible. Load mech in carrier, land it, then explore = guaranteed double draw.
+**Supercharge (R):** At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
 
-**Fabrication (Faction Ability):** ACTION: Either purge 2 of your relic fragments of the same type to gain 1 relic or purge 1 of your relic fragments to gain 1 command token.
-
-Fragment conversion ability. During your turn, spend 2 matching fragments (2 red, 2 blue, or 2 yellow) to gain 1 relic corresponding to that color. OR spend 1 fragment of any type to gain 1 CC. This is your economy engine—convert fragments you don't need for relics into CCs for expansion, or complete relic sets for powerful abilities.
-
-**Optimal Usage:**
-- Convert fragments to CCs when you need expansion fuel R2-3
-- Save matching fragments for relics when close to completing sets (Shard of the Throne requires 3 matching fragments—save for it!)
-- Don't convert immediately—hold optionality
+Combat enhancement. Gives all units +1 to combat for one round per combat. Strong value for aggressive players.
 
 ### E. Leaders
 
-**Agent - Garv and Gunn:**
+**Agent - Garv and Gunn:** At the end of a player's turn: You may exhaust this card to allow that player to explore 1 of their planets.
 
-At the end of a player's turn: You may exhaust this card to allow that player to explore 1 of their planets.
+Exploration support. Use politically or agent yourself for multiple explorations per round.
 
-Exploration support agent. At end of ANY player's turn, exhaust to let them explore one of their planets. Use politically: "I'll let you explore if you vote my way" or "I'll agent you for your Alliance promissory." Also useful to agent yourself for extra exploration on your own turn (if you have multiple unexplored planets, activate one, explore naturally, then agent yourself to explore another).
+**Commander - Dart and Tai:** *Unlock: Have mechs in 3 systems.* After you gain control of a planet that was controlled by another player: You may explore that planet.
 
-**Commander - Dart and Tai:** *Unlock: Have mechs in 3 systems.*
+Easy unlock (achievable R2-3). Explore every conquered planet. Incentivizes invasion for exploration value. Combine with Distant Suns for double draw on invaded planets.
 
-After you gain control of a planet that was controlled by another player: You may explore that planet.
+**Hero - Hesh and Prit:** *Unlock: Have 3 scored objectives.* Perfect Synthesis - ACTION: Gain 1 relic and perform the secondary ability of up to 2 readied or unchosen strategy cards; during this action, spend command tokens from your reinforcements instead of your strategy pool. Then, purge this card.
 
-Easy unlock (3 mechs in 3 systems, achievable R2-3). After unlocking, every planet you conquer from opponents can be explored immediately. This incentivizes invasion—each successful conquest nets exploration (likely fragments). Combine with Distant Suns if you have mechs present for double card draw on invaded planets.
-
-**Hero - Hesh and Prit:** *Unlock: Have 3 scored objectives.*
-
-**Perfect Synthesis - ACTION:** Gain 1 relic and perform the secondary ability of up to 2 readied or unchosen strategy cards; during this action, spend command tokens from your reinforcements instead of your strategy pool. Then, purge this card.
-
-Power spike hero. In one action: (1) Gain 1 relic for free, (2) Perform 2 strategy card secondaries (spend from reinforcements, not strategy pool—so you keep your CCs!). Use R5-6 for massive swing turn. Example: Gain relic, follow Technology for 2 techs, follow Construction for PDS, all without spending CCs from pools.
+Power spike hero (R5-6). Gain free relic, perform 2 strategy secondaries without spending command tokens. Massive swing turn for objective pushes.
 
 ### F. Promissory Note - **Black Market Forgery**
 
 ACTION: Purge 2 of your relic fragments of the same type to gain 1 relic. Then, return this card to the Naaz-Rokha player.
 
-Fragment-to-relic conversion for another player. This is your Fabrication ability given to an opponent once. Trade value: 3-4 TG equivalent. Best for exploration-heavy factions (Nomad, other Naaz-Rokha in mirror match) or factions needing specific relics.
+Fabrication for another player. Trade value: 3-4 TG.
 
 ### G. Alliance
 
 After you explore a planet that is not a legendary planet or Mecatol Rex: Gain 1 trade good.
 
-Exploration trade good generation. Ally gains 1 TG per normal planet exploration (not legendaries or MR). Over a game with 6-8 explorations, this generates 6-8 TGs for ally. Solid economic value. Trade value: 3-4 TG.
+Exploration TG generation for ally. 6-8 TGs over game from normal planet exploration. Trade value: 3-4 TG.
 
 ### H. Mech - **Eidolon / Z-Grav Eidolon**
 
@@ -106,47 +131,43 @@ Cost: 2 | Combat: 6 (x2) | **Sustain Damage**
 
 **Z-Grav Eidolon (Space Mode - Flipped):** Cost: 2 | Combat: 8 (x2) | If this unit is in the space area of the active system, it is also a ship. At the end of a space battle in the active system, flip this card. This card begins the game with this side facedown.
 
-Dual-mode mech. Starts in ground mode. When space combat occurs in the system, flips to space mode (becomes a ship with Combat 8(x2)). After space combat ends, flips back to ground. This means your mechs participate in space combat as ships (like Nekro's Alastor but for mechs), then revert to ground forces after.
-
-**Strategic Implications:**
-- Place mechs on planets in contested systems
-- When enemies attack, mechs flip to space mode and fight as ships (Combat 8(x2))
-- After battle, mechs flip back to ground (still defend planet)
-- This gives you "free" space combat dice without producing actual ships
+Dual-mode mech. Flips to space mode (combat 8, x2 dice, counts as ship) during space combat, then reverts to ground after. Provides free space combat dice. Place on contested border planets for defensive value.
 
 ### I. Flagship - **Visz El Vir**
 
 Cost: 8 | Combat: 9 (x2) | Move: 1 | Capacity: 4 | **Sustain Damage**
 
-**Special Ability:** Your mechs in this system roll 1 additional die during combat.
+Your mechs in this system roll 1 additional die during combat.
 
-Mech enhancement flagship. All mechs in the system roll +1 die during combat (both space and ground). Your Eidolon mechs normally roll 2 dice (6+ on ground, 8+ in space mode). With flagship: 3 dice per mech. If you have flagship + 3 mechs in system during space combat, that's 2 flagship dice (9+) + 9 mech dice (8+) = 11 total dice.
+Mech enhancement flagship. Mechs roll +1 die (3 dice total in both space and ground modes). Flagship + 3 mechs = 2 flagship dice + 9 mech dice = overwhelming combat power.
 
-**Strategic Implications:**
-- Load flagship with infantry + mechs for invasions
-- During space combat, mechs flip to space mode (Z-Grav) and roll 3 dice each at 8+
-- This creates overwhelming space combat power
-- After combat, mechs land for ground invasion with 3 dice each at 6+
+### J. Breakthrough - **Absolute Synergy (B<>G)**
 
-### J. Faction Technologies
-
-**Pre-Fab Arcologies (Green/Green/Green)** - After you explore a planet, ready that planet.
-
-Triple-green tech. After exploring planet, ready it immediately. This lets you exhaust planet for resources, explore it (via agent or action), then ready it for production/spending. The 3 green prerequisite is steep—only research if heavily invested in green tree.
-
-**Supercharge (Red)** - At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
-
-Combat enhancement tech. Exhaust at start of any combat round (space or ground) to give ALL your units +1 to combat rolls for that round. Destroyer goes from 9+ to 8+, infantry from 8+ to 7+, mechs from 6+ to 5+ (space mode from 8+ to 7+). Use once per combat on critical rounds. Excellent value for aggressive players.
-
-### K. Breakthrough Technology
-
-**Absolute Synergy (Blue<>Green)** - When you have 4 mechs in the same system, you may return 3 of those mechs to your reinforcements to flip this card and place it on top of your mech card.
+When you have 4 mechs in the same system, you may return 3 of those mechs to your reinforcements to flip this card and place it on top of your mech card.
 
 **Eidolon Maximum (Flipped):** This unit is both a ship and ground force. It cannot be assigned hits from unit abilities. Repair it at the start of every combat round. Game effects cannot place or produce your mechs. When this unit is destroyed or removed, flip this card and return it to your play area. Combat: 4 (x4) | Move: 3 | **Sustain Damage**
 
-Super-mech breakthrough. When you have 4 mechs in one system, sacrifice 3 to create Eidolon Maximum: Combat 4(x4), Move 3, Sustain, is BOTH ship and ground force simultaneously, repairs every combat round, cannot be targeted by abilities. This is a super-unit that never dies (repairs every round) and fights everywhere.
+**B<>G Synergy:** Blue and green count as each other for prerequisites. Opens flexible tech paths.
 
-**Downside:** After creating Eidolon Maximum, you CANNOT produce normal mechs anymore (card says "game effects cannot place or produce your mechs"). You get 1 super mech and that's it. Only use if you're going all-in on this strategy.
+Super-mech. Sacrifice 3 mechs to create Combat 4 (x4), Move 3, Sustain, repairs every round, untargetable. Downside: cannot produce normal mechs afterward. Only use if all-in on super mech strategy.
+
+### K. Slice and Draft Considerations
+
+**Speaker Order:** Flexible. Prioritize good slice over speaker position.
+
+**Slice Priorities:**
+- **High planet count** - More exploration opportunities for Distant Suns value.
+- **Frontier token access** - Maximize exploration targets.
+- **Resource-heavy** - Your low 3/3 home needs slice resources.
+
+**Nice to Have:**
+- Tech skip planets.
+- Legendary planets (exploration targets).
+- Balanced resources/influence.
+
+**Avoid:**
+- Low planet count slices.
+- Slices already explored by neighbors.
 
 ---
 
@@ -154,93 +175,64 @@ Super-mech breakthrough. When you have 4 mechs in one system, sacrifice 3 to cre
 
 ### A. First Turn Priorities
 
-As Naaz-Rokha Alliance, your first turn priorities should reflect your exploration and relic fragment specialization. Here's the recommended ordering:
+**Round 1 Priority Rankings:**
 
-1. **Expansion + Production** - Your Distant Suns ability (explore twice with mechs) requires claiming planets with frontier tokens. Expand aggressively Round 1 to 2-3 systems with unexplored planets. Your 4 resources and 2 influence from home support this expansion.
+1. **Expansion and Production** - Explore aggressively with mechs. Distant Suns requires claiming frontier tokens. Expand to 2-3 systems R1.
 
-2. **Breakthrough** - Immediately deploy mechs to planets with frontier tokens and explore twice per planet. Each double-exploration generates 2 relic fragments on average. Build toward 3 fragments for Fabrication (convert to relics or command tokens). Exploration dominance is your core identity.
+2. **Breakthrough** - Deploy mechs and explore with double card draw. Build toward fragment collection for Fabrication conversion.
 
-3. **Scoring** - Score exploration-based secrets early (discover lost outposts, control planets with attachments). Your ability to explore faster than anyone else makes these secrets easier. Territory objectives also benefit from aggressive expansion.
+3. **Scoring** - Exploration-based secrets easier (discover lost outposts, control planets with attachments). Territory objectives benefit from expansion.
 
-4. **Technology** - Push toward unit upgrades or Temporal Cascade (mech production tech) for more Distant Suns triggers. However, exploration and fragment collection come first—tech enhances an existing exploration engine.
+4. **Technology** - Push toward unit upgrades or exploration support techs. Exploration and fragment collection come first.
 
-### A. Exploration Dependency
+**Expansion Notes:** Load mech in carrier, land on planet, explore with Distant Suns for double draw. Maximize exploration value R1-2.
 
-Your faction revolves around exploration. If opponents explore all planets before you, or if the map has few planets, you're crippled. You must explore aggressively R1-3.
+### B. Exploration Dependency
 
-**Mitigation:**
-- Take Warfare R1 for rapid expansion
-- Negotiate exploration rights with neighbors ("I explore left, you explore right")
-- Use Agent to explore multiple planets per round
-- Place mechs before exploring for Distant Suns double draw
-
-### B. Fragment Competition
-
-Nomad, Nekro (via predictions), and other exploration factions want fragments. You're competing for limited resources.
-
-**Mitigation:**
-- Explore more efficiently (Distant Suns gives better results)
-- Convert fragments to relics/CCs before opponents can contest
-- Trade with Nomad/Nekro for non-aggression regarding exploration zones
+Your faction revolves around exploration. If opponents explore all planets first or map has few planets, you're crippled. Must explore aggressively R1-3.
 
 ### C. Low Starting Economy
 
-3/3 home system is below average (most factions have 4-6 total resources/influence). You must expand quickly or fall behind economically.
+3/3 home system below average. Must expand quickly or fall behind economically. Use Fabrication to convert fragments to command tokens for expansion fuel.
 
-**Mitigation:**
-- Aggressive R1 expansion (take 3-4 planets by end of R1)
-- Use Fabrication to convert fragments to CCs for more expansion
-- Take Trade R1-2 for TG injection
+### D. Fragment Competition
 
-### D. Mech Production Limits
-
-You can only have a finite number of mechs (8-10 total in reinforcements depending on faction components). Once you run out, you can't benefit from Distant Suns unless you recycle mechs.
-
-**Mitigation:**
-- Place mechs strategically, not everywhere
-- Prioritize high-value planets for mech placement (tech specialties, legendaries, high resources)
-- Consider Absolute Synergy breakthrough to consolidate 4 mechs → 1 super mech (but lose future mech production)
+Nomad, Nekro, and exploration factions compete for fragments. Your Distant Suns provides better results, but territorial negotiation helps.
 
 ---
 
 ## V. Technology
 
-### A. Recommended Tech Paths
+### A. Overview
 
-**Path 1: Exploration Enhancement**
-1. Sarween Tools (R2)
-2. Scanlink Drone Network (R2-3)
-3. Gravity Drive (R3-4)
-4. Cruiser II / Carrier II (R4)
-5. Fleet Logistics (R5)
+**Starting Tech:** Psychoarchaeology (0) and AI Development Algorithm (0).
 
-**Path 2: Combat Focus**
-1. Supercharge (R2) *faction tech*
-2. Destroyer II (R2-3)
-3. Gravity Drive (R3)
-4. Duranium Armor (R4)
-5. Assault Cannon (R4-5)
+Both blue and yellow starting techs provide flexible paths. Priority: unit upgrades using AI Dev Algorithm to skip prerequisites.
 
-**Path 3: Balanced**
-1. Sarween Tools (R2)
-2. Gravity Drive (R3)
-3. Supercharge (R3-4) *faction tech*
-4. Carrier II (R4)
-5. Destroyer II / Cruiser II (R5)
+### B. Technology Paths
 
-### B. Key Technologies
+**Standard Path:**
 
-**AI Development Algorithm:** You start with this. Use it to skip prerequisites for Destroyer II, Carrier II, Cruiser II, etc.
+**Round 1:** Sarween Tools (0)
+- When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1
+- **Why:** Economy tech. Saves 1 resource per production.
 
-**Sarween Tools:** Standard economy tech. Saves 1 resource per production—over 20 builds, saves 20 resources.
+**Round 2:** Gravity Drive (B)
+- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
+- **Why:** Mobility for repositioning fleets and bringing mechs to exploration zones.
 
-**Supercharge:** Your faction tech. +1 to all combat rolls for a round is devastating with multiple mechs (flagship + 3 mechs = 11 dice all getting +1).
+**Round 3:** Supercharge (R)
+- At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round
+- **Why:** Your faction tech. +1 to all combat rolls devastating with multiple mechs.
 
-**Gravity Drive:** Mobility for repositioning fleets and bringing mechs to new exploration zones.
+**Round 4:** Carrier II (BB)
+- Cost 3, Combat 9, Move 2, Capacity 6
+- **Why:** Transport capacity for mechs. Move 2 carriers with Gravity Drive.
 
-**Scanlink Drone Network:** You explore more than most factions. Gaining CCs from exploration is solid value.
-
-**Destroyer II:** AFB + Move 2. Excellent for screening and mobility.
+**Round 5:** Destroyer II (RR) OR Cruiser II (GYR)
+- **Destroyer II:** Cost 1, Combat 8, Move 2, AFB 6 (x3)
+- **Cruiser II:** Cost 2, Combat 6, Move 3, Capacity 1, Sustain Damage
+- **Why:** Mobility and flex combat power.
 
 ---
 
@@ -248,143 +240,59 @@ You can only have a finite number of mechs (8-10 total in reinforcements dependi
 
 ### A. Round 1
 
-Your R1 priority is aggressive exploration and expansion to trigger Distant Suns benefits.
-
 **Round 1 Priority Ranking:**
 
-1. **Warfare** - Enables R1 aggression + exploration expansion. You expand and explore constantly.
-
-2. **Technology** - Get Sarween Tools or progress toward Supercharge. Tech path includes 3-4 unit upgrades.
-
-3. **Construction** - Build forward space dock for continued expansion and deeper exploration.
-
-4. **Trade** - 3 commodities + TGs for expansion. TG generation from ally exploration.
-
-5. **Leadership** - CCs fuel exploration and expansion activations.
-
+1. **Warfare** - Enables R1 exploration expansion. You explore constantly.
+2. **Technology** - Sarween Tools or progress toward unit upgrades.
+3. **Construction** - Forward space dock for deeper exploration.
+4. **Trade** - 3 commodities + TG generation.
+5. **Leadership** - Command tokens fuel exploration activations.
 6. **Politics** - Speaker + agenda control.
+7. **Imperial** - Unlikely R1.
+8. **Diplomacy** - Protecting home fine but not priority.
 
-7. **Imperial** - Unlikely to score R1.
-
-8. **Diplomacy** - Protecting home is fine but not priority.
+**Strategy Token Priority:** Technology and Diplomacy as secondary.
 
 ### B. Round 2+
 
 **Love:**
-- **Warfare** - You expand and explore constantly. Unlocking fleets is critical.
-- **Technology** - Tech path includes 3-4 unit upgrades + Supercharge. Essential progression.
-- **Leadership** - CCs fuel exploration and expansion.
-- **Politics** - Speaker + agenda control.
-- **Imperial** - Points are points. Needed rounds 3-5.
+- **Warfare** - You expand and explore constantly. Unlocking fleets critical.
+- **Technology** - Unit upgrade path includes 3-4 techs. Essential progression.
+- **Leadership** - Command tokens fuel exploration and expansion.
+- **Imperial** - Points are points. Needed R3-5.
 
 **Like:**
-- **Construction** - Forward space dock enables deeper exploration.
 - **Trade** - 3 commodities + TG generation from ally exploration.
+- **Politics** - Speaker + agenda control.
+- **Construction** - Forward space dock enables deeper exploration.
+
+**Situational:**
 - **Diplomacy** - Protect explored planets while pushing forward.
 
 ---
 
 ## VII. Unit Composition and Game Plan
 
-### A. Distant Suns Optimization
+### A. Unit Composition
 
-Your defining ability. Maximize value:
+Your ideal fleet composition:
 
-**Mech Placement Priority:**
-1. Load mech in carrier R1
-2. Move to new system
-3. Land mech on planet
-4. Explore planet with mech present
-5. Draw 2 cards (Distant Suns), choose best, discard other
+- **Carriers** - Core transport for mechs. Capacity critical for Distant Suns exploration.
+- **Mechs** - Essential for Distant Suns double draws. Place before exploring. Flip to space mode for free combat dice.
+- **Destroyers** - AFB screening. Cheap ships for objectives.
+- **Infantry** - Ground forces for planet control.
+- **Flagship** - Mech enhancement (+1 die each). Load with mechs for overwhelming combat.
+- **Fighters** - Cheap hit points.
 
-**Best Results to Choose:**
-- Relic fragments (convert to relics/CCs via Fabrication)
-- Trade goods (immediate economy)
-- Attachments (Demilitarized Zone, DMZ, etc.)
+Focus on carrier + mech combinations. Mechs provide exploration value and combat flexibility. Avoid expensive capital ship builds early—your strength is exploration efficiency.
 
-**Avoid Results:**
-- Negative effects (lose ships, exhaust planets)
-- Minimal value (single fighter, single infantry)
+### B. Game Plan
 
-**Over 8 explorations with Distant Suns:**
-- See 16 exploration cards
-- Choose 8 best results
-- This is 2x value of normal factions
+**Early Game (R1-2):** Aggressive exploration with mechs. Load mechs in carriers, land on planets, explore with Distant Suns for double card draw. Aim for 6-8 planet explorations by R3. Fabrication converts fragments to command tokens when expansion-starved or completes matching sets for relics. Expand to 3-4 systems using fragment-to-command token conversion. Commander unlock easy (3 mechs in 3 systems).
 
-### B. Fabrication Economy
+**Mid Game (R3-4):** Commander lets you explore every conquered planet—incentivizes invasion. Combine with Distant Suns (place mechs before invading) for double draw on conquests. Fragment collection accelerates. Convert to relics when completing sets (prioritize powerful relics like Shard of the Throne). Z-Grav Eidolon mechs on border planets provide defensive space combat dice without building ships. Your exploration dominance gives more relics, more command tokens, more options than opponents.
 
-You convert fragments to relics or CCs. Timing matters:
-
-**When to Convert Fragments → CCs:**
-- R2-3 when you need expansion fuel
-- When you have "orphan" fragments (1 red fragment but no others)
-- When CC-starved and no other options
-
-**When to Save Fragments for Relics:**
-- Close to completing relic sets (2/3 matching fragments)
-- For powerful relics (Shard of the Throne, Crown of Emphidia)
-- When you already have enough CCs
-
-**Fragment Value:**
-- 2 matching fragments → 1 relic (varies by relic power)
-- 1 fragment → 1 CC (worth ~2 TG)
-- Save fragments for relics unless desperate for CCs
-
-### C. Z-Grav Eidolon Tactics
-
-Your mechs flip to space mode during space combat:
-
-**Optimal Mech Placement:**
-- Border planets in contested systems
-- Planets adjacent to opponents
-- Planets in systems you expect to defend
-
-**Combat Math:**
-- Normal mech (ground): Combat 6(x2)
-- Z-Grav mech (space): Combat 8(x2), is a ship
-- With Flagship: Combat 8(x3), is a ship
-- With Supercharge: Combat 7(x3), is a ship
-
-**Defensive Setup:**
-- Place 3 mechs on border planet
-- Enemy attacks system
-- 3 mechs flip to space mode (6 dice at 8+, or 9 dice with flagship)
-- This defends space without producing ships
-- After combat, mechs flip back to ground (still defend planet)
-
-### D. Commander Exploitation
-
-After unlocking Commander (3 mechs in 3 systems, easy by R2-3), every conquered planet = free exploration:
-
-**Invasion Strategy:**
-- Target opponent planets
-- Invade successfully
-- Immediately explore (Commander trigger)
-- If you have mech present: Distant Suns double draw
-- Gain fragments/TGs/attachments from every conquest
-
-**This changes invasion calculus:**
-- Normal faction: Invade planet for resources/influence
-- Naaz-Rokha: Invade planet for resources/influence + free exploration
-
-**Synergy with Yin's Indoctrination:**
-If trading with Yin or have their promissory, you can conquer planets cheaply then explore them via Commander.
-
-### E. Hero Perfect Synthesis Timing
-
-Your Hero (R4-5 typically) does 3 things in one action:
-1. Gain 1 relic for free
-2. Perform 2 strategy card secondaries
-3. Spend CCs from reinforcements (not your pools)
-
-**Optimal Hero Turn:**
-- Round 5 when you need double-score
-- Perform Technology secondary (research 2 techs if you have resources)
-- Perform Construction secondary (place PDS + gain influence)
-- Gain 1 relic (hopefully powerful one like Shard of the Throne)
-- All without spending CCs from strategy pool
-
-**This is a massive swing turn—use for game-winning objective pushes.**
+**Late Game (R5+):** Hero provides massive swing turn. Gain free relic, perform 2 strategy secondaries (Technology for 2 techs, Construction for PDS, etc.) without spending command tokens. Multiple relics from fragment conversion provide power spikes. Flagship + 3 mechs creates overwhelming combat power (2 flagship dice + 9 mech dice). Supercharge adds +1 to all combat rolls. Close out through exploration advantage and relic power.
 
 ---
 
@@ -392,94 +300,92 @@ Your Hero (R4-5 typically) does 3 things in one action:
 
 ### A. Objective Summary
 
-**Strengths:** Naaz-Rokha excels at exploration objectives with mechanics that generate fragments and convert them to relics efficiently. Tech objectives benefit from exploration rewards, and mech deployment through exploration provides ground force advantages for planet control.
+**Strengths:** Exploration objectives trivial (discover lost outposts, control attachments). Tech objectives benefit from 2 starting techs + AI Dev. Command token spending easy via Fabrication. Control objectives achievable through expansion focus.
 
-**Weaknesses:** Combat objectives are harder without direct military bonuses, requiring fleet investment. Spending objectives can be challenging depending on exploration luck, and influence spending may be difficult with variable planet acquisition.
+**Weaknesses:** Combat objectives harder without direct military bonuses. Structure objectives require investment. Influence spending challenging with low home influence.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| **Spendies** |
+| **Spendies**                                                            |        |
 | Erect a Monument (Spend 8 resources)                                    | 🟡     |
 | Sway the Council (Spend 8 influence)                                    | 🟡     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
-| **Control** |
+| **Control**                                                             |        |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | Corner the Market (Control 4 planets with same trait)                   | 🟡     |
 | Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🟢     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
-| **Ships in Systems** |
+| **Ships in Systems**                                                    |        |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
-| **Tech** |
+| **Tech**                                                                |        |
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
-| **Structure** |
+| **Structure**                                                           |        |
 | Build Defenses (Have 4 or more structures)                              | 🟡     |
 | Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-Naaz-Rokha excels at exploration objectives (you explore more efficiently), CC spending (Fabrication generates CCs), and tech objectives (2 starting techs + AI Dev). You're average at resource/influence spending (low home economy).
-
 ### C. Secret Objectives
 
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| **Combat** |
+| **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟡     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
-| Brave the Void (Win combat in anomaly)                                  | 🟢     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| **Ships in Systems** |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
-| Control the Region (Ships in 6 systems)                                 | 🟢     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟡     |
-| **Control** |
+| Betray a Friend (Win combat vs player whose PN you have)                 | 🟢     |
+| Brave the Void (Win combat in anomaly)                                   | 🟢     |
+| Darken the Skies (Win combat in another player's HS)                     | 🟡     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)         | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)               | 🔴     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                 | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                          | 🟡     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                 | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                 | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                            | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)         | 🟡     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)   | 🟢     |
+| Control the Region (Ships in 6 systems)                                  | 🟢     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                 | 🟡     |
+| **Control**                                                              |        |
 | Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                        | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                          | 🟡     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟢     |
-| Stake Your Claim (Control planet in contested system)                   | 🟢     |
-| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
-| **Tech** |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟡     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
-| **Structure/Units** |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟡     |
-| **Other** |
-| Dictate Policy (3+ laws in play)                                        | 🔴     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟡     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟢     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Strengthen Bonds (Have another player's PN)                             | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Establish Hegemony (Control planets with 12+ influence)                  | 🔴     |
+| Hoard Raw Materials (Control planets with 12+ resources)                 | 🟡     |
+| Seize an Icon (Control legendary planet)                                 | 🟢     |
+| Stake Your Claim (Control planet in contested system)                    | 🟢     |
+| Become a Martyr (Lose control of planet in home system)                  | 🔴     |
+| **Tech**                                                                 |        |
+| Adapt New Strategies (Own 2 faction technologies)                        | 🟡     |
+| Master the Laws of Physics (Own 4 tech of same color)                    | 🔴     |
+| **Structure/Units**                                                      |        |
+| Establish a Perimeter (Have 4 PDS on board)                              | 🔴     |
+| Fuel the War Machine (Have 3 space docks)                                | 🟡     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                              | 🔴     |
+| Mechanize the Military (1 mech on each of 4 planets)                     | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)        | 🟡     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)             | 🟡     |
+| **Other**                                                                |        |
+| Dictate Policy (3+ laws in play)                                         | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                     | 🟡     |
+| Destroy Heretical Works (Purge 2 relic fragments)                        | 🟢     |
+| Form a Spy Network (Discard 5 action cards)                              | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                          | 🟡     |
+| Strengthen Bonds (Have another player's PN)                              | 🟢     |
+| Prove Endurance (Last to pass)                                           | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -487,83 +393,53 @@ Naaz-Rokha excels at exploration objectives (you explore more efficiently), CC s
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| **Spendies** |
+| **Spendies**                                                             |        |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
 | Found a Golden Age (Spend 16 resources)                                  | 🟡     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| **Control** |
+| **Control**                                                              |        |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡 |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟢     |
 | Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
-| **Ships in Systems** |
+| **Ships in Systems**                                                     |        |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
 | Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
-| **Tech** |
+| **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟡     |
 | Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
-| **Structure** |
+| **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
 | Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-**Christmas-Land Points Tracker:**
-
-| Round | Strat Card  | Stage I | Stage II | Secrets | Total |
-|-------|-------------|---------|----------|---------|-------|
-| 1     | Warfare     | 1       | 0        | 0       | 1     |
-| 2     | Technology  | 2       | 0        | 1       | 4     |
-| 3     | Construction| 3       | 0        | 1       | 5     |
-| 4     | Imperial    | 4       | 1        | 2       | 8     |
-| 5     | Politics    | 5       | 2        | 2       | 10    |
-
 ---
 
 ## IX. Alliance Priority
 
-### S-Tier (Actively Pursue)
+**Top Tier:**
 
-**Nomad** - Exploration synergy. You both want fragments but can coordinate. Trade Agent uses for mutual exploration benefits. Alliance gives ally TGs on explorations.
+1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Free Visz El Vir (8 resources saved).
+2. **Crimson Rebellion (Ahk Siever)** - Gain commodity/TG at end of combat. Passive income.
+3. **Deepwrought (Aello)** - Gain commodity/TG when others research tech with discount. Passive income addresses weak commodity economy.
+4. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income from secondaries.
+5. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planets. Combat boost for exploration targets.
 
-**Hacan** - Trade economy. They generate TGs for both players. You convert fragments to relics/CCs; they provide economic base.
+**Good:**
 
-**Xxcha Kingdom** - Peaceful coexistence. They want defensive play; you want exploration. Trade exploration rights for their political support.
-
-### A-Tier (Opportunistic Alliances)
-
-**Argent Flight** - Combat faction. Trade your Supercharge combat support for territorial agreements. Your mechs + their combat bonuses = strong coalition.
-
-**Yin Brotherhood** - Commander unlock synergy. They want agent uses; you want peaceful expansion. Trade exploration zones.
-
-**Titans of Ul** - Defensive faction. They're slow; you're fast. Coordinate to avoid conflict.
-
-### B-Tier (Neutral)
-
-**Jol-Nar** - Tech faction. They research; you explore. Limited direct synergy but no inherent conflict.
-
-**Sol** - Ground force faction. Limited synergy. Neutral relationship.
-
-**Barony of Letnev** - Debt economy. Limited synergy with exploration style.
-
-### C-Tier (Difficult Synergies)
-
-**Muaat** - Slow faction. They turtle with war suns; you expand rapidly. Divergent strategies.
-
-**Empyrean** - Can extract your promissory for disadvantageous trades.
-
-### D-Tier (Avoid / Compete)
-
-**Nekro Virus** - **Direct competitor.** Nekro wants techs via predictions; both of you want exploration. Territorial conflict likely. Avoid if possible or negotiate exploration zones early.
-
-**Naaz-Rokha (mirror match)** - Direct fragment competition. Both want to explore all planets. Negotiate zones or expect conflict.
+6. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity.
+7. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Action card economy.
+8. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Passive income.
+9. **Empyrean (Xuange)** - Return command token after players move ships into your systems. Token economy for exploration activations.
+10. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Passive income from mechs.
 
 ---
 
@@ -581,20 +457,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Naaz-Rokha Alliance rewards:
-- **Aggressive exploration:** You must explore 8-10+ planets by R4
-- **Fragment management:** Know when to convert fragments vs save for relics
-- **Mech placement:** Place mechs before exploring for Distant Suns value
-- **Economic efficiency:** Use Fabrication to convert fragments to CCs when needed
+Naaz-Rokha Alliance is the faction for players who understand that exploration is an economy. You're not just claiming planets—you're extracting double value from every frontier token through Distant Suns, converting fragments into exactly what you need through Fabrication, and leveraging flexible mech combat through Z-Grav Eidolon.
 
-You're a mid-tier faction with high skill ceiling. Master exploration timing and fragment conversion, and you'll consistently score 8-10 points.
+Your biggest strength is exploration efficiency. Normal factions explore once per planet and move on. You explore with mechs present, draw 2 cards, choose the best, and accumulate fragments twice as fast. Over 8-10 explorations, you see 16-20 exploration cards instead of 8-10. This doubles your fragment collection, doubles your relic acquisition, and doubles your options.
 
-**Core Principles:**
-1. Always place mechs on planets before exploring (Distant Suns double draw)
-2. Explore aggressively R1-3 (aim for 6-8 planets explored by R3)
-3. Convert fragments to CCs when expansion-starved, relics when close to sets
-4. Unlock Commander R2-3 (3 mechs in 3 systems) for conquest exploration
-5. Use mechs defensively (Z-Grav mode participates in space combat)
-6. Hero R5 for massive swing turn (free relic + 2 strategy card secondaries)
+When you master Naaz-Rokha, you place mechs strategically before exploring for Distant Suns value. Your Fabrication converts fragments to command tokens when expansion-starved or completes relic sets for power spikes. Commander explores every conquered planet—combined with Distant Suns, invasions become double-value plays. Your Z-Grav mechs flip to space mode during combat, providing free combat dice without ship production.
 
-**The Alliance explores.**
+The table learns to respect your fragment advantage. You have more relics faster. Your command token economy scales through fragment conversion. Your mechs defend planets while fighting in space. You don't conquer through force—you excavate the galaxy for everything it's worth, then convert those fragments into victory.
+
+**"We explore what others overlook, and profit from what they discard."**
