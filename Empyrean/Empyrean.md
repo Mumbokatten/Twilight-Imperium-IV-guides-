@@ -31,44 +31,45 @@ Watch opponents realize their invasion plans depend on your permission. Your com
 
 ## II. Playstyle
 
-Playing Empyrean means treating adjacency and positioning as your primary resources. Your power comes from being strategically located adjacent to multiple players, controlling who can move where through permission and spatial manipulation. You're not fighting for territory—you're controlling access to it.
+Playing Empyrean means mastering frontier token exploration like no other faction. Dark Energy Tap exploration lets you milk the frontier deck for value. Your hero floods the board with frontier tokens, exploring all of them simultaneously. Your kit revolves around empty system control and exploration dominance.
 
-Your Voidborn ability makes nebulae irrelevant for your movement while they slow everyone else. Your home nebula becomes a defensive stronghold—carriers and fighters leveraging nebula defense for HP advantage. Aetherpassage lets you grant or deny passage through your ships, creating diplomatic leverage every time someone wants to move. Your two promissory notes provide unprecedented flexibility for building alliances and extracting value.
+Your 4 commodities provide strong trade economy. Your two promissory notes create unprecedented diplomatic leverage. Your Voidborn ability keeps your fleet mobile through nebulae—easily send destroyers to explore empty systems while maintaining defensive nebula home with carriers and fighters. This combination of exploration mastery, economic strength, and diplomatic flexibility makes you powerful without relying on combat.
 
-As the game progresses, you expand toward becoming everyone's neighbor. Your commander rewards this positioning by returning command tokens whenever opponents activate near you—massive action economy payoff. Aetherstream and Voidwatch are sellable abilities that make you valuable to neighbors while extracting concessions. Your breakthrough severs adjacencies, breaking the map for opponents while maintaining your own routes.
+Your commander returns command tokens to reinforcements when opponents move into your systems—reclaims board space for more activations. Aetherstream and Voidwatch are sellable abilities that make you valuable to neighbors while extracting value. You're kind of a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos.
 
-Your power isn't in raw military strength or overwhelming economy. It's in being positioned where everyone needs you to be cooperative, then extracting maximum value from that position. You control space through permission, not force.
+Your power comes from exploration dominance (frontier token mastery), diplomatic strength (two promissory notes, sellable abilities), and economic flexibility (4 commodities, trade economy) backed by mobile fleet. You're not conquering through force—you're succeeding through exploration, negotiation, and economic superiority.
 
 ## III. Faction Info and Drafting
 
 ### A. Home System & Commodities
 
-**Home System:** The Dark (Nebula)
-- 3 resources / 4 influence = 3 optimal resources / 4 optimal influence
+**Home System:** 1 planet (Nebula)
+- **The Dark:** 3 resources / 4 influence = 4 optimal influence
+- **Total: 3 resources / 4 influence (4 optimal influence)**
 
 **Commodities:** 4
 
-**Notes:** Excellent 4 influence for politics. Nebula is an anomaly—counts for anomaly objectives. Nebula defense works well with carriers + fighters (HP-based). Strong home system overall.
+**Notes:** You are rich. Home system gives lots of tokens mostly, but can be used for resources if your slice needs it. Very strong defensive system. 4 commodities is awesome. Decent production. Nebula is an anomaly—counts for anomaly objectives. Nebula defense works well with carriers + fighters (HP-based).
 
 ### B. Starting Fleet
 
-- 2 Carriers (capacity 12 total)
+- 2 Carriers
 - 1 Destroyer
 - 2 Fighters
 - 4 Infantry
 - 1 Space Dock
 
-**Notes:** Dual carriers give excellent transport capacity for early expansion. Destroyer provides AFB protection.
+**Notes:** Solid starting fleet. Bit weak economically but good for expansion. Easy to send out destroyer to explore empty systems.
 
 ### C. Faction Abilities
 
 **Voidborn:** Nebulae do not affect your ships' movement.
 
-Treat nebulae like empty space. Rarely comes up—only 1 nebula tile in game unless in your slice. Primarily exists because your home system is in nebula. Lets you go through nebulae without stopping.
+Treat nebulae like empty space. Rarely comes up—only 1 nebula tile in game unless in your slice. Primarily exists because your home system is in nebula. Can be useful when people are scared of otherwise good slice with nebula on way to Mecatol. Lets you go through nebulae without stopping.
 
 **Aetherpassage:** After a player activates a system, you may allow that player to move their ships through systems that contain your ships.
 
-Grant permission to move through your units. Creates diplomatic leverage—you decide who gets passage and who doesn't. Sellable ability for deals.
+Grant permission to move through your units. Creates diplomatic leverage—you decide who gets passage and who doesn't. Sellable ability for deals. Allows greedy frontier token snatches—grab frontiers that might block people because you can always say you'll let them through.
 
 **Dark Whispers:** During setup, take the additional Empyrean faction promissory note; you have 2 faction promissory notes.
 
@@ -78,94 +79,92 @@ Two different promissory notes instead of one. Doubles your diplomatic leverage 
 
 **Starting Technologies:**
 
-**Dark Energy Tap:** After you research a technology that is not a faction technology, you may exhaust this card to draw 1 secret objective.
+**Dark Energy Tap:** After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
 
-Generates secret objectives whenever you research tech. Accelerates secret completion and gives choice in which secrets to pursue.
+Combos with your agent—since the deck involves a lot of token gain, you can often keep exploring 2-3 empty systems per round even though agent only refunds one. Solid starting tech opening up later blue techs. Retreat flexibility.
 
 **Faction Technologies:**
 
 **Aetherstream (BB):** After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action.
 
-Provides movement bonuses to neighbors near anomalies. Map-dependent—not fantastic on every map. Sellable ability for deals. Makes you valuable as an ally.
+Might not always be the best but most of the time really is game-changing movement. Ability to sell/enable others makes it just too good to pass up.
 
-**Voidwatch (GGG):** After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
+**Voidwatch (G):** After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
 
-Toll collection system. Forces players moving into your systems to give you promissory notes. Creates value from positioning.
+Would really not recommend. People rarely will be forced to give you something useful. A tech and opportunity cost of not getting other tech is too much of a price. Since you have the tokens, definitely get it in Entropic Scar but otherwise skip.
 
 ### E. Leaders
 
 **Agent - Acamar:** After a player moves ships into a system that does not contain any planets, you may exhaust this card; that player gains 1 command token.
 
-Generates command tokens for allies. Helps with action economy and creates goodwill. You control when to use it for maximum value.
+Superb. Keeps your strong economic leverage—you just keep getting to those empty systems, keep getting those explores, and find value where people usually cannot.
 
 **Commander - Xuange:**
 - **Unlock:** Be neighbors with all other players
 - **Ability:** After another player moves ships into a system that contains 1 of your command tokens, you may return that token to your reinforcements.
 
-Incredible action economy. Get free activations back whenever opponents move near you. Unlock requires neighboring everyone—incentivizes wide expansion.
+Great for ensuring you don't get screwed out of scoring. If you send ship somewhere for objective and people blow you out, you can retaliate and grab it right back. Very helpful for winslaying—coordinate with table to walk big fleet somewhere to bring someone down.
 
 **Hero - Conservator Procyon:**
 - **Unlock:** Have 3 scored objectives
 - **Multiverse Shift:** Place 1 frontier token in each system that does not contain any planets and does not already have a frontier token. Then, explore each frontier token that is in a system that contains 1 or more of your ships. Then, purge this card.
 
-Floods board with frontier tokens and explores all where you have ships. Can generate 5-10 frontier draws in one action, potentially scoring multiple exploration objectives or gaining massive fragment advantages.
+Incredible hero that gets you so much value with your natural playstyle. As long as you kept a ton of random destroyers around, you can pop this for big spike. On top of that, you can keep exploring if you need to keep drawing for something in the frontier deck. In TE they got big buff too—Fracture has FOUR new empty systems automatically.
+
+Consider if you want to pop hero earlier for 3-4 explores or try to get even more value. Always risky to be blown out of the sky if people see you setting up massive hero play.
 
 ### F. Promissory Note
 
 **Blood Pact:** Place this card faceup in your play area. When you and the Empyrean player cast votes for the same outcome, cast 4 additional votes for that outcome. If you activate a system that contains 1 or more of the Empyrean player's units, return this card to the Empyrean player.
 
-Provides +4 votes when voting together. Powerful for political alignment. Breaking the pact (activating your systems) is costly.
+Definitely a bit more situational but useful if you need to send someone a PN for some reason. Sold as cheap stall or ask someone to align with you on voting.
 
 **Dark Pact:** Place this card faceup in your play area. When you give a number of commodities to the Empyrean player equal to your maximum commodity value, you each gain 1 trade good. If you activate a system that contains 1 or more of the Empyrean player's units, return this card to the Empyrean player.
 
-Generates 1 trade good for both players when holder trades maximum commodities to you. Creates recurring economic value and incentivizes continued trade.
+Great promissory note. People like them as stalls potentially. Will most likely give you 4-5 TGs but the diplomatic advantage of having a rich and happy neighbor cannot be understated. Getting your Dark Pact going for a great ally that gets constant value over the course of the game.
 
 ### G. Alliance
 
-When you move ships into a system that contains your ally's units, you may move through that system as if there were no other player's ships in it. When your ally moves ships into a system that contains your units, they may move through that system as if there were no other player's ships in it.
+**Alliance Ability:** Your ally gains Xuange - After another player moves ships into a system that contains 1 of their command tokens, they may return that token to their reinforcements.
 
-Extends Aetherpassage to ally permanently. You both ignore each other's ships for movement—incredible tactical flexibility.
+Grants your Commander ability. Very strong potentially but might not do a ton for them. Can combine to help each other lift tokens if needed. Trade value is hard to tell—try to get a useful alliance instead of selling it for money. You need a partner, not a few TGs.
 
 ### H. Mech
 
-**Watcher:** Cost 2, Combat 6, Sustain Damage
+**Watcher:** Cost 2, Combat 6, Sustain Damage. You may remove this unit from a system that contains or is adjacent to another player's units to cancel an action card played by that player.
 
-You may remove this unit from a system that contains or is adjacent to another player's units to cancel an action card played by that player.
-
-Sacrifice mechs to cancel action cards. Powerful defensive tool when positioned near key systems or adjacent to threats.
+One of the strongest mechs in the game. Sabotages on command is game-winning. Fact that you can cancel Sabotages is also game-winning. Can be used for extortion. Definite downside: people save their Sabotages and ask you to spend your mechs for stopping wins, which can be annoying.
 
 ### I. Flagship
 
-**Dynamo:** Cost 8, Combat 5 (x2), Move 1, Capacity 3, Sustain Damage
+**Dynamo:** Cost 8, Combat 5 (x2), Move 1, Capacity 3, Sustain Damage. After any player's unit in this system or an adjacent system uses Sustain Damage, you may spend 2 influence to repair that unit.
 
-After any player's unit in this system or an adjacent system uses Sustain Damage, you may spend 2 influence to repair that unit.
+Strong combat-wise, which your faction kind of needs. Ability is a bit costly but when you need it, great to be able to repair a key unit if you have a ton of extra cash. Might swing the fight.
 
-Repairs units (yours or allies') in adjacent systems by spending influence. Mobile repair station that keeps fleets sustained through prolonged combats.
+### J. Breakthrough - **Void Tether (B<>G)**
 
-### J. Breakthrough
+When you activate a system that contains or is adjacent to a unit or planet you control, you may place or move 1 of your void tether tokens onto a border that system shares with another system. Other players do not treat those systems as adjacent to each other unless you allow it.
 
-**Void Tether (B<>G):** When you activate a system that contains or is adjacent to a unit or planet you control, you may place or move 1 of your void tether tokens onto a border that system shares with another system. Other players do not treat those systems as adjacent to each other unless you allow it.
+**B<>G Synergy:** Blue and green count as each other for prerequisites. Lets you get some late green tech like X-89.
 
-Sever adjacencies for opponents while you still treat them as adjacent. Cut off invasion routes, block retreats, or isolate fleets. Absurd map control.
+**Map Control:** Might be really impactful and takes some know-how in how to use them. The more you play Empyrean, you'll see what's needed in what systems. Some suggested uses: blocking Fracture planet and Styx, blocking key wormhole into your system, or just say no to battlethirsty neighbor. Definitely useful and should be pretty easy to get.
 
 ### K. Slice and Draft Considerations
 
-**Speaker Priority:** Medium (3-5th pick)
+**Speaker Priority:** Whatever, you can handle anything. Prioritize slice. Obviously having some cool trading partners as neighbors is always helpful.
 
-**Priorities:**
-- **Nebula systems** - Voidborn makes these premium for you
-- **Access to multiple neighbors** - Commander requires neighboring everyone
-- **High-influence planets** - Your flagship and abilities spend influence
+**Slice Priorities:**
+- **Lots of empty systems** - Exploration is your core strength.
+- **Wormholes** - Ability to move around the map.
+- **Best overall slice** - You have great token economy with home system + agent. Aim for slightly more resource-heavy but prioritize getting best overall slice. Solve res/inf distribution with your TGs.
 
 **Nice to Have:**
-- Green tech skips (you start with green-counting tech)
-- Blue tech skips (supports Aetherstream and breakthrough)
-- Systems with anomalies (supports Aetherstream tech)
+- Fracture access (very helpful).
+- Systems with anomalies (supports Aetherstream).
+- Entropic Scar (both techs worth a token).
 
 **Avoid:**
-- Isolated slices far from other players (need neighbor access)
-- Slices with no nebulae (wastes Voidborn advantage)
-- Low-influence slices (you spend influence for abilities)
+- Awkward asteroid/supernova in middle of your slice.
 
 ## IV. Round 1 Problems and Faction Weakness
 
@@ -173,25 +172,19 @@ Sever adjacencies for opponents while you still treat them as adjacent. Cut off 
 
 **Round 1 Priority Rankings:**
 
-1. **Expansion and Production** - Voidborn lets you claim nebula systems opponents cannot easily reach. Your 4-influence home and 4 commodities support expansion. Aim for 2-3 systems R1.
+1. **Scoring** - Key since you can mostly rely on others to stop people and have strong defensive tools.
 
-2. **Breakthrough** - Establish neighbor relationships early. Trade your two promissory notes to build diplomatic capital while expanding toward multiple players' borders.
+2. **Expansion and Production** - Explore empty systems with destroyer. Try to fit in building extra ships for more explores and system grabs. Expand to 2-3 systems R1.
 
-3. **Technology** - Dark Energy Tap draws secrets when you research. However, diplomatic positioning and territorial control come first.
+3. **Technology** - Gravity Drive to get more things in your slice.
 
-4. **Scoring** - Limited until you've established neighbors and positioned for commander unlock. Focus R1-2 on expansion and diplomacy; scoring acceleration comes R3+ when neighboring most/all players.
+4. **Breakthrough** - Good to get out of the way and will be a useful tool.
 
-### B. Commander Unlock Difficulty
+**Expansion Notes:** 2 carriers, 1 destroyer, 4 infantry. Send carriers into nearby systems. If you grab Gravity Drive, you can build an extra carrier and try to get a third system. Send destroyer to explore empty systems with Dark Energy Tap.
 
-Neighboring ALL players is challenging. On large maps or with isolated positions, you may never unlock commander. Slice selection is critical.
+### B. Combat Power
 
-### C. Combat Weakness
-
-No inherent combat bonuses or special combat abilities. In straight fights, you're average. Your power is in movement and positioning, not fighting.
-
-### D. Nebula Map Dependency
-
-Voidborn is incredible on nebula-heavy maps and mediocre on maps with few nebulae. Map generation variance significantly affects your power level.
+You have a hard time being on the offense. Have to rely on diplomatic dealing to solve problems. No inherent combat bonuses—your power is in negotiation and positioning, not fighting.
 
 ---
 
@@ -199,48 +192,37 @@ Voidborn is incredible on nebula-heavy maps and mediocre on maps with few nebula
 
 ### A. Overview
 
-**Starting Tech:** Dark Energy Tap (counts as 0 color, but has green synergy).
+**Starting Tech:** Dark Energy Tap.
 
-Core tech path: Gravity Drive or Sling Relay → Aetherstream. Aetherstream is map-dependent. Both paths prioritize mobility and diplomatic leverage.
+You're flexible within blue to get what you need. Priority is Aetherstream for game-changing movement. Breakthrough allows X-89 as flex tech in late game R5.
 
 ### B. Technology Paths
 
-**Path 1 - Diplomatic Leverage:**
+**Standard Path:**
 
-**Round 1:** Hyper Metabolism (GG) - Ready planets for influence spending
-- *During the status phase, gain 3 command tokens instead of 2*
+**Round 1:** Gravity Drive (B)
+- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
+- **Why:** Mobility to get more things in your slice.
 
-**Round 2:** Aetherstream (BB) - Faction tech providing movement bonuses
-- *After you or neighbor activates system adjacent to anomaly, apply +1 to move value of all that player's ships*
+**Round 2:** Aetherstream (BB)
+- After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action
+- **Why:** Game-changing movement. Sellable ability.
 
-**Round 3:** Voidwatch (GGG) - Faction tech extracting promissory notes
-- *After player moves ships into system with your units, they must give you 1 promissory note*
+**Round 3:** Carrier II (BB)
+- Cost 3, Combat 9, Move 2, Capacity 6
+- **Why:** Transport capacity. Move 2 carriers.
 
-**Round 4:** Psychoarchaeology (G) - Exploration value
-- *Use tech specialties without exhausting. Exhaust tech planets for 1 TG*
+**Round 4:** Fleet Logistics (BB)
+- During each of your turns of the action phase, you may perform 2 actions instead of 1
+- **Why:** Double actions for flexibility.
 
-**Round 5+:** Void Tether Breakthrough (B<>G) or Sarween Tools
+**Round 5:** Light/Wave Deflector (BBB)
+- Your ships can move through systems that contain other players' ships
+- **Why:** Move through enemy fleets.
 
----
-
-**Path 2 - Balanced Growth:**
-
-**Round 1:** Gravity Drive (B) OR Sling Relay (B)
-- **Gravity Drive:** After you activate a system, apply +1 to move value of 1 ship
-- **Sling Relay:** Exhaust to produce 1 ship in any system with your space dock
-- **Why:** Mobility or production flexibility. Both work into Aetherstream.
-
-**Round 2:** Sarween Tools (Y) - Economic efficiency
-- *When using PRODUCTION, reduce combined cost of produced units by 1*
-
-**Round 3:** Aetherstream (BB) - Faction tech
-- *Movement bonuses to neighbors. Map-dependent value.*
-
-**Round 4:** Carrier II (BB) OR Dreadnought II (BBY)
-- *Carrier II: Cost 3, Combat 9, Move 2, Capacity 6*
-- *Dreadnought II: Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5*
-
-**Round 5+:** Light/Wave Deflector (BBB) or other utility tech
+**Bonus Tech:** X-89 Bacterial Weapon (GGG) via B<>G breakthrough
+- After using BOMBARDMENT, destroy all infantry on planet if at least 1 destroyed. Double BOMBARDMENT and ground combat hits. Exhaust planet.
+- **Why:** Late game flex tech using breakthrough synergy.
 
 ---
 
@@ -250,14 +232,16 @@ Core tech path: Gravity Drive or Sling Relay → Aetherstream. Aetherstream is m
 
 **Round 1 Priority Ranking:**
 
-1. **Trade** - 4 commodities + Dark Pact makes Trade valuable for economic foundation.
-2. **Leadership** - Command tokens valuable for wide expansion to neighbor all players.
-3. **Technology** - Dark Energy Tap rewards tech research with secret objectives.
-4. **Politics** - 4 influence makes politics viable. Speaker priority helps.
-5. **Construction** - Extra space dock or PDS supports wide expansion.
-6. **Imperial** - Points always good; Mecatol control achievable.
-7. **Diplomacy** - Lock down systems while using Aetherpassage to move through them anyway.
-8. **Warfare** - Fleet token return is fine but not essential.
+1. **Trade** - Refresh 4 commodities. Super good since you have good chance to have a few neighbors to collect money from.
+2. **Technology** - Critical tech path. Start Gravity Drive early. Great to save resources.
+3. **Leadership** - More activations is good. Can also throw bad secret for breakthrough.
+4. **Politics** - Sell speaker token and get first pick. Setup to prepare for R2 objectives.
+5. **Construction** - Can be nice to produce a carrier, destroyer, and infantry at home for more exploration and system takes for economic head start.
+6. **Diplomacy** - Can be cheap breakthrough unlock with tech skip planet nearby.
+7. **Warfare** - Only with very annoying slice with best planets far away and far back in speaker order (why did you do this to yourself).
+8. **Imperial** - Never R1.
+
+**Note:** Technology, Diplomacy, and Warfare all doable with your agent.
 
 **Strategy Token Priority:** Technology and Diplomacy as secondary.
 
@@ -269,13 +253,13 @@ Core tech path: Gravity Drive or Sling Relay → Aetherstream. Aetherstream is m
 - **Trade** - Refresh 4 commodities for consistent economy. Dark Pact provides additional value.
 
 **Like:**
-- **Technology** - Dark Energy Tap and tech path progression. Secret objectives reward tech diversity.
-- **Politics** - 4 home influence makes voting viable. Speaker priority for next round.
+- **Technology** - Continue Aetherstream path.
+- **Politics** - Setup for objectives. Voting power with 4 influence.
 
 **Situational:**
-- **Construction** - Only if you need additional space docks or PDS for expansion.
+- **Construction** - Only if you need additional space docks for expansion.
 - **Warfare** - Fleet token return useful for specific aggressive plays or repositioning.
-- **Diplomacy** - Lock down systems while bypassing them with Aetherpassage. Niche utility.
+- **Diplomacy** - Only for key defensive plays and if you need more resources for scoring objectives.
 
 ---
 
@@ -285,22 +269,23 @@ Core tech path: Gravity Drive or Sling Relay → Aetherstream. Aetherstream is m
 
 Your ideal fleet composition:
 
-- **Carriers** - Core transport. Spread across map to neighbor all players.
-- **Destroyers/Cruisers** - Screening ships for fleet protection.
-- **Fighters** - Absorb hits and provide combat dice.
-- **Infantry** - Ground forces for objectives and planet control.
-- **Mechs** - Position strategically to cancel critical action cards.
-- **Flagship** - Mobile repair station. Keeps fleets sustained through prolonged combats.
+- **Destroyers** - For explores. Send to empty systems.
+- **Carriers** - Fighting power with fighters. Core transport.
+- **Fighters** - For fighting power. Nebula defense synergy.
+- **Infantry** - Good for ground combat.
+- **Mechs** - Good for ground combat. Cancel action cards.
+- **Flagship** - Solid power ship.
+- **Dreadnoughts** - One or 2 in slice to combine for defensive power. Not for mobility.
 
-Don't over-invest in combat—you win through positioning and diplomacy. Keep carriers spread to maintain neighbor status with all players.
+No cruisers. Focus on exploration ships (destroyers) and defensive carriers with fighter screens.
 
 ### B. Game Plan
 
-**Early Game:** Identify furthest opponents and plan expansion paths toward them. Use dual carriers to claim 2-3 systems in different directions. Trade your two promissory notes to establish alliances granting safe passage toward distant neighbors. Voidborn lets you claim nebula systems others cannot easily reach.
+**Early Game:** Send destroyers to explore empty systems with Dark Energy Tap. Agent refunds tokens, letting you keep exploring 2-3 empty systems per round. Trade Dark Pact to key neighbor to establish economic partnership. Expand to 2-3 systems with dual carriers. Build defensive carrier + fighter fleet leveraging nebula home. Research Gravity Drive to get more things in your slice.
 
-**Mid Game:** Continue expansion toward remaining players you don't neighbor. Use Aetherpassage to help allies move through your space, creating goodwill. Research Aetherstream to provide +1 movement near anomalies. Your goal is unlocking commander by neighboring all players—once achieved, you get command tokens back whenever opponents activate systems with your tokens. Incredible action economy begins.
+**Mid Game:** Aetherstream provides game-changing movement—sell/enable others while benefiting yourself. Build more destroyers for continued exploration. Void Tether provides map control—block key routes, protect your systems, deny battlethirsty neighbors. Carrier II and Fleet Logistics increase tempo. Your defensive carriers with fighter screens protect controlled territory while destroyers explore.
 
-**Late Game:** Research Voidwatch to extract promissory notes from players moving into your systems. Void Tether lets you sever adjacencies strategically—block invasion routes, isolate enemy fleets, prevent retreats, or control Mecatol access. Dark Energy Tap cycling continues generating secret objectives. Hero floods empty systems with frontier tokens for massive exploration value. Your commander provides overwhelming action economy. Convert spatial control into victory points.
+**Late Game:** Hero floods board with frontier tokens, exploring all of them for massive spike. Commander provides board control—reclaim tokens when opponents activate near you. Useful for winslaying (coordinate with table to walk fleet somewhere) and scoring security (grab objective, if blown out, retaliate and grab it back). Light/Wave for final mobility. X-89 via B<>G breakthrough as late flex tech. Close out through exploration advantage, diplomatic leverage, and economic superiority.
 
 ---
 
@@ -308,39 +293,39 @@ Don't over-invest in combat—you win through positioning and diplomacy. Keep ca
 
 ### A. Objective Summary
 
-**Strengths:** Empyrean excels at neighbor-based objectives with nebula ability encouraging wide expansion. Influence spending is easy with good planets and 4 home influence. Commander helps recover tokens for scoring flexibility. Structure objectives benefit from aggressive expansion patterns.
+**Strengths:** All spending is easy with 4 home influence and 4 commodities. Ships in systems objectives are great—exploration focus gets you into empty systems easily. Early tech objectives can be dealt with.
 
-**Weaknesses:** Combat objectives are harder without direct military bonuses, requiring fleet investment. Tech diversity objectives can be challenging depending on chosen paths. Resource spending may be difficult if you prioritize influence-heavy planets.
+**Weaknesses:** Control objectives not so easy—requires breaking diplomatic ways sometimes. Structure objectives are not nice—you don't naturally build structures. Combat objectives are harder without combat bonuses. Planet type control objectives (Corner Market, Research Outposts) are difficult.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
 | **Spendies**                                                            |        |
-| Erect a Monument (Spend 8 resources)                                    | 🟡     |
+| Erect a Monument (Spend 8 resources)                                    | 🟢     |
 | Sway the Council (Spend 8 influence)                                    | 🟢     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
 | **Control**                                                             |        |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟡     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟡     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | **Ships in Systems**                                                    |        |
-| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
-| Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟡     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
 | **Tech**                                                                |        |
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
 | **Structure**                                                           |        |
-| Build Defenses (Have 4 or more structures)                              | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -349,51 +334,51 @@ Don't over-invest in combat—you win through positioning and diplomacy. Keep ca
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
 | **Combat**                                                               |        |
-| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
+| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
 | Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
-| Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
+| Darken the Skies (Win combat in another player's HS)                    | 🔴     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟢     |
 | **Ships in Systems**                                                     |        |
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
 | Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
 | Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
-| Control the Region (Ships in 6 systems)                                 | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟢     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
+| Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
 | **Control**                                                              |        |
-| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🔴     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🔴     |
 | Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟡     |
-| Stake Your Claim (Control planet in contested system)                   | 🔴     |
-| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
+| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Stake Your Claim (Control planet in contested system)                   | 🟡     |
+| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
 | **Tech**                                                                 |        |
 | Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟡     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
 | **Structure/Units**                                                      |        |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟢     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
 | Fuel the War Machine (Have 3 space docks)                               | 🟢     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
 | **Other**                                                                |        |
-| Dictate Policy (3+ laws in play)                                        | 🟡     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟢     |
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🟡     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
 | Foster Cohesion (Be neighbors with all players)                         | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
+| Prove Endurance (Last to pass)                                          | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -402,30 +387,30 @@ Don't over-invest in combat—you win through positioning and diplomacy. Keep ca
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
 | **Spendies**                                                             |        |
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
-| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
-| Manipulate Galactic Law (Spend 16 influence)                             | 🟡     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Manipulate Galactic Law (Spend 16 influence)                             | 🟢     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
 | **Control**                                                              |        |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢 |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟡     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
 | Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 | **Ships in Systems**                                                     |        |
 | Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
 | Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
 | **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
 | **Structure**                                                            |        |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -443,11 +428,11 @@ Don't over-invest in combat—you win through positioning and diplomacy. Keep ca
 
 **Good:**
 
-6. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Passive income every production.
-7. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Passive income.
-8. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity.
-9. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Action card economy.
-10. **Naaz-Rokha (Dart and Tai)** - Explore planet after conquering from another player. Extra value from invasions.
+6. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity.
+7. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Action card economy.
+8. **Ral Nel (Watchful OJZ)** - Retreat up to 2 ships to adjacent system, place token. Nice with your spread out playstyle.
+9. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Passive income.
+10. **Yssaril Tribes (So Ata)** - Look at action cards/PNs/secrets when activating systems with your units. Information gathering.
 
 ---
 
@@ -465,14 +450,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Empyrean are the faction for players who love spatial reasoning, diplomatic maneuvering, and long-term planning. You're not the flashiest faction—no war suns, no massive fleets, no instant-win abilities. You're the faction that controls the board through movement permission, toll collection, and strategic positioning.
+Empyrean is the faction for players who understand that exploration and diplomatic leverage create power. You're not conquering through military force—you're succeeding through frontier token mastery, economic flexibility, and being positioned where everyone needs you to cooperate. Your kit revolves around empty system exploration and extracting value from being everyone's neighbor.
 
-The key to mastering Empyrean is understanding that adjacency is power. Every neighbor relationship is an opportunity to extract value through Aetherstream bonuses, Voidwatch tolls, or Aetherpassage permissions. Your commander requires neighboring everyone, which sounds restrictive but creates incredible action economy once unlocked.
+Your biggest strength is frontier token exploration. Dark Energy Tap lets you milk the frontier deck for value. Agent refunds tokens so you keep exploring 2-3 empty systems per round. Hero floods the board with frontier tokens and explores all of them simultaneously for massive spike. Combined with 4 commodities and two promissory notes, you build economic and diplomatic advantages without fighting.
 
-Your biggest strength is flexibility through promissory notes and movement abilities. You can grant or deny passage, provide or withhold movement bonuses, and extract or forgive tolls based on political needs. This makes you invaluable as an ally and dangerous as an enemy.
+When you master Empyrean, you leverage Aetherstream's game-changing movement as both personal benefit and sellable ability. You're a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos. Your defensive nebula home with carriers and fighters protects your slice. Commander reclaims board space when opponents activate near you. Void Tether blocks key routes when needed. You have a hard time being on offense, so you rely on diplomatic dealing to solve problems.
 
-When you nail Empyrean, you feel like the galaxy's air traffic controller. Movement happens because you allow it. Alliances form because you facilitate them. Objectives get scored because you positioned perfectly to neighbor everyone while maintaining defensive security. Your hero generates massive exploration value. Void Tether severs critical adjacencies at key moments.
+Your destroyers keep finding value in empty systems where others see nothing. Your economic base from 4 commodities and Dark Pact partnerships funds continuous fleet expansion. Your defensive tools (nebula home, Watcher mechs, Void Tether) keep you safe without offensive strength. You don't conquer through force—you succeed through exploration, negotiation, and economic superiority.
 
-Empyrean don't conquer the galaxy—they network it, control it through adjacency, and profit from every ship that moves through their influence.
-
-**"The void bends to those who understand its nature."**
+**"We explore what others ignore."**
