@@ -80,7 +80,12 @@ body {
 }
 
 /* Center all content */
-body > *,
+body {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .container {
   max-width: 900px;
   margin-left: auto;
@@ -302,6 +307,13 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: var(--radius-md);
+}
+
+/* Faction art images - constrain size */
+figure img {
+  max-height: 400px;
+  width: auto;
+  object-fit: contain;
 }
 
 figcaption {
