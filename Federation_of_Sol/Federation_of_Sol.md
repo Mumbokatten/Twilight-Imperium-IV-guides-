@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Federation_of_Sol.md" download class="download-link">Download Guide</a>
+</nav>
 
 # Federation of Sol Guide
 

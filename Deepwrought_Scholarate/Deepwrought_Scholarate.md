@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Deepwrought_Scholarate.md" download class="download-link">Download Guide</a>
+</nav>
 
 # Deepwrought Scholarate Guide
 

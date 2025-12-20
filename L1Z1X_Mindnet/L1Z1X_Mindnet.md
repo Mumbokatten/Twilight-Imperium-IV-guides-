@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="L1Z1X_Mindnet.md" download class="download-link">Download Guide</a>
+</nav>
 
 # L1Z1X Mindnet Guide
 

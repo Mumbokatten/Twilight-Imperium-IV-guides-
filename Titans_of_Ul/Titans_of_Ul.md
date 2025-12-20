@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Titans_of_Ul.md" download class="download-link">Download Guide</a>
+</nav>
 
 # Titans of Ul Guide
 

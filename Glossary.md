@@ -1,4 +1,7 @@
-[← Back to Index](index.html)
+<nav class="page-nav">
+<a href="index.html" class="back-link">Back to Index</a>
+<a href="Glossary.md" download class="download-link">Download Guide</a>
+</nav>
 
 # Twilight Imperium IV - Community Terminology & Glossary
 

@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Last_Bastion.md" download class="download-link">Download Guide</a>
+</nav>
 
 # Last Bastion Guide
 

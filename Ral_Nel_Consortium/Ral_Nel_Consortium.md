@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Ral_Nel_Consortium.md" download class="download-link">Download Guide</a>
+</nav>
 
 # Ral Nel Consortium Guide
 

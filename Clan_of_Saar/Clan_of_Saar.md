@@ -1,4 +1,7 @@
-[← Back to Index](../index.html)
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Clan_of_Saar.md" download class="download-link">Download Guide</a>
+</nav>
 
 # The Clan of Saar Comprehensive Strategy Guide
 

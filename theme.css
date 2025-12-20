@@ -80,7 +80,32 @@ body {
 }
 
 /* Content container */
-body > * {
+.site-header,
+.prelude,
+.cta-section,
+.faction-grid,
+.credits,
+.site-footer,
+body > header,
+body > main,
+body > article,
+body > section,
+body > nav,
+body > footer,
+body > p,
+body > blockquote,
+body > h1,
+body > h2,
+body > h3,
+body > ul,
+body > ol,
+body > table,
+body > figure,
+body > pre,
+body > hr,
+body > dl,
+#title-block-header,
+#TOC {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -419,6 +444,23 @@ button:active, .button:active, .cta-button:active {
   color: var(--text-dim);
 }
 
+.faction-card.unavailable {
+  opacity: 0.5;
+}
+
+.faction-card.unavailable:hover {
+  transform: none;
+  border-color: var(--border-color);
+}
+
+.faction-card.unavailable::after {
+  display: none;
+}
+
+.faction-card.unavailable .faction-icon {
+  filter: grayscale(100%);
+}
+
 .faction-icon {
   width: 28px;
   height: 28px;
@@ -519,17 +561,53 @@ button:active, .button:active, .cta-button:active {
 }
 
 /* ========================================
-   Back Link (Faction Pages)
+   Page Navigation (Faction Pages)
    ======================================== */
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .back-link {
   display: inline-block;
-  margin-bottom: var(--spacing-lg);
   font-size: 0.9rem;
 }
 
 .back-link::before {
   content: '\2190';
   margin-right: var(--spacing-xs);
+}
+
+.download-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  font-size: 0.85rem;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  color: var(--text-muted);
+  transition: all 0.2s ease;
+}
+
+.download-link:hover {
+  background: var(--bg-surface-alt);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  text-decoration: none;
+}
+
+.download-link::before {
+  content: '\2193';
+  font-size: 1rem;
 }
 
 /* ========================================
