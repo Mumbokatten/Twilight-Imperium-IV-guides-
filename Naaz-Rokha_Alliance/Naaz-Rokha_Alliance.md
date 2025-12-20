@@ -1,6 +1,6 @@
 <nav class="page-nav">
 <a href="../index.html" class="back-link">Back to Index</a>
-<a href="Naaz-Rokha_Alliance.md" download class="download-link">Download Guide</a>
+<a href="Naaz-Rokha_Alliance.md" download class="download-link" title="Plain text file - safe to download">Download .md</a>
 </nav>
 
 # Naaz-Rokha Alliance Guide

@@ -1,6 +1,6 @@
 <nav class="page-nav">
 <a href="../index.html" class="back-link">Back to Index</a>
-<a href="Mentak_Coalition.md" download class="download-link">Download Guide</a>
+<a href="Mentak_Coalition.md" download class="download-link" title="Plain text file - safe to download">Download .md</a>
 </nav>
 
 # Mentak Coalition Guide

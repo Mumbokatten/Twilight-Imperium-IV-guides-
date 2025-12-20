@@ -77,35 +77,6 @@ body {
   margin: 0;
   padding: var(--spacing-lg);
   min-height: 100vh;
-}
-
-/* Content container */
-.site-header,
-.prelude,
-.cta-section,
-.faction-grid,
-.credits,
-.site-footer,
-body > header,
-body > main,
-body > article,
-body > section,
-body > nav,
-body > footer,
-body > p,
-body > blockquote,
-body > h1,
-body > h2,
-body > h3,
-body > ul,
-body > ol,
-body > table,
-body > figure,
-body > pre,
-body > hr,
-body > dl,
-#title-block-header,
-#TOC {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
