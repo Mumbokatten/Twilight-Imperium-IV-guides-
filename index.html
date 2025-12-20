@@ -4,117 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Twilight Imperium 4 Faction Guides</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
-    <style>
-        body {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            margin-bottom: 10px;
-        }
-        .subtitle {
-            text-align: center;
-            color: #666;
-            margin-bottom: 20px;
-        }
-        .prelude {
-            max-width: 700px;
-            margin: 0 auto 40px;
-            padding: 20px;
-            background-color: #f8f9fa;
-            border-left: 4px solid #1976d2;
-            border-radius: 4px;
-            font-style: italic;
-            color: #555;
-        }
-        .faction-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 15px;
-            margin: 30px 0;
-        }
-        .faction-card {
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            padding: 15px;
-            text-align: center;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .faction-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-        .faction-card a {
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1em;
-        }
-        .faction-card .faction-name {
-            font-weight: bold;
-            font-size: 1.1em;
-            color: #999;
-        }
-        .faction-icon {
-            width: 24px;
-            height: 24px;
-            object-fit: contain;
-            vertical-align: middle;
-            margin-right: 8px;
-        }
-        .status {
-            display: inline-block;
-            margin-left: 8px;
-            font-size: 0.85em;
-            padding: 2px 8px;
-            border-radius: 3px;
-            background-color: #e3f2fd;
-            color: #1976d2;
-        }
-        .status.unavailable {
-            background-color: #ffebee;
-            color: #c62828;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 50px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-            color: #666;
-            font-size: 0.9em;
-        }
-    </style>
+    <link rel="stylesheet" href="theme.css">
 </head>
 <body>
-    <h1>Twilight Imperium 4 Faction Guides</h1>
-    <p class="subtitle">Comprehensive strategy guides for all TI4 factions</p>
+    <header class="site-header">
+        <h1 class="site-title">Twilight Imperium 4 Faction Guides</h1>
+        <p class="site-subtitle">Comprehensive strategy guides for all TI4 factions</p>
+    </header>
 
-    <div class="prelude">
+    <blockquote class="prelude">
         <p>These guides are designed to help you understand each faction's strengths and strategic paths, but Twilight Imperium is an incredibly complex and varied game that rewards creativity and adaptation. No guide can capture every situation or possibility you'll encounter at the table. The strategies presented here are starting points—not rigid rules. Every game unfolds differently based on the map, objectives, opponents, and countless other factors. Above all, remember that the goal is to enjoy the journey. Whether you're executing a perfectly optimized strategy or improvising your way through chaos, the most important thing is that you and your table are having a great time exploring this amazing game together.</p>
-    </div>
+    </blockquote>
 
-    <div style="text-align: center; margin: 30px 0;">
-        <a href="Glossary.html" style="display: inline-block; padding: 15px 30px; background-color: #1976d2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">📚 Community Terminology & Glossary</a>
-        <p style="margin-top: 10px; color: #666; font-size: 0.9em;">New to TI4 guides? Learn the community shorthand (R1, BB, tech skip, plastic, etc.)</p>
+    <div class="cta-section">
+        <a href="Glossary.html" class="cta-button">Community Terminology & Glossary</a>
+        <p class="cta-hint">New to TI4 guides? Learn the community shorthand (R1, BB, tech skip, plastic, etc.)</p>
     </div>
 
     <div class="faction-grid">
         <div class="faction-card">
             <img class="faction-icon" src="icons/arborec.webp" alt="Arborec icon">
             <a href="Arborec/Arborec.html">Arborec</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/argent.webp" alt="Argent Flight icon">
             <a href="Argent_Flight/Argent_Flight.html">Argent Flight</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/barony.webp" alt="Barony of Letnev icon">
             <a href="Barony_of_Letnev/Barony_of_Letnev.html">Barony of Letnev</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/saar.webp" alt="Clan of Saar icon">
@@ -124,37 +45,37 @@
         <div class="faction-card">
             <img class="faction-icon" src="icons/keleres.webp" alt="Council Keleres icon">
             <a href="Council_Keleres/Council_Keleres.html">Council Keleres</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/crimson.webp" alt="Crimson Rebellion icon">
             <a href="Crimson_Rebellion/Crimson_Rebellion.html">Crimson Rebellion</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/deepwrought.webp" alt="Deepwrought Scholarate icon">
             <a href="Deepwrought_Scholarate/Deepwrought_Scholarate.html">Deepwrought Scholarate</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/muaat.webp" alt="Embers of Muaat icon">
             <a href="Embers_of_Muaat/Embers_of_Muaat.html">Embers of Muaat</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/hacan.webp" alt="Emirates of Hacan icon">
             <a href="Emirates_of_Hacan/Emirates_of_Hacan.html">Emirates of Hacan</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/empyrean.webp" alt="Empyrean icon">
             <a href="Empyrean/Empyrean.html">Empyrean</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/sol.webp" alt="Federation of Sol icon">
             <a href="Federation_of_Sol/Federation_of_Sol.html">Federation of Sol</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/firmament.webp" alt="Firmament Obsidian icon">
@@ -164,106 +85,106 @@
         <div class="faction-card">
             <img class="faction-icon" src="icons/ghosts.webp" alt="Ghosts of Creuss icon">
             <a href="Ghosts_of_Creuss/Ghosts_of_Creuss.html">Ghosts of Creuss</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/l1z1x.webp" alt="L1Z1X Mindnet icon">
             <a href="L1Z1X_Mindnet/L1Z1X_Mindnet.html">L1Z1X Mindnet</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/bastion.webp" alt="Last Bastion icon">
             <a href="Last_Bastion/Last_Bastion.html">Last Bastion</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/mahact.webp" alt="Mahact Gene-Sorcerers icon">
             <a href="Mahact_Gene_Sorcerers/Mahact_Gene_Sorcerers.html">Mahact Gene-Sorcerers</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/mentak.webp" alt="Mentak Coalition icon">
             <a href="Mentak_Coalition/Mentak_Coalition.html">Mentak Coalition</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/naalu.webp" alt="Naalu Collective icon">
             <a href="Naalu_Collective/Naalu_Collective.html">Naalu Collective</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/naazrokha.webp" alt="Naaz-Rokha Alliance icon">
             <a href="Naaz-Rokha_Alliance/Naaz-Rokha_Alliance.html">Naaz-Rokha Alliance</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/nekro.webp" alt="Nekro Virus icon">
             <a href="Nekro_Virus/Nekro_Virus.html">Nekro Virus</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/nomad.webp" alt="Nomad icon">
             <a href="Nomad/Nomad.html">Nomad</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/ralnel.webp" alt="Ral Nel Consortium icon">
             <a href="Ral_Nel_Consortium/Ral_Nel_Consortium.html">Ral Nel Consortium</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/sardakk.webp" alt="Sardakk N'orr icon">
             <a href="Sardakk_Norr/Sardakk_Norr.html">Sardakk N'orr</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/titans.webp" alt="Titans of Ul icon">
             <a href="Titans_of_Ul/Titans_of_Ul.html">Titans of Ul</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/jolnar.webp" alt="Universities of Jol-Nar icon">
             <a href="Universities_of_Jol-Nar/Universities_of_Jol-Nar.html">Universities of Jol-Nar</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/cabal.webp" alt="Vuil'raith Cabal icon">
             <a href="Vuilraith_Cabal/Vuilraith_Cabal.html">Vuil'raith Cabal</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/winnu.webp" alt="Winnu icon">
             <a href="Winnu/Winnu.html">Winnu</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/xxcha.webp" alt="Xxcha Kingdom icon">
             <a href="Xxcha_Kingdom/Xxcha_Kingdom.html">Xxcha Kingdom</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/yin.webp" alt="Yin Brotherhood icon">
             <a href="Yin_Brotherhood/Yin_Brotherhood.html">Yin Brotherhood</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
         <div class="faction-card">
             <img class="faction-icon" src="icons/yssaril.webp" alt="Yssaril Tribes icon">
             <a href="Yssaril_Tribes/Yssaril_Tribes.html">Yssaril Tribes</a>
-            <span class="status">✓ Available</span>
+            <span class="status">Available</span>
         </div>
     </div>
 
-    <div style="max-width: 700px; margin: 40px auto; padding: 20px; background-color: #f8f9fa; border-left: 4px solid #666; border-radius: 4px; color: #555;">
-        <p style="margin: 0 0 10px; font-weight: bold;">Credits & Inspiration</p>
-        <p style="margin: 5px 0;">Rasmus – His Muaat guide sparked the desire for more written TI4 content</p>
-        <p style="margin: 5px 0;">SCPT & the TI4 Community – For endless episodes and discussions that shaped our understanding</p>
-        <p style="margin: 5px 0;">Evernoob – For the incredible Super Cheat Sheet that serves as essential reference material</p>
+    <div class="credits">
+        <p class="credits-title">Credits & Inspiration</p>
+        <p>Rasmus – His Muaat guide sparked the desire for more written TI4 content</p>
+        <p>SCPT & the TI4 Community – For endless episodes and discussions that shaped our understanding</p>
+        <p>Evernoob – For the incredible Super Cheat Sheet that serves as essential reference material</p>
     </div>
 
-    <div class="footer">
+    <footer class="site-footer">
         <p><strong>30 Factions Total</strong></p>
         <p>Guides are updated regularly. Check back for new content!</p>
         <p><a href="https://github.com/Mumbokatten/Twilight-Imperium-IV-guides-">View on GitHub</a></p>
-    </div>
+    </footer>
 </body>
 </html>
