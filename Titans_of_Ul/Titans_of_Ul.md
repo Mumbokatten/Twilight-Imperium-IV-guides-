@@ -5,6 +5,8 @@
 
 # Titans of Ul Guide
 
+![Titans of Ul](TitansArt.webp)
+
 ![Titans of Ul](TitansArt.png)
 
 ## Contents

@@ -5,6 +5,8 @@
 
 # Empyrean Guide
 
+![Empyrean](EmpyreanArt.webp)
+
 *Art credit: Fantasy Flight Games (Prophecy of Kings)*
 
 ## Contents

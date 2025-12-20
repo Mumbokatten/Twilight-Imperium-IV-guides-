@@ -5,6 +5,8 @@
 
 # L1Z1X Mindnet Guide
 
+![L1Z1X Mindnet](L1Z1XArt.webp)
+
 ![L1Z1X Mindnet](L1Z1XArt.png)
 
 ## Contents

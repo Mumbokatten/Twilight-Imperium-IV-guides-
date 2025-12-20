@@ -5,6 +5,8 @@
 
 # Nekro Virus Guide
 
+![Nekro Virus](NekroArt.webp)
+
 ![Nekro Virus](NekroArt.png)
 
 ## Contents

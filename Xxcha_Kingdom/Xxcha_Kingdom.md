@@ -5,6 +5,8 @@
 
 # Xxcha Kingdom Guide
 
+![Xxcha Kingdom](XxchaArt.webp)
+
 ![Xxcha Kingdom](XxchaArt.png)
 
 ## Contents
