@@ -25,66 +25,24 @@ Victory comes from wandering the galaxy, scoring objectives through mobile produ
 
 ### A. Home System & Commodities
 
-**Lisis II (Home System):** 1 resource, 0 influence
-- Minimal economic contribution
-- 1 resource barely supports production
-- 0 influence makes early politics weak
-
-**Ragh (Home System):** 2 resources, 1 influence
-- Slightly better economic planet
-- 2 resources helps early builds
-- 1 influence provides minimal political power
-
-**Total Home System:** 3 resources, 1 influence
-- Very weak home economy (tied for worst in game)
-- 1 influence is terrible for agenda phases
-- You DESPERATELY need expansion for resources/influence
+**Home System:**
+- **Lisis II:** 1 resource / 0 influence = 1 optimal resource / 0 optimal influence
+- **Ragh:** 2 resources / 1 influence = 2 optimal resources / 0 optimal influence
+- **Total: 3 resources / 1 influence (3 optimal resources / 0 optimal influence)**
 
 **Commodities:** 3
-- Average commodity economy
-- Scavenge supplements income (1 trade good per planet conquered)
-- Trade actively to convert commodities into trade goods
 
-**Optimal Resource/Influence from Home Worlds:**
-- Lisis II: 1 optimal resource / 0 optimal influence
-- Ragh: 2 optimal resources / 1 optimal influence
-- Total: 3 optimal resources / 1 optimal influence
-- Among the weakest home systems economically
-- Nomadic ability compensates by allowing home abandonment
+**Notes:** Probably the worst home system in the game. Luckily, you're not tied to your home system—you and your docks are free to roam around. The 3 commodities are solid enough.
 
 ### B. Starting Fleet
 
-**2 Carriers:**
-- Standard capacity 6 carriers
-- Critical for transporting infantry and Floating Factory
-- With Antimass Deflectors (starting tech), move 2 (instead of 1)
-- Enables Round 1 reach to distant high-value systems
+- 2 Carriers
+- 1 Cruiser
+- 2 Fighters
+- 4 Infantry
+- 1 Space Dock (Floating Factory I)
 
-**1 Cruiser:**
-- Standard cruiser (cost 2, combat 7, move 2)
-- Fast screening unit
-- With Antimass Deflectors, move 3
-- Scouting and early combat support
-
-**2 Fighters:**
-- Standard space combat fodder
-- Screening units
-- Less critical than carriers for your strategy
-
-**4 Infantry:**
-- Standard ground force complement
-- Adequate for early planet conquests
-- Scavenge generates trade goods when conquering with these
-
-**1 Space Dock (Floating Factory I):**
-- **Your unique space dock**
-- **Move 1** (can move like a ship)
-- **Capacity 4** (can transport units like a carrier)
-- **Production 5**
-- **Placed in space area** (not on planet)
-- **Can retreat** from combat like a ship
-- **If blockaded, it is destroyed** (critical weakness)
-- This is THE defining unit—treat it like a mobile production platform
+**Notes:** Your Floating Factory I is your defining unit—a space dock that moves like a ship (move 1, capacity 4, production 5). It's placed in space, can retreat from combat, and is destroyed if blockaded. Treat it like a mobile production platform. Two carriers give you excellent mobility for transporting infantry and the factory itself.
 
 ### C. Faction Abilities
 

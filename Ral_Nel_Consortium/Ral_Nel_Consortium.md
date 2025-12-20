@@ -5,6 +5,8 @@
 
 # Ral Nel Consortium Guide
 
+![Ral Nel Consortium](RalNelArt.webp)
+
 ## Contents
 
 1. [Introduction](#i-introduction)

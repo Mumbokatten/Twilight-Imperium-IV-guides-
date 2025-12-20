@@ -5,6 +5,8 @@
 
 # Deepwrought Scholarate Guide
 
+![Deepwrought Scholarate](DeepwroughtArt.webp)
+
 *Art credit: Fantasy Flight Games (Thunder's Edge)*
 
 ## Contents
