@@ -77,9 +77,18 @@ body {
   margin: 0;
   padding: var(--spacing-lg);
   min-height: 100vh;
+}
+
+/* Center all content */
+body > *,
+.container {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.container > * {
+  max-width: 100%;
 }
 
 /* ========================================
