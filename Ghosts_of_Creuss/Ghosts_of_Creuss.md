@@ -5,6 +5,8 @@
 
 # Ghosts of Creuss Guide
 
+![Ghosts of Creuss](GhostsArt.webp)
+
 ## Contents
 
 1. [Introduction](#i-introduction)

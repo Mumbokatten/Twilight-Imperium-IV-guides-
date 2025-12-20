@@ -5,7 +5,7 @@
 
 # Emirates of Hacan Guide
 
-![Emirates of Hacan](HacanArt.webp)
+![Emirates of Hacan](HacanArt.jpg)
 
 ## Contents
 

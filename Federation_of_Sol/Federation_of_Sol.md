@@ -5,7 +5,7 @@
 
 # Federation of Sol Guide
 
-*Art credit: Fantasy Flight Games*
+![Federation of Sol](SolArt.webp)
 
 ## Contents
 
