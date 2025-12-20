@@ -42,213 +42,102 @@ Victory comes from wandering the galaxy, scoring objectives through mobile produ
 - 4 Infantry
 - 1 Space Dock (Floating Factory I)
 
-**Notes:** Your Floating Factory I is your defining unit—a space dock that moves like a ship (move 1, capacity 4, production 5). It's placed in space, can retreat from combat, and is destroyed if blockaded. Treat it like a mobile production platform. Two carriers give you excellent mobility for transporting infantry and the factory itself.
+**Notes:** Incredible flexibility with production on the move. Your Floating Factory I (move 1, capacity 4, production 5) is placed in space, retreats from combat, and is destroyed if blockaded. Only weakness is 4 infantry—you can't take full advantage of your 3 capacity units.
 
 ### C. Faction Abilities
 
-**Scavenge:**
-*After you gain control of a planet, gain 1 trade good.*
+**Scavenge:** After you gain control of a planet, gain 1 trade good.
 
-- Triggers EVERY time you conquer a planet
-- Gain 1 trade good per planet
-- Economic snowball: conquer 5 planets = 5 trade goods
-- Encourages aggressive expansion
-- Trade goods fund technologies, units, or mech DEPLOY ability
-- Stacks with other conquest bonuses
+Economic snowball ability. Conquer 5 planets = 5 trade goods to fund technologies, units, or mech DEPLOY ability. Rewards aggressive expansion.
 
-**Nomadic:**
-*You can score objectives even if you do not control the planets in your home system.*
+**Nomadic:** You can score objectives even if you do not control the planets in your home system.
 
-- Can abandon home system without penalty
-- Allows floating your home space dock to better positions
-- Removes defensive obligation to home
-- Unique among all factions (only Saar can ignore home)
-- Enables ultra-aggressive forward positioning
-- Home planets still provide resources/influence if controlled, but not required
+Unique among all factions. Abandon home freely to pursue better positions. Removes defensive obligation to home system.
 
 ### D. Starting and Faction Technologies
 
-**Starting Technology:**
+**Starting Technologies:**
 
-**Antimass Deflectors:**
-*Your ships can move into and through asteroid fields. When you move a ship, you may move it through 1 system that contains another player's ships without resolving space combat.*
+- **Antimass Deflectors (0)** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
 
-- **0-cost technology** (doesn't count as prerequisite for most techs)
-- +1 movement capacity for ships (your carriers move 2, cruiser moves 3)
-- Can move through asteroid fields
-- Can move through opponent ships without combat (if ship has capacity)
-- Essential early mobility boost
-- Opens blue technology path
+**Notes:** 0-cost tech that opens blue path. Essential for mobility through asteroids.
 
 **Faction Technologies:**
 
-**Floating Factory II (YY):**
-*Saar Space Dock: Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.*
+**Floating Factory II (YY):** Saar Space Dock - Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
 
-- Upgrade from Floating Factory I (your starting space dock)
-- **Move 2** (dramatically increased mobility from base 1)
-- **Capacity 5** (can transport 5 units)
-- **Production 7** (massive production boost from 5 → 7)
-- Essential mid-game technology to research by Round 3-4
-- Requires 2 yellow prerequisites (Sarween Tools + Hyper Metabolism or Neural Motivator)
-- Enables repositioning entire production hubs in one action
+Upgrade your Floating Factory I to move 2, capacity 5, production 7. Essential mid-game tech to research by Round 3-4. Enables repositioning entire production hubs in one action.
 
-**Chaos Mapping (B):**
-*Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.*
+**Chaos Mapping (B):** Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
 
-- Prevents opponents from activating asteroids with your ships (area denial)
-- **Free production at start of each turn:** Produce 1 unit in systems with your production units
-- Synergizes with multiple Floating Factories (produce 1 unit at each factory location)
-- With 3 factories, get 3 free infantry/fighters per turn without spending resources
-- Requires 1 blue prerequisite (already have Antimass Deflectors)
-- High value tech for mid-late game
+Area denial tech. Opponents can't activate asteroids with your ships. Produce 1 free unit at start of turn in systems with your production units. High value for mid-late game.
 
 ### E. Leaders
 
-**Agent: Captain Mendosa**
-*After a player activates a system: You may exhaust this card to increase the move value of 1 of that player's ships to match the move value of the ship on the game board that has the highest move value.*
+**Agent - Captain Mendosa:** After a player activates a system, you may exhaust this card to increase the move value of 1 of that player's ships to match the move value of the ship on the game board that has the highest move value.
 
-- Exhausts after ANY player activates a system
-- Increase 1 ship's movement to match highest ship on board
-- Example: Highest ship on board is move 4 → target ship becomes move 4 for that activation
-- Works on your ships OR other players' ships (trading tool)
-- Enables incredible reach: move 1 dreadnought → move 4 dreadnought
-- High transaction value: offer to allies for support
-- Can help Floating Factories reach distant systems (if a move-4 ship exists)
+Works on any player's ships (trading tool). Enables incredible reach—move 1 factory to move 4+ if that ship exists. High transaction value.
 
-**Commander: Rowl Sarring**
-*Unlock: Have 3 space docks on the game board.*
-*When you produce fighters or infantry: You may place each of those units at any of your space docks that are not blockaded.*
+**Commander - Rowl Sarring:** *Unlock: Have 3 space docks on the game board.*
 
-- Unlock: 3 space docks on board (easy with Floating Factories)
-- When producing fighters OR infantry, place them at ANY non-blockaded space dock
-- Example: Produce 4 infantry at Factory A → place 2 at Factory A, 1 at Factory B, 1 at Factory C
-- Incredible strategic flexibility
-- Enables instant ground force reinforcement across the map
-- Synergizes with multiple Floating Factories positioned strategically
-- Unlock Round 2-3 by building 2 additional Floating Factories
+When you produce fighters or infantry, you may place each of those units at any of your space docks that are not blockaded.
 
-**Hero: Gurno Aggero**
-*Unlock: Have 3 scored objectives.*
-*Armageddon Relay:*
-*ACTION: Choose 1 system that is adjacent to 1 of your space docks. Destroy all other players' infantry and fighters in that system. Then, purge this card.*
+Easy unlock with Floating Factories. Place fighters/infantry at ANY non-blockaded space dock when producing. Incredible strategic flexibility—instant ground force reinforcement across the map. Unlock Round 2-3 by building 2 additional Floating Factories.
 
-- One-time-use ability
-- Choose 1 system adjacent to ANY of your space docks
-- Destroy ALL enemy infantry and fighters in that system
-- Does NOT destroy your own units
-- Does NOT destroy ships (only infantry/fighters)
-- Applications:
-  - Clear Mecatol Rex defenders before invasion
-  - Wipe out opponent ground forces on contested planets
-  - Destroy fighter screens in space combat systems
-- Position Floating Factories adjacent to target systems to enable hero usage
-- Use Round 4-5 for critical objective scoring or Mecatol conquest
+**Hero - Gurno Aggero:** *Unlock: Have 3 scored objectives.*
+
+**Armageddon Relay:** ACTION: Choose 1 system that is adjacent to 1 of your space docks. Destroy all other players' infantry and fighters in that system. Then, purge this card.
+
+One-time-use ability. Clear Mecatol Rex defenders, wipe out opponent ground forces, or destroy fighter screens. Position Floating Factories adjacent to target systems to enable hero usage. Use Round 4-5 for critical objective scoring.
 
 ### F. Promissory Note
 
-**Ragh's Call:**
-*After you commit 1 or more units to land on a planet: Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player. Then, return this card to the Saar player.*
+**Ragh's Call:** After you commit 1 or more units to land on a planet: Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player. Then, return this card to the Saar player.
 
-- Holder uses after committing units to land on a planet
-- ALL Saar ground forces on that planet are removed
-- Saar player places them on a planet they control
-- Card returns to Saar after use
-- Prevents Saar from defending that planet
-- Moderate transaction value: useful for opponents invading Saar-held planets
-- Trade for significant support (Saar doesn't heavily defend planets anyway due to Nomadic)
+Prevents Saar from defending that planet. Moderate transaction value—Saar doesn't heavily defend planets anyway due to Nomadic.
 
 ### G. Alliance
 
-**Alliance Ability:**
-*While you are neighbors with the Saar player, you gain the following alliance ability:*
-*Scavenge - After you gain control of a planet, gain 1 trade good.*
+Your Alliance gives your ally Scavenge—after they gain control of a planet, they gain 1 trade good. Moderate value for aggressive expansion factions.
 
-- Grants Scavenge ability to ally
-- Neighbor must control or have units in systems adjacent to Saar units/controlled systems
-- Moderate value: 1 trade good per planet conquered
-- Best for aggressive expansion factions (Barony, L1Z1X, Sardakk)
-- Encourages ally to conquer planets frequently
+### H. Mech - **Scavenger Zeta**
 
-### H. Mech
+Cost: 2 | Combat: 6 | **Sustain Damage**
 
-**Scavenger Zeta:**
-*Cost: 2*
-*Combat: 6*
-*Sustain Damage*
-*DEPLOY: After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet.*
+**DEPLOY:** After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet.
 
-- Standard mech combat 6 with Sustain Damage
-- **DEPLOY ability**: After conquering a planet, spend 1 trade good to place this mech there
-- Synergizes with Scavenge: conquer planet → gain 1 trade good → spend it to deploy mech
-- Net cost: 0 trade goods (Scavenge refunds the DEPLOY cost)
-- Enables instant mech deployment without production
-- Build 2-3 mechs and keep in reinforcements
-- Conquer planet → immediately deploy mech for defense/sustain damage
+Synergizes with Scavenge—conquer planet, gain 1 TG, spend it to deploy mech. Net cost: 0 trade goods. Build 2-3 mechs and keep in reinforcements for instant deployment.
 
-### I. Flagship
+### I. Flagship - **Son of Ragh**
 
-**Son of Ragh:**
-*Cost: 8*
-*Combat: 5 (x2)*
-*Move: 1*
-*Capacity: 3*
-*Sustain Damage*
-*ANTI-FIGHTER BARRAGE 6 (x4)*
+Cost: 8 | Combat: 5 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage** | **ANTI-FIGHTER BARRAGE 6 (x4)**
 
-- 2 dice at combat 5 (solid firepower)
-- **Anti-Fighter Barrage 6 x4**: Rolls 4 dice at AFB 6 before combat
-- Shreds fighter screens (average 2 fighters destroyed per AFB round)
-- Capacity 3 for ground force transport
-- Movement 1 (slow, but Antimass Deflectors doesn't affect flagships without capacity in base rules)
-- Strong anti-fighter flagship, weaker against capital ships
+Strong anti-fighter flagship with 4 AFB dice. Shreds fighter screens but weaker against capital ships.
 
-### J. Breakthrough
+### J. Breakthrough - **Deorbit Barrage (B<>R)**
 
-**Deorbit Barrage (Blue <> Red):**
-*ACTION: Exhaust this card and spend any amount of resources to choose a planet up to 2 systems away from an asteroid field that contains your ships; roll a number of dice equal to the amount spent and assign 1 hit to a ground force on that planet for each roll of 4 or greater.*
+ACTION: Exhaust this card and spend any amount of resources to choose a planet up to 2 systems away from an asteroid field that contains your ships; roll a number of dice equal to the amount spent and assign 1 hit to a ground force on that planet for each roll of 4 or greater.
 
-- Action to exhaust this card
-- Spend any amount of resources
-- Target: Planet up to 2 systems away from asteroid field with your ships
-- Roll dice equal to resources spent
-- Each 4+ = 1 hit assigned to ground force on that planet
-- Long-range bombardment without invading
-- Requires asteroid field positioning
-- Requires blue + red prerequisites
-- Late-game bombardment tool
+**B<>R Synergy:** Blue and red technologies count as each other for prerequisites.
+
+Long-range bombardment from asteroids without invading. Spend resources, roll dice, each 4+ kills a ground force on target planet. Late-game bombardment tool.
 
 ### K. Slice Considerations
 
-**Critical Priorities:**
+Saar wants resources for production and mobile positioning for factory flexibility.
 
-1. **High Resources:**
-   - You start with 3 resources from home (very weak)
-   - Need 12-15 resources from slice for viability
-   - Your Floating Factories need resources to produce
-   - Industrial planets (blue tech specialty) support Floating Factory II path
+**Speaker Order:**
+- **Prefer early positions (1-3)** - Lets you grab Construction/Trade early to build additional Floating Factories
+- **Target aggressive neighbors** - Proximity to multiple opponents enables Scavenge conquest
 
-2. **Influence:**
-   - You start with only 1 influence (terrible)
-   - Need influence-rich planets for politics
-   - Cultural planets support influence objectives
-   - 8-10 influence from slice minimum
+**Slice Priorities:**
+- **High resources** - You start with 3 resources (very weak). Need 12-15 resources from slice for production viability.
+- **Influence planets** - You start with 1 influence (terrible). Need influence-rich planets for politics.
+- **Avoid corner positions** - Limits Floating Factory mobility. Equidistant positions maximize relocation flexibility.
+- **Favor tech skips (blue/yellow)** - Industrial or cybernetic for Floating Factory II path.
 
-3. **Mobile Positioning:**
-   - Avoid corner positions (limits Floating Factory mobility)
-   - Equidistant positions maximize relocation flexibility
-   - Proximity to multiple opponents enables Scavenge conquest
-
-4. **Technology Specialties:**
-   - Industrial (blue) for Floating Factory II path
-   - Cybernetic (yellow) for Floating Factory II (requires 2 yellow)
-   - Hazardous (red) for Deorbit Barrage breakthrough
-
-**Ideal Slice Characteristics:**
-- 12-15 resources, 8-10 influence (after home)
-- 2-3 industrial/cybernetic technology specialties
-- Equidistant positioning (not corner)
-- Moderate Mecatol proximity (you can float factories to it)
+**Summary:**
+Saar needs high resources for production, balanced influence for politics, and mobile positioning (not corner). Your factories can float to Mecatol, so slice proximity less critical than for other factions.
 
 ## IV. Round 1 Problems and Faction Weakness
 
