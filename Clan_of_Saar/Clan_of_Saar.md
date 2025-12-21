@@ -54,35 +54,39 @@ Solves every early game problem and objective. Take as many planets as possible 
 
 Game-winning ability. When opponents see you're about to win, they have to aim for cutting off objectives rather than just taking your home system. Other factions lose when their home falls—you're already gone.
 
+**Floating Factory I:** Saar Space Dock - Move 1, Capacity 4, PRODUCTION 5. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
+
+Your defining unit. Space dock that moves like a ship, produces in space, and can retreat from combat. If blockaded, it's destroyed. Treat it like a mobile production platform.
+
 ### D. Starting and Faction Technologies
 
 **Starting Technologies:**
 
 - **Antimass Deflectors (0)** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
 
-**Notes:** 0-cost tech that opens blue path. Essential for mobility through asteroids.
+**Notes:** Crucial tech that combos with Chaos Mapping. Asteroid belts become your home—where you are, people nearby feel it. Position your factories in asteroids and opponents can't activate those systems. Good to get started in blue tech path.
 
 **Faction Technologies:**
 
 **Floating Factory II (YY):** Saar Space Dock - Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
 
-Upgrade your Floating Factory I to move 2, capacity 5, production 7. Essential mid-game tech to research by Round 3-4. Enables repositioning entire production hubs in one action.
+One of your preferred techs. Upgrades your factories to move 2, capacity 5, production 7. Doesn't hurt your incredible production to have even more—definitely worth getting if you happen to be running by an entropic scar.
 
 **Chaos Mapping (B):** Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
 
-Area denial tech. Opponents can't activate asteroids with your ships. Produce 1 free unit at start of turn in systems with your production units. High value for mid-late game.
+Your defining tech—you get it every game. Serves as security and flexibility. Being able to produce every single turn BEFORE you move (a destroyer or a fighter) is incredible and keeps people guessing on your true strength. Opponents can't activate asteroids with your ships.
 
 ### E. Leaders
 
 **Agent - Captain Mendosa:** After a player activates a system, you may exhaust this card to increase the move value of 1 of that player's ships to match the move value of the ship on the game board that has the highest move value.
 
-Works on any player's ships (trading tool). Enables incredible reach—move 1 factory to move 4+ if that ship exists. High transaction value.
+Great early to reach key targets. Key to keeping quick-moving armies together with potentially slower units like a flagship or dock. Works on any player's ships (trading tool).
 
 **Commander - Rowl Sarring:** *Unlock: Have 3 space docks on the game board.*
 
 When you produce fighters or infantry, you may place each of those units at any of your space docks that are not blockaded.
 
-Easy unlock with Floating Factories. Place fighters/infantry at ANY non-blockaded space dock when producing. Incredible strategic flexibility—instant ground force reinforcement across the map. Unlock Round 2-3 by building 2 additional Floating Factories.
+Can be helpful. Activate your dock standing safely in an asteroid belt in your slice to send units to reinforce the frontlines. Specifically good for you since your dock moves. Unlock is natural with your urgency to get all docks anyway.
 
 **Hero - Gurno Aggero:** *Unlock: Have 3 scored objectives.*
 
