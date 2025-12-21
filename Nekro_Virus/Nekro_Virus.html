@@ -104,7 +104,7 @@
             </div>
         </div>
     </div>
-    <button class="print-btn" onclick="window.print()">Print Strategy Card</button>
+    <button class="print-btn" onclick="document.body.classList.add('printing-card');window.print();document.body.classList.remove('printing-card');">Print Strategy Card</button>
 </div>
 </div>
 <h2 id="contents">Contents</h2>
