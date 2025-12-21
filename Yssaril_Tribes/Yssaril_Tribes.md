@@ -5,7 +5,7 @@
 
 # Yssaril Tribes Guide
 
-![Yssaril Tribes](YssarilArt.webp)
+![Yssaril Tribes Faction Sheet](YssarilSheet.jpg)
 
 ## Contents
 

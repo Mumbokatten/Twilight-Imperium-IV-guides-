@@ -5,7 +5,7 @@
 
 # Empyrean Guide
 
-![Empyrean](EmpyreanArt.webp)
+![Empyrean Faction Sheet](EmpyreanSheet.jpg)
 
 *Art credit: Fantasy Flight Games (Prophecy of Kings)*
 

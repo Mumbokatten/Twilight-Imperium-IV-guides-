@@ -5,7 +5,7 @@
 
 # Emirates of Hacan Guide
 
-![Emirates of Hacan](HacanArt.jpg)
+![Emirates of Hacan Faction Sheet](HacanSheet.jpg)
 
 ## Contents
 

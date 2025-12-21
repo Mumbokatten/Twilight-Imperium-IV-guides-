@@ -5,7 +5,7 @@
 
 # Crimson Rebellion Guide
 
-![Crimson Rebellion](CrimsonRebellionArt.webp)
+![Crimson Rebellion Faction Sheet](CrimsonSheet.jpg)
 
 ## Contents
 

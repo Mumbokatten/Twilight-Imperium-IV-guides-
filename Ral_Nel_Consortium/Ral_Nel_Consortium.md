@@ -5,7 +5,7 @@
 
 # Ral Nel Consortium Guide
 
-![Ral Nel Consortium](RalNelArt.webp)
+![Ral Nel Consortium Faction Sheet](RalNelSheet.jpg)
 
 ## Contents
 

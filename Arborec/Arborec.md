@@ -5,7 +5,7 @@
 
 # Arborec Guide
 
-![Arborec Letani Warrior](ARBOREC.webp)
+![Arborec Faction Sheet](ArborecSheet.jpg)
 
 ## Contents
 

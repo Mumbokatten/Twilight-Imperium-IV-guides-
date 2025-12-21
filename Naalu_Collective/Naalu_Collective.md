@@ -5,7 +5,7 @@
 
 # Naalu Collective Guide
 
-![Naalu Collective](NaaluArt.webp)
+![Naalu Collective Faction Sheet](NaaluSheet.jpg)
 
 ## Contents
 

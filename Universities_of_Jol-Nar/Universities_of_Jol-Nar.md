@@ -5,7 +5,7 @@
 
 # Universities of Jol-Nar Guide
 
-![Universities of Jol-Nar](JolNarArt.webp)
+![Universities of Jol-Nar Faction Sheet](JolNarSheet.jpg)
 
 ## Contents
 

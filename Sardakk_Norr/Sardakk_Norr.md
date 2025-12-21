@@ -5,7 +5,7 @@
 
 # Sardakk N'orr Guide
 
-![Sardakk N'orr](SardakkArt.webp)
+![Sardakk N'orr Faction Sheet](SardakkSheet.jpg)
 
 ## Contents
 

@@ -5,7 +5,7 @@
 
 # Yin Brotherhood Guide
 
-![Yin Brotherhood](YinArt.webp)
+![Yin Brotherhood Faction Sheet](YinSheet.jpg)
 
 ## Contents
 

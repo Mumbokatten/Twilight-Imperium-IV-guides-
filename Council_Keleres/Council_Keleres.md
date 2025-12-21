@@ -5,9 +5,8 @@
 
 # Council Keleres Guide
 
-![Council Keleres](KeleresArt.webp)
+![Council Keleres Faction Sheet](KeleresSheet.jpg)
 
-![Council Keleres](KeleresArt.jpg)
 
 ## Contents
 

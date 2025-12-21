@@ -5,9 +5,8 @@
 
 # Titans of Ul Guide
 
-![Titans of Ul](TitansArt.webp)
+![Titans of Ul Faction Sheet](TitansSheet.jpg)
 
-![Titans of Ul](TitansArt.png)
 
 ## Contents
 

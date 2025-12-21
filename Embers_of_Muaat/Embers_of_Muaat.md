@@ -5,7 +5,7 @@
 
 # Embers of Muaat Guide
 
-![Embers of Muaat](MuaatArt.webp)
+![Embers of Muaat Faction Sheet](MuaatSheet.jpg)
 
 ## Contents
 

@@ -5,7 +5,7 @@
 
 # Mentak Coalition Guide
 
-![Mentak Coalition](MentakArt.webp)
+![Mentak Coalition Faction Sheet](MentakSheet.jpg)
 
 ## Contents
 

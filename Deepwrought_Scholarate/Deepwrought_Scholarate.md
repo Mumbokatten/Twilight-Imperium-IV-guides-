@@ -5,7 +5,7 @@
 
 # Deepwrought Scholarate Guide
 
-![Deepwrought Scholarate](DeepwroughtArt.webp)
+![Deepwrought Scholarate Faction Sheet](DeepwroughtSheet.jpg)
 
 *Art credit: Fantasy Flight Games (Thunder's Edge)*
 

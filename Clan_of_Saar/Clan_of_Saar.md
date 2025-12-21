@@ -5,7 +5,7 @@
 
 # The Clan of Saar Comprehensive Strategy Guide
 
-![Clan of Saar](SaarArt.webp)
+![Clan of Saar Faction Sheet](SaarSheet.jpg)
 
 ## I. Introduction
 
@@ -48,11 +48,11 @@ Victory comes from wandering the galaxy, scoring objectives through mobile produ
 
 **Scavenge:** After you gain control of a planet, gain 1 trade good.
 
-Economic snowball ability. Conquer 5 planets = 5 trade goods to fund technologies, units, or mech DEPLOY ability. Rewards aggressive expansion.
+Solves every early game problem and objective. Take as many planets as possible R1-R2, get trade goods for every conquest, fund your expansion engine. Then you can move your factories wherever they have the most value.
 
 **Nomadic:** You can score objectives even if you do not control the planets in your home system.
 
-Unique among all factions. Abandon home freely to pursue better positions. Removes defensive obligation to home system.
+Game-winning ability. When opponents see you're about to win, they have to aim for cutting off objectives rather than just taking your home system. Other factions lose when their home falls—you're already gone.
 
 ### D. Starting and Faction Technologies
 

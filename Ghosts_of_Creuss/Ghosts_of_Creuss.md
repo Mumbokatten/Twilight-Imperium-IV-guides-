@@ -5,7 +5,7 @@
 
 # Ghosts of Creuss Guide
 
-![Ghosts of Creuss](GhostsArt.webp)
+![Ghosts of Creuss Faction Sheet](CreussSheet.jpg)
 
 ## Contents
 

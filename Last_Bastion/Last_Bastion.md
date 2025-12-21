@@ -5,7 +5,7 @@
 
 # Last Bastion Guide
 
-![Last Bastion](BastionArt.png)
+![Last Bastion Faction Sheet](BastionSheet.jpg)
 
 ## Contents
 

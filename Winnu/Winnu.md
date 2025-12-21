@@ -5,7 +5,7 @@
 
 # Winnu Guide
 
-![Winnu](WinnuArt.webp)
+![Winnu Faction Sheet](WinnuSheet.jpg)
 
 ## Contents
 

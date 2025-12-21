@@ -5,7 +5,7 @@
 
 # Federation of Sol Guide
 
-![Federation of Sol](SolArt.webp)
+![Federation of Sol Faction Sheet](SolSheet.jpg)
 
 ## Contents
 

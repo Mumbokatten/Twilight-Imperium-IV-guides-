@@ -5,7 +5,7 @@
 
 # Mahact Gene-Sorcerers Guide
 
-![Mahact Gene-Sorcerers](MahactArt.webp)
+![Mahact Gene-Sorcerers Faction Sheet](MahactSheet.jpg)
 
 ## Contents
 

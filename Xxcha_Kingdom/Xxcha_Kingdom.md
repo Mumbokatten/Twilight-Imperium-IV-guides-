@@ -5,9 +5,8 @@
 
 # Xxcha Kingdom Guide
 
-![Xxcha Kingdom](XxchaArt.webp)
+![Xxcha Kingdom Faction Sheet](XxchaSheet.jpg)
 
-![Xxcha Kingdom](XxchaArt.png)
 
 ## Contents
 

@@ -5,7 +5,7 @@
 
 # Argent Flight Guide
 
-![Argent Flight Strike Wing](ArgentFlightArt.webp)
+![Argent Flight Faction Sheet](ArgentSheet.jpg)
 
 ## Contents
 

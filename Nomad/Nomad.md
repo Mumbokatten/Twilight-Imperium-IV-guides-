@@ -5,7 +5,7 @@
 
 # Nomad Guide
 
-![Nomad](NomadArt.webp)
+![Nomad Faction Sheet](NomadSheet.jpg)
 
 ## Contents
 

@@ -1,6 +1,6 @@
 # The Firmament / The Obsidian Comprehensive Strategy Guide
 
-![Firmament Obsidian](FirmamentArt.webp)
+![Firmament Obsidian Faction Sheet](FirmamentSheet.jpg)
 
 ## I. Introduction
 

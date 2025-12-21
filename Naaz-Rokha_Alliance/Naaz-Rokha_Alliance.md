@@ -5,7 +5,7 @@
 
 # Naaz-Rokha Alliance Guide
 
-![Naaz-Rokha Alliance](NaazRokhaArt.webp)
+![Naaz-Rokha Alliance Faction Sheet](NaazRokhaSheet.jpg)
 
 ## Contents
 

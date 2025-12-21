@@ -5,9 +5,8 @@
 
 # Vuil'raith Cabal Guide
 
-![Vuil'raith Cabal](CabalArt.webp)
+![Vuil'raith Cabal Faction Sheet](CabalSheet.jpg)
 
-![Vuil'raith Cabal](CabalArt.jpg)
 
 ## Contents
 

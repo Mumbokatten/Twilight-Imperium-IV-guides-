@@ -5,7 +5,7 @@
 
 # Barony of Letnev Guide
 
-![Barony of Letnev](BaronyArt.webp)
+![Barony of Letnev Faction Sheet](LetnevSheet.jpg)
 
 ## Contents
 
