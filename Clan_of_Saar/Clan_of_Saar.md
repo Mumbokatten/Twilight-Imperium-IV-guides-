@@ -92,17 +92,19 @@ Can be helpful. Activate your dock standing safely in an asteroid belt in your s
 
 **Armageddon Relay:** ACTION: Choose 1 system that is adjacent to 1 of your space docks. Destroy all other players' infantry and fighters in that system. Then, purge this card.
 
-One-time-use ability. Clear Mecatol Rex defenders, wipe out opponent ground forces, or destroy fighter screens. Position Floating Factories adjacent to target systems to enable hero usage. Use Round 4-5 for critical objective scoring.
+Fighters and infantry win games, so why not remove them all? Makes people scared about posting up massive armies nearby you, which can be helpful when looking for invasion targets. Position your factories adjacent to key systems.
 
 ### F. Promissory Note
 
 **Ragh's Call:** After you commit 1 or more units to land on a planet: Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player. Then, return this card to the Saar player.
 
-Prevents Saar from defending that planet. Moderate transaction value—Saar doesn't heavily defend planets anyway due to Nomadic.
+Small value. Commonly used as a tool to avoid combat and save your troops instead. If you go in planning to use Ragh's Call, you don't lose anything—you keep your troops, everyone's happy.
 
 ### G. Alliance
 
-Your Alliance gives your ally Scavenge—after they gain control of a planet, they gain 1 trade good. Moderate value for aggressive expansion factions.
+Your Alliance gives your ally your commander—when they produce fighters or infantry, they may place them at any of their space docks that are not blockaded. Solid for factions with multiple space docks.
+
+Use your Alliance as leverage to get good alliances. People want you to look in another direction—trade your Alliance to neighbors who fear your aggression in exchange for stronger commanders that complement your wandering playstyle.
 
 ### H. Mech - **Scavenger Zeta**
 
@@ -110,76 +112,64 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 **DEPLOY:** After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet.
 
-Synergizes with Scavenge—conquer planet, gain 1 TG, spend it to deploy mech. Net cost: 0 trade goods. Build 2-3 mechs and keep in reinforcements for instant deployment.
+Really solid deploy ability. Easily gets you to 4 mechs early in the game on key planets or riding with your fleet to ensure invasions. Synergizes with Scavenge—conquer planet, gain 1 TG, spend it to deploy mech. Sometimes if things work well you can have a ridiculous looking board state with Saar after first round: 4 systems filled with new mechs. Very intimidating.
 
 ### I. Flagship - **Son of Ragh**
 
 Cost: 8 | Combat: 5 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage** | **ANTI-FIGHTER BARRAGE 6 (x4)**
 
-Strong anti-fighter flagship with 4 AFB dice. Shreds fighter screens but weaker against capital ships.
+Combat-wise among the strongest flagships in the game. Ridiculous average of 2 fighter hits right away from AFB 6 (x4), then hitting double 5's in combat. Get it every game with your main super fleet.
 
 ### J. Breakthrough - **Deorbit Barrage (B<>R)**
 
 ACTION: Exhaust this card and spend any amount of resources to choose a planet up to 2 systems away from an asteroid field that contains your ships; roll a number of dice equal to the amount spent and assign 1 hit to a ground force on that planet for each roll of 4 or greater.
 
-**B<>R Synergy:** Blue and red technologies count as each other for prerequisites.
+Mostly used as a stall. The ability is not impactful enough except for edge cases. You'll also annoy people that are probably already annoyed by you.
 
-Long-range bombardment from asteroids without invading. Spend resources, roll dice, each 4+ kills a ground force on target planet. Late-game bombardment tool.
+**B<>R Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using Chaos Mapping is the most interesting part.
+
+Try to place Thunder's Edge in an asteroid field—you can always use the extra resources.
 
 ### K. Slice Considerations
 
 Saar wants resources for production and mobile positioning for factory flexibility.
 
 **Speaker Order:**
-- **Prefer early positions (1-3)** - Lets you grab Construction/Trade early to build additional Floating Factories
-- **Target aggressive neighbors** - Proximity to multiple opponents enables Scavenge conquest
+- Speaker order is irrelevant. Prioritize great systems. You can handle any position and love cards others loathe.
+
+**Neighbors:**
+- An easier target for invasions is great.
 
 **Slice Priorities:**
-- **High resources** - You start with 3 resources (very weak). Need 12-15 resources from slice for production viability.
-- **Influence planets** - You start with 1 influence (terrible). Need influence-rich planets for politics.
-- **Avoid corner positions** - Limits Floating Factory mobility. Equidistant positions maximize relocation flexibility.
-- **Favor tech skips (blue/yellow)** - Industrial or cybernetic for Floating Factory II path.
+- **Asteroid belt** - Priority. Essential for Chaos Mapping and safe factory positioning.
+- **High resources** - You're token efficient since you produce and move with the same token. You got massive production and need resources to spend it.
+- **Favor tech skips (blue/yellow)** - Industrial or cybernetic for Floating Factory II path. Tech skip to get access to Fracture.
 
-**Summary:**
-Saar needs high resources for production, balanced influence for politics, and mobile positioning (not corner). Your factories can float to Mecatol, so slice proximity less critical than for other factions.
+**Nice to Have:**
+- Path to Mecatol but flexible enough to go to neighbor instead.
+
+**Avoid:**
+- Supernova and gravity rift on the way to Mecatol if possible.
 
 ## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
 
-As Clan of Saar, your first turn priorities should reflect your unique mobile production strategy and aggressive expansion playstyle. Here's the recommended ordering:
+Your Round 1 (R1) priority order: **Scoring > Expansion + Production > Technology > Breakthrough**
 
-1. **Expansion + Production** - Your Floating Factories let you produce anywhere, and Scavenge rewards conquest. Move your starting factory to a high-resource system and begin claiming planets immediately. Antimass Deflectors + 2 carriers give you excellent Round 1 reach.
+Focus on:
+1. **Scoring** - Win from ahead as Saar. You need to capitalize on your super start and hope people can never catch up as you go. Score early and often.
+2. **Expansion + Production** - Priority to get a ton of ships/ground troops out to secure your bigger than average slice.
+3. **Technology** - Pushing toward Floating Factory II and Chaos Mapping. Tech is nice but you're fine without it if you have to prioritize troops.
+4. **Breakthrough** - Try to snipe Thunder's Edge if available, otherwise leave it. Definitely for R1.
 
-2. **Technology** - Fleet Logistics (if you can get it) or pushing toward Floating Factory II is critical. However, expansion to secure resources takes priority since you need the economic base to support your mobile production.
+**Expansion Notes:** Grab your entire slice and maybe more Round 1. Get mechs and tons of ships out early to become a massive presence right away and grab more than your fair share. Your mobile factories and Scavenge ability reward maximum aggression.
 
-3. **Breakthrough** - Chaos Mapping and Deorbit Barrage are powerful but require established infrastructure first. Save this for mid-game once you have multiple factories positioned.
+### B. Table Hate
 
-4. **Scoring** - Nomadic means you can score without home control, but your real strength emerges after establishing 2-3 Floating Factories and accumulating Scavenge trade goods. Don't rush scoring Round 1—build your economic engine first.
+People will come together to beat your spread out forces if you overextend in points or territory. Your mobile factories and Scavenge income make you look scarier than you are—opponents coordinate to knock you down before you run away with the game.
 
-**1. Floating Factory Vulnerability:**
-Your space docks can be destroyed in combat. If blockaded (enemy ships in system with your Floating Factory), the factory is destroyed immediately. This is catastrophic: losing a Floating Factory loses production capacity AND the factory itself (cost 4-6 to rebuild). You must protect factories with fleets or retreat them from contested systems.
-
-**2. Weak Starting Economy:**
-With 3/1 from home and 3 commodities, you have one of the weakest starting economies in the game. Early rounds require aggressive Scavenge conquests to acquire trade goods for funding. Without conquest, you cannot afford technologies or large builds.
-
-**3. Commander Dependency:**
-Your commander (place fighters/infantry at any space dock) requires 3 space docks on board. Building 2 additional Floating Factories costs 8 resources (4 each) before unlocking commander. If you cannot afford this investment early (Rounds 2-3), your commander unlock delays, and you lose distributed production.
-
-**4. Nomadic Paradox:**
-While Nomadic allows abandoning home, you still need resources from somewhere. If you float factories forward and lose home planets without capturing replacements, you may end up resource-starved with no production capacity. Balancing home abandonment vs. economic security is tricky.
-
-**5. Antimass Deflectors Limitation:**
-Your starting tech is 0-cost, meaning it does NOT count as a prerequisite for most technologies. To research technologies requiring "1 blue," you must research another blue tech (Gravity Drive, Fleet Logistics, etc.), delaying your tech path compared to factions with normal starting techs.
-
-**6. Influence Poverty:**
-With only 1 starting influence, you're one of the weakest factions in early politics. You cannot spend influence for objectives, vote meaningfully in agendas, or compete with influence-rich factions (Xxcha, Hacan, Winnu) until you expand to influence planets.
-
-**7. Scavenge Requires Conquest:**
-Your economic engine (Scavenge) only triggers when conquering planets. Against defensive opponents or in peaceful metagames, you cannot generate Scavenge trade goods. Peaceful games starve Saar of their primary economic advantage.
-
-**8. Factory Positioning Risk:**
-Floating Factories must be positioned aggressively to maximize production reach, but this exposes them to enemy fleets. Conservative factory placement (deep in your territory) wastes their mobility; aggressive placement (near frontlines) risks destruction. Balancing risk vs. reward is constant.
+The table also feels since they can't stop you in the late game by taking your home system, they have to go early even if you're not in the greatest position. Nomadic makes you a priority target—manage your threat level carefully.
 
 ## V. Technology
 
