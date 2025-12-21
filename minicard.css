@@ -31,15 +31,16 @@ body.minicard-page * {
 /* Reference Card */
 .ref-card {
     width: 5in;
-    height: 3in;
+    min-height: 3in;
     border-radius: 12px;
-    overflow: hidden;
+    overflow: visible;
     display: flex;
     flex-direction: column;
     background: #0d1117;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
     font-size: 7pt;
     position: relative;
+    flex-shrink: 0;
 }
 
 /* Header */
@@ -597,7 +598,7 @@ body.minicard-page * {
 /* Side-by-side layout for faction sheet + minicard */
 .faction-header-row {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 20px;
     align-items: flex-start;
     margin: 16px 0;
@@ -605,17 +606,27 @@ body.minicard-page * {
 
 .faction-header-row figure {
     margin: 0;
-    flex-shrink: 0;
+    flex-shrink: 1;
+    min-width: 0;
 }
 
 .faction-header-row figure img {
     max-height: 3in;
+    max-width: 100%;
     width: auto;
+    height: auto;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1100px) {
     .faction-header-row {
-        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 600px) {
+    .ref-card {
+        width: 100%;
+        min-width: 0;
     }
 }
 
