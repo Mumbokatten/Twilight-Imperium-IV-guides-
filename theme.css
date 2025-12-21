@@ -425,14 +425,23 @@ button:active, .button:active, .cta-button:active {
   opacity: 1;
 }
 
-.faction-card a {
-  font-weight: 600;
-  font-size: 1.05rem;
+a.faction-card {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+a.faction-card:hover {
+  color: inherit;
 }
 
 .faction-card .faction-name {
   font-weight: 600;
   font-size: 1.05rem;
+  color: var(--accent-gold);
+}
+
+.faction-card.unavailable .faction-name {
   color: var(--text-dim);
 }
 
