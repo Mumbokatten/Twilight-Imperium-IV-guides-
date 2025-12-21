@@ -178,16 +178,19 @@ When COALESCENCE results in a ground combat, if you commit no other units, you m
 **Speaker Order:** Earlier the better, but can handle almost any position. Focus more on getting a good slice. Your neighbors are not too important—you won't be the target.
 
 **Slice Priorities:**
+
 - **High planet count** - More sleeper token opportunities.
 - **Multi-planet systems** - Awaken multiple PDS per activation.
 - **High influence** - You can turn tokens into resources but not the other way around.
 
 **Nice to Have:**
+
 - Tech skips.
 - Tech specialty planets.
 - The Fracture.
 
 **Avoid:**
+
 - Low planet count slices.
 - Empty tiles in middle of your slice (bad for defensive coverage).
 
@@ -272,15 +275,18 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - Refresh commodities. Economy for production.
 - **Leadership** - Command tokens for awakening and activations. Always need tokens.
 - **Imperial** - Scoring tempo and hero unlock.
 
 **Like:**
+
 - **Technology** - Continue Saturn Engine II path. Save resources and increase tempo.
 - **Politics** - Setup for objectives.
 
 **Situational:**
+
 - **Warfare** - If you need to make a key play. Redistribution and fleet pool.
 - **Diplomacy** - Refresh planets if needed.
 - **Construction** - Worst. If you need structures, secondary works fine (space dock objectives, etc.).

@@ -122,12 +122,14 @@ Green tech with no synergy with your other tech paths. Not good enough to resear
 Your agent generates 2 commodities on demand or refreshes another player's commodities. Always try to find the player with the highest commodity count (usually 4) and refresh them for a negotiated split. Offer a 3/1 deal: you get 3 trade goods back, they keep 1 as a goodie. You're turning your agent into 3 trade goods while giving them value—classic merchant tactics.
 
 **Commander - Gila the Silvertongue:**
+
 - **Unlock:** Have 10 trade goods
 - **Ability:** When you cast votes, you may spend any number of trade goods; cast 2 additional votes for each trade good spent.
 
 Commonly unlocked by offering to send the Trade card holder's debt through you—at that moment, combined with your own 6 commodities, you'll probably be above 10 trade goods. The conversion rate (1 TG for 2 votes) is usually a bit too pricey to spend freely, but on important agendas people have to vote extra to make sure you don't throw a couple of coins in to move the scales. Your commander turns wealth into political leverage—the threat alone changes how people vote.
 
 **Hero - Harrugh Gefhara:**
+
 - **Unlock:** Have 3 scored objectives
 - **Galactic Securities Net:** When 1 or more of your units use PRODUCTION, you may reduce the cost of each of your units to 0 during this use of PRODUCTION. If you do, purge this card.
 
@@ -180,18 +182,21 @@ Your breakthrough token appears before the fleet token check. If you have 2 flee
 As long as you're not last pick, you're fine. What matters more is having a friendly neighbor for board positioning.
 
 **Priorities:**
+
 - **Isolated slice if possible** - You can trade with anyone regardless of distance, so isolation doesn't hurt your economy. No need to worry about a neighbor who can't reach you. Being isolated = safe.
 - **Valuable systems nearby home** - Not in equidistant. You want strong systems you can claim without immediate competition.
 - **High optimal total** - Try to get high optimal resources and influence. Trade goods help, but they can't do everything—having rich systems matters a lot. Your slice doesn't need balance (equal resources/influence), just high totals.
 - **Path to Mecatol Rex** - Need a way to reach Mecatol for potential custodian grab. You're not holding it long-term—just grabbing the bonus point.
 
 **Nice to Have:**
+
 - Yellow or red tech skip (enables War Sun + hero play for maximum value)
 - Trait symmetry for objectives
 - Entropic Scar (you have plenty of tokens to spend for free faction tech)
 - Good resource planet to put forward space dock (you need production capacity beyond home)
 
 **Avoid:**
+
 - Equidistant systems (especially high-value ones—those cause the most conflict)
 - Ultra-low optimal slices (even with trade goods, you need production base)
 - Highly aggressive neighbor positioning
@@ -318,16 +323,19 @@ Your R1 priority is getting started on your tech path early while establishing y
 ### B. Round 2+
 
 **Love:**
+
 - **Technology** - Tons of good tech available. Can afford to double tech a few times with your wealth.
 - **Leadership** - Stall potential with superb token economy. Essential for flexible play.
 
 **Like:**
+
 - **Trade** - You get commodities anyway with Masters of Trade secondary. Still good economic value.
 - **Construction** - Production capacity until all 3 space docks built. Essential for leveraging your economy.
 - **Imperial** - Score objectives. Start pushing for points.
 - **Politics** - Speaker priority and agenda control. Valuable once commander unlocks.
 
 **Situational:**
+
 - **Warfare** - Fleet token return useful for specific aggressive plays.
 - **Diplomacy** - Rarely good. Only if you need a key system defended.
 

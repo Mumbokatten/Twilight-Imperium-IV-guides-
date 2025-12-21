@@ -157,15 +157,18 @@ When you gain this card or score a public objective, gain the alliance ability o
 **Speaker Order:** Prefer early positions 1-4 to unlock breakthrough before first public objective scores and get some good value. You like a target neighbor—you can play nice but should be opportunistic.
 
 **Slice Priorities:**
+
 - **Balanced resources/influence** - Your 4/4 home makes you flexible.
 - **Influence access** - You need influence for Indoctrination (2 per use).
 
 **Nice to Have:**
+
 - 2-3 influence planets to threaten Indoctrination without wasting your 4-influence home.
 - Green/yellow tech skips to accelerate Yin Spinner.
 - Entropic Scar is fine but nothing special.
 
 **Avoid:**
+
 - Slices that require early mobility.
 
 ---
@@ -289,15 +292,18 @@ Your Commander lets you research any tech someone else has by sacrificing an inf
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - Flexible spending. Refresh commodities for economy.
 - **Leadership** - Need 3 command tokens to use influence for abilities like Indoctrination.
 - **Imperial** - Scoring synergizes with breakthrough alliances.
 
 **Like:**
+
 - **Technology** - Save resources and increase tempo.
 - **Politics** - Setup for objectives. Agenda control.
 
 **Situational:**
+
 - **Warfare** - Solves low mobility. Fleet pool and redistribution.
 - **Construction** - If poor for objectives or need forward dock.
 - **Diplomacy** - Refresh planets if needed.

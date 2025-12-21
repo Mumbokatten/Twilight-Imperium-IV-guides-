@@ -92,9 +92,11 @@ Ocean cards provide various benefits (resources, influence, trade goods, movemen
 This is the strongest starting tech advantage in the game. You can research ANY two technologies, but must respect prerequisites (you need blue to get second blue, etc.). Your main paths:
 
 **Blue Path:**
+
 - **Antimass Deflectors + Dark Energy Tap (or Gravity Drive):** Movement flexibility and economy, sets up Fleet Logistics (BB) or Light/Wave Deflector (BBB)
 
 **Green Path:**
+
 - **Neural Motivator + Bio-Stims:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap Bio-Stims for Hyper Metabolism later for token economy
 
 **Faction Technologies:**
@@ -110,12 +112,14 @@ This is the strongest starting tech advantage in the game. You can research ANY 
 This is diplomatic gold and should be used ASAP every tech round. Ideally, use it on the Technology primary player (round 1) so everyone at the table can benefit from the prerequisite ignore, making you extremely popular while spreading your infantry into coexistence. Once your commander unlocks, all this tech research generates commodities/trade goods for you - you're literally getting paid to help people.
 
 **Commander - Aello:**
+
 - **Unlock:** Have an ocean card in play
 - **Ability:** When another player spends resources to research a technology, that player may reduce the cost by 1. If they do, gain 1 commodity or convert 1 of your commodities to a trade good.
 
 Your commander unlocks extremely early (as soon as you have 1 ocean card) and generates passive income whenever anyone researches tech. Since tech research happens constantly, you're generating 3-5 commodities/trade goods per round just by existing. The table won't notice the corruption of cheap tech until it's too late - they're happy getting discounted research while you're quietly building an insurmountable economic advantage.
 
 **Hero - Ta Zern:**
+
 - **Unlock:** Have 3 scored objectives
 - **Wave Function Collapse:** Purge this card and a non-unit upgrade technology you own or from your deck. Then, purge all cards with the same name owned by other players and in other players' decks. Then, each player that purged a technology they owned researches another technology.
 
@@ -170,6 +174,7 @@ Since you're so flexible with tech and economy, focus on slices that help you sc
 - Tech skips are nice but not critical - most likely people will give you techs to smooth out any tech plan
 
 **What Works:**
+
 - Pretty much anything that's not total garbage
 - You start with 2 techs, so you're not desperate for tech skips
 - Coexistence means you can spread to neighbor planets anyway
@@ -177,6 +182,7 @@ Since you're so flexible with tech and economy, focus on slices that help you sc
 - Your massive tech advantage and economy will find a way
 
 **Avoid:**
+
 - Very low total value slices (you need production capacity and planet value)
 - Isolated slices with no neighbor contact (you need coexistence opportunities)
 
@@ -203,6 +209,7 @@ Your Round 1 (R1) priority order:
 Your ocean card economy depends on maintaining coexistence. If opponents fully invade planets where you're coexisting, you lose those ocean cards. This makes you vulnerable to aggressive ground combat.
 
 **Mitigation:**
+
 - Maintain friendly relations with players you're coexisting with
 
 ### C. Combat Weakness
@@ -210,6 +217,7 @@ Your ocean card economy depends on maintaining coexistence. If opponents fully i
 You have no combat bonuses or special combat abilities. However, this weakness isn't as bad as it seems - you'll have tons of upgraded units and tech advantages that compensate.
 
 **Mitigation:**
+
 - Your technological superiority means you get unit upgrades much earlier than opponents
 - Avoid unnecessary fights - use coexistence instead of invasion when possible
 - Use diplomacy and Share Knowledge to build alliances
@@ -224,6 +232,7 @@ You have no combat bonuses or special combat abilities. However, this weakness i
 This is the strongest starting tech advantage in the game. Focus on blue or green paths:
 
 **Blue Path (Most Common):**
+
 - **Dark Energy Tap (or Antimass Deflectors) + Gravity Drive:** Gives slice flexibility with increased movement
 
 **Green Path:**
@@ -314,19 +323,23 @@ Your Round 1 (R1) priority is flexible - grab value cards (Trade, Leadership) an
 ### B. Generally (R2+)
 
 **Love:**
+
 - **Trade** - Always good to make people rich to give you more tech
 - **Leadership** - Command token efficiency keeps you flexible
 
 **Like:**
+
 - **Imperial** - Points are the goal. Your diplomatic positioning helps with Mecatol control
 - **Politics** - 4 influence makes you politically relevant. Agenda control matters
 
 **Situational:**
+
 - **Technology** - You'd rather have others tech for you, but always good to tech a few things to help with objectives or smooth out some stuff
 - **Diplomacy** - Useful for protecting coexistence systems or securing key positions
 - **Construction** - Extra infrastructure when you need it
 
 **Hate:**
+
 - **Warfare** - Fleet token return doesn't align with your strategy
 
 ## VII. Unit Composition and Game Plan
@@ -336,11 +349,13 @@ Your Round 1 (R1) priority is flexible - grab value cards (Trade, Leadership) an
 You're not a military faction - focus on tech, economy, and infantry spread for coexistence.
 
 **Core Fleet:**
+
 - **Carriers** - Transport infantry to establish coexistence
 - **Dreadnought** - You start with one for Sustain Damage and combat power
 - **Fighters** - Absorb hits and screen
 
 **Then add as needed:**
+
 - **Flagship** - Unique movement through contested systems if you have coexisting infantry scattered
 - **Destroyers** - Combat support if needed
 - **Infantry** - Your priority. Spread across the galaxy for coexistence and ocean cards

@@ -51,6 +51,7 @@ Opponents will fear engaging your fleets. That moment when they count your ships
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Arc Prime:** 4 resources / 0 influence = 4 optimal resources
 - **Wren Terra:** 2 resources / 1 influence = 2 optimal resources
 - **Total: 6 resources / 1 influence (6 optimal resources / 0 optimal influence)**
@@ -170,15 +171,18 @@ Before you roll dice during space combat, apply +X to the results of 1 of your s
 Letnev wants resources and access to objectives. Your priorities:
 
 **Speaker Order:**
+
 - **Prefer early positions (1-3)** - Lets you grab Trade and Leadership early to fuel your expensive fleet buildup.
 - **Target weak neighbors** - Position yourself next to factions you can pressure with superior fleets.
 
 **Slice Priorities:**
+
 - **Access to Fracture or Mecatol Rex** - CRITICAL. You need a path to score points through controlling key objectives or legendary planets.
 - **Prefer influence over resources** - Your home system has 6 resources already, so you prefer more influence in your slice for more balance and flexibility. Even though you have an expensive fleet, you're already set on resources.
 - **Favor having 1-2 tech skips** - Tech skips help with Fracture plays. Your tech path works with B<>R synergy from Gravleash Maneuvers, so you're flexible.
 
 **Slice Features to Avoid:**
+
 - **No access to Fracture or Mecatol Rex** - Makes scoring difficult. Avoid if possible.
 - **Low planet count with scattered systems** - Makes it hard to generate enough resources for constant production.
 
@@ -261,6 +265,7 @@ Your main tech path focuses on:
 ### C. Flex Techs
 
 **Carrier II (BB) - For Unit Upgrade Objectives:**
+
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** If you need a 2nd unit upgrade for "Develop Weaponry" objective (2 unit upgrade technologies), Carrier II works fine. The extra capacity is useful.
 - **Prerequisites:** 2 blue
@@ -285,16 +290,19 @@ Your main tech path focuses on:
 ### B. Round 2+ Priority
 
 **Love:**
+
 - **Leadership** - Command tokens for fleet spam and production
 - **Trade** - Need trade good income for Munitions Reserves. Economy balance.
 
 **Like:**
+
 - **Technology** - Staying on tech path. Allows for easy double tech to make scary techs come earlier.
 - **Imperial** - Needed once when on Mecatol Rex
 - **Politics** - Agenda control
 - **Construction** - Good until you have no space docks left to build
 
 **Situational:**
+
 - **Warfare** - Only if playing very aggressively. Anti-synergy: moving tokens from fleet pool reduces Armada capacity (you get +2 ships per fleet token). Also conflicts with Hero ability that ignores fleet limits.
 - **Diplomacy** - Rarely useful
 
@@ -307,11 +315,13 @@ Your main tech path focuses on:
 Your ideal fleet composition in each system:
 
 **Minimum core:**
+
 - **1 Destroyer** - For Gravleash movement bonus and screening
 - **1 Carrier** - For capacity
 - **1 Dreadnought** - For combat power and Sustain Damage
 
 **Then add as needed:**
+
 - **Flagship** - Strong flagship for critical systems
 - **Fighters** - Absorb hits
 - **Infantry** - Ground forces

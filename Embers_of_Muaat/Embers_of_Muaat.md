@@ -53,6 +53,7 @@ Late game, you become unstoppable through superior positioning and overwhelming 
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Muaat:** 4 resources / 1 influence
 - **Total: 4 resources / 1 influence (4 optimal resources / 0 optimal influence)**
 
@@ -159,17 +160,20 @@ As a resource-intensive faction built around expensive capital ships, Muaat has 
 Speaker order is not particularly important for Muaat. Prefer to have one neighbor to bully with your war sun rather than optimizing for strategy card picks.
 
 **Priorities:**
+
 - High influence slices - You have 4 resources at home and 2 from Avernus (6 total in kit). Resources are not your bottleneck—you need influence to generate command tokens for production, expansion, and Star Forge activations.
 - Central positioning - War sun has move 1 until upgraded. Being centrally located allows you to threaten multiple opponents and control key systems without excessive movement.
 - One neighbor to bully - Your war sun dominates 1v1 matchups. Having one weak neighbor to pressure is ideal.
 - Entropic Scar access - Allows complete tech path flexibility with its tech skip.
 
 **Nice to Have:**
+
 - Supernova access (Gashlai Physiology moves through them, Magmus Reactor creates PRODUCTION 5 zones in them)
 - Red technology specialties (accelerate path to Prototype War Sun II)
 - High planet count for influence generation
 
 **Avoid:**
+
 - Isolated slices (your slow war sun cannot effectively threaten multiple opponents from isolation)
 - Resource-starved neighbors (hard to extract value through bullying if they have nothing)
 
@@ -196,6 +200,7 @@ Your Round 1 (R1) priority order: **Breakthrough > Production > Scoring > Techno
 Your entire strategy revolves around your war sun's presence and survivability. Losing your war sun cripples your faction since replacement costs 12 resources—a devastating setback that can effectively eliminate you from contention.
 
 **Protection Strategies:**
+
 - Always screen your war sun with fighters and destroyers that can absorb hits
 - Never commit your war sun to combat alone or without supporting fleet
 - Keep action cards like Shields Holding for critical moments
@@ -210,9 +215,11 @@ If you lose your war sun, immediately prioritize rebuilding. You need 12 resourc
 Your war sun begins with move 1, making it extremely slow to project power across the map.
 
 **Problems:**
+
 - Faster factions outmaneuver you and raid territory while your war sun is occupied elsewhere
 
 **Solutions:**
+
 - Rush Prototype War Sun II (move 3) as highest priority tech
 - Build a second war sun to cover more territory
 
@@ -275,16 +282,19 @@ Your R1 priority is establishing economic foundation while protecting your war s
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - Refreshing 4 commodities creates consistent income for Star Forge, war sun production, and tech. Your economic engine.
 - **Leadership** - Command tokens enable Star Forge spam. Leadership R2 helps you produce a second war sun and mechs to unlock Magmus commander. Once unlocked, spending strategy tokens generates trade goods—Star Forge pays for itself.
 - **Imperial** (R3+) - Your war sun makes Mecatol Rex control realistic. Score points while maintaining board presence.
 
 **Like:**
+
 - **Technology** - Progress toward Prototype War Sun II and beyond. Essential until upgrade complete, then situational.
 - **Warfare** - Double usage of big war sun fleets after potential Star Forge stall.
 - **Politics** - Speaker token utility for strategy card selection.
 
 **Situational:**
+
 - **Construction** - Can be potential if you have forward space dock with Avernus.
 - **Diplomacy** - Not useful for defense. Gives opponents too much value.
 

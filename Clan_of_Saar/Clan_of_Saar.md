@@ -26,6 +26,7 @@ Victory comes from wandering the galaxy, scoring objectives through mobile produ
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Lisis II:** 1 resource / 0 influence = 1 optimal resource / 0 optimal influence
 - **Ragh:** 2 resources / 1 influence = 2 optimal resources / 0 optimal influence
 - **Total: 3 resources / 1 influence (3 optimal resources / 0 optimal influence)**
@@ -135,20 +136,25 @@ Try to place Thunder's Edge in an asteroid field—you can always use the extra 
 Saar wants resources for production and mobile positioning for factory flexibility.
 
 **Speaker Order:**
+
 - Speaker order is irrelevant. Prioritize great systems. You can handle any position and love cards others loathe.
 
 **Neighbors:**
+
 - An easier target for invasions is great.
 
 **Slice Priorities:**
+
 - **Asteroid belt** - Priority. Essential for Chaos Mapping and safe factory positioning.
 - **High resources** - You're token efficient since you produce and move with the same token. You got massive production and need resources to spend it.
 - **Favor tech skips (blue/yellow)** - Industrial or cybernetic for Floating Factory II path. Tech skip to get access to Fracture.
 
 **Nice to Have:**
+
 - Path to Mecatol but flexible enough to go to neighbor instead.
 
 **Avoid:**
+
 - Supernova and gravity rift on the way to Mecatol if possible.
 
 ## IV. Round 1 Problems and Faction Weakness
@@ -173,102 +179,39 @@ The table also feels since they can't stop you in the late game by taking your h
 
 ## V. Technology
 
-### A. Starting Technologies
+### A. Overview
 
-**Antimass Deflectors (0-Cost - Blue):**
-- +1 movement for ships with capacity (carriers move 2)
-- Move through asteroids
-- Move through opponent ships without combat (if capacity ship)
-- Opens blue technology path
-- Does NOT count as prerequisite for technologies requiring "blue"
+You start with **Antimass Deflectors** (0-cost Blue), giving carriers move 2, asteroid passage, and access to blue techs. Crucial to combo with your **Chaos Mapping** as asteroid belts are home—where you are and people nearby you are not.
 
-### B. Technology Paths
+You're not very tech dependent—you like more plastic over techs. **Chaos Mapping** is your defining tech and you get it every game. It serves as security and flexibility—being able to produce every single turn either a destroyer or a flagship BEFORE you move is incredible and keeps people guessing on your true strength.
 
-**Primary Path (Floating Factory II Focus):**
+### B. Technology Path
 
-Round 1: **Antimass Deflectors (starting)**
+**R1:** Gravity Drive (B)
+- *Your ships gain +1 movement.*
+- **Why:** Carriers move 3 with Antimass, cruisers move 4, factories move 2. Essential mobility for your mobile fleet.
 
-Round 2-3: **Sarween Tools OR Hyper Metabolism (GG)**
-- Sarween Tools: +1 fighter/infantry per production (economic efficiency)
-- Hyper Metabolism: +1 command token per status phase (sustainability)
-- Need 2 yellow prerequisites for Floating Factory II
+**R2-3:** Chaos Mapping (B - Faction Tech)
+- *Others can't activate asteroids with your ships. At start of turn, produce 1 unit in system with your PRODUCTION.*
+- **Why:** Free unit every turn before movement. Security in asteroid belts. Keeps opponents guessing.
 
-Round 3-4: **Floating Factory II (YY)**
-- Upgrade space docks: Move 2, Capacity 5, Production 7
-- Essential faction technology
-- Requires 2 yellow
+**R3-4:** Carrier II (BB)
+- *Cost 3, Combat 9, Move 2 (3 with Antimass + Grav = 4), Capacity 8, Sustain Damage.*
+- **Why:** Capacity 8 for mass troop transport, movement 4, better combat value.
 
-Round 4-5: **Chaos Mapping (B)**
-- Others can't activate asteroids with your ships
-- Produce 1 unit at start of turn
-- Requires 1 blue
+**R4:** Destroyer II (RR) if you have Deorbit Barrage breakthrough R4
+- *Cost 1, Combat 8, Move 3 (4 with Grav), AFB 9(x2).*
+- **Why:** Cheap screening, AFB 9(x2) for fighter defense. Easy to produce with Chaos Mapping.
 
-Round 5+: **Deorbit Barrage (Blue <> Red) OR unit upgrades**
-- Deorbit: Long-range bombardment from asteroids
-- Alternative: Carrier II (BB), Cruiser II (GYR) for fleet strength
+**R5:** Light/Wave Deflector (RR)
+- *Your ships can move through systems that contain other players' ships.*
+- **Why:** Avoid combat while repositioning factories and fleets. Essential for late game mobility.
 
-**Alternative Path (Unit Upgrades):**
+### C. Flex Techs
 
-Round 2: **Gravity Drive (B)**
-- +1 movement for all ships
-- Stacks with Antimass Deflectors for carriers (move 3)
-- Opens blue path for Chaos Mapping
-
-Round 3: **Carrier II (BB)**
-- Capacity 8, movement 2 (3 with Antimass), combat 9
-- Better for mass troop transport
-
-Round 4: **Sarween Tools**
-- Economic efficiency
-
-Round 5: **Floating Factory II (YY)**
-- Space dock upgrade
-
-### C. Key Technologies
-
-**Floating Factory II (2 Yellow Prerequisites - Faction Tech):**
-*Saar Space Dock: Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.*
-
-- Upgrade from Floating Factory I
-- **Move 2** (dramatically increased mobility)
-- **Capacity 5** (can transport 5 units)
-- **Production 7** (massive production boost from 5 → 7)
-- Essential mid-game technology
-- Requires 2 yellow prerequisites (Sarween Tools + Hyper Metabolism/Neural Motivator)
-
-**Chaos Mapping (1 Blue Prerequisite - Faction Tech):**
-*Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.*
-
-- Prevents opponents from activating asteroids with your ships
-- Area denial tool (control asteroids to block opponents)
-- **At start of turn, produce 1 unit** in system with your production units
-- Free production: +1 fighter/infantry per turn without spending resources
-- Synergizes with multiple Floating Factories (produce 1 unit at each)
-- Requires 1 blue prerequisite (Gravity Drive, Fleet Logistics, etc.)
-
-**Sarween Tools (Yellow):**
-*When 1 or more of your units use PRODUCTION, that unit produces 1 additional hit; that hit must be used to produce fighters or infantry.*
-
-- +1 free fighter or infantry per production
-- Economic efficiency
-- Stacks with Chaos Mapping for 2 free infantry per turn
-
-**Gravity Drive (Blue):**
-*Your ships gain +1 movement.*
-
-- +1 movement for ALL ships
-- Carriers move 3 (base 1 + Antimass +1 + Gravity +1)
-- Cruisers move 4
-- Floating Factories move 2 (base 1 + Gravity +1) if researched before Floating Factory II upgrade
-- Essential mobility technology
-
-**Carrier II (2 Blue Prerequisites):**
-*Cost: 3, Combat: 9, Move: 2 (3 with Antimass), Capacity: 8, Sustain Damage*
-
-- Massive capacity increase (6 → 8)
-- Better combat value
-- Movement 3 with Antimass Deflectors
-- Essential for mass troop transport
+**Floating Factory II (YY - Faction Tech):**
+- *Saar Space Dock: Move 2, Capacity 5, PRODUCTION 7. Placed in space. Can move and retreat as ship.*
+- Doesn't hurt your incredible production to have even more. Worth getting if you happen to be running by an entropic scar. Requires 2 yellow prerequisites.
 
 ## VI. Strategy Cards
 
@@ -297,16 +240,19 @@ Your R1 priority is expansion and building additional Floating Factories for com
 ### B. Round 2+
 
 **Love:**
+
 - **Construction** - Build 2nd and 3rd Floating Factories for commander unlock. Forward factory positioning creates production nodes.
 - **Technology** - Critical for Floating Factory II (move 2, production 7) and Chaos Mapping (free production at start of turn).
 - **Leadership** - Command tokens for factory movement and Scavenge conquests. You need consistent CC income.
 
 **Good:**
+
 - **Imperial** - Needed for scoring R3-R5. Nomadic lets you score without home control.
 - **Trade** - Refresh 3 commodities. Scavenge provides additional TG income from conquests.
 - **Warfare** - Redistribution after mobile factory repositioning. Useful for multi-front expansion.
 
 **Situational:**
+
 - **Politics** - Only if you've expanded to influence planets. Your 1 home influence makes this weak otherwise.
 
 ## VII. Unit Composition and Game Plan
@@ -314,6 +260,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 ### A. Unit Composition
 
 **Early Game Fleet (Rounds 1-2):**
+
 - 2-3 Carriers (transport infantry + Floating Factory)
 - 2-3 Cruisers (fast screening, scouting)
 - 4-6 Fighters (screening)
@@ -322,6 +269,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - 0-1 PDS (low priority)
 
 **Mid Game Fleet (Rounds 3-4):**
+
 - 3-4 Carriers (mass transport)
 - 4-6 Cruisers (screening, fast movement)
 - 6-8 Fighters (screening)
@@ -331,6 +279,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - 1 Flagship (anti-fighter dominance)
 
 **Late Game Fleet (Rounds 5-6+):**
+
 - 4-5 Carriers (Carrier II if researched)
 - 6-8 Cruisers
 - 8-10 Fighters
@@ -341,6 +290,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - 2-4 Mechs (DEPLOY via Scavenge)
 
 **Key Principles:**
+
 - **Floating Factories are your capital ships**: Protect them like flagships
 - Carriers transport factories and infantry
 - Cruisers for speed and screening
@@ -350,6 +300,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 ### C. Game Plan
 
 **Round 1:**
+
 - **Strategy Card:** Construction (4) or Technology (7)
 - **Objectives:** Score territorial objectives (6 planets, 3 ships in non-home)
 - **Expansion:** Move Floating Factory I to high-resource system (3-4 resources), produce ships there
@@ -357,6 +308,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - **Build:** Use Construction to build 2nd Floating Factory (position near different contested area)
 
 **Round 2:**
+
 - **Strategy Card:** Technology (7) or Construction (4)
 - **Objectives:** Score resource-spend OR technology objectives
 - **Tech:** Sarween Tools OR Hyper Metabolism (1st yellow prerequisite)
@@ -364,6 +316,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - **Commander Setup:** Build 3rd Floating Factory if affordable (unlock commander Round 3)
 
 **Round 3:**
+
 - **Strategy Card:** Construction (4) or Imperial (8)
 - **Objectives:** Control Mecatol Rex OR score territorial objectives
 - **Commander Unlock:** Confirm 3 Floating Factories on board (Rowl Sarring unlocks)
@@ -371,6 +324,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - **Factory Positioning:** Move factories to strategic positions (Mecatol adjacent, objective systems, contested areas)
 
 **Round 4:**
+
 - **Strategy Card:** Technology (7) or Imperial (8)
 - **Objectives:** Score Stage II objectives (11 planets, 5+ techs, spend 8 resources)
 - **Hero Unlock:** Reach 3 scored objectives to unlock Gurno Aggero
@@ -378,6 +332,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - **Commander Usage:** Produce infantry at Factory A, place them at Factories B and C for multi-front invasions
 
 **Round 5:**
+
 - **Strategy Card:** Imperial (8) or Warfare (6)
 - **Objectives:** Score Stage II objectives, use hero for critical area denial
 - **Hero Usage:** Gurno Aggero destroys all infantry/fighters adjacent to factory (clear Mecatol defenders OR wipe opponent ground forces)
@@ -385,6 +340,7 @@ Your R1 priority is expansion and building additional Floating Factories for com
 - **Scavenge:** Continue conquests to stockpile trade goods (10-15 total)
 
 **Round 6+:**
+
 - **Endgame:** Convert mobile production into final points
 - **Imperial:** Hold Mecatol for scoring
 - **Factory Mobility:** Reposition factories to score territorial objectives instantly

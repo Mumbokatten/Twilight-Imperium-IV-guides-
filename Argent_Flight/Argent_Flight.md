@@ -51,6 +51,7 @@ Opponents will respect your firepower early. That moment when your 2 destroyers 
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Ylir:** 0 resources / 2 influence = 2 optimal influence
 - **Valk:** 2 resources / 0 influence = 2 optimal resources
 - **Avar:** 1 resource / 1 influence = 0.5 optimal resources + 0.5 optimal influence
@@ -92,6 +93,7 @@ This makes your ANTI-FIGHTER BARRAGE terrifying. After destroying all fighters, 
 **Starting Technologies:**
 
 **Choose TWO of the following:**
+
 - **Neural Motivator** - Provides green prerequisite
 - **Sarween Tools** - Reduces production costs by 1 resource
 - **Plasma Scoring** - Provides red prerequisite and combat boost
@@ -179,9 +181,11 @@ When you activate a system that contains only your units, you may place command 
 Argent Flight is incredibly flexible and can thrive in any speaker position. Your priority is getting a high-value slice:
 
 **Speaker Order:**
+
 - **Flexible for any position** - Argent doesn't need to be first or last. Focus on getting the best slice available rather than speaker position.
 
 **Slice Priorities:**
+
 - **High value slice** - Lots of planets, lots of resources, AND lots of influence. Argent wants it all.
 - **Slight priority to influence** - Your fleets are cheap (destroyers cost 1), so you can afford to spend resources on production while using influence for more activations (command tokens).
 - **Red and blue skips very helpful** - Red skip accelerates Strike Wing Alpha II, blue skip helps Gravity Drive. But you've planned around all scenarios—incredibly flexible.
@@ -189,6 +193,7 @@ Argent Flight is incredibly flexible and can thrive in any speaker position. You
 - **Planets next to Mecatol Rex** - Lets you build PDS and SPACE CANNON approaching fleets before they reach MR. Also makes Intimidate the Council (ships in 2 systems adjacent to MR) easier to score.
 
 **Slice Features (Preferred):**
+
 - High planet count with balanced or influence-leaning resources
 - Tech skips (red/blue ideal, but any skip helps)
 - Multi-planet systems for efficient PDS networks
@@ -234,6 +239,7 @@ You'll need to transition to carriers and heavier ships for capacity, or lean on
 You start with **TWO technologies of your choice** from Neural Motivator (G), Sarween Tools (Y), or Plasma Scoring (R).
 
 **Recommended R1 Tech Choices:**
+
 - **Sarween Tools + Plasma Scoring** - The only reasonable choice. Gives flexibility and easy expansion.
 
 Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance. Deviations available for structure setup if needed.
@@ -265,6 +271,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 **Round 4: DOUBLE TECH ROUND**
 
 **With Wing Transfer Breakthrough:**
+
 - **Gravity Drive (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
   - **Prerequisites:** 1 blue (Sarween Tools counts as blue with B<>Y)
 - **PDS II (RY)** - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
@@ -272,6 +279,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
   - **Why:** Hit adjacent systems with SPACE CANNON. Area denial and PDS spam strategy. Works with your Commander for extra die.
 
 **Without Wing Transfer Breakthrough (or with blue skip):**
+
 - **Antimass Deflectors (B) or Dark Energy Tap (B)** - Get blue prerequisite to join tech path
   - Antimass Deflectors: Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
   - Dark Energy Tap: After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
@@ -303,6 +311,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 5. Carrier II (BB) - Capacity
 
 **Key Notes:**
+
 - **Double tech possible R2, R3, R4** - If you have good economy, you can double tech any of these rounds to accelerate your tech path
 - **Round 4 double tech** - With breakthrough: Gravity Drive + PDS II. Without breakthrough: Antimass/DET + Gravity Drive (skip PDS II)
 - **With Wing Transfer breakthrough:** Sarween counts as blue prerequisite, can get both Gravity Drive and PDS II in R4
@@ -313,6 +322,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 ### C. Diversions
 
 **Scanlink Drone Network (0):**
+
 - **Timing:** Pick up early if your slice is influence-heavy and resource-poor
 - When you activate a system, you may explore 1 planet in that system that contains 1 or more of your units.
 - **Why:** Resource creation through self-activation with Sarween + Scanlink combo. Each exploration gives you resources/commodities while Sarween reduces production costs.
@@ -338,19 +348,23 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 ### B. Round 2+ Priority
 
 **Love:**
+
 - **Trade** - Consistent economy
 - **Leadership** - Command tokens for production secondaries and multi-system presence
 
 **Like:**
+
 - **Technology** - Tech progression toward Strike Wing Alpha II or Aerie Hololattice. Need to take this at least once R2-R4 to stay on your tech path.
 - **Politics** - You have voting power, but voting first limits your kingmaking ability. Good for speaker token and agenda influence.
 - **Imperial** - Pick when ready to score (R3-R4), good for claiming points once you're positioned
 - **Construction** - Always good for building PDS networks and structures with Aerie Hololattice/Magen synergies
 
 **Situational:**
+
 - **Warfare** - Only if playing very aggressively with destroyer spam. The redistribution + free activation can be strong, but not always needed.
 
 **Hate:**
+
 - **Diplomacy** - Rarely useful for Argent. Your strong starting fleet doesn't need defensive plays, and locking systems late game is not worth the strategy card pick.
 
 ---

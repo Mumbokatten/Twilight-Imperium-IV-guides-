@@ -51,6 +51,7 @@ Your three agents are political currency. Every exhaust is a favor someone owes 
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Arcturus:** 4 resources / 4 influence = 2 optimal resources + 2 optimal influence
 - **Total: 4 resources / 4 influence (2 optimal resources / 2 optimal influence)**
 
@@ -177,13 +178,16 @@ Double-use agents or ready opponent agents for favors. Get if optimal agents ava
 Speaker is great. Earlier better but can handle most positions. Looking for friendly trade partners as neighbors.
 
 **Slice Priorities:**
+
 - Flexible slice with high optimal values.
 - Access to Mecatol.
 
 **Avoid:**
+
 - Anomalies in the middle of slice.
 
 **Nice to Have:**
+
 - Entropic.
 - Yellow/green skips for breakthrough and faction tech.
 
@@ -276,15 +280,18 @@ Prefer to have a green or yellow skip.
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - 4 commodities + Artuno banking synergy.
 - **Leadership** - CCs for continued expansion.
 - **Imperial** - Points are points.
 
 **Good:**
+
 - **Politics** - Future Sight TG generation + agenda control.
 - **Technology** - Unit upgrades and Bio-Stims.
 
 **Situational:**
+
 - **Construction** - Solid production for offensive/defensive builds. Forward docks for Sling Relay.
 - **Warfare** - Fleet readying and repositioning.
 - **Diplomacy** - Protect key systems.
@@ -296,6 +303,7 @@ Prefer to have a green or yellow skip.
 ### A. Unit Composition
 
 **Preferred Units:**
+
 - **Flagship** - Your core unit. Start with it on the board.
 - **Carriers** - Transport capacity for objectives.
 - **Mechs** - Create your teleportation network. Mech ability can absorb hits for ships.

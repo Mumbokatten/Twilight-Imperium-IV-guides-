@@ -52,6 +52,7 @@ Opponents will hesitate to attack you once they realize every ship they lose bec
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Acheron:** 4 resources / 0 influence
 - **Total: 4 resources / 0 influence (4 optimal resources / 0 optimal influence)**
 
@@ -176,6 +177,7 @@ Vuil'raith wants combat opportunities and gravity rift access:
 All positions fine except 6th. No neighbor is too scary—you are the least favorite neighbor.
 
 **Slice Priorities:**
+
 - **Gravity rift highway** - Planets on the way to Mecatol with gravity rifts.
 - **High influence slice** - All your units are free, you need tokens.
 - **Not aggressive neighbors** - You will bring it either way.
@@ -183,6 +185,7 @@ All positions fine except 6th. No neighbor is too scary—you are the least favo
 - **Entropic Scar** - Very good. Lets you skip spending on tech and get a sneaky Dimensional Tear II.
 
 **Slice Features to Avoid:**
+
 - **High resource slice** - All your units are free, you need influence for tokens.
 - **Asteroids / Novas in the middle** - Things that make you position your space docks weirdly.
 
@@ -270,15 +273,18 @@ Having the freedom to get 3 unit upgrades and then not spend any more thought on
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Tokens for constant production and expansion.
 - **Imperial** - Scoring points.
 
 **Good:**
+
 - **Politics** - Control agendas and speaker position.
 - **Trade** - Economy boost with 2 commodities.
 - **Construction** - Build more dimensional tears for production and commander unlock.
 
 **Situational:**
+
 - **Diplomacy** - Only for late game scoring. Who would attack you?
 - **Warfare** - Should not be needed.
 - **Technology** - Fine to do secondary.
@@ -290,6 +296,7 @@ Having the freedom to get 3 unit upgrades and then not spend any more thought on
 ### A. Unit Composition
 
 **Preferred Units:**
+
 - **Dreadnoughts** - Sustain Damage capital ships. Capture and reproduce for free.
 - **Carriers** - Transport capacity for invasions. Capture and reproduce for free.
 - **Destroyers** - Cheap fleet power. Once upgraded, excellent AFB.
@@ -298,6 +305,7 @@ Having the freedom to get 3 unit upgrades and then not spend any more thought on
 - **Flagship** - Captures all units destroyed (including your own).
 
 **Avoid:**
+
 - **Cruisers (unupgraded)** - Not worth it.
 - **War Sun** - Too expensive.
 

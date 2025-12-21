@@ -51,6 +51,7 @@ Opponents will try to minimize Pillage by spending TGs before hitting 3, trading
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Moll Primus:** 4 resources / 1 influence
 - **Total: 4 resources / 1 influence (4 optimal resources / 1 optimal influence)**
 
@@ -80,6 +81,7 @@ Pre-combat hit ability. Before combat dice are rolled, choose up to 2 cruisers/d
 Passive theft ability. After a NEIGHBOR (adjacent player) gains TGs or resolves a transaction (trade goods, action card effects, strategy cards, etc.), if they now have 3+ TGs, you may steal 1 TG or 1 commodity from them. This triggers passively—you don't spend actions, it just happens whenever conditions are met.
 
 **Triggers:**
+
 - Neighbor refreshes commodities via Trade strategy (gains TGs → you Pillage 1)
 - Neighbor receives transaction from another player (gains TGs → you Pillage 1)
 - Neighbor activates ability that grants TGs (you Pillage 1)
@@ -135,6 +137,7 @@ ACTION: Place this card faceup in your play area. While this card is in your pla
 Pillage immunity. Give a player immunity from your Pillage as long as they don't activate systems with your units.
 
 **Strategic Usage:**
+
 - **Round 1-2 (R1-R2): Extract a good deal for your PN.** Find a neighbor that won't generate many TGs (low commodities, poor economy) but still wants to pay for your PN. Get value from a neighbor you wouldn't be pillaging much anyway.
 - **Example:** Trade PN to Sardakk/Arborec/Last Bastion for alliance or support for throne. They have low commodity counts so you'd barely pillage them, but they still fear Pillage and will pay for immunity.
 - **Better use:** Befriend aggressive neighbors to let you focus on pirate things elsewhere.
@@ -177,11 +180,13 @@ Cruiser super-upgrade. Requires Cruiser II first, then expedition this breakthro
 ### K. Slice and Draft Considerations
 
 **Speaker Order:**
+
 - **Mentak is too weak to not have a solid position** - You need good slice and neighbor positioning
 - **Probably required to pick low priority card to save your early game** - You may have to draft early to secure proper setup, even if it means lower faction priority
 - **Position near rich neighbors** - Critical for Pillage. Lobby to sit next to Hacan, Empyrean, Jol-Nar, Deepwrought
 
 **Slice Priorities:**
+
 - **Prioritize a strong system nearby if you can't get multiple carriers** - Move 1 carriers limit expansion
 - **Access to wormholes or other players** - You need wormhole access to reach other players for Pillage positioning and expansion
 - **Entropic Scar is beast** - Your faction techs (Mirror Computing, Salvage Operations) are super strong
@@ -189,6 +194,7 @@ Cruiser super-upgrade. Requires Cruiser II first, then expedition this breakthro
 - **Influence planets** - You have 1 influence at home, need influence-heavy planets to balance
 
 **Slice Features to Avoid:**
+
 - **Isolated slices with no wormholes** - Can't access other players easily with Move 1 carriers, limits Pillage opportunities
 - **Low influence slices** - You already have only 1 influence at home, can't afford more resource-heavy planets
 
@@ -220,6 +226,7 @@ Your Round 1 (R1) priority order:
 Pillage only works on neighbors (adjacent players). If your neighbors are poor (Sardakk, Arborec, Last Bastion), Pillage generates minimal value.
 
 **Mitigation:**
+
 - During setup, lobby for seating next to Hacan, Empyrean, Jol-Nar, Deepwrought (wealthy factions)
 - Expand to create new adjacencies mid-game (become neighbors with more players)
 - Fracture is helpful to create new neighbors and expand Pillage opportunities
@@ -230,6 +237,7 @@ Pillage only works on neighbors (adjacent players). If your neighbors are poor (
 The hardest part of playing Mentak is managing diplomacy and dealing with everyone being angry at you. Pillage and Ambush make you a target for retaliation and coalition-building against you.
 
 **Mitigation:**
+
 - Use Promise of Protection strategically to befriend aggressive neighbors
 - Time your Pillage carefully—don't steal from everyone every round
 - Extract promissory notes via Commander to create political leverage
@@ -243,6 +251,7 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 ### A. Core Tech Path
 
 **Starting Techs:**
+
 - **Sarween Tools** - Reduce production costs by 1 resource. Saves 25+ resources over the game.
 - **Plasma Scoring** - +1 die for Space Cannon or Bombardment. Good for home defense and invasions.
 
@@ -308,18 +317,22 @@ Late-game tech to leverage your riches. After you gain control of a planet, you 
 ### B. Round 2+ Priority
 
 **Love:**
+
 - **Leadership** - CCs for expansion and positioning near wealthy neighbors for Pillage
 - **Technology** - Top priority to accelerate to Mirror Computing. Cruiser II and Salvage Operations are essential techs
 
 **Like:**
+
 - **Imperial** - Points are points
 - **Politics** - Agenda control, though low influence limits effectiveness
 - **Construction** - Forward dock for continued production. You also have decent PDS with Plasma Scoring
 
 **Situational:**
+
 - **Trade** - You want people to be rich so you can pillage more. Offer deals like getting a free refresh or X+1 to make people feel comfortable taking Trade. The richer they get, the more you can steal
 
 **Hate:**
+
 - **Warfare** - After round 1
 - **Diplomacy** - Not about defending. Helps others more than you
 
@@ -332,6 +345,7 @@ Late-game tech to leverage your riches. After you gain control of a planet, you 
 Your fleet composition is unique—cruisers operate independently from your main fleet:
 
 **Independent Cruiser Strikes:**
+
 - **2-4 Cruisers (alone)** - Cruisers have move 3 (move 4 with Gravity Drive), allowing sneaky maneuvers
 - Other ships can't follow cruisers due to movement speed difference
 - Send cruisers alone to strike targets, extract promissory notes, and Pillage positioning
@@ -339,6 +353,7 @@ Your fleet composition is unique—cruisers operate independently from your main
 - **Spec Pirate Combo:** Cruisers + Mechs = lethal combination. Cruisers transport mechs (capacity 1), mechs deny Sustain Damage on ground invasions
 
 **Main Fleet (Home Defense & Late Game):**
+
 - **Dreadnoughts** - For late-game slice safety and heavy combat
 - **Carriers** - For capacity and troop transport
 - **Fighters** - Absorb hits
@@ -373,6 +388,7 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 - Convert economic advantage to points
 
 **Diplomacy and Pillage Policy:**
+
 - **Try and keep some semblance of peaceful relations with your cash cows.** You want rich neighbors to stay rich so you can pillage more.
 - **A big part of not making people angry is being fair.** Pillage equally—don't target one player too much. Spread the pain across multiple neighbors.
 - **No one should be exempted unless they pay in other favors.** Don't give away Promise of Protection for free.

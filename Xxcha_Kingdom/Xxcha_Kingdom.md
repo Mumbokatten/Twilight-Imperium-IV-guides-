@@ -52,6 +52,7 @@ Opponents will avoid attacking you once they see your PDS network. That moment w
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Archon Ren:** 2 resources / 3 influence
 - **Archon Tau:** 1 resource / 1 influence
 - **Total: 3 resources / 4 influence (0.5 optimal resources / 3.5 optimal influence)**
@@ -236,16 +237,19 @@ If yellow skip, consider Nullification Field (YY) as flex tech for maximum safet
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - 4 commodities provide consistent economy. Flexibility for tech, production, and objectives.
 - **Technology** - Continue tech path progression toward PDS II and blue upgrades.
 
 **Like:**
+
 - **Imperial** - Scoring is priority since no catchup mechanics. Hard to reach Mecatol.
 - **Diplomacy** - Peace Accords free planet every time. Protection for key systems.
 - **Politics** - Setup objectives, leverage your agenda power with commander.
 - **Leadership** - Secondaries to follow.
 
 **Situational:**
+
 - **Construction** - PDS network and space docks when needed.
 - **Warfare** - Fill out slice or redistribute fleet.
 

@@ -51,6 +51,7 @@ Foresight and initiative define you. Act first when it matters. Vanish when it d
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Druaa:** 3 resources / 1 influence
 - **Maaluuk:** 0 resources / 2 influence
 - **Total: 3 resources / 3 influence (3 optimal resources / 2 optimal influence)**
@@ -171,16 +172,19 @@ You can make deals every time for free strategy tokens—pay a TG here, a TG the
 Prefer strong early value. Positions 1-4 are best. Can handle most neighbors.
 
 **Slice Priorities:**
+
 - **Safe slice** - Your economic tools are very strong (free secondaries, cheap fleet). Can get away with lower res/influence, but more is better always.
 - **High res planets** - Want a few for production capacity.
 - **Mecatol access** - Custodian possibility.
 
 **Nice to Have:**
+
 - **Blue skip** - Very helpful.
 - **Entropic Scar** - Loves it.
 - **Space Station** - TG to trade for PNs.
 
 **Avoid:**
+
 - **Gravity rift/nova/asteroid in path to Mecatol** - Blocks access.
 
 ---
@@ -254,15 +258,18 @@ Strong economic start with bonus action cards. Focus on fighter upgrades. Best p
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - Economy. Abuse your breakthrough to save tokens.
 - **Technology** - Fighter upgrades. Abuse your breakthrough to save tokens.
 - **Imperial** - Score first with initiative-0.
 
 **Good:**
+
 - **Leadership** - Tokens. If table not playing nice with breakthrough deals.
 - **Politics** - Setup Imperial. Advantage of speaker with Commander (know top/bottom agendas).
 
 **Situational:**
+
 - **Warfare** - Aggressive plays. Fleet unlock after attacks.
 - **Construction** - Forward dock.
 - **Diplomacy** - Only for home system lockdown.
@@ -274,6 +281,7 @@ Strong economic start with bonus action cards. Focus on fighter upgrades. Best p
 ### A. Unit Composition
 
 **Preferred Units:**
+
 - **Fighters** - Core unit. Combat 8. Build swarms.
 - **Carriers** - Transport infantry and fighters.
 - **Infantry** - Ground forces.

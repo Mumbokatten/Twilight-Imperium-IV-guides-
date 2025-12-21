@@ -51,6 +51,7 @@ You're behind in tech, behind in points, but scary as hell for anything within r
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Tren'Lak:** 1 resource / 0 influence
 - **Quinarra:** 3 resources / 1 influence
 - **Total: 4 resources / 1 influence (4 optimal resources / 0 optimal influence)**
@@ -183,11 +184,13 @@ Win 5 combats R2-R4 = gain 5 command tokens OR research 5 unit upgrades. You con
 Sardakk wants aggressive positioning and resources:
 
 **Speaker Order:**
+
 - **Prefer positions 1-3** - Breakthrough guarantee in early draft.
 - **Any position acceptable** - Slight favor to weak neighbor.
 - Position matters more for slice composition/planet placements to leverage your commander.
 
 **Slice Priorities:**
+
 - **5+ planets** - Unlock commander (requires 5 non-home planets).
 - **Planets all the way towards Mecatol** - Aggressive positioning for map control.
 - **Balanced slice** - Resource-heavy home system and breakthrough for tokens means balanced slices work fine. You can work around both resource-heavy or influence-heavy slices.
@@ -197,6 +200,7 @@ Sardakk wants aggressive positioning and resources:
 - **Tech skips** - Not needed but welcome to get more avenues for advantageous combats.
 
 **Slice Features to Avoid:**
+
 - **Isolated slices** - Need neighbors to attack for breakthrough rewards.
 - **Anomalies in middle of slice** - Asteroid fields and gravity rifts block movement without tech you won't get early.
 
@@ -241,11 +245,13 @@ You start with **0 technologies.**
 There's really only 1 tech path these days: **AI Development Algorithm + Gravity Drive (B)**. Use N'orr Supremacy to research unit upgrades from combat wins.
 
 **What AI Development Algorithm + Gravity Drive (B) unlocks:**
+
 - AI Development Algorithm + Gravity Drive (B) = 1R + 1B
 - With B<>R synergy: 3 Red OR 3 Blue (interchangeable)
 - AI Dev ignores 1 prerequisite for unit upgrades
 
 **Available unit upgrades via N'orr Supremacy:**
+
 - Carrier II (BB) - ✓
 - Exotrireme II (BBY) - ✓ (AI Dev ignores yellow)
 - Destroyer II (RR) - ✓
@@ -253,6 +259,7 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 - PDS II (RY) - ✓ (AI Dev ignores yellow)
 
 **Cannot research via N'orr Supremacy:**
+
 - War Sun (RRRY) - Needs 1 more red + yellow
 - Infantry II (GG) - Needs 1 more green
 - Space Dock II (YY) - Needs 1 more yellow
@@ -310,15 +317,18 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 ### B. Round 2+
 
 **Love:**
+
 - **Imperial** - There will be bad rounds for Sardakk so Imperial and hopefully an Imperial point is critical to be in the running. Worst case have to use hero if heavily reinforced by a meanie.
 - **Warfare** - Value card. Potential of 2-3 tech and 2-3 tokens from 2 activations.
 
 **Good:**
+
 - **Leadership** - Command tokens for aggression and production.
 - **Politics** - Improve speaker order to solve objectives.
 - **Trade** - 7-9 trade goods. Good to smooth out diplomacy but careful if diplomacy already went bad.
 
 **Situational:**
+
 - **Technology** - Depends on tech needs.
 - **Construction** - Only if needing structures.
 - **Diplomacy** - Limited value.
@@ -330,6 +340,7 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 ### A. Unit Composition
 
 **Preferred Units:**
+
 - **Carriers** - Transport infantry for invasions.
 - **Exotrireme** - BOMBARDMENT and combat power. War sun killer.
 - **Fighters** - Prefer more fighters rather than 1 big exotrireme because of Unrelenting.

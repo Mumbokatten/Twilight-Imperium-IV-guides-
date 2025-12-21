@@ -98,12 +98,14 @@ Deploy infantry directly to any planet you control without needing carriers. Mid
 Pretty bad—just a single bonus roll. But you're already difficult to beat on the ground, and ground combat snowballs quickly since engagements are usually small. An extra hit early can make a big difference, and opponents have to account for it.
 
 **Commander - Claire Gibson:**
+
 - **Unlock:** Control planets that have a combined total of at least 12 resources
 - **Ability:** At the start of a ground combat on a planet you control, you may place 1 infantry from your reinforcements on that planet.
 
 Same theme—always nice but limited. Only triggers at start of ground combat, so can't defend empty planets or planets that get bombarded out first. Still, free infantry on defense is free infantry.
 
 **Hero - Jace X, 4th Air Legion:**
+
 - **Unlock:** Have 3 scored objectives
 - **Helio Command Array:** Remove each of your command tokens from the game board and return them to your reinforcements. Then, purge this card.
 
@@ -154,6 +156,7 @@ Absurd production. Produce a carrier and get infantry/fighters up to its capacit
 Slice priority isn't really a thing for Sol—you handle anything.
 
 **Prefer:**
+
 - Slight resource bias (Versatile and incredibly efficient production)
 - Access to Mecatol
 - Tech skips for Breakthrough
@@ -162,6 +165,7 @@ Slice priority isn't really a thing for Sol—you handle anything.
 - Entropic very strong for tech tempo
 
 **Avoid:**
+
 - Things blocking Mecatol access
 
 ## IV. Round 1 Problems and Faction Weakness
@@ -249,15 +253,18 @@ Your R1 priority is maximizing expansion and establishing production base. Early
 ### B. Round 2+
 
 **Love:**
+
 - **Imperial** - Score objectives. You'll have Mecatol plays available late game.
 - **Leadership** - 3 command tokens + Versatile gives you 4 total. Essential for sustained expansion.
 - **Trade** - Massive production needs massive economy. Refresh 4 commodities.
 
 **Good:**
+
 - **Technology** - One tech per round is fine.
 - **Politics** - Action cards and selling speaker. Setting up scoring.
 
 **Situational:**
+
 - **Warfare** - Fleet mobility for aggressive plays.
 - **Construction** - Additional space docks if needed.
 - **Diplomacy** - Defensive use only. Can protect key planets.
@@ -274,6 +281,7 @@ Your ideal fleet composition in each system:
 - **Flagship (Genesis)** - Cost 8, Combat 5 (x2), Move 1, Capacity 12, Sustain Damage. Free infantry every status phase. Cornerstone of your late game armada. Can be sling relayed to drop 12 units wherever needed.
 
 **Lower Priority:**
+
 - **Dreadnoughts** - Only if you have excess resources and want fleet mobility with Dreadnought II. Your carriers already have Sustain Damage so dreads add less value than for other factions.
 - **Mechs** - Emergency only. With Breakthrough you produce infantry so cheaply that mechs aren't worth the cost. The Deploy ability is overpriced.
 

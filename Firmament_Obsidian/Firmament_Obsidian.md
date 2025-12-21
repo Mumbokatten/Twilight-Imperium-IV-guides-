@@ -22,16 +22,19 @@ After transformation, your entire faction changes. Your home planets flip to Cro
 ### A. Home System & Commodities
 
 **The Firmament Home System:**
+
 - **Cronos:** 2 resources, 1 influence
 - **Tallin:** 1 resource, 2 influence
 - **Total:** 3 resources / 3 influence (2 optimal resources / 2 optimal influence)
 
 **The Obsidian Home System (After Transformation):**
+
 - **Cronos Hollow:** 3 resources, 0 influence
 - **Tallin Hollow:** 3 resources, 0 influence
 - **Total:** 6 resources / 0 influence (6 optimal resources / 0 optimal influence)
 
 **Critical Notes:**
+
 - Transformation DOUBLES your home resources (3 → 6)
 - Transformation ELIMINATES your home influence (3 → 0)
 - When you transform and The Blade's Orchestra triggers, Cronos Hollow and Tallin Hollow ready if you control them
@@ -44,6 +47,7 @@ After transformation, your entire faction changes. Your home planets flip to Cro
 - Siphon plot can supplement income if you puppet a high-commodity faction (Hacan, Winnu)
 
 **Optimal Resource/Influence from Home Worlds:**
+
 - **Firmament:** 2 optimal resources / 2 optimal influence
 - **Obsidian:** 6 optimal resources / 0 optimal influence
 - The transformation represents the single largest economic swing of any faction ability in the game
@@ -51,31 +55,37 @@ After transformation, your entire faction changes. Your home planets flip to Cro
 ### B. Starting Fleet
 
 **1 Carrier:**
+
 - Standard capacity 6 carrier
 - Transports your 3 starting infantry
 - Critical for invasions to score opponent secrets
 
 **1 Cruiser:**
+
 - Standard cruiser (cost 2, combat 7, move 2)
 - Fast screening unit
 - Helps reach distant systems for secret objective scoring
 
 **1 Destroyer:**
+
 - Standard destroyer (cost 1, combat 9, anti-fighter barrage)
 - Screening and combat support
 - Affordable fleet expansion
 
 **3 Fighters:**
+
 - Standard space combat fodder
 - Screen your capital ships
 - Expandable with production
 
 **3 Infantry:**
+
 - Standard ground force complement
 - Critical for planet control to score secrets
 - Neural Parasite tech generates more if researched
 
 **1 Space Dock:**
+
 - Already built at your home system
 - Produce additional ships and ground forces
 - Essential for building invasion fleets to score secrets
@@ -135,11 +145,13 @@ After transformation, your entire faction changes. Your home planets flip to Cro
 This is a critical Round 1 decision that shapes your entire tech path.
 
 **Green Technologies:**
+
 - **Bio-Stims (G)** - Exhaust to sacrifice infantry for command tokens
 - **Hyper Metabolism (GG)** - Gain 3 command tokens instead of 2 during status phase
 - **X-89 Bacterial Weapon (GGG)** - Bombardment ignores planetary shields, destroys all infantry after invasion
 
 **Yellow Technologies:**
+
 - **Sarween Tools** - +1 fighter/infantry per production (most common choice)
 - **Neural Motivator** - +1 command token per status phase
 - **Graviton Laser System** - PDS rolls +1 die for space cannon
@@ -358,6 +370,7 @@ This is a critical Round 1 decision that shapes your entire tech path.
    - Industrial/hazardous planets support diverse tech paths
 
 **Ideal Slice Characteristics:**
+
 - 10-12 resources, 8-10 influence (after home)
 - 2-3 planet types (cultural/hazardous/industrial mix) for secret diversity
 - 1-2 yellow/green technology specialties
@@ -497,6 +510,7 @@ Round 3: **Cruiser II (2 Yellow, 1 Red) OR Destroyer II (2 Red)**
 - Anti-infantry attrition tool
 
 **The Sowing/Reaping Breakthrough:**
+
 - Covered in Section J (Breakthrough)
 - Trade good storage → trade good doubling engine
 
@@ -543,15 +557,18 @@ Your R1 priority is scoring opponent secrets and accumulating plots while avoidi
 **As The Firmament (Rounds 2-3):**
 
 **Love:**
+
 - **Technology** - Push toward Planesplitter, Neural Parasite, breakthrough. Essential for plot engine.
 - **Politics** - Speaker control, action card draw, influence advantage for agendas.
 
 **Like:**
+
 - **Construction** - Space docks for production and expansion infrastructure.
 - **Warfare** - When you need to invade/contest to score opponent secrets.
 - **Trade** - Continue trading Black Ops PN for plots and support.
 
 **Situational:**
+
 - **Leadership** - Command tokens for expansion if needed.
 
 **Transformation Round (Round 3-4):**
@@ -560,11 +577,13 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 **As The Obsidian (Rounds 4-6+):**
 
 **Love:**
+
 - **Imperial** - NOW you want victory points. Prioritize scoring.
 - **Warfare** - Military aggression and Mecatol control.
 - **Construction** - Leverage 6-resource hollow planets for massive builds.
 
 **Like:**
+
 - **Leadership** - Command tokens for sustained aggression.
 - **Technology** - Continue tech path if needed.
 - **Trade** - 3 commodities for economic support.
@@ -574,6 +593,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 ### A. Unit Composition
 
 **Early Game Fleet as Firmament (Rounds 1-2):**
+
 - 1-2 Carriers (transport infantry for invasions)
 - 2-3 Cruisers (fast movement to reach opponent territories)
 - 2-3 Destroyers (screening, anti-fighter)
@@ -583,6 +603,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - 0-1 PDS
 
 **Mid Game Fleet as Firmament (Rounds 2-3):**
+
 - 2-3 Carriers (capacity for infantry)
 - 3-4 Cruisers (mobility for secret scoring)
 - 3-4 Destroyers (screening)
@@ -593,6 +614,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - 0-1 Flagship (if resources permit)
 
 **Post-Transformation Fleet as Obsidian (Rounds 4-5):**
+
 - 3-4 Carriers
 - 4-6 Cruisers OR 2-3 Dreadnoughts (shift to combat focus)
 - 4-6 Destroyers
@@ -604,6 +626,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - 2-4 Mechs (Viper Ex-23 - planet control tool)
 
 **Late Game Fleet as Obsidian (Rounds 5-6+):**
+
 - 4-5 Carriers (Carrier II if researched)
 - 4-6 Dreadnoughts (leverage 6 home resources)
 - 6-8 Cruisers
@@ -616,6 +639,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - 1-2 War Suns (if resources permit via 6-resource hollow planets)
 
 **Key Principles:**
+
 - **Firmament Phase:** Mobility and infantry spam to score secrets
 - **Obsidian Phase:** Military power leveraging 6-resource home economy
 - Mechs for planet control (coexist → steal on transformation)
@@ -624,6 +648,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 ### C. Game Plan
 
 **Round 1 (as The Firmament):**
+
 - **Strategy Card:** Technology (7) or Politics (3)
 - **Starting Tech:** Choose Sarween Tools OR Hyper Metabolism
 - **Expansion:** Claim 2-3 systems, prioritize diverse planet types for secret flexibility
@@ -632,6 +657,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Trade:** Offer Black Ops PN to player whose secret you can easily score (gain plot + 2 command tokens/2 trade goods for them)
 
 **Round 2 (as The Firmament):**
+
 - **Strategy Card:** Technology (7) or Construction (4)
 - **Objectives:** Score 1 public objective, score 1-2 opponent secrets for plots
 - **Tech:** Work toward Planesplitter (YY) or Neural Parasite (GG)
@@ -639,6 +665,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Positioning:** Position ships near opponent territories to use Captain Aroz (treat systems as controlled)
 
 **Round 3 (as The Firmament):**
+
 - **Strategy Card:** Technology (7) or Politics (3)
 - **Objectives:** Score 1 more public, attempt 1 more plot
 - **Tech:** Complete Planesplitter OR Neural Parasite
@@ -646,6 +673,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Transformation Decision:** Assess if ready to transform Round 4
 
 **Round 4 (Transformation Round → become The Obsidian):**
+
 - **Action:** Use Puppets of the Blade to transform
 - **Immediate Effects:**
   - Home planets flip to hollow (6 resources readied)
@@ -657,6 +685,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Plot Leverage:** Use revealed plots (Assail for combat, Enervate for free secondaries, Extract for tech theft, Seethe for unit destruction, Siphon for trade goods)
 
 **Round 5 (as The Obsidian):**
+
 - **Strategy Card:** Imperial (8) or Warfare (6)
 - **Objectives:** Score Stage II objectives (leverage resource advantage)
 - **Hero:** If unlocked (3 scored objectives), use Sharsiss Hollow to ready all planets for economic burst
@@ -665,6 +694,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Expansion:** Control 10+ planets via military conquest
 
 **Round 6+ (as The Obsidian):**
+
 - **Endgame:** Close out victory through military dominance
 - **Imperial:** Hold Mecatol for scoring
 - **Plot Abuse:** Stack plot abilities (fight puppeted players with Assail, use Enervate for free secondaries, copy techs with Extract)
@@ -845,12 +875,14 @@ Your alliance ability grants Plots within Plots (Firmament) or Obsidian benefits
    - **Barony of Letnev:** Military alliance
 
 **What to Demand in Exchange:**
+
 - **Economic Support:** Trade goods, commodities
 - **Political Support:** Votes on agendas (critical post-transformation with 0 influence)
 - **Military Support:** Joint wars vs puppeted players (leverage Assail plots)
 - **Territory Agreements:** Access to opponent territories to score secrets
 
 **Timing Considerations:**
+
 - **Pre-Transformation:** Alliance less valuable (you're weak)
 - **Post-Transformation:** Alliance very valuable (you're strong, 6-resource economy)
 

@@ -48,6 +48,7 @@ Once you take something, it was always yours.
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **[0.0.0]:** 5 resources / 0 influence
 - **Total: 5 resources / 0 influence (5 optimal resources / 0 optimal influence)**
 
@@ -60,6 +61,7 @@ Low commodity count reflects your non-economic focus. You're not a trading facti
 ### B. Starting Fleet
 
 **Fleet Composition:**
+
 - 1 Dreadnought (Super Dreadnought I)
 - 1 Carrier
 - 3 Fighters
@@ -91,6 +93,7 @@ This means a Super Dreadnought with BOMBARDMENT can potentially roll multiple ti
 ### D. Starting and Faction Technologies
 
 **Starting Technologies:**
+
 - **Neural Motivator:** *During the status phase, draw 2 action cards instead of 1.*
 - **Plasma Scoring:** *When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.*
 
@@ -184,11 +187,13 @@ When you conquer a planet, gain infantry equal to its influence value. A 3-influ
 **Speaker Position:** Prefer 1-3 to secure breakthrough and get value from good strategy cards (Technology, Diplomacy).
 
 **Slice Preferences:**
+
 - **INFLUENCE-HEAVY SLICES (CRITICAL)** - You need influence to offset your 5/0 home system. Command tokens require influence. Fealty Uplink breakthrough generates infantry equal to influence value—high-influence planets = more free infantry. Don't fall into the trap of taking resource-heavy slices. You need influence desperately.
 - **Strong systems nearby home system** - Your dreadnoughts are slow (move 1 until upgraded) and you lack mobility early. You need valuable systems adjacent or close to home. Always nice to have a willing neighbor if Mecatol Rex is unavailable.
 - **High-value targets with structures** - Assimilate benefits from conquering planets that have space docks and PDS. If your slice has neighbors with developed infrastructure, you can steal it.
 
 **Draft Considerations:**
+
 - **Tempesta Legendary** - Has to be nearby home system. Gives +1 movement to ships (once per round). Solves your mobility problem early.
 - **Entropic** - Turns you from a faction in trouble to a faction that is trouble.
 
@@ -224,6 +229,7 @@ Secondary issues: You can't claim Mecatol Rex easily and have no voting power du
 ### A. Overview
 
 **Starting Technologies:**
+
 - Neural Motivator - Draw 2 action cards instead of 1 during status phase
 - Plasma Scoring - +1 die to BOMBARDMENT or SPACE CANNON
 - **Note:** Impactful in New Age Path, kinda weak in Blue Path.
@@ -303,15 +309,18 @@ You become an unstoppable monster on the ground with Harrow, easy access to mech
 ### B. Round 2+ Priority
 
 **Love:**
+
 - **Technology** - Keep investing in tech. You need 5-7 technologies to be good.
 - **Trade** - Trade goods solve your economy problems. Take it if available.
 - **Leadership** - Command token economy. Solid every round.
 
 **Good:**
+
 - **Imperial** - Very good for scoring points and actually winning.
 - **Politics** - Setting up flexibility for next round, but usually you have a hand full of action cards anyway.
 
 **Situational:**
+
 - **Diplomacy** - Only for scoring late.
 - **Warfare** - For specific aggressive play.
 - **Construction** - If you got forward dock.

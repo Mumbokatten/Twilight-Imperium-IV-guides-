@@ -52,6 +52,7 @@ Opponents will hate you—you're incentivized to attack everyone, and your power
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Mordai II:** 4 resources / 0 influence
 - **Total: 4 resources / 0 influence (4 optimal resources / 0 optimal influence)**
 
@@ -162,12 +163,14 @@ Nekro needs access to tech-rich opponents and strong planets for military produc
 Can be anywhere. Flexible. Tech-prone neighbors good.
 
 **Slice Priorities:**
+
 - **Strong planets nearby** - Need resources for military production.
 - **Resources over influence** - Can't vote and can get tokens through resources.
 - **Primor / Hope's End** - Helps early game. Lack of ground forces (only 2 infantry to start).
 - **Access to people** - You need to reach opponents for tech theft.
 
 **Avoid:**
+
 - **Gravity rifts to neighbors** - Hard to reach through.
 - **Asteroid fields to neighbors** - Blocks access.
 - **Novas** - Need to have access to people.
@@ -297,6 +300,7 @@ You have X and Y tokens to place on enemy faction technologies. Incredibly hard 
 **Unit upgrades are all good.** Letani 2 (Arborec infantry upgrade) with flagship is a special type of overpowered.
 
 **Notable non-unit upgrade faction techs:**
+
 - **Chaos Mapping (Saar)** - Others can't activate asteroids with your ships. Produce 1 unit in systems with PRODUCTION.
 - **Mirror Computing (Mentak)** - Each trade good worth 2 resources or influence instead of 1.
 - **Aetherstream (Empyrean)** - +1 move for you/neighbors activating adjacent to anomalies.
@@ -328,19 +332,23 @@ Incredibly flexible.
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - CCs fuel your constant aggression. Attack every round.
 - **Warfare** - You attack every round. Unlocking fleets is critical for sustained aggression.
 - **Politics** - Control agendas + Speaker. Use Agent for political trades.
 - **Imperial** - Points are points. Needed rounds 3-5.
 
 **Like:**
+
 - **Trade** - 3 commodities + TGs for military funding.
 - **Diplomacy** - Protect home while invading opponents. Readying for objectives.
 
 **Situational:**
+
 - **Technology** - HATE unless Commander unlocked. Propagation only gives 3 CCs. Take only if you can follow for 3 CCs + 1 tech after Commander unlock.
 
 **Hate:**
+
 - **Construction** - Limited structure needs. Others value this more.
 
 ---
@@ -352,6 +360,7 @@ Incredibly flexible.
 With access to every unit upgrade through tech theft, every unit you have an upgrade for is great.
 
 **Preferred Units:**
+
 - **Infantry** - Extra infantry for flagship. Participate in space combat as ships.
 - **Mechs** - Sustain Damage ground forces. Synergize with flagship for space combat.
 - **Carriers** - Transport armies for invasions.

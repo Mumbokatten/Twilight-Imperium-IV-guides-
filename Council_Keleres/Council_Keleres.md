@@ -54,16 +54,19 @@ Opponents will struggle to predict your moves. That moment when they realize how
 **Home System Options (choose one during setup):**
 
 **Argent Flight:**
+
 - **Ylir:** 0 resources / 2 influence
 - **Valk:** 2 resources / 0 influence
 - **Avar:** 1 resource / 1 influence
 - **Total: 3 resources / 3 influence (2.5 optimal resources / 2.5 optimal influence)**
 
 **Mentak Coalition:**
+
 - **Mol Primus:** 4 resources / 1 influence
 - **Total: 4 resources / 1 influence (4 optimal resources / 0 optimal influence)**
 
 **Xxcha Kingdom:**
+
 - **Archon Ren:** 2 resources / 3 influence
 - **Archon Tau:** 1 resource / 1 influence
 - **Total: 3 resources / 4 influence (0.5 optimal resources / 3.5 optimal influence)**
@@ -201,9 +204,11 @@ Really solid breakthrough that gives a value planet and allows for big lategame 
 Keleres wants flexibility and Mecatol Rex access. Your priorities:
 
 **Speaker Order:**
+
 - **Top 4 preferred** - You want early pick priority to avoid getting stuck with low-value strategy cards. Definitely want to avoid having to pick Warfare.
 
 **Slice Priorities:**
+
 - **Access to Mecatol Rex** - CRITICAL. Your entire strategy revolves around MR control. You need a clear path to MR. I.I.H.Q. Modernization makes you neighbors with everyone near MR, so getting close is essential.
 - **Position for forward space dock** - A planet next to Mecatol Rex where you can build a forward space dock is extremely valuable. This helps you reach and defend MR more easily.
 - **Legendary planets (Hope's End, Primor)** - Help solve your ground force problem (you only have 2 starting infantry).
@@ -211,6 +216,7 @@ Keleres wants flexibility and Mecatol Rex access. Your priorities:
 - **Flexible resources and influence** - You want both. Council Patronage gives you steady TG income, but you still need planets with both resources and influence for production and voting.
 
 **Slice Features to Avoid:**
+
 - **No access to Mecatol Rex** - You MUST be able to reach MR. Avoid isolated slices.
 - **Extreme resource/influence imbalance** - You need both. Pure resource or pure influence slices limit your flexibility.
 
@@ -267,15 +273,19 @@ Get **Sarween Tools** and a **blue tech** (preferably **Gravity Drive (B)**, but
 Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 **Round 1:**
+
 - **Gravity Drive (B)** if needed for expansion, otherwise skip tech R1
 
 **Round 2:**
+
 - **Executive Order (Y)** - You can now draw and vote on agendas whenever you want. This can be devastating - you force people to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic advantage, exhausting opponents' influence planets while keeping yours fresh.
 
 **Round 3:**
+
 - **Agency Supply Network (YY)** - Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system. This means you can produce in two different systems in a single action. **Incredible production:** With Sarween Tools, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. **Insane scaling:** With 3 space docks + Mecatol Rex (PRODUCTION 3), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation with ASN) - you can flood the board with units and reinforce multiple fronts simultaneously.
 
 **Round 4-5:**
+
 - **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **Fleet Logistics (BBB)**, **Predictive Intelligence (YY)** - whatever you need
 
 **Note:** I.I.H.Q. Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
@@ -304,16 +314,19 @@ You have a straightforward and strong tech path that allows for multiple objecti
 ### B. Round 2+
 
 **Love:**
+
 - **Politics** - Agenda control is your strength. Always value Politics.
 - **Trade** - Need trade good income for Law's Order and economy.
 - **Leadership** - Command tokens for production and expansion.
 - **Imperial** - MR points when ready. Custodia Vigilia gives you 2 command tokens when others score Imperial—massive value.
 
 **Good:**
+
 - **Technology** - Staying on tech path.
 - **Construction** - More structures for production scaling.
 
 **Situational:**
+
 - **Warfare** - If playing aggressively.
 - **Diplomacy** - Depends on board state and diplomatic needs.
 

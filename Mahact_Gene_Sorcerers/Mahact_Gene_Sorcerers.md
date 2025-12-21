@@ -53,6 +53,7 @@ Late game, the table realizes you're too strong to stop. You've collected so muc
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Ixth:** 3 resources / 5 influence
 - **Total: 3 resources / 5 influence (5 optimal influence)**
 
@@ -180,19 +181,23 @@ Really strong breakthrough. Can be useful to get a few different techs in yellow
 ### K. Slice and Draft Considerations
 
 **Speaker Order:**
+
 - **Flexible for any position** - Mahact adapts well to any speaker spot. Consider neighbors—you want to be near factions you can fight or deal with.
 
 **Priorities:**
+
 - **Need variety of tech skips** - You need tech flexibility to build your path toward Vaults of the Heir and support your strategy. Really likes blue skips.
 - **Favor resources over influence** - You need a lot of tech and plastic (units). All tools in your kit solve lower influence slices—stolen tokens, Predictive Intelligence, and your 5 influence home system already give you token flexibility.
 
 **Nice to Have:**
+
 - Balanced planet spread with good resource totals
 - Multi-planet systems for flexibility
 - Proximity to multiple factions for token theft opportunities
 - Safety of slice is nice—better to solve token theft diplomatically generally
 
 **Avoid:**
+
 - Low resource slices (you need production capacity for tech and plastic)
 - Anomalies in the middle of slice
 
@@ -311,15 +316,18 @@ Your R1 priority is solving your economy, making early deals, and setting up tok
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - For winning. Crazy stalls in late game and screwing people's token economy. Command token advantage lets you outlast everyone and control the pace.
 - **Imperial** - For winning. Score objectives rounds 3-5 to close out the game.
 
 **Like:**
+
 - **Trade** - For plastic and tech. Converts your deals into resources to fuel production and research.
 - **Politics** - For setting up next round. Speaker token and action cards give you flexibility for future plays.
 - **Technology** - For juicy double techs (aka a tech and a relic).
 
 **Skip:**
+
 - **Diplomacy** - Useless almost always. Planet readying doesn't solve your problems.
 - **Warfare** - Only for specific plays. Rarely worth it unless you have a critical combat setup.
 - **Construction** - Let someone else do it. You'd rather use those resources elsewhere.

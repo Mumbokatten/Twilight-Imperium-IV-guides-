@@ -163,14 +163,17 @@ The super-mech trades 3 powerful mechs (Combat 6 x2 each with Sustain on ground,
 **Neighbors:** No special neighbor requirements. If you want to make offensive plays, ensure opponent slices are adjacent and don't have lots of empty space or anomalies blocking access.
 
 **Slice Priorities:**
+
 - **One of each planet type** - Maximizes fragment variety for relic completion. If you must make concessions, skip green (cultural planets have least fragments).
 - **High planet count** - More exploration opportunities for Distant Suns value.
 
 **Nice to Have:**
+
 - Blue or green tech skip.
 - Hopes End (awesome with super mechs).
 
 **Avoid:**
+
 - Low planet count slices.
 
 ---
@@ -284,15 +287,18 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 ### B. Round 2+
 
 **Love:**
+
 - **Imperial** - Points are points. Take when you can score.
 - **Leadership** - Command tokens for explores and activations.
 
 **Like:**
+
 - **Technology** - Stay on your tech path.
 - **Politics** - Agenda control and speaker trading.
 - **Trade** - 3 commodities for consistent economy.
 
 **Situational:**
+
 - **Construction** - Fine until you have docks that can produce + explore for token efficiency.
 - **Warfare** - Only if you have specific aggressive plays or need fleet readying.
 - **Diplomacy** - Protect key systems or lock down important tiles.

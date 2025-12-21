@@ -49,6 +49,7 @@ You're not a combat faction. Your ships are standard, your units unremarkable. B
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Creuss:** 4 resources / 2 influence, delta wormhole
 - **Total: 4 resources / 2 influence (4 optimal resources / 0 optimal influence)**
 
@@ -153,17 +154,21 @@ Turns your wormhole network into production hubs—no space dock required. Helps
 ### K. Slice and Draft Considerations
 
 **Speaker Order:**
+
 - **First 4 positions** - You really want your breakthrough, so prioritize positions that enable it.
 
 **Slice Priorities:**
+
 - **Wormhole access** - Alpha/beta wormholes in or near your slice are premium value.
 - **Balance or influence bias** - Your breakthrough gives rebates, so you don't need resource-heavy slices.
 - **Fracture access** - With your high mobility, aim to access Fracture.
 
 **Avoid:**
+
 - Slices without wormholes.
 
 **Notes:**
+
 - Entropic Field is very solid. Both your faction techs are solid but just below what you'd normally get from skips.
 
 ## IV. Round 1 Problems and Faction Weakness
@@ -240,15 +245,18 @@ You start with **Gravity Drive (Blue)**. Your tech path is very flexible—go fu
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Free production and resources from wormholes means lower need for resources.
 
 **Good:**
+
 - **Technology** - Keep pushing blue and unit upgrades.
 - **Imperial** - Scoring and Mecatol points.
 - **Trade** - Economy.
 - **Politics** - Setting up objectives.
 
 **Situational:**
+
 - **Warfare** - When you need fleet redistribution or combat.
 - **Construction** - Forward docks if needed.
 - **Diplomacy** - Defensive use.

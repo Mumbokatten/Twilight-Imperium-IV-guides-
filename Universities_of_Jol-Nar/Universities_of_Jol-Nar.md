@@ -57,6 +57,7 @@ Your endgame is about having options nobody else has. You've researched everythi
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Jol:** 1 resource / 2 influence = 0 optimal resources / 2 optimal influence
 - **Nar:** 2 resources / 3 influence = 0 optimal resources / 3 optimal influence
 - **Total: 3 resources / 5 influence (0 optimal resources / 5 optimal influence)**
@@ -162,18 +163,22 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 **Swap targets by color:**
 
 **Blue:**
+
 - Likely to have teched: **Antimass Deflectors** (starting), Gravity Drive (B), **Dark Energy Tap**
 - Hero targets: **Fleet Logistics** (BB), **Light/Wave Deflector** (BBB), Sling Relay (B)
 
 **Green:**
+
 - Likely to have teched: Neural Motivator (starting), Hyper Metabolism (GG)
 - Hero targets: Bio-Stims (G), X-89 Bacterial Weapon Ω (GGG)
 
 **Yellow:**
+
 - Likely to have teched: **Sarween Tools** (starting), **Scanlink Drone Network**
 - Hero targets: **E-Res Siphons** (YY) (faction), **Graviton Laser System** (Y), Predictive Intelligence (Y), Transit Diodes (YY), Integrated Economy (YYY)
 
 **Red:**
+
 - Likely to have teched: Plasma Scoring (starting), Self-Assembly Routines (R)
 - Hero targets: Magen Defense Grid (R), Duranium Armor (RR), Assault Cannon (RRR)
 
@@ -212,6 +217,7 @@ When making a combat roll for this ship, each result of 9 or 10, before applying
 Explosive flagship. Rolls 2 dice at combat 6, but with Fragile you hit on 7+. Each natural 9 or 10 produces 3 TOTAL hits (1 normal + 2 additional).
 
 **Average hits comparison:**
+
 - Jol-Nar flagship (7+, 9-10 = 3 hits): 0.8 avg hits per die × 2 = **1.6 avg hits**
 - Standard flagship (5, x2): 0.6 avg hits per die × 2 = **1.2 avg hits**
 
@@ -230,20 +236,24 @@ When you research technology using the "Technology" strategy card, you may exhau
 Jol-Nar wants tech specialty planets and defensive positioning:
 
 **Speaker Order:**
+
 - No special preference. You get tech acceleration regardless of position through Brilliant.
 - Rich, friendly neighbors who can afford Research Agreement help a lot. Your economy thrives on tech sales.
 
 **Slice Priorities:**
+
 - **Resource-heavy planets** - You need resources for tech and production. Your 5 influence home already covers command tokens.
 - **Planets in mid-slice** - Place PDS on planets in the middle of your slice for security. Covers multiple approach angles.
 - **High planet count** - More planets = more resources for tech research.
 
 **Nice to Have:**
+
 - **Tech specialty planets** - Tech skips let Analytical work without exhausting.
 - **Primor / Hope's End** - Infantry help your early expansion (you only start with 2).
 - **Industrex** - Easy War Sun with your tech advantage.
 
 **Slice Features to Avoid:**
+
 - **Empty mid-slice** - No planets in the middle means nowhere to place PDS for defense.
 - **Low resource slices** - You need resources for tech and production.
 
@@ -324,6 +334,7 @@ With Brilliant, you research 2 techs per round when following Technology.
 - **Hero swap available**—see Hero section for swap targets.
 
 **Notes:**
+
 - Analytical skips 1 prereq on non-unit techs only
 - Adapt based on objectives and neighbors—PDS II earlier if aggressive neighbors, E-Res earlier if you need income
 - Unit upgrades require meeting full prereqs (no Analytical help)
@@ -359,15 +370,18 @@ Your R1 priority is economy and expansion while letting others take Technology f
 ### B. Round 2+
 
 **Love:**
+
 - **Trade** - Refresh 4 commodities. Excellent economy.
 - **Imperial** - Needed for scoring R3-R5.
 
 **Like:**
+
 - **Leadership** - CCs for expansion and production.
 - **Construction** - You love PDS and production capacity.
 - **Politics** - Speaker and agenda control (5 influence home).
 
 **Situational:**
+
 - **Warfare** - Only if playing aggressively.
 - **Diplomacy** - Defensive tool.
 - **Technology** - Only pick if no one took it and you're picking last.

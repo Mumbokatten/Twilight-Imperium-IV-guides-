@@ -51,6 +51,7 @@ If you secure and hold Mecatol Rex, you win. If you can't, you lose. It's that s
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Winnu:** 3 resources / 4 influence
 - **Total: 3 resources / 4 influence (0 optimal resources / 4 optimal influence)**
 
@@ -169,6 +170,7 @@ Winnu needs access to Mecatol Rex and resources for fleet production:
 Loves speaker. Trade is your very best tool—makes a huge difference. Otherwise, any early value is helpful, so try to be early.
 
 **Slice Priorities:**
+
 - **Clear path to Mecatol Rex** - Critical for your MR rush.
 - **Resource-heavy planets** - You need resources for fleet production.
 - **Legendary planets** - Synergize with Commander combat bonus.
@@ -176,6 +178,7 @@ Loves speaker. Trade is your very best tool—makes a huge difference. Otherwise
 - **Hope's End** - Gives you early mechs, which is huge.
 
 **Avoid:**
+
 - **Asteroid fields on the way to Mecatol** - Slows you down.
 - **Gravity rift on the way to Mecatol** - Dangerous and costly.
 - **Entropic Scar** - Not good for you. Let someone else get it. Both your faction techs are niche.
@@ -297,14 +300,17 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 ### B. Round 2+
 
 **Love:**
+
 - **Imperial** - Score points from Mecatol Rex control. Your win condition.
 - **Trade** - Make more plastic and not appear like an easy target. Always good to make friends and have a flexible economy.
 
 **Good:**
+
 - **Leadership** - Command tokens for actions and defense.
 - **Politics** - To be able to secure Imperial.
 
 **Situational:**
+
 - **Diplomacy** - Bonus economy or protecting a key system.
 - **Construction** - Almost useless if you took your slice properly and got structures from mech and MR.
 - **Warfare** - Redistribution or fleet unlock if necessary.
@@ -316,6 +322,7 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 ### A. Unit Composition
 
 **Blue Path Composition:**
+
 - **Carriers** - Your main transport. Upgrade to Carrier II (BB) for move 2 and capacity 6. Essential for moving armies to Mecatol and reinforcing it.
 - **Infantry** - Your ground forces. With Commander (+2 combat), they hit on 6 instead of 8 on Mecatol. Cheap and effective defenders.
 - **Mechs** - Sustain Damage ground forces. Use Reclaimer ability to place free structures when conquering planets. Critical for building your infrastructure.
@@ -323,6 +330,7 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 - **Fighter screen** - Cheap fleet support. Absorb hits and provide fleet presence.
 
 **Red Path Composition:**
+
 - **Carriers** - Transport for infantry and mechs. Upgrade to Carrier II (BB) for move 2 and capacity 6.
 - **Destroyers** - Cheap ships with AFB. Upgrade to Destroyer II (RR) for combat 8 and AFB 6 (x3). More cost-effective than cruisers or dreadnoughts.
 - **Infantry** - Your ground forces. With Commander (+2 combat), hit on 6 on Mecatol. Essential for holding the planet.

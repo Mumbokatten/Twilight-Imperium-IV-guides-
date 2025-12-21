@@ -51,6 +51,7 @@ Opponents will underestimate you until suddenly they realize you have 30+ infant
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Nestphar:** 3 resources / 2 influence
 - **Total: 3 resources / 2 influence (3 optimal resources / 0 optimal influence)**
 
@@ -173,6 +174,7 @@ Securing Psychospore R1 is your top priority.
 When drafting your slice and choosing speaker order as Arborec:
 
 **Speaker Order:**
+
 - **Try to be among the first 3 in speaker order** - Lets you secure key strategy cards (Technology, Production, Leadership) early.
 - **If possible, sit next to a target neighbor** - Position yourself next to a faction you can pressure or extract value from.
 
@@ -182,11 +184,13 @@ When drafting your slice and choosing speaker order as Arborec:
 3. **Tech skip (blue preferred)** - Blue skip enables the blue tech path (Gravity Drive (B), Carrier II (BB), Fleet Logistics (BB)), which is your strongest option. Green/red skips can work for non-blue paths but are less impactful.
 
 **Slice Features to Avoid:**
+
 - **Asteroid fields on the way to Mecatol Rex** - Slows movement and disrupts expansion paths. Very annoying.
 - **Gravity rifts on the way to Mecatol Rex** - Complicates your path to MR. Avoid if possible.
 - **Empty system tiles near your home** - While infantry in space can still produce, you'd rather have planets to land on and control for resources. Empty systems limit your production capacity and waste slice value.
 
 **Neutral/Fine:**
+
 - **Entropic Scar** - Fine but nothing special. Not a priority to seek out.
 - **Planet count (4-6 planets)** - Everyone wants high planet counts. Don't overprioritize this—focus on skips and resources instead.
 
@@ -250,12 +254,14 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 **Round 5:** Fleet Logistics (BB) if skipped R4, otherwise flex for objectives
 
 **Tech Requirements:**
+
 - Yellow skip (for Sarween R1 if you tech early)
 - Red skip (helpful but not required)
 - Green skip (bonus)
 - Blue skip (nice): Allows you to skip Dark Energy Tap/Antimass Deflectors and go straight to Gravity Drive (B) or take greedy Sarween Tools path
 
 **Pros:**
+
 - Dark Energy Tap synergizes with spreading out across the map
 - Carrier II (BB) + Gravity Drive (B) = best mobility in game
 - Fleet Logistics (BB) enables winning maneuvers late game
@@ -263,6 +269,7 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 - More solid and reliable overall
 
 **Cons:**
+
 - No Letani Warrior II (skips faction tech entirely)
 - Takes until R4 for full power
 
@@ -292,12 +299,14 @@ Alternative path focused on economy and ground force power. No blue techs requir
 **Note:** You may swap Letani Warrior II for a colored tech if objectives require specific tech colors.
 
 **Pros:**
+
 - Sarween and Biostims provide strong economy/resource generation
 - Destroyer II (RR) gives fleet combat power
 - Can get X-89 R5 with green skip for lethal ground combat
 - Can get Letani Warrior II R5 as fallback
 
 **Cons:**
+
 - Move 1 carriers remain a bottleneck all game
 - Less reliable than blue path
 - Slower than blue path to get mobility
@@ -342,19 +351,23 @@ Your Round 1 (R1) priority is securing **Psychospore breakthrough expedition** (
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Spam production all turn. This is your best friend R3-R5.
 - **Trade** - 3 commodities means 3 TG per refresh. Always good to have flexible economy.
 - **Imperial** - You need MR points. Take this R3-R4 when you can hold MR.
 
 **Like:**
+
 - **Politics** - Agenda control is always good.
 - **Technology** - Staying on your tech path is valuable and saves you from spending 6 resources to double tech. Really consider the value of the tech before taking Technology primary - resources saved aren't always worth the strategy card slot.
 
 **Situational:**
+
 - **Diplomacy** - Only useful R1 or late game for key system lockdowns (note: Mecatol Rex cannot be locked). Otherwise skip.
 - **Warfare** - Only take if you have a specific aggressive play in mind. Otherwise not worth it.
 
 **Hate:**
+
 - **Construction** - New construction primary trolls you (opponents get free structures while you don't need them). No need for PDS/production facilities. Only take if structure objectives force you to.
 
 ---
@@ -387,6 +400,7 @@ You have three main strategic paths to choose from Round 2-3 (R2-R3):
 3. **Fracture Strategy (3rd Option)** - If The Fracture is in the map and you have an **ingress portal (wormhole) in your slice**, this can be a bonus opportunity.
 
 **When to Choose Fracture:**
+
 - **No one is grabbing Fracture** (bonus opportunity)
 - **Mecatol Rex looks scary** (heavily contested or dangerous)
 - **No vulnerable neighbor factions** (everyone around you is strong)

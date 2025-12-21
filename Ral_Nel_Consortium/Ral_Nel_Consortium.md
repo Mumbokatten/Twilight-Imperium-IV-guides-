@@ -91,6 +91,7 @@ Your defining ability. Transport PDS and Space Docks with your fleet, deploy on 
 **Starting Technologies:** Choose 1 red or green technology with no prerequisites.
 
 **Recommendations:**
+
 - **AI Development Algorithm (Red)** - Best for tech path efficiency
 - **Neural Motivator (Green)** - Flexible opener for action cards
 
@@ -162,16 +163,19 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 **Speaker Priority:** Mid-priority (3-5)
 
 **Priorities:**
+
 - **Defensible slice** - Your reactive abilities work best when you can predict attack vectors
 - **Adjacent systems for Survival Instinct** - Need systems close together for ship consolidation
 - **Production planets** - Your home is only 3 resources; need strong expansion targets
 
 **Nice to Have:**
+
 - Yellow or green tech skip (works with Y<>G breakthrough)
 - Systems with multiple planets (deploy structures after conquest)
 - Wormholes for Linkship positioning flexibility
 
 **Avoid:**
+
 - Isolated slices (Survival Instinct needs adjacent systems)
 - Slices with poor production capacity
 
@@ -292,15 +296,18 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Token economy essential for flexible play. You need tokens for Survival Instinct positioning.
 - **Trade** - Economic flexibility. 4 commodities still valuable.
 
 **Like:**
+
 - **Technology** - Linkship II, Carrier II, Fleet Logistics all critical. Tons of good tech to research.
 - **Imperial** - Score objectives. Start pushing for points.
 - **Politics** - Speaker priority and action cards. Data Skimmer loves action card flow.
 
 **Situational:**
+
 - **Construction** - No need after first space dock placed. Miniaturization lets you move it.
 - **Warfare** - Budget Saar with mobile space dock.
 - **Diplomacy** - Only for objectives.

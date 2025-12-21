@@ -105,12 +105,14 @@ Would really not recommend. People rarely will be forced to give you something u
 Superb. Keeps your strong economic leverage—you just keep getting to those empty systems, keep getting those explores, and find value where people usually cannot.
 
 **Commander - Xuange:**
+
 - **Unlock:** Be neighbors with all other players
 - **Ability:** After another player moves ships into a system that contains 1 of your command tokens, you may return that token to your reinforcements.
 
 Great for ensuring you don't get screwed out of scoring. If you send ship somewhere for objective and people blow you out, you can retaliate and grab it right back. Very helpful for winslaying—coordinate with table to walk big fleet somewhere to bring someone down.
 
 **Hero - Conservator Procyon:**
+
 - **Unlock:** Have 3 scored objectives
 - **Multiverse Shift:** Place 1 frontier token in each system that does not contain any planets and does not already have a frontier token. Then, explore each frontier token that is in a system that contains 1 or more of your ships. Then, purge this card.
 
@@ -159,16 +161,19 @@ When you activate a system that contains or is adjacent to a unit or planet you 
 **Speaker Priority:** Whatever, you can handle anything. Prioritize slice. Obviously having some cool trading partners as neighbors is always helpful.
 
 **Slice Priorities:**
+
 - **Lots of empty systems** - Exploration is your core strength.
 - **Wormholes** - Ability to move around the map.
 - **Best overall slice** - You have great token economy with home system + agent. Aim for slightly more resource-heavy but prioritize getting best overall slice. Solve res/inf distribution with your TGs.
 
 **Nice to Have:**
+
 - Fracture access (very helpful).
 - Systems with anomalies (supports Aetherstream).
 - Entropic Scar (both techs worth a token).
 
 **Avoid:**
+
 - Awkward asteroid/supernova in middle of your slice.
 
 ## IV. Round 1 Problems and Faction Weakness
@@ -253,15 +258,18 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 ### B. Round 2+
 
 **Love:**
+
 - **Imperial** - Score objectives. Mobility via Aetherpassage enables Mecatol control.
 - **Leadership** - Command tokens for continued expansion and activations.
 - **Trade** - Refresh 4 commodities for consistent economy. Dark Pact provides additional value.
 
 **Like:**
+
 - **Technology** - Continue Aetherstream path.
 - **Politics** - Setup for objectives. Voting power with 4 influence.
 
 **Situational:**
+
 - **Construction** - Only if you need additional space docks for expansion.
 - **Warfare** - Fleet token return useful for specific aggressive plays or repositioning.
 - **Diplomacy** - Only for key defensive plays and if you need more resources for scoring objectives.

@@ -47,6 +47,7 @@ And you have the tools to act on that information when no one can react. Stall T
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Retillion:** 2 resources / 3 influence
 - **Shalloq:** 1 resource / 2 influence
 - **Total: 3 resources / 5 influence (0 optimal resources / 5 optimal influence)**
@@ -155,15 +156,18 @@ People will sometimes pay for a stall or Scheming use, but two problems: do you 
 ### K. Slice and Draft Considerations
 
 **Speaker Order:**
+
 - **Prefer top 4** - Grab valuable strategy cards. Peaceful neighbors help.
 
 **Slice Priorities:**
+
 - **Balanced or high-res slice** - Counter your high influence home system with resources for production.
 - **Green skip** - Speeds up faction tech access.
 - **Entropic Scar** - Two fantastic faction techs that let you focus on other stuff instead of going deep green.
 - **Legendaries** - Hope's End (draw 2 action cards!) and Garbozia (take action cards back from discard) are incredible for you.
 
 **Avoid:**
+
 - **Top heavy slices** - Best planets far away is bad for your low mobility.
 - **You're always a target** - Plan accordingly.
 - **Funny stuff in the middle** - Asteroids, supernovas, nebulae blocking your path.
@@ -272,15 +276,18 @@ There is really no argument for skipping Mageon Implants. It is incredibly impac
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Your stalling tactics are unmatched.
 - **Technology** - Increase late game swing options and get early Mageon.
 
 **Good:**
+
 - **Politics** - Action cards and agenda control.
 - **Imperial** - Scoring and action card draw.
 - **Trade** - Economy and ally-making.
 
 **Situational:**
+
 - **Warfare** - When you need fleet redistribution.
 - **Diplomacy** - Can be used for defense since you're prone to being attacked.
 - **Construction** - Forward docks if needed.

@@ -53,6 +53,7 @@ Unpredictability is your weapon. Opponents can't defend everywhere, and your bre
 ### A. Home System & Commodities
 
 **Home System:**
+
 - **Ahk Creuxx:** 4 resources / 2 influence
 - **Total: 4 resources / 2 influence (4 optimal resources / 0 optimal influence)**
 
@@ -126,12 +127,14 @@ Home system production is slow. Works well with Hero—rebuild ships and place o
 Enables 2-move expansion: Send carrier out to take a system, swap carrier with destroyer, take another system. For expansion you have 2 carriers worth of capacity, but your defense will have 1 carrier (with fighters). Your slice can become weak if you rely too much on swapping instead of building proper defense. Also useful late game for surprise flagship positioning (build at home, swap to Mecatol Rex).
 
 **Commander - Ahk Siever:**
+
 - **Unlock:** Place a breach token in a system that contains another player's unit
 - **Ability:** At the end of a combat between any players, gain 1 commodity or convert 1 of your commodities to a trade good
 
 Your commander converts combat into economy. Every combat in the game generates value for you. Best strategy: Give your alliance to a neighbor to enable "washing"—you both gain commodities/TGs from table-wide combat. You only have 2 commodities, so you'll convert frequently.
 
 **Hero - Homesick Phantom:**
+
 - **Unlock:** Have 3 scored objectives
 - **Fragment Reality:** When you produce ships, you may place any of those ships onto this card. At the start of a space combat, you may purge this card to place all ships from this card into the active system.
 
@@ -180,16 +183,19 @@ This breakthrough is essential to your strategy. The +1 movement from home/breac
 Anything high value works. Very flexible since your breakthrough is unlocked. Avoid early aggressive neighbor if possible.
 
 **Must Have:**
+
 - Access to Mecatol Rex or The Fracture (breach networks enable distant objectives)
 - 1-2 high-resource planets (you need production capacity)
 - Wormholes (place destroyers for sneaky breach placements via wormhole adjacency)
 
 **Nice to Have:**
+
 - Blue or red tech skips (for Fracture—you roll for Fracture right away with these colors)
 - Entropic Scar (solid faction tech—Exile II or Subatomic Splicer)
 - Space Station (bonus commodity value)
 
 **Avoid:**
+
 - Ultra-low influence slices (even if you get comms later, too low influence early is annoying)
 
 ## IV. Round 1 Problems and Faction Weakness
@@ -249,12 +255,14 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 ### D. Flex Technologies
 
 **High Value:**
+
 - **Assault Cannon (RRR)** - Same timing as hero. Immune to Skilled Retreat.
 - **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
 - **Fleet Logistics (BB)** - If needed.
 - **War Sun (RRRY)** - AI Development Algorithm + B<>R synergy enables. Requires wealth.
 
 **Situational:**
+
 - **Fighter II (GB)** - Heavy fighter hero strategy.
 
 ## VI. Strategy Cards
@@ -284,15 +292,18 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Tokens for breach activations.
 - **Imperial** - Scoring points. Round 2-3 custodians or Mecatol bonus.
 
 **Good:**
+
 - **Trade** - Refresh 2 commodities. Extra plastic.
 - **Technology** - Exile II, support techs. Extra plastic.
 - **Politics** - Speaker control.
 
 **Situational:**
+
 - **Construction** - Forward dock for production capacity if needed.
 - **Warfare** - Secondary only. Primary pointless with agent.
 - **Diplomacy** - Late game scoring only.
@@ -302,6 +313,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 ### A. Unit Composition
 
 **Preferred Units:**
+
 - **Destroyers** - Your special Exile units. Prioritize these for breach placement and AFB.
 - **Carriers** - Transport capacity. Don't overbuild—agent enables 2-move strategy with 1 carrier.
 - **Fighters** - Stack on hero. With Quietus flagship, HP wins fights (no Sustain Damage for enemies).
@@ -310,6 +322,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 - **Flagship** - Closer for Mecatol/Styx. Strips enemy unit abilities in breach systems.
 
 **Not Recommended:**
+
 - **Dreadnoughts** - Expensive. Carriers/Destroyers/Fighters better for breach mobility.
 
 ### B. Game Plan

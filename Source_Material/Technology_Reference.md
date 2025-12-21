@@ -89,6 +89,7 @@
 **Reference:** TI_4 Evernoob's Super Cheat Sheet 1.6 - Technology.tsv
 
 **Prerequisite Key:**
+
 - No letter = No prerequisites (base technology)
 - (B) = 1 Blue tech required
 - (BB) = 2 Blue techs required

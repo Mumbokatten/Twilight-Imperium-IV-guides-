@@ -89,10 +89,12 @@ Your unique space dock. Increases planet resources by +1. Core unit for transfor
 **Starting Technologies:** Choose 1 blue or yellow technology with no prerequisites.
 
 **Blue:**
+
 - **Antimass Deflectors** - Move through asteroids, -1 to enemy SPACE CANNON. If your slice has a lot of/key asteroid belts.
 - **Dark Energy Tap** - Explore frontier tokens, retreat flexibility. If you have empty systems for bonus value.
 
 **Yellow:**
+
 - **Sarween Tools** - Reduce production cost by 1. If you want to smooth out early game on top of getting to your faction docks.
 - **Scanlink Drone Network** - Explore 1 planet per activation. Would not suggest.
 
@@ -157,11 +159,13 @@ When you produce ships, you may exhaust this card to place those ships in a syst
 **Speaker Order:** Earlier the better. Flexible overall.
 
 **Slice Priorities:**
+
 - **Balanced resources/influence** - Your docks give bonus resources and your home system offers almost 2 tokens worth from Ordinian.
 - **High planet count** - More opportunities for Helios docks and Liberate.
 - **Lower-resource planets** - Easier to Liberate (1-3 resource planets).
 
 **Nice to Have:**
+
 - 1/3 planets for bonus token in early game.
 - Blue tech skip.
 - Yellow/red tech skips with your breakthrough—get Helios V2 using red as yellow prereqs, then pivot into blue for movement and flex techs. Skips long War Sun detour while getting economic docks.
@@ -169,6 +173,7 @@ When you produce ships, you may exhaust this card to place those ships in a syst
 - Compact slice.
 
 **Avoid:**
+
 - High-resource planets only (3+ resource planets require too much infantry for early economic boost from Liberate).
 - Anomalies or empty systems in middle of your slice.
 - Spread out slices.
@@ -285,15 +290,18 @@ Both paths require The Icon breakthrough for Helios V2 via Y<>R synergy.
 ### B. Round 2+
 
 **Love:**
+
 - **Leadership** - Build in all your space docks.
 - **Imperial** - Final push.
 
 **Like:**
+
 - **Construction** - Until you have all space docks.
 - **Technology** - Can be good to double tech to get bonus flex techs in late game.
 - **Trade** - Flexible economy.
 
 **Situational:**
+
 - **Warfare** - Can be needed for mobility of strong fleet.
 - **Politics** - Setup and objective prep.
 - **Diplomacy** - Only for extreme defensive purposes or specific objectives.
