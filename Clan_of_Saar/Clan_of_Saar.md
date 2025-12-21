@@ -282,23 +282,23 @@ Take Mecatol Rex and hold it. Your mobile production and Nomadic ability make yo
 
 **Late Game (Rounds 5+):**
 
-Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—devastating swing turn for Mecatol defense or wiping opponent ground forces. Light/Wave Deflector lets you avoid combat while repositioning factories. Your mobility and Nomadic ability let you score objectives while abandoning your home system. Win through territorial control, Mecatol points, and mobile production.
+Use hero for a key fight. Nomadic allows you to focus on objectives without worry. Go for Styx to make that final push. Win through territorial control, Mecatol points, and mobile production.
 
 ## VIII. Objectives
 
 ### A. Objective Summary
 
-**Strengths:** Saar dominates movement and positioning objectives with mobile Floating Factories and flexible production placement. Scavenge ability makes trade good spending objectives achievable, and tech objectives are easy with strong tech paths.
+**Strengths:** Saar dominates movement and positioning objectives with mobile Floating Factories and flexible production placement. Scavenge ability makes trade good spending objectives achievable. Tech objectives are easy with strong tech paths. Structure count objectives are natural—Floating Factories count as structures.
 
-**Weaknesses:** Structure objectives are challenging since Floating Factories are in space rather than on planets. Influence spending can be difficult with weak home system economy, requiring aggressive expansion to compensate.
+**Weaknesses:** Influence spending is difficult with weak home system (1 influence). Tech specialty planet control requires aggressive expansion. Agenda objectives don't align with faction strengths.
 
 ### B. Stage I Objectives
 
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
 | **Spendies**                                                            |        |
-| Erect a Monument (Spend 8 resources)                                    | 🟡     |
-| Sway the Council (Spend 8 influence)                                    | 🔴     |
+| Erect a Monument (Spend 8 resources)                                    | 🟢     |
+| Sway the Council (Spend 8 influence)                                    | 🟡     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
@@ -310,8 +310,8 @@ Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | **Ships in Systems**                                                    |        |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
-| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
 | Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
 | Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
@@ -319,8 +319,8 @@ Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—
 | Diversify Research (Own 2 tech in each of 2 colors)                     | 🟡     |
 | Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
 | **Structure**                                                           |        |
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
+| Build Defenses (Have 4 or more structures)                              | 🟢     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -330,20 +330,20 @@ Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—
 |--------------------------------------------------------------------------|--------|
 | **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟡     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟢     |
 | **Ships in Systems**                                                     |        |
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
 | Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟢     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
@@ -351,27 +351,27 @@ Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—
 | Monopolize Production (Control 4 industrial planets)                     | 🟡     |
 | Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
 | Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟢     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
+| Stake Your Claim (Control planet in contested system)                   | 🟢     |
+| Become a Martyr (Lose control of planet in home system)                 | 🟢     |
 | **Tech**                                                                 |        |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🔴     |
 | Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
 | **Structure/Units**                                                      |        |
-| Establish a Perimeter (Have 4 PDS on board)                             | 🟡     |
+| Establish a Perimeter (Have 4 PDS on board)                             | 🔴     |
 | Fuel the War Machine (Have 3 space docks)                               | 🟢     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
 | **Other**                                                                |        |
 | Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
 | Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 | Prove Endurance (Last to pass)                                          | 🔴     |
 
@@ -382,30 +382,30 @@ Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
 | **Spendies**                                                             |        |
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
-| Found a Golden Age (Spend 16 resources)                                  | 🟢     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| Found a Golden Age (Spend 16 resources)                                  | 🟡     |
 | Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
 | Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
 | **Control**                                                              |        |
 | Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
 | Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
 | Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
 | Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
 | Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
 | **Ships in Systems**                                                     |        |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
 | Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
 | Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
 | **Tech**                                                                 |        |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🔴     |
 | **Structure**                                                            |        |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟡     |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
@@ -413,39 +413,23 @@ Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—
 
 ## IX. Alliance Priority
 
-Your alliance ability (granting Scavenge to ally) is **moderately powerful** and best traded to aggressive conquest factions.
+Trading for other factions' Alliance promissory notes (which give you access to their Commanders) can significantly boost your strategy. Here are the top alliances to prioritize:
 
-**High-Value Alliance Partners:**
+**Top Tier:**
 
-1. **Aggressive Expansion Factions:**
-   - **L1Z1X Mindnet:** Conquest-focused; Scavenge amplifies their expansion economy
-   - **Barony of Letnev:** Dreadnought invasions; benefits from Scavenge TGs
-   - **Sardakk N'orr:** Combat-focused; conquers many planets
-   - **Sol Federation:** Expansion-heavy; Scavenge accelerates their economy
+1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Incredible combo with Chaos Mapping—produce one free flagship every turn.
+2. **Crimson Rebellion (Ahk Siever)** - At end of combat, gain commodity/TG. Excellent for combat-heavy Saar.
+3. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. Good TG income for Saar's token-heavy playstyle.
+4. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planet systems. Excellent for holding Mecatol Rex.
+5. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Fantastic synergy—you produce constantly with multiple factories.
+6. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION limit. Extra production capacity—fantastic with multiple factories.
 
-2. **Trade-Goods-Hungry Factions:**
-   - **Jol-Nar:** Need TGs for technology research
-   - **Xxcha:** Benefit from TG income for technologies
-   - **Nomad:** TG-based economy synergizes with Scavenge
+**Good:**
 
-**Low-Value Alliance Partners:**
-
-- **Hacan:** Trade faction; don't need Scavenge TGs
-- **Winnu:** Weak military; won't conquer many planets
-- **Ghosts of Creuss:** Don't conquer as heavily
-
-**What to Demand in Exchange:**
-
-- **Economic Support:** Trade goods, commodities (you have 3 commodities + Scavenge)
-- **Political Support:** Votes on agendas (you have 1 influence)
-- **Territory Agreements:** Non-aggression pacts, shared Mecatol control
-- **Agent Trades:** Offer Captain Mendosa for high-move ships in exchange for support
-
-**Timing Considerations:**
-
-- Early alliance (Rounds 1-2): Secures non-aggression, helps conquest plans
-- Mid alliance (Rounds 3-4): Enables joint Mecatol conquest or shared objectives
-- Late alliance (Rounds 5-6): Avoid empowering competitors; only if necessary
+7. **Deepwrought (Aello)** - When others research tech, gain commodity/TG if they take -1 discount. Passive TG income.
+8. **Naaz-Rokha (Dart and Tai)** - After you gain control of planet from another player, explore it. Extra value from conquest-heavy playstyle.
+9. **Mentak Coalition (S'ula Mentarion)** - Force opponent to give PN after winning space combat. Useful for acquiring alliances you need.
+10. **Ral Nel Consortium (Watchful OJZ)** - When you declare retreat, immediately retreat up to 2 ships to adjacent system. Enhanced retreat for protecting factories and flagship.
 
 ## X. Bonus Game Elements
 
@@ -461,30 +445,10 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-The Clan of Saar are Twilight Imperium's **mobile production masters**, fundamentally rewriting the rules of infrastructure and expansion. Your success depends on **protecting Floating Factories, leveraging Scavenge for economic snowball, and using mobility to score objectives before opponents can react**.
+Clan of Saar is the faction for players who understand that stationary infrastructure is a limitation. Your Floating Factories rewrite TI4's fundamental rules—produce in space, retreat from combat, reposition across the galaxy. Combined with Scavenge income and Nomadic scoring, you operate with freedoms other factions don't have.
 
-**Key Principles for Success:**
+Your strength is mobility and aggressive expansion. Grab your entire slice Round 1 and fund it through Scavenge. Build 3 factories early for commander unlock. Position factories in asteroid belts with Chaos Mapping for security and free production every turn. Take Mecatol Rex and hold it through mobile reinforcement. When opponents threaten your home, you've already abandoned it—Nomadic lets you score without looking back.
 
-1. **Protect Your Floating Factories:** They are vulnerable to blockades and combat. Retreat them when threatened; losing a factory is catastrophic.
-
-2. **Build 3 Factories Early:** Unlock commander (Rowl Sarring) by Round 2-3 with 3 space docks. Distributed production is game-changing.
-
-3. **Scavenge Aggressively:** Every planet conquered = 1 trade good. Conquer 10 planets = 10 trade goods. This funds technologies, units, and mech DEPLOYs.
-
-4. **Leverage Nomadic:** Don't defend your home system if it's not strategically valuable. Float factories to better positions; Nomadic lets you abandon home without penalty.
-
-5. **Research Floating Factory II ASAP:** Move 2, Production 7 factories are essential. Prioritize this by Round 3-4.
-
-6. **Commander + Multiple Factories:** Produce infantry at Factory A, place them at Factories B and C instantly for multi-front invasions.
-
-7. **Chaos Mapping Free Production:** Produce 1 free unit per turn at each production unit. With 3 factories, that's 3 free infantry/fighters per turn.
-
-8. **Hero for Critical Denial:** Gurno Aggero destroys all infantry/fighters adjacent to your factory. Clear Mecatol defenders or wipe opponent armies.
-
-9. **Mech DEPLOY Synergy:** Scavenge generates TGs; spend them to DEPLOY mechs instantly on conquered planets.
-
-10. **Factory Positioning:** Position factories near objectives, Mecatol, and contested areas. Move them 2 spaces per activation with Floating Factory II.
-
-Clan of Saar rewards **strategic positioning, factory management, and aggressive conquest**. Your mobile production breaks traditional TI4 rules, enabling you to score objectives and produce fleets in ways no other faction can match. Master factory protection, Scavenge economy, and commander utilization to dominate through superior flexibility.
+When you master Saar, the galaxy bends to your production. Factories move with your fleets. Commander distributes infantry and fighters across multiple docks. Your mobility lets you reach Styx, Fracture, and objectives that others struggle with. Opponents can't pin you down—you're already somewhere else, producing another fleet.
 
 **The Clan roams the stars. Production knows no borders.**
