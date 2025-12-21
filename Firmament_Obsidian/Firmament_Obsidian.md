@@ -1,3 +1,8 @@
+<nav class="page-nav">
+<a href="../index.html" class="back-link">Back to Index</a>
+<a href="Firmament_Obsidian.md" download class="download-link" title="Plain text file - safe to download">Download .md</a>
+</nav>
+
 # The Firmament / The Obsidian Comprehensive Strategy Guide
 
 ![Firmament Obsidian Faction Sheet](FirmamentSheet.jpg)

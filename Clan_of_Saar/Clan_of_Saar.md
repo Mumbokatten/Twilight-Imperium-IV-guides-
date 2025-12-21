@@ -278,7 +278,7 @@ Grab your entire slice and maybe more. Your Floating Factories let you produce a
 
 **Mid Game (Rounds 3-4):**
 
-Take Mecatol Rex and hold it. Your mobile production and Nomadic ability make you excellent at controlling MR—even if opponents threaten your home system, you can still score. Commander unlocks with 3 factories—produce infantry at one dock and place them at any other for reinforcing Mecatol or multi-front invasions. Get Chaos Mapping to produce 1 unit every turn before movement. If Fracture is unlocked, go into it—add planets and relics to your total. Your mobility lets you reach legendary planets others can't. Build flagship for combat power.
+Take Mecatol Rex and hold it. Your mobile production and Nomadic ability make you excellent at controlling MR—even if opponents threaten your home system, you can still score. Commander unlocks with 3 factories for multi-front reinforcement. If Fracture is unlocked, go into it—add planets and relics to your total. Build flagship for combat power.
 
 **Late Game (Rounds 5+):**
 
