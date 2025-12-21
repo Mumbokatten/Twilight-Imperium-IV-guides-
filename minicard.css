@@ -635,21 +635,6 @@ body.minicard-page * {
    =========================================== */
 
 @media print {
-    body {
-        background: white;
-        padding: 0;
-    }
-
-    .card-container {
-        gap: 10px;
-    }
-
-    .ref-card {
-        box-shadow: none;
-        border: 1px solid #ccc;
-        page-break-inside: avoid;
-    }
-
     /* Hide print button when printing */
     .print-btn {
         display: none !important;
@@ -657,18 +642,38 @@ body.minicard-page * {
 
     /* For single card printing from guide pages */
     body.printing-card * {
-        visibility: hidden;
+        visibility: hidden !important;
     }
 
     body.printing-card .ref-card,
     body.printing-card .ref-card * {
-        visibility: visible;
+        visibility: visible !important;
     }
 
     body.printing-card .ref-card {
-        position: absolute;
+        position: fixed;
         left: 0;
         top: 0;
+        width: 5in;
+        height: 3in;
+        box-shadow: none;
+        border: 1px solid #ccc;
+    }
+
+    /* For minicard.html full page printing */
+    body.minicard-page {
+        background: white;
+        padding: 0;
+    }
+
+    body.minicard-page .card-container {
+        gap: 10px;
+    }
+
+    body.minicard-page .ref-card {
+        box-shadow: none;
+        border: 1px solid #ccc;
+        page-break-inside: avoid;
     }
 }
 
