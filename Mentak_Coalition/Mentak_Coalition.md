@@ -171,7 +171,7 @@ Sustain denial flagship. All enemy ships in the system cannot use Sustain Damage
 
 ### J. Breakthrough
 
-**The Table's Grace (Yellow<>Green)** - If you have the Cruiser II unit upgrade technology, flip this card and place it on top of Cruiser II.
+**The Table's Grace (Yellow↔Green)** - If you have the Cruiser II unit upgrade technology, flip this card and place it on top of Cruiser II.
 
 **Corsair (Cruiser III):** If the active system contains another player's non-fighter ships, this unit can move through systems that contain other players' ships. Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2
 

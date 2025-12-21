@@ -144,11 +144,11 @@ When this ship is destroyed, destroy all ships in this system.
 
 Mutually assured destruction. Most likely a defensive tool parked at home. Fun to have on the board and great for extorting big fleets—opponents won't engage if it costs them everything.
 
-### J. Breakthrough - **Yin Ascendant (Y<>G)**
+### J. Breakthrough - **Yin Ascendant (Y↔G)**
 
 When you gain this card or score a public objective, gain the alliance ability of a random, unused faction.
 
-**Y<>G Synergy:** Sarween counts as green for Yin Spinner (GG) and opens Integrated Economy (YYY) + X-89 (GGG) paths.
+**Y↔G Synergy:** Sarween counts as green for Yin Spinner (GG) and opens Integrated Economy (YYY) + X-89 (GGG) paths.
 
 **Random Alliances:** Excellent ability. Expect 4-6 alliances over a game, which averages out to great value. Unlock before first public objective scores to maximize. Having multiple commander abilities stacking makes you significantly stronger than your components suggest.
 
@@ -230,7 +230,7 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 **Round 4:** Integrated Economy (YYY)
 - When you gain trade goods or resolve the secondary ability of the Trade strategy card, gain 1 additional trade good
-- **Why:** If unlocking Yin Ascendant (Y<>G), this counts as 3 green techs for X-89. Extra trade goods help your weak economy.
+- **Why:** If unlocking Yin Ascendant (Y↔G), this counts as 3 green techs for X-89. Extra trade goods help your weak economy.
 
 **Round 5:** X-89 Bacterial Weapon (GGG)
 - At the start of ground combat, choose up to 2 planets and exhaust this card; destroy all infantry on those planets

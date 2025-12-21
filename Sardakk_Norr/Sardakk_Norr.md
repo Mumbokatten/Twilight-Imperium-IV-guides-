@@ -167,7 +167,7 @@ Your unique dreadnought. Different from normal dreadnoughts:
 
 Perfect for Sardakk's aggressive playstyle—BOMBARD planets, land ground forces via capacity, invade.
 
-### J. Breakthrough - **N'orr Supremacy (B<>R)**
+### J. Breakthrough - **N'orr Supremacy (B↔R)**
 
 After you win a combat, either gain 1 command token or research a unit upgrade technology. Blue and red technologies count as each other for prerequisites.
 
@@ -247,7 +247,7 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 **What AI Development Algorithm + Gravity Drive (B) unlocks:**
 
 - AI Development Algorithm + Gravity Drive (B) = 1R + 1B
-- With B<>R synergy: 3 Red OR 3 Blue (interchangeable)
+- With B↔R synergy: 3 Red OR 3 Blue (interchangeable)
 - AI Dev ignores 1 prerequisite for unit upgrades
 
 **Available unit upgrades via N'orr Supremacy:**

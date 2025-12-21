@@ -185,7 +185,7 @@ Other players must spend 2 influence to activate the system that contains this s
 
 More annoying than great. Opponents must spend 2 influence to activate systems with your flagship, which can catch people off guard, but the stats are mediocre (7 combat x2, move 1). The influence tax is irritating but not game-breaking.
 
-### J. Breakthrough - **I.I.H.Q. Modernization (Y<>G)**
+### J. Breakthrough - **I.I.H.Q. Modernization (Y↔G)**
 
 When you gain this card, gain the Custodia Vigilia planet card and its legendary planet ability card. You are neighbours with all players that have units or control planets in or adjacent to the Mecatol Rex system.
 
@@ -193,11 +193,11 @@ When you gain this card, gain the Custodia Vigilia planet card and its legendary
 
 **Legendary Ability:** While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3. Gain 2 command tokens when another player scores VP using Imperial.
 
-**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+**Y↔G Synergy:** Yellow and green technologies count as each other for prerequisites.
 
 Really solid breakthrough that gives a value planet and allows for big lategame Mecatol Rex moves. Custodia Vigilia provides different value depending on the game state: when you control MR, it gives SPACE CANNON 5 and PRODUCTION 3 for defense and production; when you don't control MR, you still gain 2 command tokens whenever another player scores with Imperial. Combining the PRODUCTION 3 with your Agency Supply Network faction tech makes you very hard to push off Mecatol Rex - you can produce on MR and another system in a single action. Becoming neighbors with everyone near MR opens up diplomatic options.
 
-**Y<>G synergy:** Opens yellow and green tech paths flexibly.
+**Y↔G synergy:** Opens yellow and green tech paths flexibly.
 
 ### K. Slice and Draft Considerations
 
@@ -231,7 +231,7 @@ Keleres needs Mecatol Rex access above all else. Choose your home system (Argent
 
 Your Round 1 (R1) is rough due to limited ground forces. The priority order is:
 
-1. **Breakthrough Expedition** - Getting I.I.H.Q. Modernization (Y<>G) done early is very solid for value and peace of mind. You can unlock your breakthrough with your starting 2 commodities + 1 TG from Council Patronage (3 total), using your agent to spend commodities as trade goods. This lets you surprise the Trade holder and grab your breakthrough immediately using the Trade secondary.
+1. **Breakthrough Expedition** - Getting I.I.H.Q. Modernization (Y↔G) done early is very solid for value and peace of mind. You can unlock your breakthrough with your starting 2 commodities + 1 TG from Council Patronage (3 total), using your agent to spend commodities as trade goods. This lets you surprise the Trade holder and grab your breakthrough immediately using the Trade secondary.
 2. **Expansion** - Poor. You only have 2 infantry, which severely limits your ability to take multiple planets R1. You'll struggle to expand beyond 2 systems. This can be solved with Construction primary (building structures with infantry) or Warfare secondary (redeploying units). Production is part of the same problem - you have a space dock and decent production capacity, but limited ground forces means you can't capitalize on it fully.
 3. **Scoring** - Moderate. You can score some R1 objectives, but limited expansion hurts your scoring potential.
 4. **Technology** - Good. You start with 2 techs of your choice, giving you flexibility to begin your tech path immediately.
@@ -262,7 +262,7 @@ You choose 2 non-faction techs owned by other players - this means you're limite
 
 Get **Sarween Tools** and a **blue tech** (preferably **Gravity Drive (B)**, but **Dark Energy Tap**, **Antimass Deflectors**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward Executive Order and Agency Supply Network. **Sarween has great synergy with Agency Supply Network** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. Gravity Drive gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **Scanlink Drone Network** is a fine replacement. **Predictive Intelligence (Y)** is also probably worth it as a yellow tech option.
 
-**Green alternatives:** **Neural Motivator** and **Bio-Stims (G)** work with the Y<>G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
+**Green alternatives:** **Neural Motivator** and **Bio-Stims (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
 
 **Last resort if there's truly no way to get to your blue/yellow path:** **AI Development Algorithm**, **Self-Assembly Routines (R)**, or **Magen Defense Grid (R)** can work, though these delay your core tech goals significantly.
 
@@ -292,7 +292,7 @@ Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 ### C. Notes
 
-You have a straightforward and strong tech path that allows for multiple objectives, strong fighting, and good mobility. The Y<>G breakthrough flexibility means yellow and green techs count as each other for prerequisites, opening up additional tech options if needed.
+You have a straightforward and strong tech path that allows for multiple objectives, strong fighting, and good mobility. The Y↔G breakthrough flexibility means yellow and green techs count as each other for prerequisites, opening up additional tech options if needed.
 
 ---
 

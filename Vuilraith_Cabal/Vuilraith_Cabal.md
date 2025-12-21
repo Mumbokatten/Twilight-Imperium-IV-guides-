@@ -161,11 +161,11 @@ Insane flagship. Captures ALL units destroyed in the system (enemy AND yours). T
 
 If you have massive fights with your flagship once, you will probably never have to pay for plastic again.
 
-### J. Breakthrough - **Al'raith Ix Ianovar (R<>G)**
+### J. Breakthrough - **Al'raith Ix Ianovar (R↔G)**
 
 This breakthrough causes The Fracture to enter play without a roll, if it is not already in play. After this card enters play, move up to 2 ingress tokens into systems that contain gravity rifts. Apply +1 to the MOVE value of each of your ships that start their movement in The Fracture.
 
-**R<>G Synergy:** Red and green technologies count as each other for prerequisites.
+**R↔G Synergy:** Red and green technologies count as each other for prerequisites.
 
 The synergy won't matter a lot—you won't tech almost at all—but guaranteeing The Fracture appears is very good for you. Being able to decide that a portal to The Fracture appears on one of your docks for strong movement. You can get neutral units, relics, and a point. In The Fracture you are unmatched. If you want to play a "peaceful Cabal," The Fracture is the place to hang out.
 

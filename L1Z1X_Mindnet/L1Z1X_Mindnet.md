@@ -174,11 +174,11 @@ Forces hits to be assigned to non-fighter ships. This bypasses fighter screens�
 
 **Win-Slaying:** Combines with your Hero to teleport your flagship + dreads for decisive Round 5 strikes.
 
-### J. Breakthrough - **Fealty Uplink (R<>G)**
+### J. Breakthrough - **Fealty Uplink (R↔G)**
 
 *When you gain control of a planet, place infantry from your reinforcements equal to that planet's influence value on that planet.*
 
-When you conquer a planet, gain infantry equal to its influence value. A 3-influence planet gives you 3 free infantry immediately. This is strong for sustained invasions—you don't need to transport infantry, you generate them on conquest. The R<>G swap (red and green count as each other for prerequisites) opens tech path flexibility.
+When you conquer a planet, gain infantry equal to its influence value. A 3-influence planet gives you 3 free infantry immediately. This is strong for sustained invasions—you don't need to transport infantry, you generate them on conquest. The R↔G swap (red and green count as each other for prerequisites) opens tech path flexibility.
 
 **Unlock timing:** Secure this Round 1 or not at all. If you're unlocking your breakthrough later, you're probably not in an invasion-focused game and should skip Fealty Uplink entirely.
 

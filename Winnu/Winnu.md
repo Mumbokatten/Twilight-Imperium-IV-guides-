@@ -154,11 +154,11 @@ When this unit makes a combat roll, it rolls a number of dice equal to the numbe
 
 One of the best flagships in the game. Always get it. Rolls dice equal to opponent's non-fighter ship count. If put on Mecatol with Commander, it hits on 5 (7 - 2 = 5). Excellent against large fleets.
 
-### J. Breakthrough - **Imperator (B<>R)**
+### J. Breakthrough - **Imperator (B↔R)**
 
 Apply +1 to the results of each of your unit's combat rolls for each "Support for the Throne" in your opponent's play area. After you activate a system that contains a legendary planet, apply +1 to the move value of 1 of your ships during this tactical action.
 
-**B<>R Synergy:** Blue and red technologies count as each other for prerequisites.
+**B↔R Synergy:** Blue and red technologies count as each other for prerequisites.
 
 If planning to get custodian, very helpful to get this instead of tech. Functions as Gravity Drive for legendary planets. Combat bonus for each Support for the Throne opponents have.
 

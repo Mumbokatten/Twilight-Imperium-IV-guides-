@@ -168,13 +168,13 @@ Solid flagship. SPACE CANNON immunity is situationally strong. Useful for assaul
 
 **Note:** Coolest flagship name in the game.
 
-### J. Breakthrough - **Wing Transfer (B<>Y)**
+### J. Breakthrough - **Wing Transfer (B↔Y)**
 
 When you activate a system that contains only your units, you may place command tokens from your reinforcements into any systems adjacent to that system that contain only your units; at the end of this action, you may move ships among the active system and systems adjacent to it that contain your command tokens.
 
-**B<>Y Synergy:** Blue and yellow technologies count as each other for prerequisites. This opens up tech flexibility—Sarween Tools (Y) can count as blue, Gravity Drive (B) can count as yellow, etc.
+**B↔Y Synergy:** Blue and yellow technologies count as each other for prerequisites. This opens up tech flexibility—Sarween Tools (Y) can count as blue, Gravity Drive (B) can count as yellow, etc.
 
-**Note:** The breakthrough ability itself is pretty bad (requires only your units in systems, awkward activation). You get this primarily for the B<>Y tech synergy to open up blue tech options.
+**Note:** The breakthrough ability itself is pretty bad (requires only your units in systems, awkward activation). You get this primarily for the B↔Y tech synergy to open up blue tech options.
 
 ### K. Slice and Draft Considerations
 
@@ -248,7 +248,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 
 **Starting Tech Choices:** Sarween Tools (Y) + Plasma Scoring (R)
 
-**Assumptions:** You've obtained Wing Transfer breakthrough (B<>Y synergy) through expedition tokens or Thunder's Edge. This makes blue and yellow technologies count as each other for prerequisites.
+**Assumptions:** You've obtained Wing Transfer breakthrough (B↔Y synergy) through expedition tokens or Thunder's Edge. This makes blue and yellow technologies count as each other for prerequisites.
 
 **Round 1: Magen Defense Grid (R)**
 - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces. (Ω) When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures.
@@ -273,7 +273,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 **With Wing Transfer Breakthrough:**
 
 - **Gravity Drive (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
-  - **Prerequisites:** 1 blue (Sarween Tools counts as blue with B<>Y)
+  - **Prerequisites:** 1 blue (Sarween Tools counts as blue with B↔Y)
 - **PDS II (RY)** - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
   - **Prerequisites:** 1 red + 1 yellow (Plasma Scoring + Sarween Tools)
   - **Why:** Hit adjacent systems with SPACE CANNON. Area denial and PDS spam strategy. Works with your Commander for extra die.
@@ -290,7 +290,7 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 **Round 5: Carrier II (BB)**
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** Solves late game capacity issues. Move 6 ground forces at speed 2. Essential for large invasions since destroyers only have capacity 1.
-- **Prerequisites:** 2 blue (Sarween + Gravity Drive with B<>Y synergy, OR Antimass/DET + Gravity Drive)
+- **Prerequisites:** 2 blue (Sarween + Gravity Drive with B↔Y synergy, OR Antimass/DET + Gravity Drive)
 
 **Flex Techs (as needed):** Lightwave Deflector, Fleet Logistics - good options based on objectives
 

@@ -152,11 +152,11 @@ Parting shot on retreat - destroy 1 ship without Sustain Damage when retreating.
 
 ### J. Breakthrough
 
-**Data Skimmer (Y<>G):** Yellow and green technologies count as each other for prerequisites.
+**Data Skimmer (Y↔G):** Yellow and green technologies count as each other for prerequisites.
 
 During the action phase, if you have not passed, when other players would discard action cards, they are placed on this card instead. When you pass, take 1 action card from this card and discard the rest.
 
-Excellent action card economy. Cherry-pick the best discarded action card each round. Y<>G synergy helps tech pathing flexibility.
+Excellent action card economy. Cherry-pick the best discarded action card each round. Y↔G synergy helps tech pathing flexibility.
 
 ### K. Slice and Draft Considerations
 
@@ -170,7 +170,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 **Nice to Have:**
 
-- Yellow or green tech skip (works with Y<>G breakthrough)
+- Yellow or green tech skip (works with Y↔G breakthrough)
 - Systems with multiple planets (deploy structures after conquest)
 - Wormholes for Linkship positioning flexibility
 
@@ -261,9 +261,9 @@ Ral Nel has two distinct tech paths:
 
 **Supplemental Techs:**
 
-- **Graviton Laser System (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y<>G breakthrough.
+- **Graviton Laser System (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
 
-- **Bio-Stims (G)** - Ready a tech specialty planet or technology. Combos with Psychoarchaeology - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y<>G breakthrough.
+- **Bio-Stims (G)** - Ready a tech specialty planet or technology. Combos with Psychoarchaeology - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y↔G breakthrough.
 
 ---
 

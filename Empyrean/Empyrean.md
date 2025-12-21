@@ -148,11 +148,11 @@ One of the strongest mechs in the game. Sabotages on command is game-winning. Fa
 
 Strong combat-wise, which your faction kind of needs. Ability is a bit costly but when you need it, great to be able to repair a key unit if you have a ton of extra cash. Might swing the fight.
 
-### J. Breakthrough - **Void Tether (B<>G)**
+### J. Breakthrough - **Void Tether (B↔G)**
 
 When you activate a system that contains or is adjacent to a unit or planet you control, you may place or move 1 of your void tether tokens onto a border that system shares with another system. Other players do not treat those systems as adjacent to each other unless you allow it.
 
-**B<>G Synergy:** Blue and green count as each other for prerequisites. Lets you get some late green tech like X-89.
+**B↔G Synergy:** Blue and green count as each other for prerequisites. Lets you get some late green tech like X-89.
 
 **Map Control:** Might be really impactful and takes some know-how in how to use them. The more you play Empyrean, you'll see what's needed in what systems. Some suggested uses: blocking Fracture planet and Styx, blocking key wormhole into your system, or just say no to battlethirsty neighbor. Definitely useful and should be pretty easy to get.
 
@@ -230,7 +230,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 - Your ships can move through systems that contain other players' ships
 - **Why:** Move through enemy fleets.
 
-**Bonus Tech:** X-89 Bacterial Weapon (GGG) via B<>G breakthrough
+**Bonus Tech:** X-89 Bacterial Weapon (GGG) via B↔G breakthrough
 - After using BOMBARDMENT, destroy all infantry on planet if at least 1 destroyed. Double BOMBARDMENT and ground combat hits. Exhaust planet.
 - **Why:** Late game flex tech using breakthrough synergy.
 
@@ -298,7 +298,7 @@ No cruisers. Focus on exploration ships (destroyers) and defensive carriers with
 
 **Mid Game:** Aetherstream provides game-changing movement—sell/enable others while benefiting yourself. Build more destroyers for continued exploration. Void Tether provides map control—block key routes, protect your systems, deny battlethirsty neighbors. Carrier II and Fleet Logistics increase tempo. Your defensive carriers with fighter screens protect controlled territory while destroyers explore.
 
-**Late Game:** Hero floods board with frontier tokens, exploring all of them for massive spike. Commander provides board control—reclaim tokens when opponents activate near you. Useful for winslaying (coordinate with table to walk fleet somewhere) and scoring security (grab objective, if blown out, retaliate and grab it back). Light/Wave for final mobility. X-89 via B<>G breakthrough as late flex tech. Close out through exploration advantage, diplomatic leverage, and economic superiority.
+**Late Game:** Hero floods board with frontier tokens, exploring all of them for massive spike. Commander provides board control—reclaim tokens when opponents activate near you. Useful for winslaying (coordinate with table to walk fleet somewhere) and scoring security (grab objective, if blown out, retaliate and grab it back). Light/Wave for final mobility. X-89 via B↔G breakthrough as late flex tech. Close out through exploration advantage, diplomatic leverage, and economic superiority.
 
 ---
 

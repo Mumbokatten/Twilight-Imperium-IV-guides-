@@ -101,7 +101,7 @@ Your destroyers place breaches after any combat (yours or others) in their syste
 
 Recommended options:
 - **Dark Energy Tap** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
-- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B<>R synergy.
+- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
 - **Antimass Deflectors** - Only if slice requires asteroid/supernova mobility.
 
 Pick AI Dev or DET. Only take Antimass if your slice requires it.
@@ -169,7 +169,7 @@ This is a devastating debuff flagship. When parked in a breach system, it strips
 
 ### J. Breakthrough
 
-**Resonance Generator:** B<>R (Blue-Red synergy)
+**Resonance Generator:** B↔R (Blue-Red synergy)
 
 During your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains an active breach.
 
@@ -232,7 +232,7 @@ Pick AI Development Algorithm or Dark Energy Tap. Only take Antimass Deflectors 
 
 Recommended options:
 - **Dark Energy Tap** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
-- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B<>R synergy.
+- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
 - **Antimass Deflectors** - Only if slice requires asteroid/supernova mobility.
 
 ### C. Tech Path
@@ -259,7 +259,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 - **Assault Cannon (RRR)** - Same timing as hero. Immune to Skilled Retreat.
 - **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
 - **Fleet Logistics (BB)** - If needed.
-- **War Sun (RRRY)** - AI Development Algorithm + B<>R synergy enables. Requires wealth.
+- **War Sun (RRRY)** - AI Development Algorithm + B↔R synergy enables. Requires wealth.
 
 **Situational:**
 

@@ -155,7 +155,7 @@ Your flagship can move through contested systems as long as you have units there
 
 ### J. Breakthrough
 
-**Visionaria Select:** Y<>G (Yellow-Green synergy)
+**Visionaria Select:** Y↔G (Yellow-Green synergy)
 
 **ACTION:** Exhaust this card to allow each other player to spend 3 trade goods and give you 1 promissory note. Each player that does may research a non-faction, non-unit upgrade technology. You also gain each technology researched in this way.
 

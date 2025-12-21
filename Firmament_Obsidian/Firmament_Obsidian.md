@@ -326,7 +326,7 @@ This is a critical Round 1 decision that shapes your entire tech path.
 
 ### J. Breakthrough
 
-**The Sowing (The Firmament - Yellow <> Green):**
+**The Sowing (The Firmament - Yellow ↔ Green):**
 *When you gain this card and at the start of the status phase, you may place up to 3 of your trade goods on this card. Flip this card if you become the Obsidian faction.*
 
 - Bank up to 3 trade goods on this card
@@ -334,7 +334,7 @@ This is a critical Round 1 decision that shapes your entire tech path.
 - Stores trade goods for transformation
 - When you transform, this card flips
 
-**The Reaping (The Obsidian - Yellow <> Green):**
+**The Reaping (The Obsidian - Yellow ↔ Green):**
 *Place 1 trade good from the supply onto this card each time you win a combat against a puppeted player. At the start of the status phase, gain all trade goods on this card, then gain an equal number of trade goods from the supply.*
 
 - Win combat vs puppeted player → +1 trade good on card
@@ -461,7 +461,7 @@ Round 3-4: **Neural Parasite (GG - 2 Green Prerequisites)**
 - **Obsidian version** (after flip): At start of your turn, destroy 1 opponent infantry in/adjacent to system with your infantry
 - Firmament version generates infantry for invasions; Obsidian version destroys opponent infantry
 
-Round 4-5: **The Sowing/Reaping Breakthrough (Yellow <> Green)**
+Round 4-5: **The Sowing/Reaping Breakthrough (Yellow ↔ Green)**
 - Requires yellow + green prerequisites
 - Firmament version stores trade goods
 - Obsidian version doubles trade goods from combat victories

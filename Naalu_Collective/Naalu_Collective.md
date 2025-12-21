@@ -160,11 +160,11 @@ Fighters participate in ground combat as ground forces, then return to space aft
 
 ### J. Breakthrough
 
-**Mindsieve (R<>G)** - When you would resolve the secondary ability of another player's strategy card, you may give them a promissory note to resolve it without spending a command token.
+**Mindsieve (R↔G)** - When you would resolve the secondary ability of another player's strategy card, you may give them a promissory note to resolve it without spending a command token.
 
-**R<>G Synergy:** Red and green technologies count as each other for prerequisites.
+**R↔G Synergy:** Red and green technologies count as each other for prerequisites.
 
-You can make deals every time for free strategy tokens—pay a TG here, a TG there, small favor there. Try to be proactive and deal constantly with the breakthrough. Your "useless PNs" can now be used for strategy tokens. Not a lot of use for R<>G synergy.
+You can make deals every time for free strategy tokens—pay a TG here, a TG there, small favor there. Try to be proactive and deal constantly with the breakthrough. Your "useless PNs" can now be used for strategy tokens. Not a lot of use for R↔G synergy.
 
 ### K. Slice and Draft Considerations
 

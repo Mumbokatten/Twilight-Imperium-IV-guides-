@@ -164,13 +164,13 @@ Cost: 8 | Combat: 7 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage** | **ANTI-F
 
 Okay flagship at the unupgraded version, but strong ship to start with. Use your strong early presence to not get bullied and perhaps greedily grab an extra equidistant.
 
-### J. Breakthrough - **Thunder's Paradox (Y<>G)**
+### J. Breakthrough - **Thunder's Paradox (Y↔G)**
 
 At the start of any player's turn, you may exhaust 1 of your agents to ready any other agent.
 
 Double-use agents or ready opponent agents for favors. Get if optimal agents available to combo with.
 
-**Y<>G Synergy:** Helpful for Memoria II and Bio-Stims Sling Relay combo for stalling. Other than that, you're probably more blue focused.
+**Y↔G Synergy:** Helpful for Memoria II and Bio-Stims Sling Relay combo for stalling. Other than that, you're probably more blue focused.
 
 ### K. Slice and Draft Considerations
 

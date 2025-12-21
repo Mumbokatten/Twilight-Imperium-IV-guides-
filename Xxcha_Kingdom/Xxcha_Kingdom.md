@@ -140,13 +140,13 @@ You may use this unit's SPACE CANNON against ships that are in adjacent systems.
 
 One of your main defensive tools before PDS network and Nullification Field come online. Position in the middle of your slice with a mech or two—opponents must consider getting their carriers blown up before battle even starts, losing all carried units in the process. Three dice at SPACE CANNON 5 hitting adjacent systems creates serious area denial.
 
-### J. Breakthrough - **Archon's Gift (Y<>G)**
+### J. Breakthrough - **Archon's Gift (Y↔G)**
 
 You can spend influence as if it were resources. You can spend resources as if it were influence.
 
-**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+**Y↔G Synergy:** Yellow and green technologies count as each other for prerequisites.
 
-Helpful but not fantastic—most times you need both resources and influence anyway, and your 4 commodities usually even out imbalances. Sometimes has limited value. Main benefit is slice flexibility during draft. Y<>G synergy makes Graviton count as green for faction tech prerequisites.
+Helpful but not fantastic—most times you need both resources and influence anyway, and your 4 commodities usually even out imbalances. Sometimes has limited value. Main benefit is slice flexibility during draft. Y↔G synergy makes Graviton count as green for faction tech prerequisites.
 
 ### K. Slice and Draft Considerations
 
@@ -440,7 +440,7 @@ Trading for other factions' Alliance promissory notes grants you access to their
 
 9. **Winnu (Rickar Rickani)** – Apply +2 combat in MR, home system, and legendary planet systems. Defensive boost in key locations.
 
-10. **Yin Brotherhood (Brother Omar)** – Green prereq + skip prereqs when researching others' tech. Tech path flexibility, green skip synergizes with Y<>G breakthrough.
+10. **Yin Brotherhood (Brother Omar)** – Green prereq + skip prereqs when researching others' tech. Tech path flexibility, green skip synergizes with Y↔G breakthrough.
 
 ---
 

@@ -146,11 +146,11 @@ Useful for unlocking Commander. Makes ground combat slightly stronger. Losing yo
 
 Scales with territorial expansion. 8 planets = hitting 100% of the time. Average 6-7 planets means hitting on 2-3 instead of 9. If you get this galvanized (one of best targets), you get real good value. Does NOT count home system planets.
 
-### J. Breakthrough - **The Icon (Y<>R)**
+### J. Breakthrough - **The Icon (Y↔R)**
 
 When you produce ships, you may exhaust this card to place those ships in a system that contains 1 of your command tokens, at least 1 of your ground forces, and no other players' ships.
 
-**Y<>R Synergy:** Yellow and red count as each other for prerequisites. Very nice option: get Helios V2 (YY) using red techs as yellow prereqs, then pivot into blue for movement and flex techs—skips the long War Sun detour while getting your economic docks.
+**Y↔R Synergy:** Yellow and red count as each other for prerequisites. Very nice option: get Helios V2 (YY) using red techs as yellow prereqs, then pivot into blue for movement and flex techs—skips the long War Sun detour while getting your economic docks.
 
 **Forward Production:** Definitely helps with movement restrictions early—gets your ships out into the field instead of stuck home in nebula. Only works once per round, but that might be enough.
 
@@ -214,7 +214,7 @@ Blue path gives slightly less economy but more mobility and flexibility. Yellow/
 
 ### B. Technology Paths
 
-Both paths require The Icon breakthrough for Helios V2 via Y<>R synergy.
+Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 
 **Blue Path:**
 

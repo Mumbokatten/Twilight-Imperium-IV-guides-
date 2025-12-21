@@ -173,7 +173,7 @@ One of the strongest flagships in the game. Having the fighting power of 2/3 of 
 
 ### J. Breakthrough
 
-**Vaults of the Heir (Yellow <> Green):**
+**Vaults of the Heir (Yellow ↔ Green):**
 *ACTION: Exhaust this card and purge 1 of your technologies to gain 1 relic.*
 
 Really strong breakthrough. Can be useful to get a few different techs in yellow/green to have purge fodder. Tons to consider—when do you start purging? How many do you purge in total? How do you keep the right prerequisites? Mega boon for late game, but not all relics are better than a tech if you get them early. Remember purge permanently removes the technology. Can purge borrowed techs from Deepwrought. Very useful with Entropic Scar to get bonus relics. All bonus tech agendas/action cards/factions make this go from hard to handle to just a big boost.

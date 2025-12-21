@@ -140,14 +140,14 @@ ACTION: Spend 1 token from your strategy pool to place 1 cruiser in this unit's 
 
 The Inferno extends your Star Forge capability to cruisers, but this ability has limited usefulness. Destroyer II is more powerful than cruisers, and even Destroyer I is nearly equivalent in combat value. Since Star Forge already produces destroyers, the flagship's cruiser production is only helpful when you've run out of destroyer plastic. The flagship's move 1 also limits its repositioning speed.
 
-### I. Breakthrough - **Stellar Genesis (R<>Y)**
+### I. Breakthrough - **Stellar Genesis (R↔Y)**
 
 When you gain this card, place the Avernus planet token into a non-home system that is adjacent to a planet you control; gain control of and ready it. After you move 1 of your war suns out of or through Avernus's system and into a non-home system, you may move the Avernus token with it.
 
 **Avernus:** 2 resources / 0 influence (Legendary Planet)
 **Legendary Ability - The Nucleus:** ACTION: Exhaust this card to use the Embers of Muaat's STAR FORGE faction ability without spending a command token.
 
-**R<>Y Synergy:** Red and yellow technologies count as each other for prerequisites.
+**R↔Y Synergy:** Red and yellow technologies count as each other for prerequisites.
 
 Stellar Genesis helps early game by providing a readied planet with 2 resources. Building a space dock on Avernus creates a crazy mobile production facility that moves with your war suns across the galaxy. Additionally, Avernus can be moved from a locked system if your other war sun moves through that system, allowing you to relocate the planet even when the system is controlled or contested.
 
@@ -185,7 +185,7 @@ Speaker order is not particularly important for Muaat. Prefer to have one neighb
 
 Your Round 1 (R1) priority order: **Breakthrough > Production > Scoring > Technology**
 
-1. **Breakthrough** - Stellar Genesis creates Avernus legendary planet with 2 resources and the R<>Y synergy. Building a space dock on Avernus creates a mobile production facility that follows your war sun. Priority one.
+1. **Breakthrough** - Stellar Genesis creates Avernus legendary planet with 2 resources and the R↔Y synergy. Building a space dock on Avernus creates a mobile production facility that follows your war sun. Priority one.
 
 2. **Production** - Use Umbat to produce a carrier, split your 4 infantry across carriers for multi-system expansion. Secure resource planets for future war sun production.
 

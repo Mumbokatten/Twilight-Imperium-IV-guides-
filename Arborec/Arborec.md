@@ -89,7 +89,7 @@ This is your secret weapon. Every infantry has PRODUCTION 1, making them mobile 
 - Allows for 2 bonus infantry with your 2 starting structures (space dock and PDS) which is superb
 - Free infantry placement when systems with your structures are activated
 - Defensive hit in ground combat on planets with structures
-- Synergizes with Psychospore breakthrough (R<>G) to count as green prerequisite
+- Synergizes with Psychospore breakthrough (R↔G) to count as green prerequisite
 
 **Faction Technologies:**
 
@@ -101,7 +101,7 @@ After this unit is destroyed, roll 1 die. If the result is 6 or greater, place t
 - Upgraded infantry with better combat (7 instead of 8) and PRODUCTION 2 (double the base)
 - PRODUCTION 2 can feel like too much (is there such a thing?), but gives flexibility to produce where your main armies aren't
 - Resurrection ability: 50% chance to return destroyed infantry next turn
-- Requires 2 green prerequisites (green skip or Bio-Stims (G) with Psychospore R<>G synergy)
+- Requires 2 green prerequisites (green skip or Bio-Stims (G) with Psychospore R↔G synergy)
 - Non-blue tech path prioritizes this upgrade
 
 **Bioplasmosis (GG):**
@@ -154,9 +154,9 @@ After you activate this system, you may produce up to 5 units in this system.
 
 Historically a weak flagship, but receives a significant buff with your Psychospore breakthrough expedition. The flagship's ability to produce 5 units on activation synergizes well with Psychospore's ability to reclaim the command token afterward, letting you produce without permanently committing the token. This makes the flagship viable for holding key systems like Mecatol Rex.
 
-### J. Breakthrough - **Psychospore (R<>G)**
+### J. Breakthrough - **Psychospore (R↔G)**
 
-**R<>G Synergy:** Red and green technologies count as each other for prerequisites.
+**R↔G Synergy:** Red and green technologies count as each other for prerequisites.
 
 **ACTION:** Exhaust this card to remove a command token from a system that contains 1 or more of your infantry and return it to your reinforcements. Then, place 1 infantry in that system.
 
@@ -165,7 +165,7 @@ Historically a weak flagship, but receives a significant buff with your Psychosp
 1. **Mobility** - Reclaim command tokens from systems to reactivate them elsewhere, giving you flexible activation economy
 2. **Production** - Place an additional infantry (with PRODUCTION 1) each time you use this ability, expanding your production network
 
-The **R<>G synergy** is crucial for non-blue tech paths—it allows your Magen Defense Grid (red) to count as green for prerequisites, enabling you to research Letani Warrior II (GG) with just one green skip on R2. This makes the non-blue tech path viable by opening green technologies without needing actual green prerequisites.
+The **R↔G synergy** is crucial for non-blue tech paths—it allows your Magen Defense Grid (red) to count as green for prerequisites, enabling you to research Letani Warrior II (GG) with just one green skip on R2. This makes the non-blue tech path viable by opening green technologies without needing actual green prerequisites.
 
 Securing Psychospore R1 is your top priority.
 
@@ -202,7 +202,7 @@ When drafting your slice and choosing speaker order as Arborec:
 
 Your Round 1 (R1) is all about setting up your engine. The priority order is:
 
-1. **Breakthrough Expedition** - Secure Psychospore (R<>G) for mobility and production benefits. This is mandatory.
+1. **Breakthrough Expedition** - Secure Psychospore (R↔G) for mobility and production benefits. This is mandatory.
 2. **Scoring** - Expand to capture 1-3 systems to score your R1 Stage I objective. Don't sacrifice your economy for hard objectives.
 3. **Technology** - Begin your tech path if you have resources available after breakthrough and expansion
 4. **Production** - Happens naturally through expansion and using your space dock. You can produce plenty R2, so don't stress this R1.
@@ -227,9 +227,9 @@ You don't score easy Round 1-2 (R1-R2) points like other factions. Accept this. 
 
 **Starting Technology:** Magen Defense Grid - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces.
 
-You start with **Magen Defense Grid**. Your R1 priority is securing **Psychospore breakthrough expedition (R<>G)**.
+You start with **Magen Defense Grid**. Your R1 priority is securing **Psychospore breakthrough expedition (R↔G)**.
 
-**Critical Synergy:** Psychospore's R<>G synergy allows your red and green techs to count as each other for prerequisites. The breakthrough itself is NOT a tech and does NOT count as a prerequisite. It simply enables your **Magen Defense Grid** to count as **green** when researching green techs, allowing you to get **Letani Warrior II (GG) on R2** with just 1 green skip!
+**Critical Synergy:** Psychospore's R↔G synergy allows your red and green techs to count as each other for prerequisites. The breakthrough itself is NOT a tech and does NOT count as a prerequisite. It simply enables your **Magen Defense Grid** to count as **green** when researching green techs, allowing you to get **Letani Warrior II (GG) on R2** with just 1 green skip!
 
 After securing Psychospore breakthrough R1, your tech path splits based on objectives and slice.
 
@@ -328,7 +328,7 @@ Alternative path focused on economy and ground force power. No blue techs requir
 
 ### A. Round 1
 
-Your Round 1 (R1) priority is securing **Psychospore breakthrough expedition** (R<>G) for command token economy and enabling your engine. This drives your strategy card choices.
+Your Round 1 (R1) priority is securing **Psychospore breakthrough expedition** (R↔G) for command token economy and enabling your engine. This drives your strategy card choices.
 
 **Round 1 Priority Ranking:**
 

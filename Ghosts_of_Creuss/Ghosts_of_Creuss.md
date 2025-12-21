@@ -143,13 +143,13 @@ This ship's system contains a delta wormhole. During movement, this ship may mov
 
 Mobile delta wormhole that moves with the ship. Can move before OR after your other ships, creating adjacencies mid-action. Not a combat powerhouse but the utility is unique. Combined with Wormhole Generator and mech tokens, you can have multiple placeable wormholes.
 
-### J. Breakthrough - **Particle Synthesis (B<>Y)**
+### J. Breakthrough - **Particle Synthesis (B↔Y)**
 
 Each wormhole in a system that contains your ships gains PRODUCTION 1 as if it were a unit you control. Reduce the combined cost of units you produce in systems that contain wormholes by 1 for each wormhole in that system.
 
 Turns your wormhole network into production hubs—no space dock required. Helps round 1: go to wormhole nexus and pay 1 TG for a dread to secure that location. Active nexus has 3 wormholes (alpha, beta, gamma) so it gets PRODUCTION 3 and -3 cost. Also makes Mallice a possible production hub with a space dock. Scales with board control.
 
-**B<>Y Synergy:** Unlocks Dread II. Otherwise not too helpful except for tech objectives (4 blue, 2 in 2 colors). No need for IE with your wormhole production.
+**B↔Y Synergy:** Unlocks Dread II. Otherwise not too helpful except for tech objectives (4 blue, 2 in 2 colors). No need for IE with your wormhole production.
 
 ### K. Slice and Draft Considerations
 
@@ -216,7 +216,7 @@ You start with **Gravity Drive (Blue)**. Your tech path is very flexible—go fu
 - **Wormhole Generator Ω (BB)** - If not taken R2. Core faction tech for wormhole placement.
 - **Light/Wave Deflector (BBB)** - Ships can move through enemy ships. Great for bypassing blockers.
 - **Carrier II (BB)** - Move 2, Capacity 6. More capacity + commander fighter generation.
-- **Dreadnought II (BBY)** - Move 2, Sustain, Bombardment 5. Your B<>Y synergy makes this easy to unlock.
+- **Dreadnought II (BBY)** - Move 2, Sustain, Bombardment 5. Your B↔Y synergy makes this easy to unlock.
 
 ## VI. Strategy Cards
 
@@ -266,7 +266,7 @@ You start with **Gravity Drive (Blue)**. Your tech path is very flexible—go fu
 ### A. Unit Composition
 
 - **Carriers** - Core fleet. Trigger commander fighters when moving through wormholes. Build multiple early.
-- **Dreadnoughts** - Crucial. Strong combat backbone with Dread II easy to unlock via B<>Y synergy.
+- **Dreadnoughts** - Crucial. Strong combat backbone with Dread II easy to unlock via B↔Y synergy.
 - **Fighters** - Sustained by commander ability. Free fighters every time carriers move through wormholes.
 - **Destroyers** - Usually just a free unit to place around the map or when entering wormholes, not for combat.
 - **Infantry** - Standard ground game. Nothing special but nothing holding you back.

@@ -143,15 +143,15 @@ This ship can move through systems that contain other players' ships.
 
 Combat and mobility are very solid. One of your key ships for clinching objectives in an otherwise low mobility fleet.
 
-### J. Breakthrough - **Deepgloom Executable (Y<>G)**
+### J. Breakthrough - **Deepgloom Executable (Y↔G)**
 
 You can allow other players to use your STALL TACTICS or SCHEMING faction abilities; when you do, you may resolve a transaction with that player. During the action phase, that transaction does not count against the once-per-player transaction limit for that turn.
 
-**Y<>G Synergy:** Yellow and green technologies count as each other for prerequisites.
+**Y↔G Synergy:** Yellow and green technologies count as each other for prerequisites.
 
 People will sometimes pay for a stall or Scheming use, but two problems: do you actually want them to stall (they might reach Leadership before you)? And why would they buy Scheming for a better action card if you can just take it with Mageon anyway?
 
-**Y<>G synergy:** Not too helpful since you need blue for movement. Might come in handy somehow.
+**Y↔G synergy:** Not too helpful since you need blue for movement. Might come in handy somehow.
 
 ### K. Slice and Draft Considerations
 

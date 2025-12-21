@@ -146,7 +146,7 @@ Your mechs in this system roll 1 additional die during combat.
 
 One of your strongest assets. Mechs in the system get +1 die each, turning already powerful mechs into devastating combat units. Move 1 makes this more of a defensive ship—anchor important systems rather than chase fleets.
 
-### J. Breakthrough - **Absolute Synergy (B<>G)**
+### J. Breakthrough - **Absolute Synergy (B↔G)**
 
 When you have 4 mechs in the same system, you may return 3 of those mechs to your reinforcements to flip this card and place it on top of your mech card.
 
@@ -154,7 +154,7 @@ When you have 4 mechs in the same system, you may return 3 of those mechs to you
 
 The super-mech trades 3 powerful mechs (Combat 6 x2 each with Sustain on ground, Combat 8 x2 in space) for one unit with Combat 4 (x4), Move 3, Sustain that repairs every round. You lose defensive power (multiple Sustains) and offensive flexibility (mechs in different systems). While you can take planets (it's both ship and ground force), winning both space and ground combat by yourself with one unit is very hard. Situational—most games you're better keeping normal mechs spread across the board.
 
-**B<>G Synergy:** Blue and green count as each other for prerequisites. Nice to skip into Gravity Drive and get mobility upgrades. If exploration gets you tech skips or you feel like you got an easy unlock, you can consider flipping the breakthrough.
+**B↔G Synergy:** Blue and green count as each other for prerequisites. Nice to skip into Gravity Drive and get mobility upgrades. If exploration gets you tech skips or you feel like you got an easy unlock, you can consider flipping the breakthrough.
 
 ### K. Slice and Draft Considerations
 

@@ -152,11 +152,11 @@ Other players' units in this system lose Planetary Shield. At the start of each 
 
 Incredible flagship. Removes Planetary Shield from enemies (lets your BOMBARDMENT through), and repairs itself every combat round. Effectively has infinite Sustain Damage in prolonged fights. With BOMBARDMENT 5 (x3), it shreds ground forces. Essential for late game dominance.
 
-### J. Breakthrough - **Gravleash Maneuvers (B<>R)**
+### J. Breakthrough - **Gravleash Maneuvers (B↔R)**
 
 Before you roll dice during space combat, apply +X to the results of 1 of your ship's rolls, where X is the number of ship types you have in the combat. During movement, your non-fighter ships' move values are equal to the highest move value amongst moving ships in the system they started in.
 
-**B<>R Synergy:** Blue and red technologies count as each other for prerequisites.
+**B↔R Synergy:** Blue and red technologies count as each other for prerequisites.
 
 **Movement ability - Great substitute for early Gravity Drive:** Your slow dreadnoughts and carriers can move with your faster destroyer. If you send your destroyer (move 2) with your carrier (move 1) and dreadnought (move 1), all ships move 2 because the destroyer has the highest move value. This solves a lot of slice mobility issues early game—you don't need Gravity Drive when you have this breakthrough. Excellent for fleet mobility and reaching distant planets R1.
 
@@ -164,7 +164,7 @@ Before you roll dice during space combat, apply +X to the results of 1 of your s
 
 **Combat bonus:** Each ship type gives +1 to one roll. With 5 ship types (carrier, dread, cruiser, destroyer, flagship), you get +5 to one combat roll—almost guaranteed hit.
 
-**B<>R synergy:** Opens blue and red tech paths flexibly.
+**B↔R synergy:** Opens blue and red tech paths flexibly.
 
 ### K. Slice and Draft Considerations
 
@@ -179,7 +179,7 @@ Letnev wants resources and access to objectives. Your priorities:
 
 - **Access to Fracture or Mecatol Rex** - CRITICAL. You need a path to score points through controlling key objectives or legendary planets.
 - **Prefer influence over resources** - Your home system has 6 resources already, so you prefer more influence in your slice for more balance and flexibility. Even though you have an expensive fleet, you're already set on resources.
-- **Favor having 1-2 tech skips** - Tech skips help with Fracture plays. Your tech path works with B<>R synergy from Gravleash Maneuvers, so you're flexible.
+- **Favor having 1-2 tech skips** - Tech skips help with Fracture plays. Your tech path works with B↔R synergy from Gravleash Maneuvers, so you're flexible.
 
 **Slice Features to Avoid:**
 
@@ -187,7 +187,7 @@ Letnev wants resources and access to objectives. Your priorities:
 - **Low planet count with scattered systems** - Makes it hard to generate enough resources for constant production.
 
 **Summary:**
-Letnev needs access to Fracture or Mecatol Rex for scoring, high resources for fleet production, and influence planets for economy. Your tech path is perfect without skips thanks to B<>R synergy.
+Letnev needs access to Fracture or Mecatol Rex for scoring, high resources for fleet production, and influence planets for economy. Your tech path is perfect without skips thanks to B↔R synergy.
 
 **Strategic Note:** Better to go for neutral objectives (Fracture, Mecatol Rex) than fighting enemies. Although you're the strongest fighting faction, it's hard to fight multiple opponents—focus on objectives rather than meaningless aggression.
 
@@ -513,7 +513,7 @@ This section highlights action cards that synergize particularly well with your 
 
 Barony of Letnev is the strongest fighting faction in TI4 with unmatched fleet dominance. Your job is to:
 
-1. **Get Gravleash Maneuvers breakthrough R1** - MUST GET. Enables fleet mobility and B<>R tech synergy
+1. **Get Gravleash Maneuvers breakthrough R1** - MUST GET. Enables fleet mobility and B↔R tech synergy
 2. **Build effective fleets** - Different ship types, high movement, and strong power. Leverage Armada for 2 extra non-fighter ships per system
 3. **Leverage strong techs in ground and space combat** - Your tech path gives you powerful advantages
 4. **Unlock Commander ASAP** - Sustain Damage → TG economy (make money from fighting)

@@ -121,13 +121,13 @@ Cost: 8 | Combat: 5 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage** | **ANTI-F
 
 Combat-wise among the strongest flagships in the game. Ridiculous average of 2 fighter hits right away from AFB 6 (x4), then hitting double 5's in combat. Get it every game with your main super fleet.
 
-### J. Breakthrough - **Deorbit Barrage (B<>R)**
+### J. Breakthrough - **Deorbit Barrage (B↔R)**
 
 ACTION: Exhaust this card and spend any amount of resources to choose a planet up to 2 systems away from an asteroid field that contains your ships; roll a number of dice equal to the amount spent and assign 1 hit to a ground force on that planet for each roll of 4 or greater.
 
 Mostly used as a stall. The ability is not impactful enough except for edge cases. You'll also annoy people that are probably already annoyed by you.
 
-**B<>R Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using Chaos Mapping is the most interesting part.
+**B↔R Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using Chaos Mapping is the most interesting part.
 
 Try to place Thunder's Edge in an asteroid field—you can always use the extra resources.
 
@@ -181,171 +181,108 @@ The table also feels since they can't stop you in the late game by taking your h
 
 ### A. Overview
 
-You start with **Antimass Deflectors** (0-cost Blue), giving carriers move 2, asteroid passage, and access to blue techs. Crucial to combo with your **Chaos Mapping** as asteroid belts are home—where you are and people nearby you are not.
+You start with **Antimass Deflectors** (0-cost Blue), allowing asteroid passage and -1 to space cannon rolls against you. Crucial to combo with your **Chaos Mapping** as asteroid belts are home—where you are and people nearby you are not.
 
 You're not very tech dependent—you like more plastic over techs. **Chaos Mapping** is your defining tech and you get it every game. It serves as security and flexibility—being able to produce every single turn either a destroyer or a flagship BEFORE you move is incredible and keeps people guessing on your true strength.
 
 ### B. Technology Path
 
 **R1:** Gravity Drive (B)
-- *Your ships gain +1 movement.*
-- **Why:** Carriers move 3 with Antimass, cruisers move 4, factories move 2. Essential mobility for your mobile fleet.
+- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **Why:** Solid bonus mobility to keep space dock with your fleet and to reach key targets.
 
 **R2-3:** Chaos Mapping (B - Faction Tech)
-- *Others can't activate asteroids with your ships. At start of turn, produce 1 unit in system with your PRODUCTION.*
-- **Why:** Free unit every turn before movement. Security in asteroid belts. Keeps opponents guessing.
+- Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
+- **Why:** Produce 1 unit every turn before movement. Security in asteroid belts. Keeps opponents guessing.
 
 **R3-4:** Carrier II (BB)
-- *Cost 3, Combat 9, Move 2 (3 with Antimass + Grav = 4), Capacity 8, Sustain Damage.*
-- **Why:** Capacity 8 for mass troop transport, movement 4, better combat value.
+- XRD Transporters. Cost: 3, Combat: 9, Move: 2, Capacity: 6.
+- **Why:** Capacity 6 for mass troop transport, better combat value.
 
 **R4:** Destroyer II (RR) if you have Deorbit Barrage breakthrough R4
-- *Cost 1, Combat 8, Move 3 (4 with Grav), AFB 9(x2).*
-- **Why:** Cheap screening, AFB 9(x2) for fighter defense. Easy to produce with Chaos Mapping.
+- Automated Defense Turrets. Cost: 1, Combat: 8, Move: 2, ANTI-FIGHTER BARRAGE 6 (x3).
+- **Why:** Cheap screening, AFB 6(x3) for fighter defense. Easy to produce with Chaos Mapping.
 
-**R5:** Light/Wave Deflector (RR)
-- *Your ships can move through systems that contain other players' ships.*
+**R5:** Light/Wave Deflector (BBB)
+- Your ships can move through systems that contain other players' ships.
 - **Why:** Avoid combat while repositioning factories and fleets. Essential for late game mobility.
 
-### C. Flex Techs
-
-**Floating Factory II (YY - Faction Tech):**
-- *Saar Space Dock: Move 2, Capacity 5, PRODUCTION 7. Placed in space. Can move and retreat as ship.*
-- Doesn't hurt your incredible production to have even more. Worth getting if you happen to be running by an entropic scar. Requires 2 yellow prerequisites.
+**Fleet Logistics (BB)** - During each of your turns of the action phase, you may perform 2 actions instead of 1. Can be useful situationally.
 
 ## VI. Strategy Cards
 
 ### A. Round 1
 
-Your R1 priority is expansion and building additional Floating Factories for commander unlock.
+You are so incredibly flexible Round 1 that it's hard to say which cards are the best.
 
 **Round 1 Priority Ranking:**
 
-1. **Construction** - Build additional Floating Factories (cost 4 each). You need 3 total for commander unlock. Essential R1 priority.
+1. **Technology** - Saving resources for more plastic and a token.
 
-2. **Technology** - Begin tech path toward Floating Factory II (2 yellow prerequisites). Critical for mobility upgrade (move 2).
+2. **Trade** - Flexibility.
 
-3. **Leadership** - Command counters for expansion and factory movement. Secondary helps with production.
+3. **Construction** - For your key docks. Consider producing infantry instead of double space docks.
 
-4. **Trade** - You have 3 commodities. Scavenge supplements income but trade refreshes commodities.
+4. **Warfare** - Go into middle of slice with all troops, produce with docks, then spread from there for a mega Round 1.
 
-5. **Warfare** - Redistribution useful for aggressive expansion. Secondary is solid.
+5. **Leadership** - More tokens, more moves.
 
-6. **Politics** - Only 1 influence makes politics weak. Speaker token acceptable but not priority.
+6. **Politics** - Breakthrough unlock and setup for custodian.
 
-7. **Diplomacy** - Planet readying less critical. Nomadic lets you abandon home without penalty.
+7. **Diplomacy** - Probably never worth it since you usually have bad planets to diplo.
 
 8. **Imperial** - Never R1.
+
+**Strategy Token Priority:** Construction, Diplomacy, Technology.
 
 ### B. Round 2+
 
 **Love:**
 
-- **Construction** - Build 2nd and 3rd Floating Factories for commander unlock. Forward factory positioning creates production nodes.
-- **Technology** - Critical for Floating Factory II (move 2, production 7) and Chaos Mapping (free production at start of turn).
-- **Leadership** - Command tokens for factory movement and Scavenge conquests. You need consistent CC income.
+- **Trade** - Refresh 3 commodities. Scavenge provides additional TG income from conquests.
+- **Imperial** - Needed for scoring R3-R5. Nomadic lets you score without home control.
 
 **Good:**
 
-- **Imperial** - Needed for scoring R3-R5. Nomadic lets you score without home control.
-- **Trade** - Refresh 3 commodities. Scavenge provides additional TG income from conquests.
+- **Construction** - Build 2nd and 3rd Floating Factories for commander unlock. Forward factory positioning creates production nodes.
+- **Technology** - Gravity Drive, Chaos Mapping, Carrier II progression.
 - **Warfare** - Redistribution after mobile factory repositioning. Useful for multi-front expansion.
+- **Politics** - Breakthrough unlock and custodian setup.
+- **Leadership** - Command tokens for factory movement and Scavenge conquests.
 
 **Situational:**
 
-- **Politics** - Only if you've expanded to influence planets. Your 1 home influence makes this weak otherwise.
+- **Diplomacy** - Usually not worth it with bad home planets.
 
 ## VII. Unit Composition and Game Plan
 
 ### A. Unit Composition
 
-**Early Game Fleet (Rounds 1-2):**
+Your ideal fleet composition:
 
-- 2-3 Carriers (transport infantry + Floating Factory)
-- 2-3 Cruisers (fast screening, scouting)
-- 4-6 Fighters (screening)
-- 8-12 Infantry (conquest for Scavenge)
-- 2 Floating Factories (starting + 1 built Round 1-2)
-- 0-1 PDS (low priority)
+- **Floating Factories** - Your capital ships. Protect them like flagships. Build 3 for commander unlock, position them in strategic locations (asteroid belts, Mecatol adjacent, high-resource systems).
+- **Carriers** - Transport factories and infantry. Essential for mobility. Carrier II (capacity 6) for mass troop transport.
+- **Destroyers** - If you have Destroyer II, cheap screening with AFB 6(x3). Easy to produce with Chaos Mapping.
+- **Fighters** - Screening and hit absorption.
+- **Infantry** - Mass conquest for Scavenge income. Produce everywhere with commander.
+- **Mechs** - Deploy via Scavenge trade goods on conquered planets for instant defense.
+- **Flagship (Son of Ragh)** - Combat 5 (x2), AFB 6 (x4). Anti-fighter dominance for critical systems.
 
-**Mid Game Fleet (Rounds 3-4):**
+**Fleet Focus:** Mobile production with multiple factories. Keep your factories moving with your fleets. Commander lets you produce infantry at one factory and place them at any other—use this for multi-front invasions.
 
-- 3-4 Carriers (mass transport)
-- 4-6 Cruisers (screening, fast movement)
-- 6-8 Fighters (screening)
-- 12-16 Infantry (sustained conquest)
-- 3 Floating Factories (commander unlock)
-- 1-2 PDS (optional)
-- 1 Flagship (anti-fighter dominance)
+### B. Game Plan
 
-**Late Game Fleet (Rounds 5-6+):**
+**Early Game (Rounds 1-2):**
 
-- 4-5 Carriers (Carrier II if researched)
-- 6-8 Cruisers
-- 8-10 Fighters
-- 16-20 Infantry
-- 3-4 Floating Factory IIs (move 2, production 7 each)
-- 2-3 PDS (defensive coverage)
-- 1 Flagship
-- 2-4 Mechs (DEPLOY via Scavenge)
+Grab your entire slice and maybe more. Your Floating Factories let you produce anywhere—priority is getting a ton of ships and ground troops out to secure your bigger-than-average slice. Build additional factories for commander unlock (need 3 total). Every planet conquered gives you 1 trade good from Scavenge—fund your expansion engine. Get Gravity Drive for mobility. Grab custodian or score an early Imperial point to get ahead.
 
-**Key Principles:**
+**Mid Game (Rounds 3-4):**
 
-- **Floating Factories are your capital ships**: Protect them like flagships
-- Carriers transport factories and infantry
-- Cruisers for speed and screening
-- Commander + 3 factories = distributed fighter/infantry production
-- Mechs deployed instantly via Scavenge trade goods
+Take Mecatol Rex and hold it. Your mobile production and Nomadic ability make you excellent at controlling MR—even if opponents threaten your home system, you can still score. Commander unlocks with 3 factories—produce infantry at one dock and place them at any other for reinforcing Mecatol or multi-front invasions. Get Chaos Mapping to produce 1 unit every turn before movement. If Fracture is unlocked, go into it—add planets and relics to your total. Your mobility lets you reach legendary planets others can't. Build flagship for combat power.
 
-### C. Game Plan
+**Late Game (Rounds 5+):**
 
-**Round 1:**
-
-- **Strategy Card:** Construction (4) or Technology (7)
-- **Objectives:** Score territorial objectives (6 planets, 3 ships in non-home)
-- **Expansion:** Move Floating Factory I to high-resource system (3-4 resources), produce ships there
-- **Conquest:** Invade 2-3 planets to trigger Scavenge (gain 2-3 trade goods)
-- **Build:** Use Construction to build 2nd Floating Factory (position near different contested area)
-
-**Round 2:**
-
-- **Strategy Card:** Technology (7) or Construction (4)
-- **Objectives:** Score resource-spend OR technology objectives
-- **Tech:** Sarween Tools OR Hyper Metabolism (1st yellow prerequisite)
-- **Scavenge:** Conquer 2-3 more planets (gain 2-3 trade goods)
-- **Commander Setup:** Build 3rd Floating Factory if affordable (unlock commander Round 3)
-
-**Round 3:**
-
-- **Strategy Card:** Construction (4) or Imperial (8)
-- **Objectives:** Control Mecatol Rex OR score territorial objectives
-- **Commander Unlock:** Confirm 3 Floating Factories on board (Rowl Sarring unlocks)
-- **Tech:** Continue toward Floating Factory II (need 2nd yellow)
-- **Factory Positioning:** Move factories to strategic positions (Mecatol adjacent, objective systems, contested areas)
-
-**Round 4:**
-
-- **Strategy Card:** Technology (7) or Imperial (8)
-- **Objectives:** Score Stage II objectives (11 planets, 5+ techs, spend 8 resources)
-- **Hero Unlock:** Reach 3 scored objectives to unlock Gurno Aggero
-- **Tech:** Research Floating Factory II (upgrade all factories to move 2, production 7)
-- **Commander Usage:** Produce infantry at Factory A, place them at Factories B and C for multi-front invasions
-
-**Round 5:**
-
-- **Strategy Card:** Imperial (8) or Warfare (6)
-- **Objectives:** Score Stage II objectives, use hero for critical area denial
-- **Hero Usage:** Gurno Aggero destroys all infantry/fighters adjacent to factory (clear Mecatol defenders OR wipe opponent ground forces)
-- **Tech:** Chaos Mapping (free production at start of turn)
-- **Scavenge:** Continue conquests to stockpile trade goods (10-15 total)
-
-**Round 6+:**
-
-- **Endgame:** Convert mobile production into final points
-- **Imperial:** Hold Mecatol for scoring
-- **Factory Mobility:** Reposition factories to score territorial objectives instantly
-- **Mech DEPLOY:** Use Scavenge trade goods to deploy mechs on conquered planets for defense
-- **Close Out:** Reach 10+ points through territorial, tech, and combat objectives
+Use hero (Gurno Aggero) to clear infantry/fighters adjacent to your factories—devastating swing turn for Mecatol defense or wiping opponent ground forces. Light/Wave Deflector lets you avoid combat while repositioning factories. Your mobility and Nomadic ability let you score objectives while abandoning your home system. Win through territorial control, Mecatol points, and mobile production.
 
 ## VIII. Objectives
 
