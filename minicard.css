@@ -587,12 +587,9 @@ body.minicard-page * {
     transform: translateY(0);
 }
 
-/* Minicard wrapper for guide pages */
+/* Minicard wrapper for guide pages - hidden until ready */
 .minicard-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
+    display: none;
 }
 
 /* Stacked layout for faction sheet + minicard */
@@ -600,16 +597,20 @@ body.minicard-page * {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    align-items: flex-start;
+    align-items: center;
     margin: 16px 0;
+    width: 100%;
 }
 
 .faction-header-row figure {
     margin: 0;
+    text-align: center;
+    width: 100%;
 }
 
 .faction-header-row figure img {
     max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
