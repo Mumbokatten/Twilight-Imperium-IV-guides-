@@ -168,7 +168,48 @@ This is a critical Round 1 decision that shapes your entire tech path.
 
 **Faction Technologies:**
 
-(Add faction technology information here if available from the cheat sheet)
+Firmament/Obsidian has two dual-sided faction technologies that flip when you transform. Both start with prerequisites as Firmament, then become 0-cost as Obsidian.
+
+**Planesplitter (YY) → Planesplitter (0)**
+
+*Firmament Version (YY Prerequisites):*
+**When you gain this card, put The Fracture into play. Flip this card if the Obsidian faction is in play.**
+
+- Requires 2 yellow technologies to research
+- Adds The Fracture anomaly system to the game board
+- The Fracture is a unique system tile that becomes available for all players
+- Essential for unlocking Obsidian commander (Aroz Hollow requires units in The Fracture)
+- Strategic value: Grants access to legendary system with combat bonuses
+
+*Obsidian Version (0 Prerequisites):*
+**When you gain this card, put The Fracture into play. Flip this card if the Obsidian faction is in play.**
+
+- 0-cost technology (no prerequisites needed)
+- Automatically gained when you transform (your YY version flips)
+- Cannot be researched as Obsidian (must be researched as Firmament first)
+- The Fracture remains on the board after transformation
+
+**Neural Parasite (GG) → Neural Parasite (0)**
+
+*Firmament Version (GG Prerequisites):*
+**At the start of the status phase, you may place 1 infantry from your reinforcements on a planet you control in your home system. Flip this card if the Obsidian faction is in play.**
+
+- Requires 2 green technologies to research
+- Free infantry production every status phase
+- Infantry must be placed on home planet (Cronos or Tallin)
+- Sustainable ground force generation for invasions
+- Critical for scoring ground-based secret objectives
+
+*Obsidian Version (0 Prerequisites):*
+**At the start of your turn, destroy 1 of another player's infantry in or adjacent to a system that contains your infantry. This technology cannot be researched.**
+
+- 0-cost technology (no prerequisites needed)
+- Automatically gained when you transform (your GG version flips)
+- Cannot be researched (only gained via flip)
+- Destroys 1 enemy infantry per turn
+- Target must be in/adjacent to system with YOUR infantry
+- Attrition tool against infantry-heavy factions
+- Devastating when combined with widespread fleet presence
 
 ### E. Leaders
 
@@ -650,7 +691,7 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - Mechs for planet control (coexist → steal on transformation)
 - Flagship gains extra die after transformation
 
-### C. Game Plan
+### B. Game Plan
 
 **Round 1 (as The Firmament):**
 

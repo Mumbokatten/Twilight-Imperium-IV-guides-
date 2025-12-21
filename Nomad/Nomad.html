@@ -29,6 +29,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
   <link rel="stylesheet" href="../theme.css" />
+  <link rel="stylesheet" href="../minicard.css" />
 </head>
 <body>
 <header id="title-block-header">
@@ -40,10 +41,75 @@
 .md</a>
 </nav>
 <h1 id="nomad-guide">Nomad Guide</h1>
+<div class="faction-header-row">
 <figure>
 <img src="NomadSheet.jpg" alt="Nomad Faction Sheet" />
 <figcaption aria-hidden="true">Nomad Faction Sheet</figcaption>
 </figure>
+
+<div class="minicard-wrapper">
+    <div class="ref-card faction-nomad">
+        <header class="card-header">
+            <h1 class="faction-name">The Nomad</h1>
+            <img class="header-icon" src="../icons/nomad.webp" alt="Nomad">
+        </header>
+        <div class="card-body">
+            <div class="top-row">
+                <div class="card-art">
+                    <img src="NOMAD.webp" alt="Nomad">
+                </div>
+                <div class="strategy-stack">
+                    <div class="info-section small">
+                        <h3>R1 Strategy</h3>
+                        <p>Trade &gt; Tech &gt; Leadership</p>
+                    </div>
+                    <div class="info-section small">
+                        <h3>R2+ Strategy</h3>
+                        <p>Imperial &gt; Leadership &gt; Trade</p>
+                    </div>
+                </div>
+                <div class="info-section tech-section">
+                    <h3>Tech Path (Blue)</h3>
+                    <p class="tech-path">
+                        <span class="tech-pip yellow"></span>Scanlink (start) →
+                        <span class="tech-pip blue"></span>Grav Drive →
+                        <span class="tech-pip blue"></span><span class="tech-pip blue"></span>Carrier II →
+                        <span class="tech-pip blue"></span><span class="tech-pip blue"></span>Fleet Logistics
+                    </p>
+                </div>
+                <div class="info-section slice-section">
+                    <h3>Slice</h3>
+                    <p class="slice-info"><strong>Want:</strong> Influence, MR access</p>
+                    <p class="slice-info"><strong>Avoid:</strong> Resource-heavy (flagship = prod)</p>
+                </div>
+            </div>
+            <div class="bottom-row">
+                <div class="info-section game-plan">
+                    <h3>Game Plan</h3>
+                    <p><strong>Early (R1):</strong> Memoria flagship = PRODUCTION 3, move 1. Flagship IS your home production. Agent swaps flagship position with another ship. Memory agents (Artuno, Aida, Thundarian) provide unique abilities. Unlock The People's Will breakthrough for legendary PRODUCTION 7 dock.</p>
+                    <p><strong>Mid (R2-R3):</strong> Commander at scored objective + Memoria on board = produce flagship free (saves 8 res!). Stack agents for versatile combos. Thundarian = AFB 5 on flagship. Trade your powerful promissory notes for value.</p>
+                    <p><strong>Late (R4+):</strong> Hero gives agenda card that scores 1 VP when resolved (rider wins). Flagship with 12 capacity (upgraded) holds entire fleet. You're the most diplomatic faction - everyone wants your trades. Close via political manipulation.</p>
+                </div>
+                <div class="right-stack">
+                    <div class="info-section small">
+                        <h3>Key Units</h3>
+                        <p><strong>Flagship</strong> - Your home base</p>
+                        <p><strong>Carriers</strong> - Backup transport</p>
+                        <p><strong>Mechs</strong> - 1 res each</p>
+                    </div>
+                    <div class="info-section small">
+                        <h3>Exploit</h3>
+                        <p>Memoria: Mobile PROD 3+</p>
+                        <p>Agents: Stack abilities</p>
+                        <p>Commander: Free flagship</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="print-btn" onclick="window.print()">Print Strategy Card</button>
+</div>
+</div>
 <h2 id="contents">Contents</h2>
 <ol type="1">
 <li><a href="#i-introduction">Introduction</a></li>

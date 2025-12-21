@@ -29,6 +29,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
   <link rel="stylesheet" href="../theme.css" />
+  <link rel="stylesheet" href="../minicard.css" />
 </head>
 <body>
 <header id="title-block-header">
@@ -40,10 +41,74 @@
 .md</a>
 </nav>
 <h1 id="argent-flight-guide">Argent Flight Guide</h1>
-<figure>
-<img src="ArgentSheet.jpg" alt="Argent Flight Faction Sheet" />
-<figcaption aria-hidden="true">Argent Flight Faction Sheet</figcaption>
-</figure>
+<div class="faction-header-row">
+    <figure>
+    <img src="ArgentSheet.jpg" alt="Argent Flight Faction Sheet" />
+    <figcaption aria-hidden="true">Argent Flight Faction Sheet</figcaption>
+    </figure>
+    <div class="minicard-wrapper">
+        <div class="ref-card faction-argent">
+            <header class="card-header">
+                <h1 class="faction-name">Argent Flight</h1>
+                <img class="header-icon" src="../icons/argent.webp" alt="Argent Flight">
+            </header>
+            <div class="card-body">
+                <div class="top-row">
+                    <div class="card-art">
+                        <img src="ARGENT.webp" alt="Argent Flight">
+                    </div>
+                    <div class="strategy-stack">
+                        <div class="info-section small">
+                            <h3>R1 Strategy</h3>
+                            <p>Trade &gt; Leadership &gt; Tech</p>
+                        </div>
+                        <div class="info-section small">
+                            <h3>R2+ Strategy</h3>
+                            <p>Trade &gt; Leadership &gt; Tech</p>
+                        </div>
+                    </div>
+                    <div class="info-section tech-section">
+                        <h3>Tech Path (Red/Yellow)</h3>
+                        <p class="tech-path">
+                            <span class="tech-pip red"></span>Magen →
+                            <span class="tech-pip yellow"></span>Aerie Hololattice →
+                            <span class="tech-pip red"></span><span class="tech-pip red"></span>Strike Wing II →
+                            <span class="tech-pip blue"></span>Grav Drive
+                        </p>
+                    </div>
+                    <div class="info-section slice-section">
+                        <h3>Slice</h3>
+                        <p class="slice-info"><strong>Want:</strong> High value, influence, R/B skips</p>
+                        <p class="slice-info"><strong>Avoid:</strong> Very flexible - works anywhere</p>
+                    </div>
+                </div>
+                <div class="bottom-row">
+                    <div class="info-section game-plan">
+                        <h3>Game Plan</h3>
+                        <p><strong>Early (R1):</strong> Incredible expansion - 2 destroyers each have capacity 1, can take systems 2-moves away independently. Aim for 3-4 systems R1. Start with Sarween + Plasma Scoring. Get Magen for free infantry when activated.</p>
+                        <p><strong>Mid (R2-R3):</strong> Unlock Commander at 6 units with AFB/SPACE CANNON/BOMBARDMENT. Get Strike Wing II for devastating AFB 6 (x3). MR is "get in, get out" - grab Custodians, don't hold forever.</p>
+                        <p><strong>Late (R4+):</strong> Hero for massive fleet repositioning. Transition to carriers for late game capacity. Aerie Hololattice blocks enemy movement through your structure systems.</p>
+                    </div>
+                    <div class="right-stack">
+                        <div class="info-section small">
+                            <h3>Key Units</h3>
+                            <p><strong>Destroyers</strong> - AFB spam</p>
+                            <p><strong>PDS</strong> - Area denial</p>
+                            <p><strong>Mechs</strong> - Free capacity</p>
+                        </div>
+                        <div class="info-section small">
+                            <h3>Exploit</h3>
+                            <p>Raid Formation: Excess AFB hits caps</p>
+                            <p>Zeal: 1 vote = 1 + player count</p>
+                            <p>Aerie: Blocks movement</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="print-btn" onclick="window.print()">Print Strategy Card</button>
+    </div>
+</div>
 <h2 id="contents">Contents</h2>
 <ol type="1">
 <li><a href="#i-introduction">Introduction</a></li>

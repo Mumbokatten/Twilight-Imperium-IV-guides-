@@ -29,6 +29,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
   <link rel="stylesheet" href="../theme.css" />
+  <link rel="stylesheet" href="../minicard.css" />
 </head>
 <body>
 <header id="title-block-header">
@@ -40,11 +41,76 @@
 .md</a>
 </nav>
 <h1 id="mentak-coalition-guide">Mentak Coalition Guide</h1>
+<div class="faction-header-row">
 <figure>
 <img src="MentakSheet.jpg" alt="Mentak Coalition Faction Sheet" />
 <figcaption aria-hidden="true">Mentak Coalition Faction
 Sheet</figcaption>
 </figure>
+
+<div class="minicard-wrapper">
+    <div class="ref-card faction-mentak">
+        <header class="card-header">
+            <h1 class="faction-name">Mentak Coalition</h1>
+            <img class="header-icon" src="../icons/mentak.webp" alt="Mentak Coalition">
+        </header>
+        <div class="card-body">
+            <div class="top-row">
+                <div class="card-art">
+                    <img src="MENTAK.webp" alt="Mentak Coalition">
+                </div>
+                <div class="strategy-stack">
+                    <div class="info-section small">
+                        <h3>R1 Strategy</h3>
+                        <p>Construction &gt; Tech &gt; Trade</p>
+                    </div>
+                    <div class="info-section small">
+                        <h3>R2+ Strategy</h3>
+                        <p>Leadership &gt; Tech &gt; Imperial</p>
+                    </div>
+                </div>
+                <div class="info-section tech-section">
+                    <h3>Tech Path (Yellow)</h3>
+                    <p class="tech-path">
+                        <span class="tech-pip green"></span>Neural Motivator →
+                        <span class="tech-pip green"></span><span class="tech-pip yellow"></span><span class="tech-pip red"></span>Cruiser II →
+                        <span class="tech-pip yellow"></span><span class="tech-pip yellow"></span>Salvage Ops →
+                        <span class="tech-pip yellow"></span><span class="tech-pip yellow"></span><span class="tech-pip yellow"></span>Mirror Computing
+                    </p>
+                </div>
+                <div class="info-section slice-section">
+                    <h3>Slice</h3>
+                    <p class="slice-info"><strong>Want:</strong> Rich neighbors, wormholes</p>
+                    <p class="slice-info"><strong>Avoid:</strong> Isolation, low influence</p>
+                </div>
+            </div>
+            <div class="bottom-row">
+                <div class="info-section game-plan">
+                    <h3>Game Plan</h3>
+                    <p><strong>Early (R1):</strong> Position near rich neighbors (Hacan, Jol-Nar, Empyrean). Pillage triggers when neighbor has 3+ TG - steal 1. Only 1 carrier limits expansion. Agent softens Pillage (both draw action card). Build cruisers.</p>
+                    <p><strong>Mid (R2-R3):</strong> Cruiser II = Ambush hits on 6+, move 3. Salvage Ops = 1 TG every combat + free ship on win. Commander at 4 cruisers - force PN extraction after combat wins. Corsair breakthrough = move through enemies.</p>
+                    <p><strong>Late (R4+):</strong> Mirror Computing doubles TG value (1 TG = 2 res). You're rich from Pillage. Hero replicates destroyed enemy ships mid-combat. Flagship + Mechs deny Sustain Damage. AAARRRRR!</p>
+                </div>
+                <div class="right-stack">
+                    <div class="info-section small">
+                        <h3>Key Units</h3>
+                        <p><strong>Cruisers</strong> - Move 3, Ambush</p>
+                        <p><strong>Flagship</strong> - No enemy Sustain</p>
+                        <p><strong>Mechs</strong> - Ground Sustain deny</p>
+                    </div>
+                    <div class="info-section small">
+                        <h3>Exploit</h3>
+                        <p>Pillage: Steal from 3+ TG</p>
+                        <p>Ambush: Pre-combat hits</p>
+                        <p>Mirror: 2x TG value</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="print-btn" onclick="window.print()">Print Strategy Card</button>
+</div>
+</div>
 <h2 id="contents">Contents</h2>
 <ol type="1">
 <li><a href="#i-introduction">Introduction</a></li>

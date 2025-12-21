@@ -1,0 +1,667 @@
+/* TI4 Faction Reference Cards - FFG Style */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@400;500;600&display=swap');
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1a1a2e;
+    font-family: 'Inter', sans-serif;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Card Container - for print layout */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Reference Card */
+.ref-card {
+    width: 5in;
+    height: 3in;
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background: #0d1117;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    font-size: 7pt;
+    position: relative;
+}
+
+/* Header */
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+    background: linear-gradient(135deg, var(--faction-color) 0%, var(--faction-color-dark) 100%);
+}
+
+.faction-name {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 14pt;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.header-icon {
+    width: 28px;
+    height: 28px;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4));
+}
+
+/* Body */
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(180deg, #141b2d 0%, #0d1117 100%);
+}
+
+/* Top Row - Picture + Strategy + Tech + Slice */
+.top-row {
+    display: flex;
+    gap: 4px;
+    padding: 4px;
+}
+
+.card-art {
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.card-art img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.strategy-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.tech-section {
+    flex: 1;
+}
+
+.slice-section {
+}
+
+/* Bottom Row - Game Plan + Right Stack */
+.bottom-row {
+    display: flex;
+    gap: 4px;
+    padding: 0 4px 4px 4px;
+    flex: 1;
+}
+
+.bottom-row .game-plan {
+    flex: 3;
+}
+
+.right-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    width: 110px;
+    flex-shrink: 0;
+}
+
+.right-stack .info-section {
+    flex: 1;
+}
+
+/* Priority List */
+.priority-list {
+    list-style: none;
+    counter-reset: priority;
+    color: #e8e6e3;
+    padding-left: 0;
+}
+
+.priority-list li {
+    counter-increment: priority;
+    font-size: 6.5pt;
+    line-height: 1.4;
+    margin-bottom: 1px;
+}
+
+.priority-list li::before {
+    content: counter(priority) ".";
+    color: var(--faction-color-light);
+    font-weight: 600;
+    margin-right: 4px;
+}
+
+/* Strategy Cards */
+.strat-cards {
+    color: #e8e6e3;
+    font-size: 6.5pt;
+    margin-bottom: 1px;
+}
+
+.strat-cards strong {
+    color: var(--faction-color-light);
+}
+
+/* Tech Path */
+.tech-path {
+    font-size: 6.5pt;
+    color: #e8e6e3;
+    line-height: 1.6;
+}
+
+.tech-note {
+    font-size: 5.5pt;
+    color: #8a9bb4;
+    font-style: italic;
+    margin-top: 2px;
+}
+
+/* Slice Info */
+.slice-info {
+    font-size: 6pt;
+    margin-bottom: 1px;
+}
+
+/* Game Plan */
+.game-plan p {
+    font-size: 6pt;
+    line-height: 1.3;
+    margin-bottom: 2px;
+}
+
+
+.info-row-2 {
+    display: flex;
+    gap: 6px;
+}
+
+.info-row-2 .info-section {
+    flex: 1;
+}
+
+.info-section.small {
+    padding: 3px 5px;
+}
+
+.info-section.small h3 {
+    font-size: 5.5pt;
+}
+
+.info-section.small p {
+    font-size: 6pt;
+}
+
+.info-row {
+    display: flex;
+    gap: 8px;
+}
+
+.info-section {
+    background: rgba(26, 35, 56, 0.6);
+    border-radius: 4px;
+    padding: 3px 5px;
+    border: 1px solid rgba(42, 58, 92, 0.5);
+}
+
+.info-section h3 {
+    font-size: 6pt;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #8a9bb4;
+    letter-spacing: 0.5px;
+    margin-bottom: 2px;
+    border-bottom: 1px solid rgba(42, 58, 92, 0.5);
+    padding-bottom: 2px;
+}
+
+.info-section p {
+    color: #e8e6e3;
+    line-height: 1.3;
+    margin: 1px 0;
+}
+
+.info-section strong {
+    color: var(--faction-color-light);
+}
+
+/* Unit List */
+.unit-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px 8px;
+    color: #e8e6e3;
+}
+
+.unit-list li {
+    font-size: 6.5pt;
+}
+
+/* Tech Pips */
+.tech-pip {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    margin-right: 2px;
+    vertical-align: middle;
+}
+
+.tech-pip.red { background: #c23a3a; }
+.tech-pip.blue { background: #3a7bc2; }
+.tech-pip.green { background: #3ac257; }
+.tech-pip.yellow { background: #c2b03a; }
+
+/* Bottom Grid */
+.bottom-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 4px;
+}
+
+.info-box {
+    background: rgba(26, 35, 56, 0.6);
+    border-radius: 4px;
+    padding: 3px 4px;
+    border: 1px solid rgba(42, 58, 92, 0.5);
+    text-align: center;
+}
+
+.info-box h4 {
+    font-size: 5pt;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #8a9bb4;
+    letter-spacing: 0.3px;
+    margin-bottom: 1px;
+}
+
+.info-box p {
+    color: #e8e6e3;
+    font-size: 6pt;
+    line-height: 1.2;
+}
+
+.info-box .commodities {
+    color: #8a9bb4;
+    font-size: 5.5pt;
+}
+
+.info-box.home-system p:first-of-type {
+    font-weight: 600;
+    color: var(--faction-color-light);
+}
+
+/* Footer */
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 12px;
+    background: linear-gradient(90deg, rgba(20, 27, 45, 0.9) 0%, rgba(13, 17, 23, 0.9) 100%);
+    border-top: 1px solid rgba(42, 58, 92, 0.5);
+}
+
+.tagline {
+    font-style: italic;
+    color: #8a9bb4;
+    font-size: 7pt;
+}
+
+.complexity {
+    display: flex;
+    gap: 3px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 1px solid #8a9bb4;
+    background: transparent;
+}
+
+.dot.filled {
+    background: var(--faction-color-light);
+    border-color: var(--faction-color-light);
+}
+
+/* ===========================================
+   FACTION COLOR THEMES
+   =========================================== */
+
+.faction-arborec {
+    --faction-color: #2d5a27;
+    --faction-color-dark: #1a3518;
+    --faction-color-light: #5cb950;
+    --faction-color-glow: rgba(92, 185, 80, 0.3);
+}
+
+.faction-argent {
+    --faction-color: #8c8c8c;
+    --faction-color-dark: #5a5a5a;
+    --faction-color-light: #c0c0c0;
+    --faction-color-glow: rgba(192, 192, 192, 0.3);
+}
+
+.faction-barony {
+    --faction-color: #8b1a1a;
+    --faction-color-dark: #5a1111;
+    --faction-color-light: #c44;
+    --faction-color-glow: rgba(204, 68, 68, 0.3);
+}
+
+.faction-saar {
+    --faction-color: #7a6b2a;
+    --faction-color-dark: #4a411a;
+    --faction-color-light: #c4a84a;
+    --faction-color-glow: rgba(196, 168, 74, 0.3);
+}
+
+.faction-keleres {
+    --faction-color: #4a3a6a;
+    --faction-color-dark: #2a2040;
+    --faction-color-light: #8a7aaa;
+    --faction-color-glow: rgba(138, 122, 170, 0.3);
+}
+
+.faction-muaat {
+    --faction-color: #c45a1a;
+    --faction-color-dark: #8a3a10;
+    --faction-color-light: #e88040;
+    --faction-color-glow: rgba(232, 128, 64, 0.3);
+}
+
+.faction-empyrean {
+    --faction-color: #6b5b95;
+    --faction-color-dark: #4a3a6a;
+    --faction-color-light: #9a8ac5;
+    --faction-color-glow: rgba(154, 138, 197, 0.3);
+}
+
+.faction-creuss {
+    --faction-color: #2a7a7a;
+    --faction-color-dark: #1a5050;
+    --faction-color-light: #4ecdc4;
+    --faction-color-glow: rgba(78, 205, 196, 0.3);
+}
+
+.faction-sol {
+    --faction-color: #3366aa;
+    --faction-color-dark: #224488;
+    --faction-color-light: #5588cc;
+    --faction-color-glow: rgba(85, 136, 204, 0.3);
+}
+
+.faction-hacan {
+    --faction-color: #c4a020;
+    --faction-color-dark: #8a7010;
+    --faction-color-light: #e6c84a;
+    --faction-color-glow: rgba(230, 200, 74, 0.3);
+}
+
+.faction-l1z1x {
+    --faction-color: #3a3a5a;
+    --faction-color-dark: #2a2a40;
+    --faction-color-light: #6a6a9a;
+    --faction-color-glow: rgba(106, 106, 154, 0.3);
+}
+
+.faction-nekro {
+    --faction-color: #5a1a5a;
+    --faction-color-dark: #3a103a;
+    --faction-color-light: #9a4a9a;
+    --faction-color-glow: rgba(154, 74, 154, 0.3);
+}
+
+.faction-mentak {
+    --faction-color: #c4841a;
+    --faction-color-dark: #8a5a10;
+    --faction-color-light: #e8a840;
+    --faction-color-glow: rgba(232, 168, 64, 0.3);
+}
+
+.faction-naalu {
+    --faction-color: #8a8a2a;
+    --faction-color-dark: #5a5a1a;
+    --faction-color-light: #c4c44a;
+    --faction-color-glow: rgba(196, 196, 74, 0.3);
+}
+
+.faction-sardakk {
+    --faction-color: #6a1a1a;
+    --faction-color-dark: #4a1010;
+    --faction-color-light: #aa3a3a;
+    --faction-color-glow: rgba(170, 58, 58, 0.3);
+}
+
+.faction-titans {
+    --faction-color: #5a4a2a;
+    --faction-color-dark: #3a301a;
+    --faction-color-light: #9a8a5a;
+    --faction-color-glow: rgba(154, 138, 90, 0.3);
+}
+
+.faction-jolnar {
+    --faction-color: #4a2a7a;
+    --faction-color-dark: #301a50;
+    --faction-color-light: #7a5aaa;
+    --faction-color-glow: rgba(122, 90, 170, 0.3);
+}
+
+.faction-xxcha {
+    --faction-color: #2a6a4a;
+    --faction-color-dark: #1a4a30;
+    --faction-color-light: #4a9a7a;
+    --faction-color-glow: rgba(74, 154, 122, 0.3);
+}
+
+.faction-yin {
+    --faction-color: #6a6a6a;
+    --faction-color-dark: #4a4a4a;
+    --faction-color-light: #9a9a9a;
+    --faction-color-glow: rgba(154, 154, 154, 0.3);
+}
+
+.faction-yssaril {
+    --faction-color: #2a5a2a;
+    --faction-color-dark: #1a3a1a;
+    --faction-color-light: #4a8a4a;
+    --faction-color-glow: rgba(74, 138, 74, 0.3);
+}
+
+.faction-nomad {
+    --faction-color: #5a3a6a;
+    --faction-color-dark: #3a2040;
+    --faction-color-light: #8a6a9a;
+    --faction-color-glow: rgba(138, 106, 154, 0.3);
+}
+
+.faction-mahact {
+    --faction-color: #7a5a1a;
+    --faction-color-dark: #503a10;
+    --faction-color-light: #ba9a4a;
+    --faction-color-glow: rgba(186, 154, 74, 0.3);
+}
+
+.faction-cabal {
+    --faction-color: #4a1a4a;
+    --faction-color-dark: #301030;
+    --faction-color-light: #7a3a7a;
+    --faction-color-glow: rgba(122, 58, 122, 0.3);
+}
+
+.faction-naazrokha {
+    --faction-color: #6a4a2a;
+    --faction-color-dark: #4a301a;
+    --faction-color-light: #9a7a5a;
+    --faction-color-glow: rgba(154, 122, 90, 0.3);
+}
+
+.faction-winnu {
+    --faction-color: #8a7a4a;
+    --faction-color-dark: #5a5030;
+    --faction-color-light: #baa87a;
+    --faction-color-glow: rgba(186, 168, 122, 0.3);
+}
+
+.faction-crimson {
+    --faction-color: #8b0000;
+    --faction-color-dark: #5a0000;
+    --faction-color-light: #dc143c;
+    --faction-color-glow: rgba(220, 20, 60, 0.3);
+}
+
+.faction-deepwrought {
+    --faction-color: #1a5a7a;
+    --faction-color-dark: #103a4a;
+    --faction-color-light: #4a9aba;
+    --faction-color-glow: rgba(74, 154, 186, 0.3);
+}
+
+.faction-bastion {
+    --faction-color: #4a6a8a;
+    --faction-color-dark: #2a4a6a;
+    --faction-color-light: #7a9aba;
+    --faction-color-glow: rgba(122, 154, 186, 0.3);
+}
+
+.faction-ralnel {
+    --faction-color: #5a5a7a;
+    --faction-color-dark: #3a3a5a;
+    --faction-color-light: #8a8aaa;
+    --faction-color-glow: rgba(138, 138, 170, 0.3);
+}
+
+/* ===========================================
+   PRINT BUTTON
+   =========================================== */
+
+.print-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #3a7bc2 0%, #2a5a92 100%);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    margin-top: 8px;
+    transition: all 0.2s ease;
+}
+
+.print-btn:hover {
+    background: linear-gradient(135deg, #4a8bd2 0%, #3a6aa2 100%);
+    transform: translateY(-1px);
+}
+
+.print-btn:active {
+    transform: translateY(0);
+}
+
+/* Minicard wrapper for guide pages */
+.minicard-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+/* Side-by-side layout for faction sheet + minicard */
+.faction-header-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: flex-start;
+    margin: 16px 0;
+}
+
+.faction-header-row figure {
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.faction-header-row figure img {
+    max-height: 3in;
+    width: auto;
+}
+
+@media (max-width: 900px) {
+    .faction-header-row {
+        flex-direction: column;
+    }
+}
+
+/* ===========================================
+   PRINT STYLES
+   =========================================== */
+
+@media print {
+    body {
+        background: white;
+        padding: 0;
+    }
+
+    .card-container {
+        gap: 10px;
+    }
+
+    .ref-card {
+        box-shadow: none;
+        border: 1px solid #ccc;
+        page-break-inside: avoid;
+    }
+
+    /* Hide print button when printing */
+    .print-btn {
+        display: none !important;
+    }
+
+    /* For single card printing from guide pages */
+    body.printing-card * {
+        visibility: hidden;
+    }
+
+    body.printing-card .ref-card,
+    body.printing-card .ref-card * {
+        visibility: visible;
+    }
+
+    body.printing-card .ref-card {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}
+
+@page {
+    size: letter landscape;
+    margin: 0.5in;
+}

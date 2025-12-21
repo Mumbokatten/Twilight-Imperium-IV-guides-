@@ -29,6 +29,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
   <link rel="stylesheet" href="../theme.css" />
+  <link rel="stylesheet" href="../minicard.css" />
 </head>
 <body>
 <header id="title-block-header">
@@ -39,12 +40,75 @@
 <a href="Clan_of_Saar.md" download class="download-link" title="Plain text file - safe to download">Download
 .md</a>
 </nav>
-<h1 id="the-clan-of-saar-comprehensive-strategy-guide">The Clan of Saar
-Comprehensive Strategy Guide</h1>
-<figure>
-<img src="SaarSheet.jpg" alt="Clan of Saar Faction Sheet" />
-<figcaption aria-hidden="true">Clan of Saar Faction Sheet</figcaption>
-</figure>
+<h1 id="the-clan-of-saar-comprehensive-strategy-guide">The Clan of Saar Comprehensive Strategy Guide</h1>
+<div class="faction-header-row">
+    <figure>
+    <img src="SaarSheet.jpg" alt="Clan of Saar Faction Sheet" />
+    <figcaption aria-hidden="true">Clan of Saar Faction Sheet</figcaption>
+    </figure>
+    <div class="minicard-wrapper">
+        <div class="ref-card faction-saar">
+            <header class="card-header">
+                <h1 class="faction-name">Clan of Saar</h1>
+                <img class="header-icon" src="../icons/saar.webp" alt="Clan of Saar">
+            </header>
+            <div class="card-body">
+                <div class="top-row">
+                    <div class="card-art">
+                        <img src="SAAR.webp" alt="Clan of Saar">
+                    </div>
+                    <div class="strategy-stack">
+                        <div class="info-section small">
+                            <h3>R1 Strategy</h3>
+                            <p>Trade &gt; Tech &gt; Leadership</p>
+                        </div>
+                        <div class="info-section small">
+                            <h3>R2+ Strategy</h3>
+                            <p>Trade &gt; Leadership &gt; Imperial</p>
+                        </div>
+                    </div>
+                    <div class="info-section tech-section">
+                        <h3>Tech Path (Blue)</h3>
+                        <p class="tech-path">
+                            <span class="tech-pip blue"></span>Antimass →
+                            <span class="tech-pip blue"></span>Grav Drive →
+                            <span class="tech-pip blue"></span><span class="tech-pip blue"></span>Carrier II →
+                            <span class="tech-pip blue"></span><span class="tech-pip blue"></span>Fleet Logistics
+                        </p>
+                    </div>
+                    <div class="info-section slice-section">
+                        <h3>Slice</h3>
+                        <p class="slice-info"><strong>Want:</strong> Asteroids, empty systems, mobility</p>
+                        <p class="slice-info"><strong>Avoid:</strong> Corner positions, blocked paths</p>
+                    </div>
+                </div>
+                <div class="bottom-row">
+                    <div class="info-section game-plan">
+                        <h3>Game Plan</h3>
+                        <p><strong>Early (R1):</strong> Floating Factories move WITH your fleet. Scavenge = 1 TG per planet conquered. Expand aggressively - you don't need to hold planets. Chaos Mapping breakthrough = place asteroids to block enemies.</p>
+                        <p><strong>Mid (R2-R3):</strong> Commander unlocks when factory produces in system with opponent ships. Nomadic ability = can score objectives even if HS is taken. Use distributed production across multiple factories.</p>
+                        <p><strong>Late (R4+):</strong> Hero places 3 space docks anywhere you have units. Forage = factory produces extra fighter/inf. Mobile production means you can strike anywhere and produce reinforcements.</p>
+                    </div>
+                    <div class="right-stack">
+                        <div class="info-section small">
+                            <h3>Key Units</h3>
+                            <p><strong>Factories</strong> - Mobile docks</p>
+                            <p><strong>Carriers</strong> - Capacity core</p>
+                            <p><strong>Fighters</strong> - Cheap screen</p>
+                        </div>
+                        <div class="info-section small">
+                            <h3>Exploit</h3>
+                            <p>Scavenge: 1 TG/planet</p>
+                            <p>Nomadic: Score without HS</p>
+                            <p>Chaos: Asteroid blocking</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="print-btn" onclick="window.print()">Print Strategy Card</button>
+    </div>
+</div>
 <h2 id="i.-introduction">I. Introduction</h2>
 <p>The Clan of Saar are Twilight Imperium’s <strong>mobile production
 masters</strong>, the only faction whose space docks float in space,
