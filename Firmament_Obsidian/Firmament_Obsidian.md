@@ -3,13 +3,39 @@
 <a href="Firmament_Obsidian.md" download class="download-link" title="Plain text file - safe to download">Download .md</a>
 </nav>
 
-# The Firmament / The Obsidian Comprehensive Strategy Guide
+# Firmament Obsidian Guide
 
 ![Firmament Obsidian Faction Sheet](FirmamentSheet.jpg)
+
+
+## Contents
+
+1. [Introduction](#i-introduction)
+2. [Playstyle](#ii-playstyle)
+3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-considerations)
+4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
+   - [First Turn Priorities](#a-first-turn-priorities)
+5. [Technology](#v-technology)
+   - [Starting Technologies](#a-starting-technologies) · [Technology Paths](#b-technology-paths) · [Key Technologies](#c-key-technologies)
+6. [Strategy Cards](#vi-strategy-cards)
+   - [Round 1](#a-round-1-as-the-firmament) · [Round 2+](#b-round-2)
+7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
+   - [Unit Composition](#a-unit-composition) · [Game Plan](#b-game-plan)
+8. [Objectives](#viii-objectives)
+   - [Objective Summary](#a-objective-summary) · [Stage I](#b-stage-i-objectives) · [Secret Objectives](#c-secret-objectives) · [Stage II](#d-stage-ii-objectives)
+9. [Alliance Priority](#ix-alliance-priority)
+10. [Bonus Game Elements](#x-bonus-game-elements)
+    - [Action Cards](#a-high-value-action-cards) · [Relics](#b-relic-priorities) · [Agendas](#c-agenda-awareness)
+11. [End Notes](#xi-end-notes)
+
+---
 
 ## I. Introduction
 
 The Firmament / The Obsidian are Twilight Imperium's **dual-faction transformation powerhouse**, the only faction that fundamentally changes identity mid-game. You begin as **The Firmament**, a shadow manipulator that scores other players' secret objectives without gaining points, instead collecting plot cards that grant powerful abilities against those "puppeted" players. When you choose, you transform into **The Obsidian**, a military juggernaut whose home planets become hollow (3/0 resource each, totaling 6 resources), all plots flip to revealed status unleashing their effects, and your faction components upgrade to aggressive versions. This faction rewards strategic deception, perfect transformation timing, and understanding both phases of your dual nature. No other faction plays two completely different games in sequence.
+
+---
 
 ## II. Playstyle
 
@@ -21,6 +47,8 @@ This is the critical inflection point. You need at least 1 plot to transform via
 
 **Late Game as The Obsidian (Rounds 4-6+):**
 After transformation, your entire faction changes. Your home planets flip to Cronos Hollow and Tallin Hollow (3/0 each = 6 total resources, 0 influence), your plots flip to revealed status activating their abilities simultaneously, and all your dual-sided components upgrade. You become a resource-rich military faction with 6 home resources, superior flagship (3 dice instead of 2), offensive agent (forces mutual ship destruction), and combat-focused commander (Aroz Hollow grants +1 combat in The Fracture). Your Neural Parasite tech (if researched) flips from generating friendly infantry to destroying enemy infantry. Your breakthrough flips from storing trade goods (The Sowing) to generating them from combat victories and doubling them (The Reaping). Victory comes from leveraging your resource advantage to field massive fleets, using plot abilities to dominate specific opponents, and scoring objectives rapidly with your accumulated board presence.
+
+---
 
 ## III. Faction Info and Drafting
 
@@ -423,6 +451,8 @@ Firmament/Obsidian has two dual-sided faction technologies that flip when you tr
 - Moderate Mecatol proximity (you can score it via secrets, then hold after transformation)
 - Positioning allowing access to multiple opponents' territories (easier to score their secrets)
 
+---
+
 ## IV. Round 1 Problems and Faction Weakness
 
 ### A. First Turn Priorities
@@ -466,6 +496,8 @@ Managing dual faction sheets, tracking 5 different plot types, timing transforma
 
 **8. Alliance Note Purging:**
 When you transform, your Firmament promissory note (Black Ops) purges. If you haven't traded it yet, you lose that opportunity. Similarly, all Firmament faction components purge permanently. Any faction-specific advantages (Firmament agent uses, commander benefits) disappear forever.
+
+---
 
 ## V. Technology
 
@@ -574,6 +606,8 @@ Round 3: **Cruiser II (2 Yellow, 1 Red) OR Destroyer II (2 Red)**
 - Stacks with Neural Motivator for 4 total
 - Command token sustainability
 
+---
+
 ## VI. Strategy Cards
 
 ### A. Round 1 (as The Firmament)
@@ -633,6 +667,8 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Leadership** - Command tokens for sustained aggression.
 - **Technology** - Continue tech path if needed.
 - **Trade** - 3 commodities for economic support.
+
+---
 
 ## VII. Unit Composition and Game Plan
 
@@ -746,6 +782,8 @@ Typically use your action to transform (Puppets of the Blade). May not get strat
 - **Plot Abuse:** Stack plot abilities (fight puppeted players with Assail, use Enervate for free secondaries, copy techs with Extract)
 - **Resource Advantage:** 6-resource hollow home + captured planets = 15+ resources for War Suns, mass production
 - **Close Out:** Reach 10-14 points through rapid Stage II scoring
+
+---
 
 ## VIII. Objectives
 
@@ -901,6 +939,8 @@ As Firmament, focus on scoring opponent secrets for plots. As Obsidian, leverage
 
 Firmament gains plots by scoring opponent secrets. Obsidian leverages 6-resource hollow home and revealed plots for rapid scoring.
 
+---
+
 ## IX. Alliance Priority
 
 Your alliance ability grants Plots within Plots (Firmament) or Obsidian benefits to allies. Trade carefully based on which phase you're in.
@@ -931,6 +971,8 @@ Your alliance ability grants Plots within Plots (Firmament) or Obsidian benefits
 
 - **Pre-Transformation:** Alliance less valuable (you're weak)
 - **Post-Transformation:** Alliance very valuable (you're strong, 6-resource economy)
+
+---
 
 ## X. Bonus Game Elements
 
