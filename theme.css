@@ -112,6 +112,7 @@ h1 {
 h2 {
   font-size: 1.6rem;
   font-weight: 600;
+  color: var(--accent-cyan);
   border-bottom: 1px solid var(--border-color);
   padding-bottom: var(--spacing-sm);
 }
@@ -119,6 +120,7 @@ h2 {
 h3 {
   font-size: 1.25rem;
   font-weight: 600;
+  color: var(--accent-cyan);
 }
 
 h4 {
