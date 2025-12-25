@@ -193,9 +193,13 @@ You're very flexible with speaker order. Just grab value strategy cards (Trade, 
 ### A. First Turn Priorities
 
 Your Round 1 (R1) priority order:
+
 1. **Score** - Flexible start, so get started on points early
+
 2. **Breakthrough** - Get the tech train started via cheaper tech acquisition (better than researching normally)
+
 3. **Produce and Expand** - Add expansion capability to be more flexible in round 2
+
 4. **Tech** - Probably not needed since you already start with 2 techs and can use breakthrough for future research
 
 **Expansion Notes:** You start with 1 dreadnought, 1 carrier, 4 fighters, and 3 infantry. Strong starting fleet for expansion with early Sustain Damage. Focus on taking 2-3 systems R1 while positioning near neighbors to establish coexistence opportunities. Your 3 infantry limit expansion - you'll need to produce more infantry to continue taking planets.

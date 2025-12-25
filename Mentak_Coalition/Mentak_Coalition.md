@@ -210,9 +210,13 @@ Mentak needs wormhole access or proximity to other players for Pillage positioni
 ### A. First Turn Priorities
 
 Your Round 1 (R1) priority order:
+
 1. **Production** - Great priority
+
 2. **Technology** - Great priority
+
 3. **Scoring** - Will have to be 3rd priority
+
 4. **Breakthrough** - Only if readily available
 
 **Economic Constraint:** Your economy will be too weak if you spend on all of these. Prioritize production and tech, then scoring only when economy allows.
