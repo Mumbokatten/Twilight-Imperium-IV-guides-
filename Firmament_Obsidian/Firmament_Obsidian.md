@@ -621,27 +621,27 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
 | Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🔴     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟢     |
 | **Control**                                                              |        |
-| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟢     |
-| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🟡     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟢     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟢     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
+| Subdue the Galaxy (Control 11 planets in non-home systems)               | 🔴     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🔴     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🔴     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🔴     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
 | **Ships in Systems**                                                     |        |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟡     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🔴     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🔴     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🔴     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🔴     |
 | **Tech**                                                                 |        |
-| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| Master of Sciences (Own 2 techs in each of 4 colors)                     | 🔴     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
 | **Structure**                                                            |        |
 | Construct Massive Cities (Have 7+ structures)                            | 🔴     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟡     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
