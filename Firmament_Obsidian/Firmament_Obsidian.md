@@ -577,7 +577,7 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 | Fight With Precision (AFB destroy last fighter)                         | 🟡     |
 | **Ships in Systems**                                                     |        |
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟡     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟢     |
 | Control the Region (Ships in 6 systems)                                 | 🟢     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
