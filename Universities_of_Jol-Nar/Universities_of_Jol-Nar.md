@@ -219,11 +219,11 @@ Explosive flagship. Rolls 2 dice at combat 6, but with Fragile you hit on 7+. Ea
 
 Despite Fragile, your flagship is 33% better on average.
 
-### J. Breakthrough - **Specialized Compounds (Y↔G)**
+### J. Breakthrough - **Specialized Compounds (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">)**
 
 When you research technology using the "Technology" strategy card, you may exhaust a planet that has a technology specialty instead of spending resources; if you do, you must research a technology of that color.
 
-**Y↔G Synergy:** Yellow and green technologies count as each other for prerequisites. 100% useless for you—Analytical already handles prerequisites.
+**<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> Synergy:** Yellow and green technologies count as each other for prerequisites. 100% useless for you—Analytical already handles prerequisites.
 
 **Ability:** Exhaust a tech specialty planet to research instead of spending resources. Must research a tech matching the planet's color. Not actually "free"—you lose the planet's resource/influence value that round. Average tech skip planet is ~2 value, so you're saving maybe 4-6 resources total over a game (2-3 uses). Minor value—only get this breakthrough if it unlocks Thunder's Edge.
 

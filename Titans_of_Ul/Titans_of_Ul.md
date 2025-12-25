@@ -157,11 +157,11 @@ Cost: 8 | Combat: 7 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 Good for getting flagship free if you're already at PDS limit. Otherwise very weak.
 
-### J. Breakthrough - **Slumberstate Computing (Y↔G)**
+### J. Breakthrough - **Slumberstate Computing (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">)**
 
 When COALESCENCE results in a ground combat, if you commit no other units, you may choose for your units to coexist instead. During the status phase, for each player you are coexisting with, you and that player each draw 1 additional action card. Other players may allow you to place a sleeper token on a planet they control.
 
-**Y↔G Synergy:** Yellow and green count as each other for prerequisites. Scanlink (0) counts as both yellow and green. Rarely useful.
+**<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> Synergy:** Yellow and green count as each other for prerequisites. Scanlink (0) counts as both yellow and green. Rarely useful.
 
 **Coexistence Option:** Choose peaceful coexistence instead of combat when awakening on contested planets (if no other units committed). Both players draw 1 action card per status phase.
 

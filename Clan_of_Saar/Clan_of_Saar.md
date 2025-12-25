@@ -123,13 +123,13 @@ Cost: 8 | Combat: 5 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage** | **ANTI-F
 
 Combat-wise among the strongest flagships in the game. Ridiculous average of 2 fighter hits right away from AFB 6 (x4), then hitting double 5's in combat. Get it every game with your main super fleet.
 
-### J. Breakthrough - **Deorbit Barrage (B↔R)**
+### J. Breakthrough - **Deorbit Barrage (<img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="../icons/tech_warfare.png" class="tech-icon" alt="R">)**
 
 ACTION: Exhaust this card and spend any amount of resources to choose a planet up to 2 systems away from an asteroid field that contains your ships; roll a number of dice equal to the amount spent and assign 1 hit to a ground force on that planet for each roll of 4 or greater.
 
 Mostly used as a stall. The ability is not impactful enough except for edge cases. You'll also annoy people that are probably already annoyed by you.
 
-**B↔R Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using <span class="tb">Chaos Mapping</span> is the most interesting part.
+**<img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using <span class="tb">Chaos Mapping</span> is the most interesting part.
 
 Try to place Thunder's Edge in an asteroid field—you can always use the extra resources.
 

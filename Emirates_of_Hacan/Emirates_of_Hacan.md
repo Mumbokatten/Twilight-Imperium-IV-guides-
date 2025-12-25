@@ -165,7 +165,7 @@ Too costly for the ability it provides. Sure, you can spend a trade good or two 
 
 ### J. Breakthrough
 
-**Auto-Factories:** R↔Y (Red-Yellow synergy)
+**Auto-Factories:** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> (Red-Yellow synergy)
 
 When you produce 3 or more non-fighter ships, place 1 command token from your reinforcements into your fleet pool.
 
@@ -239,9 +239,9 @@ Hacan has two distinct tech paths available:
 
 **Path 1 - Blue-Yellow (Mobility & Carriers):** The default, reliable path. Focuses on mobility and unit upgrades using your starting <span class="tb">Antimass Deflectors</span> and <span class="ty">Sarween Tools</span>. Pushes toward <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, and <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for early aggression, custodian grab, and objective scoring. Faster to get started and not hero reliant—provides consistent performance throughout the game.
 
-**Path 2 - Red-Yellow (War Sun + Hero):** The high-risk, high-reward path. Requires getting Auto-Factories breakthrough (R↔Y synergy) early in R1/R2. Uses the R↔Y synergy to rush <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Quantum Datahub Node</span> (YYYY), and War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> by Round 4. Maximizes your hero's ~15-35 resource production value but is slower to get online and heavily dependent on getting breakthrough early and timing your hero correctly.
+**Path 2 - Red-Yellow (War Sun + Hero):** The high-risk, high-reward path. Requires getting Auto-Factories breakthrough (<img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> synergy) early in R1/R2. Uses the <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> synergy to rush <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Quantum Datahub Node</span> (YYYY), and War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> by Round 4. Maximizes your hero's ~15-35 resource production value but is slower to get online and heavily dependent on getting breakthrough early and timing your hero correctly.
 
-Choose your path based on: breakthrough availability (R↔Y required for Path 2), slice positioning (safe slice favors Path 2's slower buildup), and game tempo (Path 1 better for aggressive tables).
+Choose your path based on: breakthrough availability (<img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> required for Path 2), slice positioning (safe slice favors Path 2's slower buildup), and game tempo (Path 1 better for aggressive tables).
 
 ### B. Starting Technologies
 
@@ -274,9 +274,9 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 
 **Path 2 - Red-Yellow (War Sun + Hero):**
 
-**Prerequisite:** Get Auto-Factories breakthrough (R↔Y synergy) in R1/R2
+**Prerequisite:** Get Auto-Factories breakthrough (<img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> synergy) in R1/R2
 
-**Round 1:** <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - With R↔Y, counts as both red and yellow prereqs
+**Round 1:** <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - With <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, counts as both red and yellow prereqs
 - *At the start of ground combat on a planet with your structures, produce 1 hit assigned to opponent's ground forces*
 
 **Round 2:** <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Troop movement flexibility
@@ -366,13 +366,13 @@ Your ideal fleet composition in each system:
 
 - **Carriers** - Core transport for capacity
 - **War Sun (R4)** - Overwhelming combat power, coordinate with hero timing
-- **Destroyers (upgrade to Destroyer II with R↔Y)** - Cheap combat ships, AFB screening
+- **Destroyers (upgrade to Destroyer II with <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">)** - Cheap combat ships, AFB screening
 - **Fighter screen** - Absorb hits and provide combat dice
 - **Infantry** - Ground forces for objectives, highly mobile with <span class="ty">Transit Diodes</span> (R3)
 - **Mechs (situational)** - Can trade planets with structures for tactical advantages
 - **Flagship (with hero timing)** - Expensive but can be produced for free with hero turn
 
-War Sun arrives R4. Hero turn produces War Sun + full fleet for free (~15-35 resources of value). With R↔Y breakthrough, Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> can be upgraded for additional combat power. With red or yellow tech skip, you can rush War Sun faster by skipping Magen/<span class="ty">Transit Diodes</span>.
+War Sun arrives R4. Hero turn produces War Sun + full fleet for free (~15-35 resources of value). With <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> breakthrough, Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> can be upgraded for additional combat power. With red or yellow tech skip, you can rush War Sun faster by skipping Magen/<span class="ty">Transit Diodes</span>.
 
 ---
 

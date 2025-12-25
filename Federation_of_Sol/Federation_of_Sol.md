@@ -141,13 +141,13 @@ Crazy ship. Full fighting power with 2 dice at combat 5, massive 12 capacity, an
 
 Note: If you have weak/damaged carriers on the frontline, move them back to a space dock—with Breakthrough you get bonus production when building new carriers.
 
-### J. Breakthrough - **Bellum Gloriosum (Y↔G)**
+### J. Breakthrough - **Bellum Gloriosum (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">)**
 
 When you produce a ship that has capacity, you may also produce any combination of ground forces or fighters up to that ship's capacity. They do not count against your PRODUCTION limit.
 
-**Y↔G Synergy:** Yellow and green technologies count as each other for prerequisites.
+**<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> Synergy:** Yellow and green technologies count as each other for prerequisites.
 
-Absurd production. Produce a carrier and get infantry/fighters up to its capacity without counting against production. Enables massive army building in one activation. The Y↔G synergy isn't useful unless you want Dreadnought II.
+Absurd production. Produce a carrier and get infantry/fighters up to its capacity without counting against production. Enables massive army building in one activation. The <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> synergy isn't useful unless you want Dreadnought II.
 
 ### K. Slice Considerations
 

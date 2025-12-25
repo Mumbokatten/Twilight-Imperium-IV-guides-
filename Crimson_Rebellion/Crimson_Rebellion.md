@@ -101,7 +101,7 @@ Your destroyers place breaches after any combat (yours or others) in their syste
 
 Recommended options:
 - **<span class="tb">Dark Energy Tap</span>** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
-- **<span class="ty">AI Development Algorithm</span>** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
+- **<span class="ty">AI Development Algorithm</span>** - Enables low-tech game with Carrier II rush. Opens War Sun path with <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> synergy.
 - **<span class="tb">Antimass Deflectors</span>** - Only if slice requires asteroid/supernova mobility.
 
 Pick <span class="ty">AI Dev</span> or DET. Only take Antimass if your slice requires it.
@@ -169,7 +169,7 @@ This is a devastating debuff flagship. When parked in a breach system, it strips
 
 ### J. Breakthrough
 
-**Resonance Generator:** B↔R (Blue-Red synergy)
+**Resonance Generator:** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> (Blue-Red synergy)
 
 During your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains an active breach.
 
@@ -232,7 +232,7 @@ Pick <span class="ty">AI Development Algorithm</span> or <span class="tb">Dark E
 
 Recommended options:
 - **<span class="tb">Dark Energy Tap</span>** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
-- **<span class="tr">AI Development Algorithm</span>** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
+- **<span class="tr">AI Development Algorithm</span>** - Enables low-tech game with Carrier II rush. Opens War Sun path with <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> synergy.
 - **<span class="tb">Antimass Deflectors</span>** - Only if slice requires asteroid/supernova mobility.
 
 ### C. Tech Path
@@ -259,7 +259,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 - **<span class="tr">Assault Cannon</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Same timing as hero. Immune to Skilled Retreat.
 - **Subatomic Splicer ** - Ship rebuilding. Hero synergy.
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If needed.
-- **War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - <span class="ty">AI Development Algorithm</span> + B↔R synergy enables. Requires wealth.
+- **War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - <span class="ty">AI Development Algorithm</span> + <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> synergy enables. Requires wealth.
 
 **Situational:**
 

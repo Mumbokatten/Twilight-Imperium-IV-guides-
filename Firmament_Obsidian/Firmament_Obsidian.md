@@ -228,7 +228,7 @@ Rare to have early, but incredibly versatile. Strong combat numbers, self-repair
 
 Strong battle values, especially for extended battles with that third die. But losing the 2 movement and self-repair versatility is a real cost—slight downgrade overall.
 
-### J. Breakthrough - **The Sowing / The Reaping (Y↔G)**
+### J. Breakthrough - **The Sowing / The Reaping (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">)**
 
 **The Sowing (Firmament):** At status phase, place up to 3 trade goods on this card.
 
@@ -292,7 +292,7 @@ Very nice and will pay big if you're in a few combats. But your Obsidian economi
 - **<span class="ty">Sarween Tools</span>** for Path 1 (Mobility Safe Path) - covers yellow prereq for Dreadnought II.
 - **<span class="tg">Neural Motivator</span>** for Path 2 (Ground Dominance Spicy Path) - starts green for faction tech and <span class="tg">X-89</span>.
 
-You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Path 1 is safe and doesn't require breakthrough. Path 2 requires breakthrough unlocked for the Y↔G synergy.
+You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Path 1 is safe and doesn't require breakthrough. Path 2 requires breakthrough unlocked for the <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> synergy.
 
 Always look for what you're missing via Extract plots. If you're in Path 1 (blue mobility, unit upgrades), look for combat power—<span class="tr">Assault Cannon</span>, <span class="tr">Duranium Armor</span>, <span class="ty">Integrated Economy</span>, <span class="tg">X-89</span>. If you're in Path 2 (slow ground dominance), look for blue mobility and unit upgrades—<span class="tb">Gravity Drive</span>, Carrier II, Dreadnought II, <span class="tb">Fleet Logistics</span>.
 
@@ -336,7 +336,7 @@ Always look for what you're missing via Extract plots. If you're in Path 1 (blue
 
 **Round 4:** <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - After you gain control of a planet, you may produce units on that planet equal to its resource value.
-- **Why:** Y↔G breakthrough covers prereqs. Instant production on conquered planets.
+- **Why:** <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> breakthrough covers prereqs. Instant production on conquered planets.
 
 **Round 5:** <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Flex
 - You may exhaust this card at the start of your turn; remove up to 4 ground forces and place them on planets you control.

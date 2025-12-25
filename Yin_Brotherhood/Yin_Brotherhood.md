@@ -142,11 +142,11 @@ When this ship is destroyed, destroy all ships in this system.
 
 Mutually assured destruction. Most likely a defensive tool parked at home. Fun to have on the board and great for extorting big fleets—opponents won't engage if it costs them everything.
 
-### J. Breakthrough - **Yin Ascendant (Y↔G)**
+### J. Breakthrough - **Yin Ascendant (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">)**
 
 When you gain this card or score a public objective, gain the alliance ability of a random, unused faction.
 
-**Y↔G Synergy:** Sarween counts as green for <span class="tg">Yin Spinner</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> and opens <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> + X-89 <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> paths.
+**<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> Synergy:** Sarween counts as green for <span class="tg">Yin Spinner</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> and opens <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> + X-89 <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> paths.
 
 **Random Alliances:** Excellent ability. Expect 4-6 alliances over a game, which averages out to great value. Unlock before first public objective scores to maximize. Having multiple commander abilities stacking makes you significantly stronger than your components suggest.
 
@@ -228,7 +228,7 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 **Round 4:** <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - When you gain trade goods or resolve the secondary ability of the Trade strategy card, gain 1 additional trade good
-- **Why:** If unlocking Yin Ascendant (Y↔G), this counts as 3 green techs for <span class="tg">X-89</span>. Extra trade goods help your weak economy.
+- **Why:** If unlocking Yin Ascendant (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">), this counts as 3 green techs for <span class="tg">X-89</span>. Extra trade goods help your weak economy.
 
 **Round 5:** <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - At the start of ground combat, choose up to 2 planets and exhaust this card; destroy all infantry on those planets

@@ -154,11 +154,11 @@ Parting shot on retreat - destroy 1 ship without Sustain Damage when retreating.
 
 ### J. Breakthrough
 
-**Data Skimmer (Y↔G):** Yellow and green technologies count as each other for prerequisites.
+**Data Skimmer (<img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G">):** Yellow and green technologies count as each other for prerequisites.
 
 During the action phase, if you have not passed, when other players would discard action cards, they are placed on this card instead. When you pass, take 1 action card from this card and discard the rest.
 
-Excellent action card economy. Cherry-pick the best discarded action card each round. Y↔G synergy helps tech pathing flexibility.
+Excellent action card economy. Cherry-pick the best discarded action card each round. <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> synergy helps tech pathing flexibility.
 
 ### K. Slice and Draft Considerations
 
@@ -172,7 +172,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 **Nice to Have:**
 
-- Yellow or green tech skip (works with Y↔G breakthrough)
+- Yellow or green tech skip (works with <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> breakthrough)
 - Systems with multiple planets (deploy structures after conquest)
 - Wormholes for Linkship positioning flexibility
 
@@ -263,9 +263,9 @@ Ral Nel has two distinct tech paths:
 
 **Supplemental Techs:**
 
-- **<span class="ty">Graviton Laser System</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
+- **<span class="ty">Graviton Laser System</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> breakthrough.
 
-- **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready <span class="tr">Nanomachines</span> for double use. Needs green skip but works with Y↔G breakthrough.
+- **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready <span class="tr">Nanomachines</span> for double use. Needs green skip but works with <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> breakthrough.
 
 ---
 
