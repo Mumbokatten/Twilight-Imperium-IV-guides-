@@ -681,8 +681,12 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Firmament Obsidian is TI4's most unique faction—two completely different identities in one game. Spend the early game as a diplomat, quietly puppeting players through their own secrets. Transform at the right moment (aim for Round 3 with 3+ plots), and become a military juggernaut with a 6-resource home, stacked plot abilities, and the aggression needed to catch up and win.
+Firmament Obsidian is the faction for players who understand that deception and transformation create unstoppable advantages. You're not racing for early points—you're accumulating plots while appearing weak. You're building toward one of the biggest power spikes in the game when you transform into The Obsidian.
 
-The key to mastering this faction: trade your PN early for commander unlock, score as many opponent secrets as possible, transform when you have enough plots but not too late, and leverage your Obsidian advantages ruthlessly. Don't be passive—you're behind on points and need to stop leaders while you catch up.
+Your biggest strength is the dual-faction transformation. As Firmament, you puppet players by scoring their secrets, gaining facedown plot cards instead of victory points. As Obsidian, your home system doubles to 6 resources, all plots flip and activate, and your faction components upgrade to aggressive versions. Combined with strong flagship and combat abilities, you become a military juggernaut.
 
-The shadow becomes the blade.
+Your value comes from diplomatic positioning and timing. Trade your PN early for commander unlock. Score opponent secrets to accumulate plots. Transform around Round 3 with 3+ plots—not too early, not too late. Your 6-resource Obsidian home funds big builds while plot abilities stack against puppeted targets.
+
+The table learns to fear your transformation. You looked friendly, made deals, fell behind on points. Then you flip, and suddenly you're targeting them with stacked combat abilities and a resource advantage. You don't conquer through early aggression—you position quietly, then strike decisively.
+
+**"The shadow becomes the blade."**
