@@ -583,32 +583,32 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
 | **Control**                                                              |        |
 | Seize an Icon (Control legendary planet)                                | 🟢     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟢     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟢     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🔴     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🔴     |
+| Monopolize Production (Control 4 industrial planets)                     | 🔴     |
 | Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
-| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🟡     |
 | Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
 | Stake Your Claim (Control planet in contested system)                   | 🟢     |
 | **Tech/Units**                                                           |        |
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🔴     |
 | Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
 | Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
 | Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟢     |
 | **Structure**                                                            |        |
-| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
 | Establish a Perimeter II (Have 4 PDS on board)                          | 🔴     |
 | Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
 | **Other**                                                                |        |
-| Become a Martyr (Lose control of planet in home system)                 | 🟢     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟢     |
-| Dictate Policy (3+ laws in play)                                        | 🟢     |
+| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
 | Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟢     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
 | Form a Spy Network (Discard 5 action cards)                             | 🟢     |
 | Foster Cohesion (Be neighbors with all players)                         | 🟢     |
-| Prove Endurance (Last to pass)                                          | 🟢     |
+| Prove Endurance (Last to pass)                                          | 🔴     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
