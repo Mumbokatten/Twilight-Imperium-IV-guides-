@@ -651,19 +651,19 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 
 **Top Tier:**
 
-1. **Xxcha (Elder Qanoj)** - Exhaust planets in/adjacent to systems with your ships. Solves your zero-influence Obsidian problem.
+1. **Crimson Rebellion (Ahk Siever)** - Gain 1 TG after any combat. Passive income for combat-focused Obsidian.
 2. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Free Heaven's Eye saves 8 resources.
 3. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income helps weak Firmament economy.
-4. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Passive income scales with your Obsidian builds.
+4. **Deepwrought (Aello)** - Gain commodity/TG when others research tech. Passive income.
 5. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home systems, legendary planets. Combat boost as Obsidian.
 
 **Good:**
 
-6. **Hacan (Gila the Silvertongue)** - Neighbors for trade purposes. Economy support as Firmament.
-7. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Cards help score secrets.
+6. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Scales with Obsidian builds.
+7. **Empyrean (Xuange)** - Return command token when others move into your systems. Token efficiency.
 8. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION. Extra capacity.
-9. **Arborec (Dirzuga Rophal)** - Produce up to 2 infantry in systems with your ground forces. Free infantry.
-10. **Naalu (M'aban)** - Look at 1 neighbor's hand. Information on which secrets to target.
+9. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Works with dreads.
+10. **Naaz-Rokha (Dart and Tai)** - Explore planet after conquering. Extra value from Obsidian aggression.
 
 ---
 
