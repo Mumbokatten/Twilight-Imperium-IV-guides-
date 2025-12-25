@@ -540,9 +540,9 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
 | **Control**                                                             |        |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-| Corner the Market (Control 4 planets with same trait)                   | 🟢     |
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟢     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟢     |
+| Corner the Market (Control 4 planets with same trait)                   | 🟡     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
 | Push Boundaries (Control more planets than each neighbor)               | 🟢     |
 | **Ships in Systems**                                                    |        |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
