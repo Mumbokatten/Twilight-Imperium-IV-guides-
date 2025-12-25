@@ -88,7 +88,7 @@ Unrelenting gives each unit 0.1 expected extra hit. For every 10 units you roll,
 
 **Faction Technologies:**
 
-**Exotrireme II (BBY):**
+**Exotrireme II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *N'orr Dreadnought - Cost: 4 | Combat: 5 | Move: 2 | Capacity: 1 | BOMBARDMENT 4 (x2) | Sustain Damage*
 
 This unit cannot be destroyed by "Direct Hit" action cards. After a round of space combat, you may destroy this unit to destroy up to 2 ships in this system.
@@ -252,18 +252,18 @@ There's really only 1 tech path these days: **<span class="ty">AI Development Al
 
 **Available unit upgrades via N'orr Supremacy:**
 
-- Carrier II (BB) - ✓
-- Exotrireme II (BBY) - ✓ (AI Dev ignores yellow)
-- Destroyer II (RR) - ✓
-- Fighter II (GB) - ✓ (AI Dev ignores green)
-- PDS II (RY) - ✓ (AI Dev ignores yellow)
+- Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - ✓
+- Exotrireme II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - ✓ (AI Dev ignores yellow)
+- Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - ✓
+- Fighter II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - ✓ (AI Dev ignores green)
+- PDS II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - ✓ (AI Dev ignores yellow)
 
 **Cannot research via N'orr Supremacy:**
 
-- War Sun (RRRY) - Needs 1 more red + yellow
-- Infantry II (GG) - Needs 1 more green
-- Space Dock II (YY) - Needs 1 more yellow
-- Cruiser II (GYR) - Needs green + yellow
+- War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Needs 1 more red + yellow
+- Infantry II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - Needs 1 more green
+- Space Dock II <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Needs 1 more yellow
+- Cruiser II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Needs green + yellow
 
 ### B. Tech Path
 
@@ -375,7 +375,7 @@ Use your accumulated combat advantage to close out the game. Your unit upgrades 
 
 **Strengths:** N'orr Supremacy breakthrough makes every combat profitable with command tokens or unit upgrade tech. Combat objectives are excellent. Commander enables invasions from adjacent systems without moving ships. Territorial objectives from aggressive expansion.
 
-**Weaknesses:** Tech deficit - 0 starting tech, permanently tech-poor. Structures - no Space Dock II (YY) hurts production scaling. Mobility early - no movement tech until round 2, hard to reach targets without <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">.
+**Weaknesses:** Tech deficit - 0 starting tech, permanently tech-poor. Structures - no Space Dock II <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> hurts production scaling. Mobility early - no movement tech until round 2, hard to reach targets without <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">.
 
 ### B. Stage I Objectives
 

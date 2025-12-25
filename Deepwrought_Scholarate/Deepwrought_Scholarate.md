@@ -91,7 +91,7 @@ This is the strongest starting tech advantage in the game. You can research ANY 
 
 **Blue Path:**
 
-- **<span class="tb">Antimass Deflectors</span> + <span class="tb">Dark Energy Tap</span> (or <span class="tb">Gravity Drive</span>):** Movement flexibility and economy, sets up <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Light/Wave Deflector (BBB)
+- **<span class="tb">Antimass Deflectors</span> + <span class="tb">Dark Energy Tap</span> (or <span class="tb">Gravity Drive</span>):** Movement flexibility and economy, sets up <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 
 **Green Path:**
 
@@ -101,7 +101,7 @@ This is the strongest starting tech advantage in the game. You can research ANY 
 
 - **Hydrothermal Mining (G):** During status phase, gain 1 trade good for each ocean card you have in play. Your core economic engine—the more ocean cards you collect, the richer you become passively.
 
-- **Radical Advancement (GG):** As an action, you may return 1 non-faction, non-unit upgrade technology you own to the deck and research 1 technology. Swap techs on the fly to adapt to objectives or counter opponents. Use to exchange early game picks for late game power techs.
+- **Radical Advancement <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** As an action, you may return 1 non-faction, non-unit upgrade technology you own to the deck and research 1 technology. Swap techs on the fly to adapt to objectives or counter opponents. Use to exchange early game picks for late game power techs.
 
 ### E. Leaders
 

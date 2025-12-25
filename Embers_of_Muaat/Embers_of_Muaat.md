@@ -92,11 +92,11 @@ Gashlai Physiology grants unique mobility through supernovas, which normally des
 
 **Faction Technologies:**
 
-**<span class="tr">Prototype War Sun II</span> (RRRY):** Muaat War Sun | Cost: 10 | Combat: 3 (x3) | Move: 3 | Capacity: 6 | BOMBARDMENT 3 (x3) | Sustain Damage | Other players' units in this system lose the Planetary Shield ability.
+**<span class="tr">Prototype War Sun II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** Muaat War Sun | Cost: 10 | Combat: 3 (x3) | Move: 3 | Capacity: 6 | BOMBARDMENT 3 (x3) | Sustain Damage | Other players' units in this system lose the Planetary Shield ability.
 
 <span class="tr">Prototype War Sun II</span> is your critical upgrade, reducing cost from 12 to 10 and dramatically increasing movement from 1 to 3. This mobility transformation makes your war sun significantly more flexible and threatening, allowing rapid repositioning and system control.
 
-**<span class="tr">Magmus Reactor</span> Ω (RR):** Your ships can move into supernovas. Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
+**<span class="tr">Magmus Reactor</span> Ω <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** Your ships can move into supernovas. Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
 
 <span class="tr">Magmus Reactor</span> allows your ships to move into and stop in supernovas, while also granting PRODUCTION 5 to any supernova containing your units. This creates powerful production hubs in systems other factions cannot access, combining your Gashlai Physiology mobility with economic benefits.
 
@@ -231,7 +231,7 @@ Your war sun begins with move 1, making it extremely slow to project power acros
 
 **Starting Technology:** <span class="tr">Plasma Scoring</span> - Not a great tech but is on the way to <span class="tr">Prototype War Sun II</span>.
 
-Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is <span class="tr">Magmus Reactor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> for supernova production.
+Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> for the critical mobility upgrade from move 1 to move 3. Secondary priority is <span class="tr">Magmus Reactor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> for supernova production.
 
 ### B. Technology Path
 
@@ -242,10 +242,10 @@ Your main technology path focuses on acquiring <span class="tr">Prototype War Su
 - *Self-Assembly Routines:* After PRODUCTION, place 1 mech. After mech destroyed, gain 1 TG
 - *<span class="tr">Magmus Reactor</span>:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
 
-**Round 3:** <span class="tr">Prototype War Sun II</span> (RRRY) - **MAJOR POWER SPIKE**
+**Round 3:** <span class="tr">Prototype War Sun II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - **MAJOR POWER SPIKE**
 - Your war sun transforms from move 1 to move 3
 
-**Round 4:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if you have blue skip, otherwise Destroyer II (RR)
+**Round 4:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if you have blue skip, otherwise Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - *<span class="tb">Gravity Drive</span>:* +1 move to 1 ship per tactical action
 - *Destroyer II:* Cost 1, Combat 8, Move 2, AFB 6 (x3)
 
@@ -263,7 +263,7 @@ Your R1 priority is establishing economic foundation while protecting your war s
 
 1. **Trade** - With 4 commodities, you generate substantial trade good income that helps you achieve all R1 goals including tech.
 
-2. **Technology** - Begin the path toward <span class="tr">Prototype War Sun II</span> (RRRY). The mobility upgrade from move 1 to move 3 solves your most critical weakness.
+2. **Technology** - Begin the path toward <span class="tr">Prototype War Sun II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">. The mobility upgrade from move 1 to move 3 solves your most critical weakness.
 
 3. **Leadership** - Command tokens for Star Forge activations and territorial expansion. Easy breakthrough unlock.
 
@@ -308,7 +308,7 @@ Your ideal fleet composition in each system:
 
 - **War Sun (centerpiece)** - Overwhelming combat power that no conventional fleet can match. Combat 3 (x3), BOMBARDMENT 3 (x3), Sustain Damage, Capacity 6
 - **Fighters (screen)** - Absorb hits and protect your most valuable asset. Produced via Star Forge
-- **Destroyers** - Additional combat dice, AFB capability, produced via Star Forge. Destroyer II (RR) provides excellent value
+- **Destroyers** - Additional combat dice, AFB capability, produced via Star Forge. Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> provides excellent value
 - **Infantry (as needed)** - Conquest capability for taking planets
 - **Mechs (situational)** - Enhanced ground combat, Sustain Damage, Star Forge synergy for infantry placement
 

@@ -201,15 +201,15 @@ You're not very tech dependent—you like more plastic over techs. **<span class
 - Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
 - **Why:** Produce 1 unit every turn before movement. Security in asteroid belts. Keeps opponents guessing.
 
-**R3-4:** Carrier II (BB)
+**R3-4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - XRD Transporters. Cost: 3, Combat: 9, Move: 2, Capacity: 6.
 - **Why:** Capacity 6 for mass troop transport, better combat value.
 
-**R4:** Destroyer II (RR) if you have Deorbit Barrage breakthrough R4
+**R4:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> if you have Deorbit Barrage breakthrough R4
 - Automated Defense Turrets. Cost: 1, Combat: 8, Move: 2, ANTI-FIGHTER BARRAGE 6 (x3).
 - **Why:** Cheap screening, AFB 6(x3) for fighter defense. Easy to produce with <span class="tb">Chaos Mapping</span>.
 
-**R5:** Light/Wave Deflector (BBB)
+**R5:** Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Your ships can move through systems that contain other players' ships.
 - **Why:** Avoid combat while repositioning factories and fleets. Essential for late game mobility.
 

@@ -110,7 +110,7 @@ Great starting techs. <span class="tb">Antimass Deflectors</span> is solid for s
 
 Tier 4 yellow tech—pricey, but what is cost to a wealthy man? Swap strategy cards with other players for 1 strategy token and 3 trade goods. Can you put a price on winning the game? The flexibility to take exactly the strategy card you need in a critical round can be the difference between victory and defeat.
 
-**PRODUCTION Biomes (GG):**
+**PRODUCTION Biomes <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:**
 *ACTION: Exhaust this card and spend 1 token from your strategy pool to gain 4 trade goods and choose 1 other player; that player gains 2 trade goods.*
 
 Green tech with no synergy with your other tech paths. Not good enough to research—never go for this. If you get it for free from Entropic Scar, obviously it's a net positive. When you use it, negotiate the split: whoever gets the 2 trade goods can give you back 1 for a 5/1 split, or keep it 4/2 but owe you a favor. You're a merchant—always broker the best deal.
@@ -211,7 +211,7 @@ As Emirates of Hacan, your first turn priorities:
 
 1. **Scoring** - You need to get started early. Your economic engine is good all game, but it's best in the early rounds. You rarely come from behind—you stay at the front. Score territorial objectives while your economy gives you the edge.
 
-2. **Technology** - Start your tech path early. You begin with excellent starting tech position (<span class="ty">Sarween Tools</span> + <span class="tb">Antimass Deflectors</span>). Push toward <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for custodian grab and early mobility, or get started on War Sun (RRRY) prereqs to maximize impact of your hero.
+2. **Technology** - Start your tech path early. You begin with excellent starting tech position (<span class="ty">Sarween Tools</span> + <span class="tb">Antimass Deflectors</span>). Push toward <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for custodian grab and early mobility, or get started on War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> prereqs to maximize impact of your hero.
 
 3. **Expansion + Production** - With 2 starting carriers and strong early economy, expand to claim 2-3 systems. Your wealth funds the expansion.
 
@@ -237,9 +237,9 @@ Only 4 production in your home system. You need a forward space dock or two to l
 
 Hacan has two distinct tech paths available:
 
-**Path 1 - Blue-Yellow (Mobility & Carriers):** The default, reliable path. Focuses on mobility and unit upgrades using your starting <span class="tb">Antimass Deflectors</span> and <span class="ty">Sarween Tools</span>. Pushes toward <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Carrier II (BB), and <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for early aggression, custodian grab, and objective scoring. Faster to get started and not hero reliant—provides consistent performance throughout the game.
+**Path 1 - Blue-Yellow (Mobility & Carriers):** The default, reliable path. Focuses on mobility and unit upgrades using your starting <span class="tb">Antimass Deflectors</span> and <span class="ty">Sarween Tools</span>. Pushes toward <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, and <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for early aggression, custodian grab, and objective scoring. Faster to get started and not hero reliant—provides consistent performance throughout the game.
 
-**Path 2 - Red-Yellow (War Sun + Hero):** The high-risk, high-reward path. Requires getting Auto-Factories breakthrough (R↔Y synergy) early in R1/R2. Uses the R↔Y synergy to rush <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Quantum Datahub Node</span> (YYYY), and War Sun (RRRY) by Round 4. Maximizes your hero's ~15-35 resource production value but is slower to get online and heavily dependent on getting breakthrough early and timing your hero correctly.
+**Path 2 - Red-Yellow (War Sun + Hero):** The high-risk, high-reward path. Requires getting Auto-Factories breakthrough (R↔Y synergy) early in R1/R2. Uses the R↔Y synergy to rush <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Quantum Datahub Node</span> (YYYY), and War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> by Round 4. Maximizes your hero's ~15-35 resource production value but is slower to get online and heavily dependent on getting breakthrough early and timing your hero correctly.
 
 Choose your path based on: breakthrough availability (R↔Y required for Path 2), slice positioning (safe slice favors Path 2's slower buildup), and game tempo (Path 1 better for aggressive tables).
 
@@ -256,10 +256,10 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 **Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - +1 movement for custodian grab and positioning
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 
-**Round 2:** Carrier II (BB) - Upgrade your 2 starting carriers
+**Round 2:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Upgrade your 2 starting carriers
 - *Move 2, Capacity 6 - helpful to fill out your slice and reach objectives*
 
-**Round 3:** Dreadnought II (BBY) - Strong combat ships
+**Round 3:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Strong combat ships
 - *Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
 
 **Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Double activation for scoring and surprise plays
@@ -285,7 +285,7 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 **Round 3:** <span class="ty">Quantum Datahub Node</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Strategy card swaps
 - *Spend 1 strategy token + 3 TG to swap strategy cards with another player*
 
-**Round 4:** War Sun (RRRY) - For maximum hero value ~15-35 resources
+**Round 4:** War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - For maximum hero value ~15-35 resources
 - *Cost 12, Combat 3(x3), Move 2, Capacity 6, Sustain Damage, BOMBARDMENT 3(x3). Other players' units in this system lose Planetary Shield*
 
 **Round 5+:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or other flex techs
@@ -372,7 +372,7 @@ Your ideal fleet composition in each system:
 - **Mechs (situational)** - Can trade planets with structures for tactical advantages
 - **Flagship (with hero timing)** - Expensive but can be produced for free with hero turn
 
-War Sun arrives R4. Hero turn produces War Sun + full fleet for free (~15-35 resources of value). With R↔Y breakthrough, Destroyer II (RR) can be upgraded for additional combat power. With red or yellow tech skip, you can rush War Sun faster by skipping Magen/<span class="ty">Transit Diodes</span>.
+War Sun arrives R4. Hero turn produces War Sun + full fleet for free (~15-35 resources of value). With R↔Y breakthrough, Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> can be upgraded for additional combat power. With red or yellow tech skip, you can rush War Sun faster by skipping Magen/<span class="ty">Transit Diodes</span>.
 
 ---
 

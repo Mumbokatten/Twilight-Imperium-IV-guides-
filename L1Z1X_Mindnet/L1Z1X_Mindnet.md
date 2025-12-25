@@ -109,7 +109,7 @@ These are not the tech colors we deserve, but what we got. Your Super Dreadnough
 
 **Faction Technologies:**
 
-**Super Dreadnought II (BBY):**
+**Super Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *L1Z1X Dreadnought - Cost: 4 | Combat: 4 | Move: 2 | Capacity: 2 | BOMBARDMENT 4 | Sustain Damage*
 
 This unit cannot be destroyed by "Direct Hit" action cards.
@@ -250,13 +250,13 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 **Round 2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - +1 move to one ship per activation
 
-**Round 3:** <span class="ty">AI Development Algorithm</span> - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II (BBY) - Move 2, immune to Direct Hit
+**Round 3:** <span class="ty">AI Development Algorithm</span> - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Move 2, immune to Direct Hit
 
-**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - 2 actions per turn | OR Light/Wave Deflector (BBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - 2 actions per turn | OR Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Move through enemy systems | OR Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Move 2, capacity 6
 
-**Round 5:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> | Light/Wave Deflector (BBB) | Carrier II (BB)
+**Round 5:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> | Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> | Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 
-**Note:** Destroyer II (RR) is a good 3rd unit upgrade option for anti-fighter coverage.
+**Note:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> is a good 3rd unit upgrade option for anti-fighter coverage.
 
 ### C. Tech Path 2: New Age Path
 
@@ -266,15 +266,15 @@ This path requires securing Fealty Uplink breakthrough Round 1.
 
 **Round 2:** <span class="ty">AI Development Algorithm</span> - Skip unit upgrade prereqs, production cost reduction
 
-**Round 3:** War Sun (RRRY) - Massive capital ship, BOMBARDMENT 3 (x3), removes Planetary Shield
+**Round 3:** War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Massive capital ship, BOMBARDMENT 3 (x3), removes Planetary Shield
 
-**Round 4:** <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
+**Round 4:** <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
 
 **Round 5:** Flexible as Round 4
 
 You become an unstoppable monster on the ground with Harrow, easy access to mechs, and tons of bonus infantry from Fealty Uplink. However, you might struggle in space combat. Consider prioritizing Destroyer II first to shore up your anti-fighter capabilities.
 
-**Note:** A blue skip allows you to get <span class="tb">Gravity Drive</span> in this path. Cruiser II (GYR) is a good 3rd unit upgrade option for bonus mobility.
+**Note:** A blue skip allows you to get <span class="tb">Gravity Drive</span> in this path. Cruiser II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> is a good 3rd unit upgrade option for bonus mobility.
 
 ### D. Path Choices
 

@@ -280,7 +280,7 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> <img
 
 - **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
   - **Prerequisites:** 1 blue (<span class="ty">Sarween Tools</span> counts as blue with B↔Y)
-- **PDS II (RY)** - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
+- **PDS II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
   - **Prerequisites:** 1 red + 1 yellow (<span class="tr">Plasma Scoring</span> + <span class="ty">Sarween Tools</span>)
   - **Why:** Hit adjacent systems with SPACE CANNON. Area denial and PDS spam strategy. Works with your Commander for extra die.
 
@@ -293,7 +293,7 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> <img
   - **Prerequisites:** 1 blue (<span class="tb">Antimass</span> or <span class="tb">DET</span>)
 - **Skip PDS II** - Without breakthrough, prioritize getting into blue tech path over PDS II
 
-**Round 5: Carrier II (BB)**
+**Round 5: Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** Solves late game capacity issues. Move 6 ground forces at speed 2. Essential for large invasions since destroyers only have capacity 1.
 - **Prerequisites:** 2 blue (Sarween + <span class="tb">Gravity Drive</span> with B↔Y synergy, OR <span class="tb">Antimass</span>/<span class="tb">DET</span> + <span class="tb">Gravity Drive</span>)
@@ -306,15 +306,15 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> <img
 1. <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Defense + free infantry
 2. <span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Structure lockdown + production
 3. <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Destroyer power spike
-4. <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + PDS II (RY) - Mobility + SPACE CANNON spam (double tech)
-5. Carrier II (BB) - Capacity
+4. <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + PDS II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Mobility + SPACE CANNON spam (double tech)
+5. Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Capacity
 
 **Without Wing Transfer Breakthrough:**
 1. <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Defense + free infantry
 2. <span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Structure lockdown + production
 3. <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Destroyer power spike
 4. <span class="tb">Antimass Deflectors</span>/<span class="tb">Dark Energy Tap</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Join blue tech path (double tech, skip PDS II)
-5. Carrier II (BB) - Capacity
+5. Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Capacity
 
 **Key Notes:**
 

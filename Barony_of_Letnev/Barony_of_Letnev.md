@@ -239,7 +239,7 @@ Your main tech path focuses on:
 
 1. **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Essential for mobility
 
-2. **Destroyer II (RR) and <span class="tr">Non-Euclidean Shielding</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Upgraded destroyers and double Sustain Damage on all units
+2. **Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> and <span class="tr">Non-Euclidean Shielding</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Upgraded destroyers and double Sustain Damage on all units
 
 3. **<span class="tb">Fleet Logistics</span> and <span class="tb">Lightwave Deflector</span>** - Late game mobility and defense
 
@@ -252,7 +252,7 @@ Your main tech path focuses on:
 - **Why:** ESSENTIAL. Combos with your Gravleash Maneuvers breakthrough to give your entire fleet move 3. Your destroyer becomes move 3 (2+1), and all your non-fighter ships move 3 with it. Must-have tech.
 - **Prerequisites:** 1 blue
 
-**Round 2: Destroyer II (RR)**
+**Round 2: Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">**
 - Cost: 1 | Combat: 8 | Move: 2 | ANTI-FIGHTER BARRAGE 6 (x3)
 - **Why:** Better destroyers with improved combat (8 instead of 9) and devastating ANTI-FIGHTER BARRAGE. Critical for your fleet composition.
 - **Prerequisites:** 2 red
@@ -271,7 +271,7 @@ Your main tech path focuses on:
 
 ### C. Flex Techs
 
-**Carrier II (BB) - For Unit Upgrade Objectives:**
+**Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - For Unit Upgrade Objectives:**
 
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** If you need a 2nd unit upgrade for "Develop Weaponry" objective (2 unit upgrade technologies), Carrier II works fine. The extra capacity is useful.

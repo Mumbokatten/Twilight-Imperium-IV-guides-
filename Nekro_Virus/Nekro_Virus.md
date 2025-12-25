@@ -214,23 +214,23 @@ Since you steal techs rather than researching, prioritize targets by tech value:
 
 **Unit Upgrades:**
 
-- **Carrier II (BB)** - Always
+- **Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Always
   - Cost 3, Combat 9, Move 2, Capacity 6. Essential transport for invasion fleets.
-- **Dreadnought II (BBY)** - Always
+- **Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Always
   - Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.
-- **Destroyer II (RR)** - Always
+- **Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Always
   - Cost 1, Combat 8, Move 2, AFB 6 (x3). Cheap fleet power.
-- **<span class="tb">Cruiser II</span> (GYR)** - Always
+- **<span class="tb">Cruiser II</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Always
   - Cost 2, Combat 6, Move 3, Capacity 1, Sustain. Fast mobile ships.
-- **Infantry II (GG)** - Always
+- **Infantry II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - Always
   - Cost 1 (x2), Combat 7. 6+ chance to revive after death. Flagship makes these deadly.
 - **<span class="tb">Space Dock II</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Always
   - PRODUCTION equals 4 + planet resources. Up to 3 fighters don't count against capacity.
-- **<span class="tb">Fighter II</span> (GB)** - Good
+- **<span class="tb">Fighter II</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Good
   - Cost 1 (x2), Combat 8, Move 2. Less relevant with flagship infantry strategy.
-- **War Sun (RRRY)** - Good
+- **War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Good
   - Cost 12, Combat 3 (x3), Move 2, Capacity 6, Sustain, BOMBARDMENT 3 (x3). Removes Planetary Shield.
-- **<span class="tb">PDS II</span> (RY)** - Emergency
+- **<span class="tb">PDS II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Emergency
   - Planetary Shield, SPACE CANNON 5. Can shoot ships in adjacent systems.
 
 **Blue Technologies:**
@@ -252,7 +252,7 @@ Since you steal techs rather than researching, prioritize targets by tech value:
 
 - **<span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Always
   - Repair 1 damaged unit per combat round that didn't use Sustain.
-- **<span class="tr">Assault Cannon</span> (RRR)** - Always
+- **<span class="tr">Assault Cannon</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Always
   - Opponent destroys 1 non-fighter ship at space combat start if you have 3+ non-fighters.
 - **<span class="tr">Plasma Scoring</span>** - Good
   - +1 die for BOMBARDMENT or SPACE CANNON.

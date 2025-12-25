@@ -88,8 +88,8 @@ Deploy infantry directly to any planet you control without needing carriers. Mid
 
 **Faction Unit Upgrades:**
 
-- **Advanced Carrier II (BB):** Cost 3, Combat 9, Move 2, Capacity 8, Sustain Damage. Takes an already incredible ship (Carrier II) and adds Sustain Damage plus extra capacity. Your carriers become nearly unkillable transports.
-- **Spec Ops II (GG):** Cost 1 (x2), Combat 7. On death, 5+ returns to home system. 60% recursion on a d10.
+- **Advanced Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Cost 3, Combat 9, Move 2, Capacity 8, Sustain Damage. Takes an already incredible ship (Carrier II) and adds Sustain Damage plus extra capacity. Your carriers become nearly unkillable transports.
+- **Spec Ops II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** Cost 1 (x2), Combat 7. On death, 5+ returns to home system. 60% recursion on a d10.
 
 ### E. Leaders
 
@@ -212,7 +212,7 @@ Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobili
 - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
 - **Why:** Reposition carriers across the map. Combined with your production, this is huge.
 
-**Round 3: Advanced Carrier II (BB)**
+**Round 3: Advanced Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - Cost 3, Combat 9, Move 2, Capacity 8, Sustain Damage.
 - **Why:** Your faction tech. Makes an already incredible ship even better with Sustain Damage and 8 capacity.
 
@@ -220,9 +220,9 @@ Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobili
 
 - **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** Ready a tech specialty planet or another technology at end of turn. Double <span class="ty">Sling Relay</span> use.
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Perform 2 actions per turn instead of 1. Sneaky late game plays.
-- **Fighter II (GB):** Combat 8, Move 2. Fighters can move independently. You produce so many anyway.
-- **Light/Wave Deflector (BBB):** Your ships can move through systems with other players' ships. Control plays and blocking people.
-- **Dreadnought II (BBY):** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, Bombardment 5. If you need fleet mobility and have too many resources.
+- **Fighter II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Combat 8, Move 2. Fighters can move independently. You produce so many anyway.
+- **Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Your ships can move through systems with other players' ships. Control plays and blocking people.
+- **Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, Bombardment 5. If you need fleet mobility and have too many resources.
 
 ## VI. Strategy Cards
 

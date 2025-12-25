@@ -108,7 +108,7 @@ Pick <span class="ty">AI Dev</span> or DET. Only take Antimass if your slice req
 
 **Faction Technologies:**
 
-**Exile II (RR):**
+**Exile II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 *Crimson Rebellion Destroyer - Cost: 1 | Combat: 7 | Move: 2 | ANTI-FIGHTER BARRAGE 6 (x3)*
 
 At the end of any player's combat in this unit's system or up to 2 systems away, you may place 1 active or inactive breach in that system.
@@ -241,11 +241,11 @@ Recommended options:
 
 **Minimal Tech Approach (Recommended):**
 
-**Round 2:** <span class="tb">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Carrier II (BB) with <span class="ty">AI Development Algorithm</span>
+**Round 2:** <span class="tb">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> with <span class="ty">AI Development Algorithm</span>
 - <span class="tb">Sling Relay</span> gives you 3 stalls total (agent, <span class="tb">Dark Energy Tap</span>, <span class="tb">Sling Relay</span>)
 - Carrier II with <span class="ty">AI Development Algorithm</span> start enables low-tech game
 
-**Round 3:** Exile II (RR)
+**Round 3:** Exile II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - AFB 6 (x3) deterrent. 2-away breach placement.
 
 **Round 4+:** Flex or stop teching.
@@ -256,14 +256,14 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 
 **High Value:**
 
-- **<span class="tr">Assault Cannon</span> (RRR)** - Same timing as hero. Immune to Skilled Retreat.
+- **<span class="tr">Assault Cannon</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Same timing as hero. Immune to Skilled Retreat.
 - **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If needed.
-- **War Sun (RRRY)** - <span class="ty">AI Development Algorithm</span> + B↔R synergy enables. Requires wealth.
+- **War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - <span class="ty">AI Development Algorithm</span> + B↔R synergy enables. Requires wealth.
 
 **Situational:**
 
-- **Fighter II (GB)** - Heavy fighter hero strategy.
+- **Fighter II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Heavy fighter hero strategy.
 
 ## VI. Strategy Cards
 

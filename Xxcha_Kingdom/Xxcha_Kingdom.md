@@ -199,9 +199,9 @@ You start with **<span class="ty">Graviton Laser System</span> (Yellow)** (force
 
 **R3:** <span class="tr">Plasma Scoring</span> – 1 additional die when using BOMBARDMENT or SPACE CANNON. Synergizes with mech and flagship.
 
-**R4:** <span class="tb">PDS II</span> (RY) – Planetary Shield, SPACE CANNON 5, can shoot adjacent systems. Hero should be down by now for PDS placement.
+**R4:** <span class="tb">PDS II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> – Planetary Shield, SPACE CANNON 5, can shoot adjacent systems. Hero should be down by now for PDS placement.
 
-**R5+:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – 2 actions per turn. Carrier II (BB) – Move 2, Capacity 6. Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit.
+**R5+:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – 2 actions per turn. Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Move 2, Capacity 6. Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> – Move 2, BOMBARDMENT 5, immune to Direct Hit.
 
 ### C. Tech Path 2: Offensive
 
@@ -209,11 +209,11 @@ You start with **<span class="ty">Graviton Laser System</span> (Yellow)** (force
 
 **R2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – +1 move to 1 ship. Fleet mobility.
 
-**R3:** Carrier II (BB) – Move 2, Capacity 6.
+**R3:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Move 2, Capacity 6.
 
 **R4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – 2 actions per turn.
 
-**R5+:** Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit. <span class="tb">Lightwave Deflector</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Move through systems with enemy ships.
+**R5+:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> – Move 2, BOMBARDMENT 5, immune to Direct Hit. <span class="tb">Lightwave Deflector</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Move through systems with enemy ships.
 
 If yellow skip, consider <span class="ty">Nullification Field</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> as flex tech for maximum safety.
 

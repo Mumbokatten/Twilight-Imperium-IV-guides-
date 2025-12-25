@@ -110,7 +110,7 @@ Combos extremely well with your surplus of tokens from home system, agent, and f
 
 Rarely used—you've got so much other tech you'd want. Funny if gotten with Entropic Scar though. Can absolutely screw someone with the right agenda. Requires 1 green prerequisite.
 
-**Crimson Legionnaire II (GG):**
+**Crimson Legionnaire II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:**
 *Cost: 1 (x2) | Combat: 7*
 *After this unit is destroyed, gain 1 commodity or convert 1 of your commodities to a trade good. Then, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.*
 
@@ -275,7 +275,7 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 - Movement flexibility and positioning
 
-**Round 3:** Carrier II (BB)
+**Round 3:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6*
 - Essential for mass Crimson Legionnaire transport
 

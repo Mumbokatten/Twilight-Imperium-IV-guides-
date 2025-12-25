@@ -107,7 +107,7 @@ Perfect synergy with Terragenesis. Every activation explores a planet, every exp
 
 **Faction Technologies:**
 
-**Saturn Engine II (GYR):** Ul Cruiser - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2 | Sustain Damage
+**Saturn Engine II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** Ul Cruiser - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 2 | Sustain Damage
 
 Probably the strongest ship in the game. Versatility and combat power are unmatched. Get most of these on board for constant presence across the map.
 
@@ -233,7 +233,7 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 - **Prerequisites:** 4 technologies (<span class="tb">Antimass</span> + <span class="ty">Scanlink</span> + 2 more)
 - **Why:** Get prereqs for Saturn Engine II.
 
-**Round 2:** Saturn Engine II (GYR)
+**Round 2:** Saturn Engine II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - Ul Cruiser: Cost 2, Combat 6, Move 3, Capacity 2, Sustain Damage
 - **Why:** Strongest ship in game. Elite fleet mobility.
 
@@ -241,13 +241,13 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility boost for cruiser fleet.
 
-**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Carrier II (BB) OR Dreadnought II (BBY)
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - **<span class="tb">Fleet Logistics</span>:** 2 actions per turn
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **Dreadnought II:** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5
 - **Why:** Utility upgrades or unit upgrades based on objectives.
 
-**Round 5:** Light/Wave Deflector (BBB) OR continue unit upgrades
+**Round 5:** Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR continue unit upgrades
 - **Light/Wave:** Move through enemy ships
 - **Why:** Utility or combat power based on needs.
 

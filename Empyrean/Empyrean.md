@@ -218,7 +218,7 @@ You're flexible within blue to get what you need. Priority is <span class="tb">A
 - After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action
 - **Why:** Game-changing movement. Sellable ability.
 
-**Round 3:** Carrier II (BB)
+**Round 3:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Transport capacity. Move 2 carriers.
 
@@ -226,7 +226,7 @@ You're flexible within blue to get what you need. Priority is <span class="tb">A
 - During each of your turns of the action phase, you may perform 2 actions instead of 1
 - **Why:** Double actions for flexibility.
 
-**Round 5:** Light/Wave Deflector (BBB)
+**Round 5:** Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Your ships can move through systems that contain other players' ships
 - **Why:** Move through enemy fleets.
 

@@ -98,7 +98,7 @@ Your unique space dock. Increases planet resources by +1. Core unit for transfor
 
 **Faction Technologies:**
 
-**Helios V2 (YY):** Last Bastion Space Dock. Capacity 5, PRODUCTION: Planet +4. The resource value of this planet is increased by 2.
+**Helios V2 <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** Last Bastion Space Dock. Capacity 5, PRODUCTION: Planet +4. The resource value of this planet is increased by 2.
 
 Gives 3 bonus resources (if you have 3 docks). Get it early or not at all. Bonus production is nice but maybe not needed with your focus on strong capital ships.
 
@@ -148,7 +148,7 @@ Scales with territorial expansion. 8 planets = hitting 100% of the time. Average
 
 When you produce ships, you may exhaust this card to place those ships in a system that contains 1 of your command tokens, at least 1 of your ground forces, and no other players' ships.
 
-**Y↔R Synergy:** Yellow and red count as each other for prerequisites. Very nice option: get Helios V2 (YY) using red techs as yellow prereqs, then pivot into blue for movement and flex techs—skips the long War Sun detour while getting your economic docks.
+**Y↔R Synergy:** Yellow and red count as each other for prerequisites. Very nice option: get Helios V2 <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> using red techs as yellow prereqs, then pivot into blue for movement and flex techs—skips the long War Sun detour while getting your economic docks.
 
 **Forward Production:** Definitely helps with movement restrictions early—gets your ships out into the field instead of stuck home in nebula. Only works once per round, but that might be enough.
 
@@ -226,15 +226,15 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - When you research unit upgrade, exhaust to ignore 1 prerequisite. When using PRODUCTION, exhaust to reduce cost by number of unit upgrades owned
 - **Why:** Prerequisite skip for unit upgrades. Resource saving later with your planned 3 unit tech path.
 
-**Round 3:** Helios V2 (YY)
+**Round 3:** Helios V2 <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Space dock upgrade. Resource value +2
 - **Why:** Economic boost.
 
-**Round 4:** Dreadnought II (BBY)
+**Round 4:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5
 - **Why:** Move 2 capital ships. Combos with your galvanize.
 
-**Round 5:** Carrier II (BB) OR <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+**Round 5:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **<span class="tb">Fleet Logistics</span>:** 2 actions per turn
 - **Why:** Transport capacity or double actions.
@@ -249,7 +249,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - When you activate a system, explore 1 planet in that system
 - **Why:** Yellow prerequisite for Helios V2.
 
-**Round 2:** Helios V2 (YY)
+**Round 2:** Helios V2 <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Space dock upgrade. Resource value +2
 - **Why:** Economic boost.
 
@@ -257,11 +257,11 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - When you research unit upgrade, exhaust to ignore 1 prerequisite. When using PRODUCTION, exhaust to reduce cost by number of unit upgrades owned
 - **Why:** Prerequisite skip for War Sun. Resource saving with 3 unit tech path.
 
-**Round 4:** War Sun (RRRY)
+**Round 4:** War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Cost 12, Combat 3 (x3), Move 2, Capacity 6, Sustain Damage, BOMBARDMENT 3 (x3)
 - **Why:** Heavy combat power.
 
-**Round 5:** <span class="tr">Assault Cannon</span> (RRR) OR <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> OR Destroyer II (RR)
+**Round 5:** <span class="tr">Assault Cannon</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> OR <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> OR Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - **<span class="tr">Assault Cannon</span>:** Destroy 1 enemy non-fighter ship at start of space combat if you have 3+ non-fighter ships. If versus factions with big ships.
 - **<span class="tr">Duranium Armor</span>:** Repair 1 damaged unit after assigning hits each combat round. If you need ground strength, helps a lot.
 - **Destroyer II:** Cost 1, Combat 8, Move 2, AFB 6 (x3). Versus fighter screens.

@@ -91,7 +91,7 @@ All alpha and beta wormholes are adjacent to each other—for you only. Cannot b
 
 **Faction Technologies:**
 
-**<span class="tb">Wormhole Generator</span> Ω (BB):**
+**<span class="tb">Wormhole Generator</span> Ω <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:**
 *ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships.*
 
 Very solid faction tech with increased value from Particle Synthesis breakthrough. On-demand wormhole placement for scoring, surprise attacks, or production. But it's still a valid strategy to skip this and ask people to place wormholes for you with your promissory note.
@@ -207,16 +207,16 @@ You start with **<span class="tb">Gravity Drive</span> (Blue)**. Your tech path 
 
 **Round 2: <span class="tb">Dark Energy Tap</span> / <span class="tb">Wormhole Generator</span> / <span class="tb">Fleet Logistics</span>**
 - **<span class="tb">Dark Energy Tap</span>:** Explore frontier tokens when you activate systems with ships. Ships can retreat anywhere without needing units there.
-- **<span class="tb">Wormhole Generator</span> Ω (BB):** Place or move Creuss wormhole tokens. On-demand wormhole placement for scoring, attacks, or production.
+- **<span class="tb">Wormhole Generator</span> Ω <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Place or move Creuss wormhole tokens. On-demand wormhole placement for scoring, attacks, or production.
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Perform 2 actions per turn. Late game scoring options.
 - **Why:** All solid options. DET for exploration value, WG for wormhole control, Fleet Log for late game scoring.
 
 **Round 3-5: Flex techs**
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If not taken R2. Late game scoring options.
-- **<span class="tb">Wormhole Generator</span> Ω (BB)** - If not taken R2. Core faction tech for wormhole placement.
-- **Light/Wave Deflector (BBB)** - Ships can move through enemy ships. Great for bypassing blockers.
-- **Carrier II (BB)** - Move 2, Capacity 6. More capacity + commander fighter generation.
-- **Dreadnought II (BBY)** - Move 2, Sustain, Bombardment 5. Your B↔Y synergy makes this easy to unlock.
+- **<span class="tb">Wormhole Generator</span> Ω <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If not taken R2. Core faction tech for wormhole placement.
+- **Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Ships can move through enemy ships. Great for bypassing blockers.
+- **Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Move 2, Capacity 6. More capacity + commander fighter generation.
+- **Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Move 2, Sustain, Bombardment 5. Your B↔Y synergy makes this easy to unlock.
 
 ## VI. Strategy Cards
 

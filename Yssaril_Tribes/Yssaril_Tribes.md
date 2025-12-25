@@ -244,7 +244,7 @@ There is really no argument for skipping <span class="tg">Mageon Implants</span>
 **Round 4: <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - +1 move to 1 ship when you activate a system. Bonus fleet movement.
 
-**Round 5: Carrier II (BB)**
+**Round 5: Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - Cost 3, Combat 9, Move 2, Capacity 6. Bonus fleet movement.
 
 **Key:** Green skip makes this path smooth. Without it, you need double tech opportunities to hit Mageon by R2.

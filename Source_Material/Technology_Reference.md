@@ -10,9 +10,9 @@
 
 - **<span class="tb">Sling Relay</span>** (B) - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
 
-- **<span class="tb">Fleet Logistics</span>** (BB) - During each of your turns of the action phase, you may perform 2 actions instead of 1.
+- **<span class="tb">Fleet Logistics</span>** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - During each of your turns of the action phase, you may perform 2 actions instead of 1.
 
-- **Light/Wave Deflector** (BBB) - Your ships can move through systems that contain other players' ships.
+- **Light/Wave Deflector** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Your ships can move through systems that contain other players' ships.
 
 ## Red Technologies
 
@@ -24,9 +24,9 @@
 
 - **<span class="tr">Self-Assembly Routines</span>** (R) - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
 
-- **<span class="tr">Duranium Armor</span>** (RR) - During each combat round, after you assign hits to your units, repair 1 of your damaged units that did not use Sustain Damage during this combat round.
+- **<span class="tr">Duranium Armor</span>** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - During each combat round, after you assign hits to your units, repair 1 of your damaged units that did not use Sustain Damage during this combat round.
 
-- **<span class="tr">Assault Cannon</span>** (RRR) - At the start of a space combat in a system that contains 3 or more of your non-fighter ships, your opponent must destroy 1 of his non-fighter ships.
+- **<span class="tr">Assault Cannon</span>** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - At the start of a space combat in a system that contains 3 or more of your non-fighter ships, your opponent must destroy 1 of his non-fighter ships.
 
 ## Yellow Technologies
 
@@ -38,7 +38,7 @@
 
 - **<span class="ty">Predictive Intelligence</span>** (Y) - At the end of your turn, you may exhaust this card to redistribute your command tokens. When you cast votes during the agenda phase, you may cast 3 additional votes. If you do, and the outcome you voted for is not resolved, exhaust this card.
 
-- **<span class="ty">Transit Diodes</span>** (YY) - You may exhaust this card at the start of your turn during the action phase; remove up to 4 of your ground forces from the game board and place them on 1 or more planets you control.
+- **<span class="ty">Transit Diodes</span>** <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - You may exhaust this card at the start of your turn during the action phase; remove up to 4 of your ground forces from the game board and place them on 1 or more planets you control.
 
 - **<span class="ty">Integrated Economy</span>** (YYY) - After you gain control of a planet, you may produce any number of units on that planet that have a combined cost equal or less than that planet's resource value.
 
@@ -52,7 +52,7 @@
 
 - **<span class="tg">Bio-Stims</span>** (G) - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.
 
-- **<span class="tg">Hyper Metabolism</span>** (GG) - During the status phase, gain 3 command counters instead of 2.
+- **<span class="tg">Hyper Metabolism</span>** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - During the status phase, gain 3 command counters instead of 2.
 
 - **<span class="tg">X-89 Bacterial Weapon</span> Ω** (GGG) - After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent's infantry was destroyed, destroy all of your opponent's infantry on that planet (Ω). Double the hits produced by your units' BOMBARDMENT and ground combat rolls. Exhaust each planet you use BOMBARDMENT against.
 
@@ -62,27 +62,27 @@
 
 - **<span class="tg">Genetic Recombination</span>** (G) - You may exhaust this card before a player casts votes; that player must cast at least 1 vote for an outcome of your choice or remove 1 token from their fleet pool and return it to their reinforcements.
 
-- **Crimson Legionnaire II** (GG) - Mahact Infantry. Cost: 1 (x2), Combat: 7. After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
+- **Crimson Legionnaire II** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - Mahact Infantry. Cost: 1 (x2), Combat: 7. After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
 
 ## Unit Upgrades
 
-- **War Sun** (RRRY) - Cost: 12, Combat: 3 (x3), Move: 2, Capacity: 6, Sustain Damage, BOMBARDMENT 3 (x3). Other players' units in this system lose Planetary Shield.
+- **War Sun** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Cost: 12, Combat: 3 (x3), Move: 2, Capacity: 6, Sustain Damage, BOMBARDMENT 3 (x3). Other players' units in this system lose Planetary Shield.
 
-- **<span class="tb">Cruiser II</span>** (GYR) - Stasis Capsules. Cost: 2, Combat: 6, Move: 3, Capacity: 1, Sustain Damage.
+- **<span class="tb">Cruiser II</span>** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Stasis Capsules. Cost: 2, Combat: 6, Move: 3, Capacity: 1, Sustain Damage.
 
-- **Dreadnought II** (BBY) - Type IV Drive. Cost: 4, Combat: 5, Move: 2, Capacity: 1, Sustain Damage, BOMBARDMENT 5. This unit cannot be destroyed by "Direct Hit" action cards.
+- **Dreadnought II** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Type IV Drive. Cost: 4, Combat: 5, Move: 2, Capacity: 1, Sustain Damage, BOMBARDMENT 5. This unit cannot be destroyed by "Direct Hit" action cards.
 
-- **Destroyer II** (RR) - Automated Defense Turrets. Cost: 1, Combat: 8, Move: 2, ANTI-FIGHTER BARRAGE 6 (x3).
+- **Destroyer II** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Automated Defense Turrets. Cost: 1, Combat: 8, Move: 2, ANTI-FIGHTER BARRAGE 6 (x3).
 
-- **PDS II** (RY) - Deep SPACE CANNON. Planetary Shield, SPACE CANNON 5. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
+- **PDS II** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Deep SPACE CANNON. Planetary Shield, SPACE CANNON 5. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
 
-- **Carrier II** (BB) - XRD Transporters. Cost: 3, Combat: 9, Move: 2, Capacity: 6.
+- **Carrier II** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - XRD Transporters. Cost: 3, Combat: 9, Move: 2, Capacity: 6.
 
-- **Fighter II** (GB) - Advanced Fighters. Cost: 1 (x2), Combat: 8, Move: 2. This unit may move without being transported. Fighters in excess of your ships' capacity count against your fleet pool.
+- **Fighter II** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Advanced Fighters. Cost: 1 (x2), Combat: 8, Move: 2. This unit may move without being transported. Fighters in excess of your ships' capacity count against your fleet pool.
 
-- **Infantry II** (GG) - Gen Synthesis. Cost: 1 (x2), Combat: 7. After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
+- **Infantry II** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - Gen Synthesis. Cost: 1 (x2), Combat: 7. After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
 
-- **Space Dock II** (YY) - Enviro Compensator. This unit's PRODUCTION value is equal to 4 more than the resource value of this planet. Up to 3 fighters in this system do not count against your ships' capacity. PRODUCTION X.
+- **Space Dock II** <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Enviro Compensator. This unit's PRODUCTION value is equal to 4 more than the resource value of this planet. Up to 3 fighters in this system do not count against your ships' capacity. PRODUCTION X.
 
 ---
 
@@ -92,8 +92,8 @@
 
 - No letter = No prerequisites (base technology)
 - (B) = 1 Blue tech required
-- (BB) = 2 Blue techs required
-- (BBB) = 3 Blue techs required
+- <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = 2 Blue techs required
+- <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = 3 Blue techs required
 - Same pattern for R (Red), Y (Yellow), G (Green)
-- Mixed prerequisites like (BBY) = 2 Blue + 1 Yellow required
-- Mixed prerequisites like (GYR) = 1 Green + 1 Yellow + 1 Red required
+- Mixed prerequisites like <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> = 2 Blue + 1 Yellow required
+- Mixed prerequisites like <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> = 1 Green + 1 Yellow + 1 Red required

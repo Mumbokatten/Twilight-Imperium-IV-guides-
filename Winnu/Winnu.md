@@ -231,7 +231,7 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 - After you activate a system, apply +1 to the move value of 1 of your ships
 - **Why:** Reach Mecatol faster. Critical for early MR assault.
 
-**Round 2:** Carrier II (BB)
+**Round 2:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Better transport for armies and reinforcements to MR.
 
@@ -240,7 +240,7 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 - **<span class="tb">Fleet Logistics</span>:** Perform 2 actions per turn
 - **Why:** Production flexibility or double actions for positioning.
 
-**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Light/Wave Deflector (BBB)
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - **Light/Wave Deflector:** Your ships can move through systems that contain other players' ships
 - **Why:** Bypass blockades, extreme mobility.
 
@@ -264,15 +264,15 @@ Together with your breakthrough, this path offers great mobility to make some mo
 - When any player activates a system with your structures, place 1 infantry with each structure. At start of ground combat on planet with your structures, produce 1 hit
 - **Why:** Free infantry when systems activated, plus ground combat hit. Strong defensive tech.
 
-**Round 3:** PDS II (RY)
+**Round 3:** PDS II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Planetary Shield, SPACE CANNON 5. Can shoot ships adjacent to this unit's system
 - **Why:** Upgrade your PDS network. Strong defense.
 
-**Round 4:** Destroyer II (RR)
+**Round 4:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - Cost 1, Combat 8, Move 2, ANTI-FIGHTER BARRAGE 6 (x3)
 - **Why:** Cheap upgraded destroyers with AFB.
 
-**Round 5:** Carrier II (BB)
+**Round 5:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Better transport capacity.
 
@@ -325,7 +325,7 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 
 **Blue Path Composition:**
 
-- **Carriers** - Your main transport. Upgrade to Carrier II (BB) for move 2 and capacity 6. Essential for moving armies to Mecatol and reinforcing it.
+- **Carriers** - Your main transport. Upgrade to Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for move 2 and capacity 6. Essential for moving armies to Mecatol and reinforcing it.
 - **Infantry** - Your ground forces. With Commander (+2 combat), they hit on 6 instead of 8 on Mecatol. Cheap and effective defenders.
 - **Mechs** - Sustain Damage ground forces. Use Reclaimer ability to place free structures when conquering planets. Critical for building your infrastructure.
 - **Flagship** - Rolls dice equal to opponent's non-fighter ships. With Commander, hits on 5 instead of 7 on Mecatol. Devastating against large fleets.
@@ -333,8 +333,8 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 
 **Red Path Composition:**
 
-- **Carriers** - Transport for infantry and mechs. Upgrade to Carrier II (BB) for move 2 and capacity 6.
-- **Destroyers** - Cheap ships with AFB. Upgrade to Destroyer II (RR) for combat 8 and AFB 6 (x3). More cost-effective than cruisers or dreadnoughts.
+- **Carriers** - Transport for infantry and mechs. Upgrade to Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> for move 2 and capacity 6.
+- **Destroyers** - Cheap ships with AFB. Upgrade to Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> for combat 8 and AFB 6 (x3). More cost-effective than cruisers or dreadnoughts.
 - **Infantry** - Your ground forces. With Commander (+2 combat), hit on 6 on Mecatol. Essential for holding the planet.
 - **Mechs** - Sustain Damage ground forces. Reclaimer ability places free structures. Build 2-4 mechs early and walk them toward Mecatol.
 - **Flagship** - Scales with opponent's fleet size. Hits on 5 with Commander on Mecatol. Excellent defensive ship.

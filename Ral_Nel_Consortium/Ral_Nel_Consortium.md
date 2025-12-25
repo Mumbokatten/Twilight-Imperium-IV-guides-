@@ -232,10 +232,10 @@ Ral Nel has two distinct tech paths:
 **Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
 
-**Round 4:** Carrier II (BB) - Transport capacity
+**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Transport capacity
 - *Cost 3, Combat 9, Move 2, Capacity 6*
 
-**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+**Round 5+:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
 - *<span class="tb">Fleet Logistics</span>: Perform 2 actions per turn*
 
@@ -249,13 +249,13 @@ Ral Nel has two distinct tech paths:
 **Round 2:** <span class="tr">Nanomachines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
-**Round 3:** Carrier II (BB) - Transport capacity
+**Round 3:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Transport capacity
 - *Cost 3, Combat 9, Move 2, Capacity 6*
 
-**Round 4:** Linkship II (RR) - Enhanced Linkships
+**Round 4:** Linkship II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Enhanced Linkships
 - *Cost 1, Combat 8, Move 4. Can trigger same structure multiple times. AFB 6 (x3)*
 
-**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+**Round 5+:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
 - *<span class="tb">Fleet Logistics</span>: Perform 2 actions per turn*
 

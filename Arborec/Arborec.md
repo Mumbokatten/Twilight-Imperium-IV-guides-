@@ -83,7 +83,7 @@ This is your secret weapon. Every infantry has PRODUCTION 1, making them mobile 
 
 **Starting Technology:**
 
-**<span class="tr">Magen Defense Grid</span> Ω (RR):**
+**<span class="tr">Magen Defense Grid</span> Ω <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 *When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures. At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent's ground forces.*
 
 - Allows for 2 bonus infantry with your 2 starting structures (space dock and PDS) which is superb
@@ -184,7 +184,7 @@ When drafting your slice and choosing speaker order as Arborec:
 
 2. **Scoring opportunities** - Access to Mecatol Rex, legendary planets, or objective-friendly systems. You need points to win.
 
-3. **Tech skip (blue preferred)** - Blue skip enables the blue tech path (<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Carrier II (BB), <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">), which is your strongest option. Green/red skips can work for non-blue paths but are less impactful.
+3. **Tech skip (blue preferred)** - Blue skip enables the blue tech path (<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">), which is your strongest option. Green/red skips can work for non-blue paths but are less impactful.
 
 **Slice Features to Avoid:**
 
@@ -247,11 +247,11 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 - **<span class="tb">Dark Energy Tap</span>:** After you perform a tactical action in a system with a frontier token, if you have ships there, explore that token. Your ships can retreat into adjacent systems that don't contain other players' units
 - **<span class="tb">Antimass Deflectors</span>:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units
 
-**Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if you skipped DET/Antimass, otherwise Carrier II (BB) - Magen (counts as blue) + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + blue skip
+**Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if you skipped DET/Antimass, otherwise Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Magen (counts as blue) + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + blue skip
 - **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Carrier II (BB):** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
+- **Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
 
-**Round 4:** Carrier II (BB) if skipped R3, otherwise <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if skipped R3, otherwise <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** During each of your turns in the action phase, you may perform 2 actions instead of 1
 
 **Round 5:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if skipped R4, otherwise flex for objectives
@@ -266,7 +266,7 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 **Pros:**
 
 - <span class="tb">Dark Energy Tap</span> synergizes with spreading out across the map
-- Carrier II (BB) + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = best mobility in game
+- Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = best mobility in game
 - <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> enables winning maneuvers late game
 - Better map control and expansion
 - More solid and reliable overall
@@ -292,8 +292,8 @@ Alternative path focused on economy and ground force power. No blue techs requir
 **Round 3:** <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - Economy tool that refreshes planets, doubles your resource/influence output and production capability
 - **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** Exhaust this card at the end of your turn to ready 1 planet with a technology specialty or 1 of your other technologies
 
-**Round 4:** Destroyer II (RR) - Fleet power
-- **Destroyer II (RR):** Cost 1, Combat 8, Move 2, ANTI-FIGHTER BARRAGE 6 (x3)
+**Round 4:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Fleet power
+- **Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** Cost 1, Combat 8, Move 2, ANTI-FIGHTER BARRAGE 6 (x3)
 
 **Round 5:** <span class="tg">Letani Warrior II</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> if no green skip, OR <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> with green skip only, otherwise flex for objectives
 - **<span class="tg">Letani Warrior II</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** Cost 1 (x2), Combat 7, PRODUCTION 2. After destroyed, roll 1 die. If 6+, place on this card. At start of your next turn, place each unit on this card on a planet you control in your home system
@@ -304,7 +304,7 @@ Alternative path focused on economy and ground force power. No blue techs requir
 **Pros:**
 
 - Sarween and Biostims provide strong economy/resource generation
-- Destroyer II (RR) gives fleet combat power
+- Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> gives fleet combat power
 - Can get X-89 R5 with green skip for lethal ground combat
 - Can get <span class="tg">Letani Warrior II</span> R5 as fallback
 
@@ -321,9 +321,9 @@ Alternative path focused on economy and ground force power. No blue techs requir
 
 ### D. Tech Priorities by Slice & Neighbors
 
-**Resource-Heavy Slice:** Blue path (standard). <span class="tb">Dark Energy Tap</span> requires a few empty systems to be valuable. Slight favor toward Dreadnought II (BBY) later since you can afford cost 4 units.
+**Resource-Heavy Slice:** Blue path (standard). <span class="tb">Dark Energy Tap</span> requires a few empty systems to be valuable. Slight favor toward Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> later since you can afford cost 4 units.
 
-**Influence-Heavy Slice + Weak Neighbor:** Non-Blue path (invasion). <span class="ty">Sarween Tools</span> + <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> economy, Destroyer II (RR) affordable with fleet pool, <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> for conquering neighbor's planets.
+**Influence-Heavy Slice + Weak Neighbor:** Non-Blue path (invasion). <span class="ty">Sarween Tools</span> + <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> economy, Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> affordable with fleet pool, <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> for conquering neighbor's planets.
 
 ---
 
@@ -388,7 +388,7 @@ Your ideal fleet composition in each system:
 
 This composition gives you staying power in space combat (dread/flagship for hits, fighters for screening), protection against bombardment (mech), and your signature infantry swarm. Without the dreadnought/flagship, your fleets lack the punch to get hits in combat and the HP to survive enemy fire.
 
-**Note:** If you have a heavy influence slice, Destroyer II (RR) can replace dreadnoughts in your fleet composition. Heavy influence gives you more fleet pool to support destroyers, while having less resources makes dreads (cost 4) harder to afford. Destroyer II (RR) becomes the better choice in this economic profile.
+**Note:** If you have a heavy influence slice, Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> can replace dreadnoughts in your fleet composition. Heavy influence gives you more fleet pool to support destroyers, while having less resources makes dreads (cost 4) harder to afford. Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> becomes the better choice in this economic profile.
 
 ### B. Game Plan
 

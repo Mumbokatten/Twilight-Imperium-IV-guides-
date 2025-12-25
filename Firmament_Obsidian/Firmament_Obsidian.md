@@ -134,13 +134,13 @@ Pick Assail and Seethe cautiously—targeting a previously friendly neighbor wil
 
 You cannot research faction techs as Obsidian—research them as Firmament and they flip when you transform.
 
-**Planesplitter (YY) / Planesplitter (0):**
+**Planesplitter <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> / Planesplitter (0):**
 - *Firmament:* When you gain this card, put The Fracture into play.
 - *Obsidian:* Same effect, but 0 prerequisites.
 
 Sounds good and would combo with your commander, but most likely you're just helping more mobile factions if it's not already in play. You'll be too slow to grab the value.
 
-**Neural Parasite (GG) / Neural Parasite (0):**
+**Neural Parasite <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> / Neural Parasite (0):**
 - *Firmament:* At the start of the status phase, place 1 infantry on a home planet.
 - *Obsidian:* At the start of your turn, destroy 1 enemy infantry in or adjacent to a system with your infantry.
 
@@ -308,11 +308,11 @@ Always look for what you're missing via Extract plots. If you're in Path 1 (blue
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** Mobility to reach secrets and position for plots.
 
-**Round 3:** Carrier II (BB)
+**Round 3:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Cost 3, Combat 9, Move 2, Capacity 6.
 - **Why:** Fleet mobility and transport capacity.
 
-**Round 4:** Dreadnought II (BBY)
+**Round 4:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.
 - **Why:** Move 2 dreads are your Obsidian backbone. Sarween start covers yellow prereq.
 
@@ -326,7 +326,7 @@ Always look for what you're missing via Extract plots. If you're in Path 1 (blue
 - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.
 - **Why:** Economy boost, readies tech planets.
 
-**Round 2:** Neural Parasite (GG)
+**Round 2:** Neural Parasite <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - Firmament: Place 1 infantry on home planet at status phase. Obsidian: Destroy 1 enemy infantry adjacent to your infantry at start of turn.
 - **Why:** Free infantry as Firmament, cripple neighbors as Obsidian.
 

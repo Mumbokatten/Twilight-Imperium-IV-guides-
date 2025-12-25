@@ -288,7 +288,7 @@ Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 **Round 4-5:**
 
-- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**, **<span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - whatever you need
+- **Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**, **Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**, **<span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - whatever you need
 
 **Note:** <span class="ty">I.I.H.Q.</span> Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
 

@@ -251,11 +251,11 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 - After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
 - **Why:** Core faction tech. Delayed to R3 for early mobility priority.
 
-**Round 4:** Carrier II (BB)
+**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Cost 3 | Combat 9 | Move 2 | Capacity 6
 - **Why:** Transport capacity for <span class="tg">Yin Spinner</span> infantry. Move 2 + <span class="tb">Gravity Drive</span> = move 3 carriers.
 
-**Round 5:** Dreadnought II (BBY)
+**Round 5:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Cost 4 | Combat 5 | Move 2 | Capacity 1 | SUSTAIN DAMAGE | BOMBARDMENT 5
 - Cannot be destroyed by Direct Hit action cards
 - **Why:** Move 2 capital ships. Bombardment synergy. Immune to Direct Hit.

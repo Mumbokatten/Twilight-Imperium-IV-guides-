@@ -74,7 +74,7 @@ Opponents will try to minimize Pillage by spending TGs before hitting 3, trading
 
 **Ambush (Faction Ability):** At the start of a space combat, you may roll 1 die for each of up to 2 of your cruisers or destroyers in the system. For each result equal to or greater than that ship's combat value, produce 1 hit; your opponent must assign it to 1 of their ships.
 
-Pre-combat hit ability. Before combat dice are rolled, choose up to 2 cruisers/destroyers in the system. Roll 1 die per ship. If result ≥ that ship's combat value, deal 1 hit to opponent (they must assign to a ship). Cruiser I has Combat 7, Destroyer I has Combat 9—so you need 7+ or 9+ to hit. After upgrading to Cruiser II (GYR) (Combat 6), your ambush hits on 6+. This is free damage before combat even begins.
+Pre-combat hit ability. Before combat dice are rolled, choose up to 2 cruisers/destroyers in the system. Roll 1 die per ship. If result ≥ that ship's combat value, deal 1 hit to opponent (they must assign to a ship). Cruiser I has Combat 7, Destroyer I has Combat 9—so you need 7+ or 9+ to hit. After upgrading to Cruiser II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> (Combat 6), your ambush hits on 6+. This is free damage before combat even begins.
 
 **Pillage (Faction Ability):** After 1 of your neighbors gains trade goods or resolves a transaction, if they have 3 or more trade goods, you may take 1 of their trade goods or commodities.
 
@@ -264,7 +264,7 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 - **Why:** Essential economic tech. Needed as prerequisite for Cruiser II. Helps with your weak starting economy by reducing production costs. Strong foundation for your tech path.
 - **Prerequisites:** 1 green (<span class="ty">Sarween Tools</span>)
 
-**Round 2: Cruiser II (GYR)**
+**Round 2: Cruiser II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">**
 - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 1
 - **Why:** Your #1 priority tech. Upgrades Ambush from 7+ (40% hit) to 6+ (50% hit). Move 3 gives repositioning flexibility. The capacity 1 is a bonus. Essential for your cruiser-based playstyle.
 - **Prerequisites:** 1 green, 1 red, 1 yellow (<span class="ty">Sarween Tools</span>, <span class="tr">Plasma Scoring</span>, <span class="tg">Neural Motivator</span>)
@@ -284,7 +284,7 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 
 ### B. Key Technologies
 
-**Cruiser II (GYR):**
+**Cruiser II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 Essential for your faction. Upgrades Ambush hit chance and gives move 3 for repositioning. Your cruiser swarm strategy depends on this tech. Get this Round 2.
 
 **<span class="ty">Mirror Computing</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
@@ -295,7 +295,7 @@ Your economic multiplier. Doubles value of Pillaged TGs. Every TG you steal beco
 **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:**
 If you blue-skip <span class="tb">Gravity Drive</span> (using Technology strategy card's blue-skip ability), your cruisers gain the base move 3 + <span class="tb">Gravity Drive</span>'s +1 movement = **move 4**. This creates surprise plays—you can reach targets opponents don't expect. Very powerful for Pillage positioning and combat strikes.
 
-**PDS II (RY) - For Unit Upgrade Objectives:**
+**PDS II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - For Unit Upgrade Objectives:**
 Good combo with your starting structure and <span class="tr">Plasma Scoring</span>. If you need a 2nd unit upgrade for "Develop Weaponry" objective, PDS II works well. Your <span class="tr">Plasma Scoring</span> already gives +1 die to Space Cannon, and upgrading to PDS II (Space Cannon 5 x2) makes your home defense very strong.
 
 **<span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - For Spice:**

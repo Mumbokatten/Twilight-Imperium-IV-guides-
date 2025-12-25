@@ -235,18 +235,18 @@ Prefer to have a green or yellow skip.
 - **Neural:** Draw 2 action cards instead of 1
 - **Why:** <span class="tg">Bio-Stims</span> combos with <span class="ty">Sling Relay</span> for stalling. Scanlink/Neural as prereq if no skip.
 
-**Round 3:** <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> if you didn't get it R2, otherwise Carrier II (BB)
+**Round 3:** <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> if you didn't get it R2, otherwise Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Get <span class="tg">Bio-Stims</span> online, then transport capacity.
 
-**Round 4:** Carrier II (BB) or Memoria II (GBY)
+**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Memoria II (GBY)
 - **Memoria II:** Cost 8, Combat 5 (x2), Move 2, Capacity 6, AFB 5 (x3)
 - **Why:** Transport capacity or flagship upgrade depending on game state.
 
 **Round 5:** Memoria II (GBY) or unit upgrades
 - **Why:** Flagship upgrade if you can reach it, otherwise flex.
 
-**Flex:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Light/Wave Deflector (BBB), Dreadnought II (BBY) if you got more techs.
+**Flex:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> if you got more techs.
 
 
 ---

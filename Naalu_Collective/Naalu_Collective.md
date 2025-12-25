@@ -98,7 +98,7 @@ Combat 8 fighters provide additional combat power in early scraps. Can be impact
 
 **Faction Technologies:**
 
-**Hybrid Crystal Fighter II (GB):**
+**Hybrid Crystal Fighter II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:**
 *Naalu Fighter - Combat: 7 | Move: 2*
 
 This unit may move without being transported. Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool.
@@ -224,13 +224,13 @@ Strong economic start with bonus action cards. Focus on fighter upgrades. Best p
 **Round 1:** <span class="tb">Dark Energy Tap</span> (if available from slice/deals)
 - Extra frontier token, retreat flexibility.
 
-**Round 2:** Hybrid Crystal Fighter II (GB)
+**Round 2:** Hybrid Crystal Fighter II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Faction tech. Independent movement, 0.5 fleet cost.
 
 **Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - +1 move to 1 ship after activating.
 
-**Round 4:** Carrier II (BB) or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Carrier II for capacity, <span class="tb">Fleet Logistics</span> for double actions.
 - <span class="tb">Fleet Logistics</span> enables crazy Imperial scoring on Mecatol and then also scoring first with the Imperial card in the last round.
 

@@ -99,7 +99,7 @@ Your dimensional tear space docks turn systems into gravity rifts for mobility a
 
 **Faction Technologies:**
 
-**Dimensional Tear II (YY):**
+**Dimensional Tear II <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *Vuil'raith Space Dock - PRODUCTION 7*
 
 This system is a gravity rift; your ships do not roll for this gravity rift. Place a dimensional tear token beneath this unit as a reminder. Up to 12 fighters in this system do not count against your ships' capacity.
@@ -225,17 +225,17 @@ Use Riftmeld to skip prerequisites on unit upgrades when you have captured units
 
 **Starting Tech:** <span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 
-**Round 2:** Carrier II (BB) - WITH RIFTMELD
+**Round 2:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - WITH RIFTMELD
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Transport capacity for invasions. Use Riftmeld with captured carrier to skip prerequisites.
 - **Prerequisites:** None via Riftmeld (normally requires 2 blue)
 
-**Round 3:** Dreadnought II (BBY) - WITH RIFTMELD
+**Round 3:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - WITH RIFTMELD
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5
 - **Why:** Capital ship upgrade. Use Riftmeld with captured dreadnought to skip prerequisites.
 - **Prerequisites:** None via Riftmeld (normally requires 2 blue + 1 yellow)
 
-**Round 4:** Destroyer II (RR) - WITH RIFTMELD
+**Round 4:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - WITH RIFTMELD
 - Cost 1, Combat 8, Move 2, AFB 6 (x3)
 - **Why:** Cheap fleet power. Use Riftmeld with captured destroyer to skip prerequisites.
 - **Prerequisites:** None via Riftmeld (normally requires 2 red)

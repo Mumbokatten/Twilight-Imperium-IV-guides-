@@ -226,7 +226,7 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 - ACTION: Attach this card to a non-home planet you control. Its resource and influence values are each increased by 2. Attach only if the planet has 1 or more attachments or you have a mech on the planet
 - **Why:** Massively improves planets you've explored and upgraded.
 
-**Round 4:** Destroyer II (RR)
+**Round 4:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - Cost 1, Combat 8, Move 2, AFB 6 (x3)
 - **Why:** Cheap, mobile ships with strong anti-fighter.
 
@@ -244,15 +244,15 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility for repositioning fleets and bringing mechs to exploration zones.
 
-**Round 3:** Carrier II (BB)
+**Round 3:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Transport capacity for mechs. Move 2 carriers with <span class="tb">Gravity Drive</span> gets you around the map.
 
-**Round 4:** Dreadnought II (BBY)
+**Round 4:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by "Direct Hit" action cards
 - **Why:** Strong combat backbone with bombardment and sustain.
 
-**Round 5:** Destroyer II (RR)
+**Round 5:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - Cost 1, Combat 8, Move 2, AFB 6 (x3)
 - **Why:** Cheap, mobile ships with strong anti-fighter.
 

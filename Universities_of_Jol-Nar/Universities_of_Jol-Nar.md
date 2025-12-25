@@ -161,7 +161,7 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 **Blue:**
 
 - Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, **<span class="tb">Dark Energy Tap</span>**
-- Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+- Hero targets: **<span class="tb">Fleet Logistics</span>** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, **Light/Wave Deflector** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 
 **Green:**
 
@@ -171,12 +171,12 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 **Yellow:**
 
 - Likely to have teched: **<span class="ty">Sarween Tools</span>** (starting), **<span class="ty">Scanlink Drone Network</span>**
-- Hero targets: **<span class="ty">E-Res Siphons</span>** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), <span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
+- Hero targets: **<span class="ty">E-Res Siphons</span>** <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> (faction), **<span class="ty">Graviton Laser System</span>** (Y), <span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 
 **Red:**
 
 - Likely to have teched: <span class="tr">Plasma Scoring</span> (starting), <span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
-- Hero targets: <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="tr">Assault Cannon</span> (RRR)
+- Hero targets: <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="tr">Assault Cannon</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 
 ### F. Promissory Note - **Research Agreement**
 
@@ -319,12 +319,12 @@ With Brilliant, you research 2 techs per round when following Technology.
 - Self-Assembly Routines: Free mech on production, 1 TG when mech dies.
 - **Commander unlocks.**
 
-**R3:** Destroyer II (RR), PDS II (RY)
+**R3:** Destroyer II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, PDS II <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - Destroyer II: Cost 1, Combat 8, Move 2, AFB 6 (x3).
 - PDS II: SPACE CANNON 5, shoots adjacent systems.
 - Unit abilities with Commander rerolls.
 
-**R4:** Dreadnought II (BBY), <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
+**R4:** Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Dreadnought II: Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5. Immune to Direct Hit.
 - <span class="ty">Sling Relay</span>: Produce 1 ship at any space dock.
 - **Hero swap available**—see Hero section for swap targets.
