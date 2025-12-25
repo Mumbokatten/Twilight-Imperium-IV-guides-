@@ -262,7 +262,7 @@ You choose 2 non-faction techs owned by other players - this means you're limite
 
 **Recommended Starting Techs:**
 
-Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **<span class="tb">Gravity Drive</span> (B)**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward <span class="ty">Executive Order</span> and <span class="ty">Agency Supply Network</span>. **Sarween has great synergy with <span class="ty">Agency Supply Network</span>** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. <span class="tb">Gravity Drive</span> gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **<span class="ty">Predictive Intelligence</span> (Y)** is also probably worth it as a yellow tech option.
+Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **<span class="tb">Gravity Drive</span> (B)**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **<span class="ty">Sling Relay</span> (B)** also work). Sarween gets you started on the yellow tech path toward <span class="ty">Executive Order</span> and <span class="ty">Agency Supply Network</span>. **Sarween has great synergy with <span class="ty">Agency Supply Network</span>** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. <span class="tb">Gravity Drive</span> gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **<span class="ty">Predictive Intelligence</span> (Y)** is also probably worth it as a yellow tech option.
 
 **Green alternatives:** **<span class="tg">Neural Motivator</span>** and **<span class="tg">Bio-Stims</span> (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, <span class="tg">Bio-Stims</span> synergizes well with your faction tech <span class="ty">Executive Order</span> and is definitely a fun option. <span class="tg">Bio-Stims</span> + <span class="ty">Executive Order</span> allows for a potential of 10 extra agendas - who wouldn't love that?
 
@@ -288,7 +288,7 @@ Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 **Round 4-5:**
 
-- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> (BBB)**, **Predictive Intelligence (YY)** - whatever you need
+- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> (BBB)**, **<span class="ty">Predictive Intelligence</span> (YY)** - whatever you need
 
 **Note:** I.I.H.Q. Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
 

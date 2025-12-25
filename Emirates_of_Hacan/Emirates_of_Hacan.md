@@ -372,7 +372,7 @@ Your ideal fleet composition in each system:
 - **Mechs (situational)** - Can trade planets with structures for tactical advantages
 - **Flagship (with hero timing)** - Expensive but can be produced for free with hero turn
 
-War Sun arrives R4. Hero turn produces War Sun + full fleet for free (~15-35 resources of value). With R↔Y breakthrough, Destroyer II (RR) can be upgraded for additional combat power. With red or yellow tech skip, you can rush War Sun faster by skipping Magen/Transit Diodes.
+War Sun arrives R4. Hero turn produces War Sun + full fleet for free (~15-35 resources of value). With R↔Y breakthrough, Destroyer II (RR) can be upgraded for additional combat power. With red or yellow tech skip, you can rush War Sun faster by skipping Magen/<span class="ty">Transit Diodes</span>.
 
 ---
 

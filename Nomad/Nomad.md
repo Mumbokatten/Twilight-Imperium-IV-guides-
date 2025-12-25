@@ -82,13 +82,13 @@ Easily forgotten but helpful for small bonus income. Only triggers if you vote f
 
 **Starting Technologies:**
 
-**Sling Relay (Blue)** - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
+**<span class="ty">Sling Relay</span> (Blue)** - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
 
-**Notes:** Helpful R1 to get an extra ship out for a solid start on expansion. Also combos with commander—once Navarch Feng is unlocked, use Sling Relay to produce your flagship for free at any space dock.
+**Notes:** Helpful R1 to get an extra ship out for a solid start on expansion. Also combos with commander—once Navarch Feng is unlocked, use <span class="ty">Sling Relay</span> to produce your flagship for free at any space dock.
 
 **Faction Technologies:**
 
-Kind of hard to tech—usually requires a yellow skip or green skip. With <span class="tb">Gravity Drive</span>, you can send your flagship all over the map to inflict damage and take objectives freely. If someone kills it, another one appears (commander + Sling Relay).
+Kind of hard to tech—usually requires a yellow skip or green skip. With <span class="tb">Gravity Drive</span>, you can send your flagship all over the map to inflict damage and take objectives freely. If someone kills it, another one appears (commander + <span class="ty">Sling Relay</span>).
 
 **Memoria II (GBY):**
 *Nomad Flagship - Cost: 8 | Combat: 5 (x2) | Move: 2 | Capacity: 6 | Sustain Damage | ANTI-FIGHTER BARRAGE 5 (x3)*
@@ -97,7 +97,7 @@ You may treat this unit as if it were adjacent to systems that contain 1 or more
 
 Move 2, Capacity 6. Heavy prerequisites but strong upgrade if you can get there. Also increases your Cavalry promissory value.
 
-**Temporal Command Suite (Y):**
+**<span class="ty">Temporal Command Suite</span> (Y):**
 *After any player's agent becomes exhausted, you may exhaust this card to ready that agent; if you ready another player's agent, you may perform a transaction with that player.*
 
 Can be a diplomatic tool and combos well with your breakthrough to gain even more leverage. Needs a strong target agent to make use of and fairly optimal setup.
@@ -168,7 +168,7 @@ At the start of any player's turn, you may exhaust 1 of your agents to ready any
 
 Double-use agents or ready opponent agents for favors. Get if optimal agents available to combo with.
 
-**Y↔G Synergy:** Helpful for Memoria II and <span class="tg">Bio-Stims</span> Sling Relay combo for stalling. Other than that, you're probably more blue focused.
+**Y↔G Synergy:** Helpful for Memoria II and <span class="tg">Bio-Stims</span> <span class="ty">Sling Relay</span> combo for stalling. Other than that, you're probably more blue focused.
 
 ### K. Slice and Draft Considerations
 
@@ -217,13 +217,13 @@ Your entire faction revolves around your flagship. You're only strong in one spo
 
 ### A. Overview
 
-You start with **Sling Relay (B)** (ACTION: produce 1 ship at any space dock).
+You start with **<span class="ty">Sling Relay</span> (B)** (ACTION: produce 1 ship at any space dock).
 
 Prefer to have a green or yellow skip.
 
 ### B. Tech Path
 
-**Starting Tech:** Sling Relay (B)
+**Starting Tech:** <span class="ty">Sling Relay</span> (B)
 
 **Round 1:** <span class="tb">Gravity Drive</span> (B)
 - +1 move to 1 ship per activation
@@ -233,7 +233,7 @@ Prefer to have a green or yellow skip.
 - **<span class="tg">Bio-Stims</span>:** Ready a tech specialty planet or another tech
 - **Scanlink:** Explore when you activate a system with your units
 - **Neural:** Draw 2 action cards instead of 1
-- **Why:** <span class="tg">Bio-Stims</span> combos with Sling Relay for stalling. Scanlink/Neural as prereq if no skip.
+- **Why:** <span class="tg">Bio-Stims</span> combos with <span class="ty">Sling Relay</span> for stalling. Scanlink/Neural as prereq if no skip.
 
 **Round 3:** <span class="tg">Bio-Stims</span> (G) if you didn't get it R2, otherwise Carrier II (BB)
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
@@ -265,7 +265,7 @@ Prefer to have a green or yellow skip.
 
 4. **Politics** - Nice for custodian and next round setup.
 
-5. **Construction** - Good to get free build for extra system and forward dock for Sling Relay.
+5. **Construction** - Good to get free build for extra system and forward dock for <span class="ty">Sling Relay</span>.
 
 6. **Diplomacy** - Only if objective requires. Good to be in control of timing.
 
@@ -290,7 +290,7 @@ Prefer to have a green or yellow skip.
 
 **Situational:**
 
-- **Construction** - Solid production for offensive/defensive builds. Forward docks for Sling Relay.
+- **Construction** - Solid production for offensive/defensive builds. Forward docks for <span class="ty">Sling Relay</span>.
 - **Warfare** - Fleet readying and repositioning.
 - **Diplomacy** - Protect key systems.
 

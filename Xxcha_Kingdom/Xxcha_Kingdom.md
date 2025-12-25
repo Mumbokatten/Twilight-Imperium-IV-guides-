@@ -92,13 +92,13 @@ Quash lets you veto agendas by spending 1 strategy command counter to discard an
 
 **Faction Technologies:**
 
-**Instinct Training (G):** You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
+**<span class="tg">Instinct Training</span> (G):** You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
 
 Instinct Training gives you action card cancellation. By exhausting this technology and spending 1 strategy command counter, you can cancel any action card another player plays. This serves as a hard counter to game-changing action cards and provides exceptional defensive control throughout the game.
 
-**Nullification Field (YY):** After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
+**<span class="ty">Nullification Field</span> (YY):** After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
 
-Nullification Field is a turn-ending defensive technology. When an opponent activates a system containing your ships, you can exhaust this technology and spend 1 strategy command counter to immediately end their entire turn. This denies them their tactical action, movement, and any combat or production they planned. Nullification Field is one of the most powerful defensive abilities in the game, capable of completely shutting down aggressive plays against your fleets.
+Nullification Field is a turn-ending defensive technology. When an opponent activates a system containing your ships, you can exhaust this technology and spend 1 strategy command counter to immediately end their entire turn. This denies them their tactical action, movement, and any combat or production they planned. <span class="ty">Nullification Field</span> is one of the most powerful defensive abilities in the game, capable of completely shutting down aggressive plays against your fleets.
 
 ### E. Leaders
 
@@ -138,7 +138,7 @@ Cost: 8 | Combat: 7 (x2) | Move: 1 | Capacity: 3 | **Sustain Damage** | **SPACE 
 
 You may use this unit's SPACE CANNON against ships that are in adjacent systems.
 
-One of your main defensive tools before PDS network and Nullification Field come online. Position in the middle of your slice with a mech or two—opponents must consider getting their carriers blown up before battle even starts, losing all carried units in the process. Three dice at SPACE CANNON 5 hitting adjacent systems creates serious area denial.
+One of your main defensive tools before PDS network and <span class="ty">Nullification Field</span> come online. Position in the middle of your slice with a mech or two—opponents must consider getting their carriers blown up before battle even starts, losing all carried units in the process. Three dice at SPACE CANNON 5 hitting adjacent systems creates serious area denial.
 
 ### J. Breakthrough - **Archon's Gift (Y↔G)**
 
@@ -215,7 +215,7 @@ You start with **<span class="ty">Graviton Laser System</span> (Yellow)** (force
 
 **R5+:** Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit. <span class="tb">Lightwave Deflector</span> (BBB) – Move through systems with enemy ships.
 
-If yellow skip, consider Nullification Field (YY) as flex tech for maximum safety.
+If yellow skip, consider <span class="ty">Nullification Field</span> (YY) as flex tech for maximum safety.
 
 ---
 

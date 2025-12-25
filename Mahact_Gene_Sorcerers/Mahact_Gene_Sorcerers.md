@@ -105,7 +105,7 @@ Combos extremely well with your surplus of tokens from home system, agent, and f
 
 **Faction Technologies:**
 
-**Genetic Recombination (G):**
+**<span class="tg">Genetic Recombination</span> (G):**
 *You may exhaust this card before a player casts votes; that player must cast at least 1 vote for an outcome of your choice or remove 1 token from their fleet pool and return it to their reinforcements.*
 
 Rarely used—you've got so much other tech you'd want. Funny if gotten with Entropic Scar though. Can absolutely screw someone with the right agenda. Requires 1 green prerequisite.
@@ -114,7 +114,7 @@ Rarely used—you've got so much other tech you'd want. Funny if gotten with Ent
 *Cost: 1 (x2) | Combat: 7*
 *After this unit is destroyed, gain 1 commodity or convert 1 of your commodities to a trade good. Then, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.*
 
-If you get this early (rare) and get your production going, it can be a bit of a money printer with the commodity generation and resurrection. Unfortunately, like Genetic Recombination, you generally need other stuff more—your tech path is tight and you've got better priorities.
+If you get this early (rare) and get your production going, it can be a bit of a money printer with the commodity generation and resurrection. Unfortunately, like <span class="tg">Genetic Recombination</span>, you generally need other stuff more—your tech path is tight and you've got better priorities.
 
 ### E. Leaders
 
@@ -187,7 +187,7 @@ Really strong breakthrough. Can be useful to get a few different techs in yellow
 **Priorities:**
 
 - **Need variety of tech skips** - You need tech flexibility to build your path toward Vaults of the Heir and support your strategy. Really likes blue skips.
-- **Favor resources over influence** - You need a lot of tech and plastic (units). All tools in your kit solve lower influence slices—stolen tokens, Predictive Intelligence, and your 5 influence home system already give you token flexibility.
+- **Favor resources over influence** - You need a lot of tech and plastic (units). All tools in your kit solve lower influence slices—stolen tokens, <span class="ty">Predictive Intelligence</span>, and your 5 influence home system already give you token flexibility.
 
 **Nice to Have:**
 
@@ -240,7 +240,7 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 
 **<span class="tg">Bio-Stims</span> (Green):** Ready planets with tech specialties or other technologies at end of turn.
 
-**Predictive Intelligence (Yellow):** Redistribute command tokens or cast +3 votes during agenda phase.
+**<span class="ty">Predictive Intelligence</span> (Yellow):** Redistribute command tokens or cast +3 votes during agenda phase.
 
 ### C. Technology Paths
 

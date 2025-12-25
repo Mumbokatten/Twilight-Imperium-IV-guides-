@@ -94,7 +94,7 @@ Your defining ability. Transport PDS and Space Docks with your fleet, deploy on 
 
 **Recommendations:**
 
-- **AI Development Algorithm (Red)** - Best for tech path efficiency
+- **<span class="ty">AI Development Algorithm</span> (Red)** - Best for tech path efficiency
 - **<span class="tg">Neural Motivator</span> (Green)** - Flexible opener for action cards
 
 **Faction Technologies:**
@@ -211,17 +211,17 @@ Data Skimmer collects discarded action cards visibly - opponents see you cherry-
 
 ### A. Overview
 
-**Starting Tech:** Psychoarchaeology or AI Development Algorithm.
+**Starting Tech:** <span class="tg">Psychoarchaeology</span> or <span class="ty">AI Development Algorithm</span>.
 
 Ral Nel has two distinct tech paths:
 
-**Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on <span class="tb">Dark Energy Tap</span> for exploration and retreat synergy, then <span class="tb">Gravity Drive</span> for mobility, into Carrier II and Linkship II/<span class="tb">Fleet Logistics</span>.
+**Path 1 - <span class="ty">AI Development Algorithm</span> Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on <span class="tb">Dark Energy Tap</span> for exploration and retreat synergy, then <span class="tb">Gravity Drive</span> for mobility, into Carrier II and Linkship II/<span class="tb">Fleet Logistics</span>.
 
-**Path 2 - Psychoarchaeology Start (Red + Blue Skip):** Requires tech skips in your slice. Psychoarchaeology lets you use tech specialties without exhausting them and generate TG from tech planets. Rush <span class="tb">Gravity Drive</span> R1, then Nanomachines, Carrier II, Linkship II.
+**Path 2 - <span class="tg">Psychoarchaeology</span> Start (Red + Blue Skip):** Requires tech skips in your slice. <span class="tg">Psychoarchaeology</span> lets you use tech specialties without exhausting them and generate TG from tech planets. Rush <span class="tb">Gravity Drive</span> R1, then Nanomachines, Carrier II, Linkship II.
 
 ### B. Technology Paths
 
-**Path 1 - AI Development Algorithm Start:**
+**Path 1 - <span class="ty">AI Development Algorithm</span> Start:**
 
 **Round 1:** Nanomachines (R) - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
@@ -241,7 +241,7 @@ Ral Nel has two distinct tech paths:
 
 ---
 
-**Path 2 - Psychoarchaeology Start (Red + Blue Skip):**
+**Path 2 - <span class="tg">Psychoarchaeology</span> Start (Red + Blue Skip):**
 
 **Round 1:** <span class="tb">Gravity Drive</span> (B) - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
@@ -265,7 +265,7 @@ Ral Nel has two distinct tech paths:
 
 - **<span class="ty">Graviton Laser System</span> (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
 
-- **<span class="tg">Bio-Stims</span> (G)** - Ready a tech specialty planet or technology. Combos with Psychoarchaeology - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y↔G breakthrough.
+- **<span class="tg">Bio-Stims</span> (G)** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y↔G breakthrough.
 
 ---
 
@@ -334,7 +334,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 **Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get <span class="tb">Gravity Drive</span> and Carrier II. Transport PDS with fleet for mobile coverage.
 
-**Late Game (R5+):** Elusiveness and stall potential really strong. Commander makes your fleet hard to pin down - retreat and reposition safely. Hero lets you un-pass for surprise final turn. Linkships trigger PDS remotely. Graviton Laser System (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
+**Late Game (R5+):** Elusiveness and stall potential really strong. Commander makes your fleet hard to pin down - retreat and reposition safely. Hero lets you un-pass for surprise final turn. Linkships trigger PDS remotely. <span class="ty">Graviton Laser System</span> (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
 
 ---
 

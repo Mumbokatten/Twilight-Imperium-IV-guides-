@@ -90,11 +90,11 @@ Great tool if you plan to go for a few unit upgrades. However, NRA commonly goes
 
 **Faction Technologies:**
 
-**Pre-Fab Arcologies (GGG):** After you explore a planet, ready that planet.
+**<span class="tg">Pre-Fab Arcologies</span> (GGG):** After you explore a planet, ready that planet.
 
 Very strong tech if you get it online early. Decide early if you're going for locked-down, self-sufficient NRA that can afford to go all the way down green, or if you need mobility instead. The tech is definitely strong, but needs green skip or Entropic Scar to be feasible with the steep triple-green prerequisite.
 
-**Supercharge (R):** At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
+**<span class="tr">Supercharge</span> (R):** At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
 
 Exhaustable Morale Boost action card. Nothing to care about really—only get if it helps with objectives.
 
@@ -202,13 +202,13 @@ You have a hard time influencing others and they have a hard time influencing yo
 
 ### A. Overview
 
-**Starting Tech:** Psychoarchaeology (0) and AI Development Algorithm (0).
+**Starting Tech:** <span class="tg">Psychoarchaeology</span> (0) and <span class="ty">AI Development Algorithm</span> (0).
 
-**Psychoarchaeology:** Use tech specialties without exhausting or exhaust them for trade goods. Small flex tool.
+**<span class="tg">Psychoarchaeology</span>:** Use tech specialties without exhausting or exhaust them for trade goods. Small flex tool.
 
-**AI Development Algorithm:** Skip unit upgrade prerequisites and reduce production costs by number of unit upgrades owned. Good if going for unit upgrades but you commonly go for value/utility techs instead.
+**<span class="ty">AI Development Algorithm</span>:** Skip unit upgrade prerequisites and reduce production costs by number of unit upgrades owned. Good if going for unit upgrades but you commonly go for value/utility techs instead.
 
-Your kit is not very tech dependent. Choose your path based on slice and game state. Green Path focuses on economic snowball with Pre-Fab Arcologies improving explored planets, <span class="tg">Hyper Metabolism</span> for command tokens, and X-89 for devastating ground combat—requires green skip or Entropic and works best with resource-heavy slices. Mobility Path prioritizes map control with <span class="tb">Dark Energy Tap</span> for exploration synergy, <span class="tb">Gravity Drive</span> + Carrier II for moving mechs around, and Dreadnought II for combat backbone—more flexible and adaptable but doesn't synergize with faction identity as strongly.
+Your kit is not very tech dependent. Choose your path based on slice and game state. Green Path focuses on economic snowball with <span class="tg">Pre-Fab Arcologies</span> improving explored planets, <span class="tg">Hyper Metabolism</span> for command tokens, and X-89 for devastating ground combat—requires green skip or Entropic and works best with resource-heavy slices. Mobility Path prioritizes map control with <span class="tb">Dark Energy Tap</span> for exploration synergy, <span class="tb">Gravity Drive</span> + Carrier II for moving mechs around, and Dreadnought II for combat backbone—more flexible and adaptable but doesn't synergize with faction identity as strongly.
 
 ### B. Technology Paths
 
@@ -222,7 +222,7 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 - During the status phase, gain 3 command counters instead of 2
 - **Why:** Command token economy for activations.
 
-**Round 3:** Pre-Fab Arcologies (GGG)
+**Round 3:** <span class="tg">Pre-Fab Arcologies</span> (GGG)
 - ACTION: Attach this card to a non-home planet you control. Its resource and influence values are each increased by 2. Attach only if the planet has 1 or more attachments or you have a mech on the planet
 - **Why:** Massively improves planets you've explored and upgraded.
 

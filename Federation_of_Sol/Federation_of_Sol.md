@@ -198,7 +198,7 @@ The tradeoff is you're predictable. Everyone knows what Sol does—expand, produ
 
 You start with **<span class="tg">Neural Motivator</span> (Green)** and **<span class="tb">Antimass Deflectors</span> (Blue)**.
 
-Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobility, Sling Relay for repositioning, then Advanced Carrier II for your incredible super carriers. Flex into whatever the game demands after that.
+Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobility, <span class="ty">Sling Relay</span> for repositioning, then Advanced Carrier II for your incredible super carriers. Flex into whatever the game demands after that.
 
 ### B. Tech Path (Standard)
 
@@ -208,7 +208,7 @@ Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobili
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** 2-movement carriers. Essential for Sol's expansion and reach.
 
-**Round 2: Sling Relay (B)**
+**Round 2: <span class="ty">Sling Relay</span> (B)**
 - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
 - **Why:** Reposition carriers across the map. Combined with your production, this is huge.
 
@@ -218,7 +218,7 @@ Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobili
 
 **Flex Techs (Round 4/5):**
 
-- **<span class="tg">Bio-Stims</span> (G):** Ready a tech specialty planet or another technology at end of turn. Double Sling Relay use.
+- **<span class="tg">Bio-Stims</span> (G):** Ready a tech specialty planet or another technology at end of turn. Double <span class="ty">Sling Relay</span> use.
 - **<span class="tb">Fleet Logistics</span> (BB):** Perform 2 actions per turn instead of 1. Sneaky late game plays.
 - **Fighter II (GB):** Combat 8, Move 2. Fighters can move independently. You produce so many anyway.
 - **Light/Wave Deflector (BBB):** Your ships can move through systems with other players' ships. Control plays and blocking people.
@@ -438,7 +438,7 @@ Trading for other factions' Alliance promissory notes grants you access to their
 
 **Top Tier:**
 
-1. **Nomad (Navarch Feng)** – Produce flagship without spending resources. Crazy combo with Genesis and Sling Relay—free flagship production then sling it across the map with 12 capacity.
+1. **Nomad (Navarch Feng)** – Produce flagship without spending resources. Crazy combo with Genesis and <span class="ty">Sling Relay</span>—free flagship production then sling it across the map with 12 capacity.
 
 2. **Crimson Rebellion (Ahk Siever)** – At end of combat, gain commodity/TG. You fight constantly—this adds up fast.
 

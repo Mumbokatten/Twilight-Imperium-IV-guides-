@@ -290,13 +290,13 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR)
   - <span class="tb">Antimass Deflectors</span>: Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
   - <span class="tb">Dark Energy Tap</span>: After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
 - **<span class="tb">Gravity Drive</span> (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
-  - **Prerequisites:** 1 blue (Antimass or DET)
+  - **Prerequisites:** 1 blue (<span class="tb">Antimass</span> or <span class="tb">DET</span>)
 - **Skip PDS II** - Without breakthrough, prioritize getting into blue tech path over PDS II
 
 **Round 5: Carrier II (BB)**
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** Solves late game capacity issues. Move 6 ground forces at speed 2. Essential for large invasions since destroyers only have capacity 1.
-- **Prerequisites:** 2 blue (Sarween + <span class="tb">Gravity Drive</span> with B↔Y synergy, OR Antimass/DET + <span class="tb">Gravity Drive</span>)
+- **Prerequisites:** 2 blue (Sarween + <span class="tb">Gravity Drive</span> with B↔Y synergy, OR <span class="tb">Antimass</span>/<span class="tb">DET</span> + <span class="tb">Gravity Drive</span>)
 
 **Flex Techs (as needed):** <span class="tb">Lightwave Deflector</span>, <span class="tb">Fleet Logistics</span> - good options based on objectives
 
@@ -319,15 +319,15 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR)
 **Key Notes:**
 
 - **Double tech possible R2, R3, R4** - If you have good economy, you can double tech any of these rounds to accelerate your tech path
-- **Round 4 double tech** - With breakthrough: <span class="tb">Gravity Drive</span> + PDS II. Without breakthrough: Antimass/DET + <span class="tb">Gravity Drive</span> (skip PDS II)
+- **Round 4 double tech** - With breakthrough: <span class="tb">Gravity Drive</span> + PDS II. Without breakthrough: <span class="tb">Antimass</span>/<span class="tb">DET</span> + <span class="tb">Gravity Drive</span> (skip PDS II)
 - **With Wing Transfer breakthrough:** Sarween counts as blue prerequisite, can get both <span class="tb">Gravity Drive</span> and PDS II in R4
-- **Without breakthrough:** Must get Antimass/DET to join blue tech path, skip PDS II
+- **Without breakthrough:** Must get <span class="tb">Antimass</span>/<span class="tb">DET</span> to join blue tech path, skip PDS II
 - **With red skip:** Skip Magen R1, go straight to <span class="tr">Strike Wing Alpha II</span> R2
-- **With blue skip:** Skip Antimass/DET, go straight to Gravity Drive
+- **With blue skip:** Skip <span class="tb">Antimass</span>/<span class="tb">DET</span>, go straight to <span class="tb">Gravity Drive</span>
 
 ### C. Diversions
 
-**Scanlink Drone Network (0):**
+**<span class="ty">Scanlink Drone Network</span> (0):**
 
 - **Timing:** Pick up early if your slice is influence-heavy and resource-poor
 - When you activate a system, you may explore 1 planet in that system that contains 1 or more of your units.

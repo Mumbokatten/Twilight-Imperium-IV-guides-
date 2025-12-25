@@ -92,12 +92,12 @@ Your signature ability. If you have 3 fleet pool tokens, you can have 5 non-figh
 
 **Faction Technologies:**
 
-**Non-Euclidean Shielding (RR):**
+**<span class="tr">Non-Euclidean Shielding</span> (RR):**
 *When 1 of your units uses Sustain Damage, cancel 2 hits instead of 1.*
 
 Makes all your units with Sustain Damage incredibly durable. Combined with <span class="tr">Duranium Armor</span> (which repairs 1 unit per combat round), your capital ships become nearly unkillable.
 
-**L4 Disruptors (R):**
+**<span class="ty">L4 Disruptors</span> (R):**
 *During space combat, after you roll dice, you may reroll any number of your dice; your opponent must choose and destroy 1 of their ships for each result of 1 or 2 you produce.*
 
 Rarely researched. Forces opponent to destroy ships for your bad rolls. Situational and not worth the tech investment for most Letnev builds.
@@ -142,7 +142,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 Expensive but can be deployed pre-combat by spending 2 resources. Good for surprise ground combat swings. Sustain Damage makes it durable.
 
-**With <span class="tr">Duranium Armor</span> + Non-Euclidean Shielding:** Your mechs become monsters. Non-Euclidean Shielding makes them cancel 2 hits instead of 1 when using Sustain Damage, and <span class="tr">Duranium Armor</span> repairs 1 damaged unit each combat round. Your mechs are only rivaled by Naaz-Rokha Alliance mechs—effectively unkillable in ground combat.
+**With <span class="tr">Duranium Armor</span> + <span class="tr">Non-Euclidean Shielding</span>:** Your mechs become monsters. <span class="tr">Non-Euclidean Shielding</span> makes them cancel 2 hits instead of 1 when using Sustain Damage, and <span class="tr">Duranium Armor</span> repairs 1 damaged unit each combat round. Your mechs are only rivaled by Naaz-Rokha Alliance mechs—effectively unkillable in ground combat.
 
 ### I. Flagship - **Arc Secundus**
 
@@ -239,7 +239,7 @@ Your main tech path focuses on:
 
 1. **<span class="tb">Gravity Drive</span> (B)** - Essential for mobility
 
-2. **Destroyer II (RR) and Non-Euclidean Shielding (RR)** - Upgraded destroyers and double Sustain Damage on all units
+2. **Destroyer II (RR) and <span class="tr">Non-Euclidean Shielding</span> (RR)** - Upgraded destroyers and double Sustain Damage on all units
 
 3. **<span class="tb">Fleet Logistics</span> and <span class="tb">Lightwave Deflector</span>** - Late game mobility and defense
 
@@ -257,14 +257,14 @@ Your main tech path focuses on:
 - **Why:** Better destroyers with improved combat (8 instead of 9) and devastating ANTI-FIGHTER BARRAGE. Critical for your fleet composition.
 - **Prerequisites:** 2 red
 
-**Round 3: Non-Euclidean Shielding (RR)**
+**Round 3: <span class="tr">Non-Euclidean Shielding</span> (RR)**
 - When one of your units uses Sustain Damage, cancel 2 hits instead of 1.
 - **Why:** Your signature faction tech. Dreadnoughts, carriers, flagship—all take 2 hits to damage instead of 1. Makes your fleets incredibly durable.
 - **Prerequisites:** 2 red
 
 **Round 4: <span class="tr">Duranium Armor</span> (RR)**
 - During each combat round, after you assign hits to your units, repair 1 of your damaged units that did not use Sustain Damage during this combat round.
-- **Why:** Repairs a ship each combat round. Stacks with Non-Euclidean Shielding for nearly unkillable fleets.
+- **Why:** Repairs a ship each combat round. Stacks with <span class="tr">Non-Euclidean Shielding</span> for nearly unkillable fleets.
 - **Prerequisites:** 2 red
 
 **Round 5+:** Flex techs based on objectives and game state
@@ -348,7 +348,7 @@ Getting relics in Fracture should be free for Letnev. Your superior fleet can ea
 
 **Mecatol Rex Control:**
 
-Your massive fleets (thanks to Armada) and combat superiority make you the best faction for holding Mecatol Rex. Park a 5-dreadnought fleet on MR, take Imperial when you control it, and score those MR points. Your Non-Euclidean Shielding and <span class="tr">Duranium Armor</span> make it nearly impossible to dislodge you once established.
+Your massive fleets (thanks to Armada) and combat superiority make you the best faction for holding Mecatol Rex. Park a 5-dreadnought fleet on MR, take Imperial when you control it, and score those MR points. Your <span class="tr">Non-Euclidean Shielding</span> and <span class="tr">Duranium Armor</span> make it nearly impossible to dislodge you once established.
 
 **Styx Easy Access:**
 

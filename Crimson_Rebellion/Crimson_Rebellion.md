@@ -228,7 +228,7 @@ You start by choosing one blue or red technology with no prerequisites. You can 
 
 **Choose one blue or red technology with no prerequisites**
 
-Pick AI Development Algorithm or <span class="tb">Dark Energy Tap</span>. Only take <span class="tb">Antimass Deflectors</span> if your slice requires it.
+Pick <span class="ty">AI Development Algorithm</span> or <span class="tb">Dark Energy Tap</span>. Only take <span class="tb">Antimass Deflectors</span> if your slice requires it.
 
 Recommended options:
 - **<span class="tb">Dark Energy Tap</span>** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
@@ -277,7 +277,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 
 3. **Leadership** - Tokens for expansion and stalls.
 
-4. **Technology** - Tech Primary saves resources. Sling Relay gives you 3 stalls total.
+4. **Technology** - Tech Primary saves resources. <span class="ty">Sling Relay</span> gives you 3 stalls total.
 
 5. **Construction** - Forward dock for production capacity (not positioning). Last pick option with Diplomacy.
 

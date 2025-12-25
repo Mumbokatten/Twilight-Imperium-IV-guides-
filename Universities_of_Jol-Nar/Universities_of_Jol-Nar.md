@@ -62,7 +62,7 @@ Your endgame is about having options nobody else has. You've researched everythi
 
 **Notes:** Influence-heavy home system with 5 influence total—one of the best in the game. This gives you basically two free command counters each round from Leadership secondary, leading to healthy command counter supply all game. The 3 resources are modest—you'll need to expand for production economy. Two-planet home system is slightly worse for defense (two PDS can cover both, but splitting infantry is a concern).
 
-Your 4 commodities complete the economic picture. Between E-Res Siphons and Research Agreement income, you'd be rich with zero commodities. Four is just gravy.
+Your 4 commodities complete the economic picture. Between <span class="ty">E-Res Siphons</span> and Research Agreement income, you'd be rich with zero commodities. Four is just gravy.
 
 ### B. Starting Fleet
 
@@ -150,7 +150,7 @@ Your power spike. You started with 4 techs. Research 2 per round, unlock this R2
 - **Anti-Fighter Barrage:** Destroyers become excellent fighter killers with rerolls. Get Destroyer II and you're on easy street.
 - **SPACE CANNON:** This is the big one. You started with 2 PDS + <span class="tr">Plasma Scoring</span> = 3 shots. With rerolls, half your dice effectively become coin flips that you try twice. 5 shots with rerolls is nothing to scoff at.
 
-PDS II becomes a real strategy for Jol-Nar—fill your slice with PDS because it's a considerable amount of heat opponents have to take to invade. Add Graviton Laser System late and your slice becomes a fortress.
+PDS II becomes a real strategy for Jol-Nar—fill your slice with PDS because it's a considerable amount of heat opponents have to take to invade. Add <span class="ty">Graviton Laser System</span> late and your slice becomes a fortress.
 
 **Hero - Rin, the Master's Legacy:** *Unlock: Have 3 scored objectives.* **Genetic Memory** - ACTION: For each non-unit upgrade technology you own, you may replace that technology with any technology of the same color from the deck. Then, purge this card.
 
@@ -161,12 +161,12 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 **Blue:**
 
 - Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), <span class="tb">Gravity Drive</span> (B), **<span class="tb">Dark Energy Tap</span>**
-- Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), Sling Relay (B)
+- Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), <span class="ty">Sling Relay</span> (B)
 
 **Green:**
 
 - Likely to have teched: <span class="tg">Neural Motivator</span> (starting), <span class="tg">Hyper Metabolism</span> (GG)
-- Hero targets: <span class="tg">Bio-Stims</span> (G), X-89 Bacterial Weapon Ω (GGG)
+- Hero targets: <span class="tg">Bio-Stims</span> (G), <span class="tg">X-89 Bacterial Weapon</span> Ω (GGG)
 
 **Yellow:**
 
@@ -264,7 +264,7 @@ Resources and mid-slice planets for PDS are your priorities. Tech skips are nice
 
 **Round 1 Priority Rankings:**
 
-1. **Technology** - You research 2 techs when others get 1. Every round without Technology slows your Commander unlock (8 techs), delays E-Res Siphons income, and wastes Brilliant. Mobility and economy techs like <span class="tg">Hyper Metabolism</span> and <span class="tb">Gravity Drive</span> are great to research—and great to sell via Research Agreement.
+1. **Technology** - You research 2 techs when others get 1. Every round without Technology slows your Commander unlock (8 techs), delays <span class="ty">E-Res Siphons</span> income, and wastes Brilliant. Mobility and economy techs like <span class="tg">Hyper Metabolism</span> and <span class="tb">Gravity Drive</span> are great to research—and great to sell via Research Agreement.
 
 2. **Expansion + Production** - Expand to 2-3 systems. Limited to 2 infantry restricts how many planets you can take. Your 2 carriers have great capacity (8 total) but you need to fill them with something—produce infantry early.
 
@@ -282,7 +282,7 @@ Resources and mid-slice planets for PDS are your priorities. Tech skips are nice
 
 ### C. Rich but Weak
 
-You're a rich faction with a lot of tech—4 commodities, Research Agreement sales, and E-Res Siphons generate constant income. But you're weak in combat due to Fragile, making you an easy target early. Use your money to build more units, buy favors, and avoid fights you can't win. With tough neighbors, prioritize early E-Res Siphons and PDS II to mitigate.
+You're a rich faction with a lot of tech—4 commodities, Research Agreement sales, and <span class="ty">E-Res Siphons</span> generate constant income. But you're weak in combat due to Fragile, making you an easy target early. Use your money to build more units, buy favors, and avoid fights you can't win. With tough neighbors, prioritize early <span class="ty">E-Res Siphons</span> and PDS II to mitigate.
 
 ---
 
@@ -324,9 +324,9 @@ With Brilliant, you research 2 techs per round when following Technology.
 - PDS II: SPACE CANNON 5, shoots adjacent systems.
 - Unit abilities with Commander rerolls.
 
-**R4:** Dreadnought II (BBY), Sling Relay (B)
+**R4:** Dreadnought II (BBY), <span class="ty">Sling Relay</span> (B)
 - Dreadnought II: Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5. Immune to Direct Hit.
-- Sling Relay: Produce 1 ship at any space dock.
+- <span class="ty">Sling Relay</span>: Produce 1 ship at any space dock.
 - **Hero swap available**—see Hero section for swap targets.
 
 **Notes:**
@@ -407,7 +407,7 @@ Your ideal fleet composition in each system:
 
 **Early Game (R1-R2):** Expand to 2-3 systems with limited infantry. Produce ground forces to fill carrier capacity. Let others take Technology—Brilliant gives you primary anyway. Research <span class="tb">Gravity Drive</span> and <span class="tg">Hyper Metabolism</span> for economy. Trade commodities and sell Research Agreement for income. Start building toward Commander unlock (8 techs).
 
-**Mid Game (R3-R4):** Commander unlocks at 8 techs—now unit abilities become reliable with rerolls. Build PDS network across your slice. Research Destroyer II and PDS II. E-Res Siphons generates income when opponents activate your systems. Gum the map—leave ships in systems to trigger E-Res. Spread mechs to contested planets.
+**Mid Game (R3-R4):** Commander unlocks at 8 techs—now unit abilities become reliable with rerolls. Build PDS network across your slice. Research Destroyer II and PDS II. <span class="ty">E-Res Siphons</span> generates income when opponents activate your systems. Gum the map—leave ships in systems to trigger E-Res. Spread mechs to contested planets.
 
 **Late Game (R5+):** Hero swaps your tech portfolio for whatever you need to close. <span class="tb">Fleet Logistics</span> for double actions, Light/Wave Deflector for mobility, X-89 for ground clearing. Your PDS network and Commander rerolls make your slice painful to invade. Win through technological supremacy, not aggressive conquest.
 
@@ -421,7 +421,7 @@ Your promissory note costs you nothing—you were researching anyway. Sell it fo
 
 ### A. Objective Summary
 
-**Strengths:** Jol-Nar dominates all tech objectives with research bonuses and 8-12 total technologies. Spending objectives are trivial with E-Res Siphons economy generating massive trade goods, and influence spending is easy with 5 home influence plus expansion.
+**Strengths:** Jol-Nar dominates all tech objectives with research bonuses and 8-12 total technologies. Spending objectives are trivial with <span class="ty">E-Res Siphons</span> economy generating massive trade goods, and influence spending is easy with 5 home influence plus expansion.
 
 **Weaknesses:** Combat and conquest objectives are very challenging due to Fragile penalty (-1 combat). Aggressive objectives contradict your defensive research-focused strategy, requiring significant military investment to compensate.
 
@@ -592,6 +592,6 @@ Your biggest strength is acceleration. Brilliant turns every Technology secondar
 
 When you master Jol-Nar, Fragile stops feeling like a weakness. Your PDS network with Commander rerolls punishes anyone who enters your space. Your Destroyer II AFB shreds fighter screens before combat begins. Your dreadnoughts sustain damage while their BOMBARDMENT clears planets. You don't fight fair—you fight with better equipment.
 
-The table learns to respect your economy. E-Res Siphons means attacking you funds your defense. Research Agreement means your tech sales cost you nothing. They need your tech, and you set the price.
+The table learns to respect your economy. <span class="ty">E-Res Siphons</span> means attacking you funds your defense. Research Agreement means your tech sales cost you nothing. They need your tech, and you set the price.
 
 **"What they call impossible, we call next quarter's curriculum."**

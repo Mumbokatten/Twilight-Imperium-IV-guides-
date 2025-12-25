@@ -220,7 +220,7 @@ You want to spend tokens to Scanlink (activations), awaken sleepers, use for bre
 
 ### A. Overview
 
-**Starting Tech:** <span class="tb">Antimass Deflectors</span> (Blue) and Scanlink Drone Network (0).
+**Starting Tech:** <span class="tb">Antimass Deflectors</span> (Blue) and <span class="ty">Scanlink Drone Network</span> (0).
 
 Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth getting.
 
@@ -228,9 +228,9 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 
 **Standard Path:**
 
-**Round 1:** AI Development Algorithm (R)
+**Round 1:** <span class="ty">AI Development Algorithm</span> (R)
 - When you research a unit upgrade technology, you may exhaust to ignore 1 prerequisite. When using PRODUCTION, you may exhaust to reduce cost by number of unit upgrades you own
-- **Prerequisites:** 4 technologies (Antimass + Scanlink + 2 more)
+- **Prerequisites:** 4 technologies (<span class="tb">Antimass</span> + <span class="ty">Scanlink</span> + 2 more)
 - **Why:** Get prereqs for Saturn Engine II.
 
 **Round 2:** Saturn Engine II (GYR)
@@ -309,7 +309,7 @@ Focus on Saturn Engine cruiser fleet with Hel-Titan production support. Cruisers
 
 Your game plan is straightforward: excavate planets with Scanlink, seed sleeper tokens everywhere, awaken them for Commander unlock, then leverage elite Saturn Engine cruiser fleet with distributed Hel-Titan production support.
 
-**Early Game (R1-2):** Explore 3-4 systems with Scanlink (only systems with planets need exploring), placing sleeper tokens everywhere. Get AI Development Algorithm R1 for tech prereqs. Try to have Commander unlocked by R2 (5 structures—awaken 3-4 sleepers + starting dock + built structures). Best case scenario: hero unlocked in status phase R2 as well—aim for that. Build cruisers and expand your slice. Commander transforms economy—every production generates trade goods. Start accumulating wealth.
+**Early Game (R1-2):** Explore 3-4 systems with Scanlink (only systems with planets need exploring), placing sleeper tokens everywhere. Get <span class="ty">AI Development Algorithm</span> R1 for tech prereqs. Try to have Commander unlocked by R2 (5 structures—awaken 3-4 sleepers + starting dock + built structures). Best case scenario: hero unlocked in status phase R2 as well—aim for that. Build cruisers and expand your slice. Commander transforms economy—every production generates trade goods. Start accumulating wealth.
 
 **Mid Game (R3-4):** Saturn Engine II online—your cruisers become elite fleet with move 3, capacity 2, Sustain Damage. <span class="tb">Gravity Drive</span> adds mobility. Awaken remaining sleepers for distributed production network. Commander generates passive TG income with every production. Build Saturn Engine fleet and swing across map for objectives. Distributed Hel-Titan production means you produce reinforcements wherever your fleet operates. Hero upgrades Elysium to 7/4 for extreme production capacity at home.
 

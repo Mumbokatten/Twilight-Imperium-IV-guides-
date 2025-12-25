@@ -96,7 +96,7 @@ Free structures on Mecatol Rex. Instant fortification. Once you take it, you sho
 
 **Faction Technologies:**
 
-**Lazax Gate Folding (BB):**
+**<span class="tb">Lazax Gate Folding</span> (BB):**
 *During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole. ACTION: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.*
 
 Very situational. Only useful in weird slices where it's problematic to get to MR but happens to have a well-placed wormhole. Very niche.
@@ -225,7 +225,7 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 
 ### B. Tech Path 1: Blue Path (Fast)
 
-**Starting Tech:** Dark Energy Tap
+**Starting Tech:** <span class="tb">Dark Energy Tap</span>
 
 **Round 1:** <span class="tb">Gravity Drive</span> (B) - if you can afford tech
 - After you activate a system, apply +1 to the move value of 1 of your ships
@@ -235,8 +235,8 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Better transport for armies and reinforcements to MR.
 
-**Round 3:** Sling Relay (B) OR <span class="tb">Fleet Logistics</span> (BB)
-- **Sling Relay:** ACTION: Exhaust to produce 1 ship in any system with your space docks
+**Round 3:** <span class="ty">Sling Relay</span> (B) OR <span class="tb">Fleet Logistics</span> (BB)
+- **<span class="ty">Sling Relay</span>:** ACTION: Exhaust to produce 1 ship in any system with your space docks
 - **<span class="tb">Fleet Logistics</span>:** Perform 2 actions per turn
 - **Why:** Production flexibility or double actions for positioning.
 
@@ -254,7 +254,7 @@ Together with your breakthrough, this path offers great mobility to make some mo
 
 ### C. Tech Path 2: Red Path (Slow)
 
-**Starting Tech:** AI Development Algorithm
+**Starting Tech:** <span class="ty">AI Development Algorithm</span>
 
 **Round 1:** <span class="tb">Gravity Drive</span> (B) - if you can afford tech
 - After you activate a system, apply +1 to the move value of 1 of your ships

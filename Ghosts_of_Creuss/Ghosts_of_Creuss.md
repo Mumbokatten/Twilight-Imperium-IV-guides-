@@ -67,7 +67,7 @@ You're not a combat faction. Your ships are standard, your units unremarkable. B
 - 4 Infantry
 - 1 Space Dock
 
-Weak fleet with only 1 carrier. Even with solid movement, you need Sling Relay or Warfare secondary to solve the 1 capacity ship problem.
+Weak fleet with only 1 carrier. Even with solid movement, you need <span class="ty">Sling Relay</span> or Warfare secondary to solve the 1 capacity ship problem.
 
 ### C. Faction Abilities
 
@@ -91,7 +91,7 @@ All alpha and beta wormholes are adjacent to each other—for you only. Cannot b
 
 **Faction Technologies:**
 
-**Wormhole Generator Ω (BB):**
+**<span class="tb">Wormhole Generator</span> Ω (BB):**
 *ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships.*
 
 Very solid faction tech with increased value from Particle Synthesis breakthrough. On-demand wormhole placement for scoring, surprise attacks, or production. But it's still a valid strategy to skip this and ask people to place wormholes for you with your promissory note.
@@ -141,7 +141,7 @@ Cost: 8 | Combat: 5 | Move: 1 | Capacity: 3 | **Sustain Damage**
 
 This ship's system contains a delta wormhole. During movement, this ship may move before or after your other ships.
 
-Mobile delta wormhole that moves with the ship. Can move before OR after your other ships, creating adjacencies mid-action. Not a combat powerhouse but the utility is unique. Combined with Wormhole Generator and mech tokens, you can have multiple placeable wormholes.
+Mobile delta wormhole that moves with the ship. Can move before OR after your other ships, creating adjacencies mid-action. Not a combat powerhouse but the utility is unique. Combined with <span class="tb">Wormhole Generator</span> and mech tokens, you can have multiple placeable wormholes.
 
 ### J. Breakthrough - **Particle Synthesis (B↔Y)**
 
@@ -179,9 +179,9 @@ Turns your wormhole network into production hubs—no space dock required. Helps
 
 1. **Breakthrough** - Need it before going to Mallice so you can produce there.
 
-2. **Technology** - Priority for Sling Relay.
+2. **Technology** - Priority for <span class="ty">Sling Relay</span>.
 
-3. **Expansion + Production** - Build carrier with Sling Relay.
+3. **Expansion + Production** - Build carrier with <span class="ty">Sling Relay</span>.
 
 4. **Scoring** - If you can.
 
@@ -195,25 +195,25 @@ Your power scales with wormhole availability. Low-wormhole maps mean lower mobil
 
 ### A. Overview
 
-You start with **<span class="tb">Gravity Drive</span> (Blue)**. Your tech path is very flexible—go full blue + unit upgrades. No strict order required after Sling Relay. Adapt to what you need each round.
+You start with **<span class="tb">Gravity Drive</span> (Blue)**. Your tech path is very flexible—go full blue + unit upgrades. No strict order required after <span class="ty">Sling Relay</span>. Adapt to what you need each round.
 
 ### B. Tech Path (Standard)
 
-**Starting Tech:** Gravity Drive
+**Starting Tech:** <span class="tb">Gravity Drive</span>
 
-**Round 1: Sling Relay (B)**
+**Round 1: <span class="ty">Sling Relay</span> (B)**
 - ACTION: Exhaust to produce 1 ship in any system that contains 1 of your space docks.
 - **Why:** Enables breakthrough production. Critical for your R1 Mallice strategy—build a carrier at home while your fleet is elsewhere.
 
-**Round 2: <span class="tb">Dark Energy Tap</span> / Wormhole Generator / <span class="tb">Fleet Logistics</span>**
+**Round 2: <span class="tb">Dark Energy Tap</span> / <span class="tb">Wormhole Generator</span> / <span class="tb">Fleet Logistics</span>**
 - **<span class="tb">Dark Energy Tap</span>:** Explore frontier tokens when you activate systems with ships. Ships can retreat anywhere without needing units there.
-- **Wormhole Generator Ω (BB):** Place or move Creuss wormhole tokens. On-demand wormhole placement for scoring, attacks, or production.
+- **<span class="tb">Wormhole Generator</span> Ω (BB):** Place or move Creuss wormhole tokens. On-demand wormhole placement for scoring, attacks, or production.
 - **<span class="tb">Fleet Logistics</span> (BB):** Perform 2 actions per turn. Late game scoring options.
 - **Why:** All solid options. DET for exploration value, WG for wormhole control, Fleet Log for late game scoring.
 
 **Round 3-5: Flex techs**
 - **<span class="tb">Fleet Logistics</span> (BB)** - If not taken R2. Late game scoring options.
-- **Wormhole Generator Ω (BB)** - If not taken R2. Core faction tech for wormhole placement.
+- **<span class="tb">Wormhole Generator</span> Ω (BB)** - If not taken R2. Core faction tech for wormhole placement.
 - **Light/Wave Deflector (BBB)** - Ships can move through enemy ships. Great for bypassing blockers.
 - **Carrier II (BB)** - Move 2, Capacity 6. More capacity + commander fighter generation.
 - **Dreadnought II (BBY)** - Move 2, Sustain, Bombardment 5. Your B↔Y synergy makes this easy to unlock.
@@ -232,7 +232,7 @@ You start with **<span class="tb">Gravity Drive</span> (Blue)**. Your tech path 
 
 4. **Diplomacy** - Ready tech skip planet if possible.
 
-5. **Technology** - Get Sling Relay.
+5. **Technology** - Get <span class="ty">Sling Relay</span>.
 
 6. **Construction** - Second space dock helps production.
 
@@ -279,7 +279,7 @@ You start with **<span class="tb">Gravity Drive</span> (Blue)**. Your tech path 
 
 **Early Game (Rounds 1-2):**
 
-Unlock breakthrough R1—this is your priority. Get Sling Relay, go to Mallice with agent for bonus TGs, build carrier at home. Expand to wormhole systems to unlock commander. Use your PN to get others placing wormholes for you.
+Unlock breakthrough R1—this is your priority. Get <span class="ty">Sling Relay</span>, go to Mallice with agent for bonus TGs, build carrier at home. Expand to wormhole systems to unlock commander. Use your PN to get others placing wormholes for you.
 
 **Mid Game (Rounds 3-4):**
 

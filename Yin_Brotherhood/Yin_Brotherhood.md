@@ -16,7 +16,7 @@
 4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
    - [First Turn Priorities](#a-first-turn-priorities) · [Kamikaze Math Dependency](#b-kamikaze-math-dependency) · [Influence Scarcity](#c-influence-scarcity) · [Flagship Double-Edged Sword](#d-flagship-double-edged-sword)
 5. [Technology](#v-technology)
-   - [Overview](#a-overview) · [Yin Spinner Path](#b-tech-path-1-yin-spinner-focus-standard) · [Blue Mobility Path](#c-tech-path-2-blue-mobility-alternative) · [Kamikaze Math](#d-kamikaze-math--devotion-strategy)
+   - [Overview](#a-overview) · [<span class="tg">Yin Spinner</span> Path](#b-tech-path-1-yin-spinner-focus-standard) · [Blue Mobility Path](#c-tech-path-2-blue-mobility-alternative) · [Kamikaze Math](#d-kamikaze-math--devotion-strategy)
 6. [Strategy Cards](#vi-strategy-cards)
    - [Round 1](#a-round-1) · [Round 2+](#b-round-2)
 7. [Unit Composition and Game Plan](#vii-unit-composition-and-game-plan)
@@ -40,13 +40,13 @@ Watch opponents hesitate before engaging your fleets. They know your destroyers 
 
 ## II. Playstyle
 
-Playing Yin means treating your units as expendable resources rather than precious assets. Your faction rewards players who understand that sacrifice generates value—Devotion guarantees kills, Indoctrination steals infantry, and Yin Spinner floods your planets with free ground forces.
+Playing Yin means treating your units as expendable resources rather than precious assets. Your faction rewards players who understand that sacrifice generates value—Devotion guarantees kills, Indoctrination steals infantry, and <span class="tg">Yin Spinner</span> floods your planets with free ground forces.
 
-Your early game focuses on establishing your economic engine. Get Yin Spinner online and watch infantry accumulate automatically with every production. Expand aggressively—Indoctrination lets you invade with fewer ground forces since you're converting defenders before combat even starts. Your cheap production means you can afford to trade units and rebuild quickly.
+Your early game focuses on establishing your economic engine. Get <span class="tg">Yin Spinner</span> online and watch infantry accumulate automatically with every production. Expand aggressively—Indoctrination lets you invade with fewer ground forces since you're converting defenders before combat even starts. Your cheap production means you can afford to trade units and rebuild quickly.
 
 As the game develops, your presence becomes a deterrent. Opponents learn that fighting you costs more than expected. Your flagship threatens mutually assured destruction. Devotion picks off cruisers and destroyers after every combat round. Use this reputation to expand into contested space while others hesitate to engage.
 
-Your endgame leverages everything you've built. Infantry swarms from Yin Spinner secure planets. Breakthrough alliances stack up from scoring objectives. Your production efficiency lets you rebuild faster than opponents can destroy. You don't need the strongest fleet—you need opponents who dread the cost of fighting you.
+Your endgame leverages everything you've built. Infantry swarms from <span class="tg">Yin Spinner</span> secure planets. Breakthrough alliances stack up from scoring objectives. Your production efficiency lets you rebuild faster than opponents can destroy. You don't need the strongest fleet—you need opponents who dread the cost of fighting you.
 
 ---
 
@@ -94,7 +94,7 @@ Strong starting tech. Every production saves 1 resource, adding up over the game
 
 **<span class="tg">Yin Spinner</span> (GG):** After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.
 
-Your priority faction tech. Triggers on "produce" not "PRODUCTION"—meaning Sling Relay, exploration cards, and Integrated Economy all trigger Yin Spinner. Look for small production opportunities to maximize infantry generation.
+Your priority faction tech. Triggers on "produce" not "PRODUCTION"—meaning <span class="ty">Sling Relay</span>, exploration cards, and <span class="ty">Integrated Economy</span> all trigger <span class="tg">Yin Spinner</span>. Look for small production opportunities to maximize infantry generation.
 
 **<span class="ty">Impulse Core</span> (YY):** At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.
 
@@ -108,7 +108,7 @@ Solid agent. Works as a deterrent for your own combats, swing unlucky combat rol
 
 **Commander - Brother Omar:** *Unlock: Use one of your faction abilities.* This card satisfies a green technology prerequisite. When you research a tech owned by another player, you may return 1 of your infantry to reinforcements to ignore its prerequisites.
 
-Easy unlock (use Devotion or Indoctrination once). Green prereq helps rush Yin Spinner R2 with a green skip. Copy ability is useless against some factions, invaluable against others—depends who's at the table.
+Easy unlock (use Devotion or Indoctrination once). Green prereq helps rush <span class="tg">Yin Spinner</span> R2 with a green skip. Copy ability is useless against some factions, invaluable against others—depends who's at the table.
 
 **Hero - Dannel of the Tenth:** *Unlock: Have 3 scored objectives.* Commit up to 3 infantry from your reinforcements to any non-home planets and resolve invasions on those planets; players cannot use SPACE CANNON against those units.
 
@@ -162,7 +162,7 @@ When you gain this card or score a public objective, gain the alliance ability o
 **Nice to Have:**
 
 - 2-3 influence planets to threaten Indoctrination without wasting your 4-influence home.
-- Green/yellow tech skips to accelerate Yin Spinner.
+- Green/yellow tech skips to accelerate <span class="tg">Yin Spinner</span>.
 - Entropic Scar is fine but nothing special.
 
 **Avoid:**
@@ -183,7 +183,7 @@ When you gain this card or score a public objective, gain the alliance ability o
 
 3. **Expansion and Production** - Your dual carriers and 4 infantry give you strong expansion capability. Claim 3 systems R1 to establish economy. Build units with Sarween discount to prepare for R2 aggression.
 
-4. **Technology** - Start your path toward <span class="tg">Yin Spinner</span> (GG). This is your faction's core tech and should be online R2-R3. Every production after Yin Spinner generates 2 free infantry.
+4. **Technology** - Start your path toward <span class="tg">Yin Spinner</span> (GG). This is your faction's core tech and should be online R2-R3. Every production after <span class="tg">Yin Spinner</span> generates 2 free infantry.
 
 **Expansion Notes:** You have 2 carriers, 1 destroyer, and 4 infantry. Split forces across multiple systems using your dual carriers. Aim for 2-3 systems R1.
 
@@ -205,22 +205,22 @@ No mobility tech in your faction kit. You're stuck at move 1 until you research 
 
 Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The paths diverge on tech priorities:
 
-**Yin Spinner Path:** Rush your faction tech for infantry spam and ground dominance. Focuses on Yin Spinner early (R2) then pivots into Integrated Economy + X-89 Bacterial Weapon for production flexibility and nuclear ground combat. Maximizes your infantry generation and ground force control. Best when you need to hold planets and score control objectives.
+**<span class="tg">Yin Spinner</span> Path:** Rush your faction tech for infantry spam and ground dominance. Focuses on <span class="tg">Yin Spinner</span> early (R2) then pivots into <span class="ty">Integrated Economy</span> + <span class="tg">X-89 Bacterial Weapon</span> for production flexibility and nuclear ground combat. Maximizes your infantry generation and ground force control. Best when you need to hold planets and score control objectives.
 
-**Blue Path:** Prioritize mobility and unit upgrades over faction tech. Gets <span class="tb">Gravity Drive</span> R2, delays Yin Spinner to R3, then pushes into Carrier II and Dreadnought II for fleet strength. More flexible and well-rounded but sacrifices early infantry spam. Best for aggressive tables or slices requiring early mobility.
+**Blue Path:** Prioritize mobility and unit upgrades over faction tech. Gets <span class="tb">Gravity Drive</span> R2, delays <span class="tg">Yin Spinner</span> to R3, then pushes into Carrier II and Dreadnought II for fleet strength. More flexible and well-rounded but sacrifices early infantry spam. Best for aggressive tables or slices requiring early mobility.
 
 ### B. Technology Paths
 
-**Yin Spinner Path (No Skips):**
+**<span class="tg">Yin Spinner</span> Path (No Skips):**
 
 **Round 1:** <span class="tg">Bio-Stims</span> (G)
 - At the start of a combat round, you may exhaust this card to apply +2 to the result of 1 unit's combat roll
-- Ready a technology (or tech specialty planet if you own Psychoarchaeology)
-- **Why:** Green prereq for Yin Spinner. Combat bonus is useful.
+- Ready a technology (or tech specialty planet if you own <span class="tg">Psychoarchaeology</span>)
+- **Why:** Green prereq for <span class="tg">Yin Spinner</span>. Combat bonus is useful.
 
 **Round 2:** <span class="tg">Yin Spinner</span> (GG)
 - After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
-- **Why:** Core faction tech. Free infantry with every production. Triggers on "produce" not PRODUCTION—works with Sling Relay, exploration, Integrated Economy.
+- **Why:** Core faction tech. Free infantry with every production. Triggers on "produce" not PRODUCTION—works with <span class="ty">Sling Relay</span>, exploration, <span class="ty">Integrated Economy</span>.
 
 **Round 3:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
@@ -228,7 +228,7 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 **Round 4:** <span class="ty">Integrated Economy</span> (YYY)
 - When you gain trade goods or resolve the secondary ability of the Trade strategy card, gain 1 additional trade good
-- **Why:** If unlocking Yin Ascendant (Y↔G), this counts as 3 green techs for X-89. Extra trade goods help your weak economy.
+- **Why:** If unlocking Yin Ascendant (Y↔G), this counts as 3 green techs for <span class="tg">X-89</span>. Extra trade goods help your weak economy.
 
 **Round 5:** <span class="tg">X-89 Bacterial Weapon</span> (GGG)
 - At the start of ground combat, choose up to 2 planets and exhaust this card; destroy all infantry on those planets
@@ -253,7 +253,7 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 **Round 4:** Carrier II (BB)
 - Cost 3 | Combat 9 | Move 2 | Capacity 6
-- **Why:** Transport capacity for Yin Spinner infantry. Move 2 + <span class="tb">Gravity Drive</span> = move 3 carriers.
+- **Why:** Transport capacity for <span class="tg">Yin Spinner</span> infantry. Move 2 + <span class="tb">Gravity Drive</span> = move 3 carriers.
 
 **Round 5:** Dreadnought II (BBY)
 - Cost 4 | Combat 5 | Move 2 | Capacity 1 | SUSTAIN DAMAGE | BOMBARDMENT 5
@@ -264,7 +264,7 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 Your Commander lets you research any tech someone else has by sacrificing an infantry to skip prerequisites. This means you can pick up powerful table techs if they're available:
 
-- **<span class="tb">Sling Relay</span>** - Produce 2 ships in any system with your ships (including other players' space docks). Synergizes with Yin Spinner.
+- **<span class="tb">Sling Relay</span>** - Produce 2 ships in any system with your ships (including other players' space docks). Synergizes with <span class="tg">Yin Spinner</span>.
 - **Light/Wave Deflector** - Your ships can move through opponent ships and systems. Excellent mobility.
 - **<span class="tb">Fleet Logistics</span>** - 2 actions per turn. Always strong if you can afford the prerequisites or skip them with Commander.
 
@@ -314,22 +314,22 @@ Your Commander lets you research any tech someone else has by sacrificing an inf
 
 Your ideal fleet composition:
 
-- **Carriers** - Core transport for Yin Spinner infantry swarms.
-- **Infantry** - Yin Spinner generates 2 per production. Build massive ground force advantage.
+- **Carriers** - Core transport for <span class="tg">Yin Spinner</span> infantry swarms.
+- **Infantry** - <span class="tg">Yin Spinner</span> generates 2 per production. Build massive ground force advantage.
 - **Fighters** - Cheap hit points for fleet protection. Absorb hits.
 - **Destroyers/Cruisers** - Devotion fodder when profitable trades exist. Only build if combat value justifies it.
 - **Mechs** - Deploy by spending 3 influence instead of 2 when using Indoctrination. Sustain Damage ground forces.
 - **Flagship** - Parked at home as deterrent. Mutually assured destruction keeps opponents away.
 
-Focus on carriers and infantry. Yin Spinner makes infantry free, so maximize production opportunities. Avoid expensive capital ships early—your strength is infantry spam and ground control, not fleet battles.
+Focus on carriers and infantry. <span class="tg">Yin Spinner</span> makes infantry free, so maximize production opportunities. Avoid expensive capital ships early—your strength is infantry spam and ground control, not fleet battles.
 
 ### B. Game Plan
 
-**Early Game (R1-2):** Unlock Yin Ascendant breakthrough R1—this is critical for starting your alliance ability collection before first objective scores. Expand to 2-3 systems with your dual carriers while pushing toward Yin Spinner tech. Commander unlock is trivial (just use Devotion or Indoctrination once), so get it done R1-R2. Build your economy foundation and position for R3+ infantry spam.
+**Early Game (R1-2):** Unlock Yin Ascendant breakthrough R1—this is critical for starting your alliance ability collection before first objective scores. Expand to 2-3 systems with your dual carriers while pushing toward <span class="tg">Yin Spinner</span> tech. Commander unlock is trivial (just use Devotion or Indoctrination once), so get it done R1-R2. Build your economy foundation and position for R3+ infantry spam.
 
-**Mid Game (R3-4):** Yin Spinner comes online and your game changes completely. Produce constantly to generate 2 free infantry per production. Look for Sling Relay, exploration opportunities, and Integrated Economy to trigger bonus Yin Spinner productions. Start invading planets with Indoctrination—convert defenders before ground combat to swing the math in your favor. Breakthrough alliances begin stacking (4-5 by R4), giving you multiple commander abilities. Use Devotion to avoid variance in critical space battles. Focus on control objectives and planet accumulation since your infantry swarms excel at holding territory.
+**Mid Game (R3-4):** <span class="tg">Yin Spinner</span> comes online and your game changes completely. Produce constantly to generate 2 free infantry per production. Look for <span class="ty">Sling Relay</span>, exploration opportunities, and <span class="ty">Integrated Economy</span> to trigger bonus <span class="tg">Yin Spinner</span> productions. Start invading planets with Indoctrination—convert defenders before ground combat to swing the math in your favor. Breakthrough alliances begin stacking (4-5 by R4), giving you multiple commander abilities. Use Devotion to avoid variance in critical space battles. Focus on control objectives and planet accumulation since your infantry swarms excel at holding territory.
 
-**Late Game (R5+):** Your power peaks. Hero lets you drop 3 infantry anywhere without Space Cannon defense—use this to steal key planets, grab Mecatol, or secure objective planets. X-89 Bacterial Weapon (if researched) nukes entire planets before invasions. You have 4-6 breakthrough alliance abilities stacking together for massive power. Stay flexible—make your late game plans based on which alliances you rolled. Combat alliances push you toward aggression, economy alliances fund more production, mobility alliances open new strategic options. Infantry swarms from Yin Spinner secure everything. Deploy mechs via Indoctrination on critical planets for Sustain Damage ground forces. Convert your overwhelming ground force advantage into victory points and close out the game.
+**Late Game (R5+):** Your power peaks. Hero lets you drop 3 infantry anywhere without Space Cannon defense—use this to steal key planets, grab Mecatol, or secure objective planets. <span class="tg">X-89 Bacterial Weapon</span> (if researched) nukes entire planets before invasions. You have 4-6 breakthrough alliance abilities stacking together for massive power. Stay flexible—make your late game plans based on which alliances you rolled. Combat alliances push you toward aggression, economy alliances fund more production, mobility alliances open new strategic options. Infantry swarms from <span class="tg">Yin Spinner</span> secure everything. Deploy mechs via Indoctrination on critical planets for Sustain Damage ground forces. Convert your overwhelming ground force advantage into victory points and close out the game.
 
 ---
 
@@ -337,7 +337,7 @@ Focus on carriers and infantry. Yin Spinner makes infantry free, so maximize pro
 
 ### A. Objective Summary
 
-**Strengths:** Control objectives benefit from Yin Spinner infantry spam and Indoctrination invasions. Ships in systems objectives are achievable with standard fleet building. Combat secrets align with Devotion and aggressive play.
+**Strengths:** Control objectives benefit from <span class="tg">Yin Spinner</span> infantry spam and Indoctrination invasions. Ships in systems objectives are achievable with standard fleet building. Combat secrets align with Devotion and aggressive play.
 
 **Weaknesses:** Spending objectives are challenging with only 2 commodities and weak economy. Trade good spendies are especially hard. Structure objectives require investment you don't naturally make. Tech objectives take time without dedicated tech focus.
 
@@ -470,7 +470,7 @@ When you unlock Yin Ascendant, you gain random alliance abilities every time you
 2. **Crimson Rebellion (Ahk Siever)** - Gain commodity/TG at end of combat. Passive income from table-wide combat.
 3. **Deepwrought (Aello)** - Gain commodity/TG when others research tech with discount. Passive income.
 4. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income from secondaries.
-5. **Sardakk N'orr (G'hom Sek'kus)** - Commit 1 ground force from adjacent planets during invasion. Pairs perfectly with Yin Spinner infantry everywhere.
+5. **Sardakk N'orr (G'hom Sek'kus)** - Commit 1 ground force from adjacent planets during invasion. Pairs perfectly with <span class="tg">Yin Spinner</span> infantry everywhere.
 6. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planets. Strong combat boost.
 7. **Empyrean (Xuange)** - Return command token after players move ships into your systems. Token economy.
 8. **Naaz-Rokha (Dart and Tai)** - Explore planet after conquering from another player. Extra value from invasions.
@@ -518,11 +518,11 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Yin Brotherhood is the faction for players who understand that units are resources to spend, not assets to preserve. You're not the strongest military faction, but you scale better than most through Yin Ascendant's alliance collection and Yin Spinner's infantry generation.
+Yin Brotherhood is the faction for players who understand that units are resources to spend, not assets to preserve. You're not the strongest military faction, but you scale better than most through Yin Ascendant's alliance collection and <span class="tg">Yin Spinner</span>'s infantry generation.
 
 Your biggest strength is flexibility through randomness. Yin Ascendant gives you 4-6 random alliance abilities over the game—some games you roll money commanders and swim in trade goods, other games you get combat buffs and become a military threat. Adapt your strategy to what you draw. The faction rewards players who can pivot based on what alliances appear.
 
-When you master Yin, you use Devotion to avoid variance in critical combats. Your Indoctrination acts as a deterrent—opponents leave extra infantry on planets because they fear conversion. Yin Spinner generates massive infantry swarms with every production, making ground control objectives trivial. Your flagship parks at home as mutually assured destruction, keeping your slice safe.
+When you master Yin, you use Devotion to avoid variance in critical combats. Your Indoctrination acts as a deterrent—opponents leave extra infantry on planets because they fear conversion. <span class="tg">Yin Spinner</span> generates massive infantry swarms with every production, making ground control objectives trivial. Your flagship parks at home as mutually assured destruction, keeping your slice safe.
 
 The table learns to respect your abilities without overvaluing them. Devotion is powerful but situational—it won't save bad fights. Indoctrination swings key invasions but you can't afford to spam it. Your breakthrough alliances stack up gradually, making you stronger each round. By late game, you're not the faction they thought they knew.
 

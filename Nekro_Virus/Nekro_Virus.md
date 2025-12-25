@@ -302,10 +302,10 @@ You have X and Y tokens to place on enemy faction technologies. Incredibly hard 
 **Notable non-unit upgrade faction techs:**
 
 - **<span class="tb">Chaos Mapping</span> (Saar)** - Others can't activate asteroids with your ships. Produce 1 unit in systems with PRODUCTION.
-- **Mirror Computing (Mentak)** - Each trade good worth 2 resources or influence instead of 1.
-- **Aetherstream (Empyrean)** - +1 move for you/neighbors activating adjacent to anomalies.
-- **Mageon Implants (Yssaril)** - ACTION: Look at player's action cards and steal one.
-- **Non-Euclidean Shielding (Barony)** - Sustain Damage cancels 2 hits instead of 1.
+- **<span class="ty">Mirror Computing</span> (Mentak)** - Each trade good worth 2 resources or influence instead of 1.
+- **<span class="tb">Aetherstream</span> (Empyrean)** - +1 move for you/neighbors activating adjacent to anomalies.
+- **<span class="tg">Mageon Implants</span> (Yssaril)** - ACTION: Look at player's action cards and steal one.
+- **<span class="tr">Non-Euclidean Shielding</span> (Barony)** - Sustain Damage cancels 2 hits instead of 1.
 - **E-res Siphons (Jol-Nar)** - Gain 4 TG when others activate systems with your ships.
 
 ---

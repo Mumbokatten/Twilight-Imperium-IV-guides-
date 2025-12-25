@@ -128,7 +128,7 @@ Pick Assail and Seethe cautiously—targeting a previously friendly neighbor wil
 
 **Starting Technology:**
 
-**Choose ONE Green or Yellow Technology with No Prerequisites.** <span class="ty">Sarween Tools</span> is highly recommended—you need the efficiency given your weak start. The other options (Scanlink, <span class="tg">Neural Motivator</span>, Psychoarchaeology) are too slow or give you nothing useful.
+**Choose ONE Green or Yellow Technology with No Prerequisites.** <span class="ty">Sarween Tools</span> is highly recommended—you need the efficiency given your weak start. The other options (Scanlink, <span class="tg">Neural Motivator</span>, <span class="tg">Psychoarchaeology</span>) are too slow or give you nothing useful.
 
 **Faction Technologies:**
 
@@ -244,7 +244,7 @@ Very nice and will pay big if you're in a few combats. But your Obsidian economi
 
 **Slice Priorities:**
 
-- **Easy expansion** - No special techs like Antimass required.
+- **Easy expansion** - No special techs like <span class="tb">Antimass</span> required.
 - **Balanced and rich** - You need resources and influence.
 - **Scoreable secrets** - Planet composition doesn't matter a ton, but making secrets scoreable is a priority.
 
@@ -290,17 +290,17 @@ Very nice and will pay big if you're in a few combats. But your Obsidian economi
 **Starting Tech:** Choose from green/yellow with no prereqs.
 
 - **<span class="ty">Sarween Tools</span>** for Path 1 (Mobility Safe Path) - covers yellow prereq for Dreadnought II.
-- **<span class="tg">Neural Motivator</span>** for Path 2 (Ground Dominance Spicy Path) - starts green for faction tech and X-89.
+- **<span class="tg">Neural Motivator</span>** for Path 2 (Ground Dominance Spicy Path) - starts green for faction tech and <span class="tg">X-89</span>.
 
 You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Path 1 is safe and doesn't require breakthrough. Path 2 requires breakthrough unlocked for the Y↔G synergy.
 
-Always look for what you're missing via Extract plots. If you're in Path 1 (blue mobility, unit upgrades), look for combat power—Assault Cannon, <span class="tr">Duranium Armor</span>, Integrated Economy, X-89. If you're in Path 2 (slow ground dominance), look for blue mobility and unit upgrades—<span class="tb">Gravity Drive</span>, Carrier II, Dreadnought II, <span class="tb">Fleet Logistics</span>.
+Always look for what you're missing via Extract plots. If you're in Path 1 (blue mobility, unit upgrades), look for combat power—<span class="tr">Assault Cannon</span>, <span class="tr">Duranium Armor</span>, <span class="ty">Integrated Economy</span>, <span class="tg">X-89</span>. If you're in Path 2 (slow ground dominance), look for blue mobility and unit upgrades—<span class="tb">Gravity Drive</span>, Carrier II, Dreadnought II, <span class="tb">Fleet Logistics</span>.
 
 ### B. Technology Paths
 
 **Path 1: Mobility Safe Path (Recommended)**
 
-**Round 1:** Dark Energy Tap
+**Round 1:** <span class="tb">Dark Energy Tap</span>
 - After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units.
 - **Why:** Explore frontier tokens, retreat flexibility.
 

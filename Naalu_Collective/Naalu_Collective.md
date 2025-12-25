@@ -105,7 +105,7 @@ This unit may move without being transported. Each fighter in excess of your shi
 
 Your faction's battle prowess. Incredible utility moving on its own. People will be shocked at how many hits you produce—a dreadnought hits on a 5, a HCF2 hits on a 7. Having your fighters be your battle power is so good economically since they're so cheap. **Battle example:** A 13-resource Naalu fleet (2 Carrier I + 14 Fighter II) fights 50/50 against a 23-resource fleet (4 Dreadnought II + 1 Carrier + 8 Fighters).
 
-**Neuroglaive (GGG):**
+**<span class="tg">Neuroglaive</span> (GGG):**
 *After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.*
 
 Hard to reach tech. Not preferred path into green—try to get through Entropic Scar. Annoying for opponents that are poor influence-wise but usually able to be planned around.

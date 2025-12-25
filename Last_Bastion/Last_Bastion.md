@@ -222,7 +222,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - After you activate a system, apply +1 to move value of 1 ship
 - **Why:** Mobility out of nebula and across slice. Helps with your home system being a nebula.
 
-**Round 2:** AI Development Algorithm
+**Round 2:** <span class="ty">AI Development Algorithm</span>
 - When you research unit upgrade, exhaust to ignore 1 prerequisite. When using PRODUCTION, exhaust to reduce cost by number of unit upgrades owned
 - **Why:** Prerequisite skip for unit upgrades. Resource saving later with your planned 3 unit tech path.
 
@@ -243,9 +243,9 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 
 **Yellow/Red Path:**
 
-**Starting Tech:** Sarween Tools
+**Starting Tech:** <span class="ty">Sarween Tools</span>
 
-**Round 1:** Scanlink Drone Network (Y)
+**Round 1:** <span class="ty">Scanlink Drone Network</span> (Y)
 - When you activate a system, explore 1 planet in that system
 - **Why:** Yellow prerequisite for Helios V2.
 
@@ -253,7 +253,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - Space dock upgrade. Resource value +2
 - **Why:** Economic boost.
 
-**Round 3:** AI Development Algorithm
+**Round 3:** <span class="ty">AI Development Algorithm</span>
 - When you research unit upgrade, exhaust to ignore 1 prerequisite. When using PRODUCTION, exhaust to reduce cost by number of unit upgrades owned
 - **Why:** Prerequisite skip for War Sun. Resource saving with 3 unit tech path.
 
@@ -262,7 +262,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - **Why:** Heavy combat power.
 
 **Round 5:** <span class="tr">Assault Cannon</span> (RRR) OR <span class="tr">Duranium Armor</span> (RR) OR Destroyer II (RR)
-- **Assault Cannon:** Destroy 1 enemy non-fighter ship at start of space combat if you have 3+ non-fighter ships. If versus factions with big ships.
+- **<span class="tr">Assault Cannon</span>:** Destroy 1 enemy non-fighter ship at start of space combat if you have 3+ non-fighter ships. If versus factions with big ships.
 - **<span class="tr">Duranium Armor</span>:** Repair 1 damaged unit after assigning hits each combat round. If you need ground strength, helps a lot.
 - **Destroyer II:** Cost 1, Combat 8, Move 2, AFB 6 (x3). Versus fighter screens.
 

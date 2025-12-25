@@ -40,7 +40,7 @@ Playing Empyrean means mastering frontier token exploration like no other factio
 
 Your 4 commodities provide strong trade economy. Your two promissory notes create unprecedented diplomatic leverage. Your Voidborn ability keeps your fleet mobile through nebulae—easily send destroyers to explore empty systems while maintaining defensive nebula home with carriers and fighters. This combination of exploration mastery, economic strength, and diplomatic flexibility makes you powerful without relying on combat.
 
-Your commander returns command tokens to reinforcements when opponents move into your systems—reclaims board space for more activations. Aetherstream and Voidwatch are sellable abilities that make you valuable to neighbors while extracting value. You're kind of a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos.
+Your commander returns command tokens to reinforcements when opponents move into your systems—reclaims board space for more activations. <span class="tb">Aetherstream</span> and <span class="tg">Voidwatch</span> are sellable abilities that make you valuable to neighbors while extracting value. You're kind of a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos.
 
 Your power comes from exploration dominance (frontier token mastery), diplomatic strength (two promissory notes, sellable abilities), and economic flexibility (4 commodities, trade economy) backed by mobile fleet. You're not conquering through force—you're succeeding through exploration, negotiation, and economic superiority.
 
@@ -90,11 +90,11 @@ Combos with your agent—since the deck involves a lot of token gain, you can of
 
 **Faction Technologies:**
 
-**Aetherstream (BB):** After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action.
+**<span class="tb">Aetherstream</span> (BB):** After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action.
 
 Might not always be the best but most of the time really is game-changing movement. Ability to sell/enable others makes it just too good to pass up.
 
-**Voidwatch (G):** After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
+**<span class="tg">Voidwatch</span> (G):** After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
 
 Would really not recommend. People rarely will be forced to give you something useful. A tech and opportunity cost of not getting other tech is too much of a price. Since you have the tokens, definitely get it in Entropic Scar but otherwise skip.
 
@@ -152,7 +152,7 @@ Strong combat-wise, which your faction kind of needs. Ability is a bit costly bu
 
 When you activate a system that contains or is adjacent to a unit or planet you control, you may place or move 1 of your void tether tokens onto a border that system shares with another system. Other players do not treat those systems as adjacent to each other unless you allow it.
 
-**B↔G Synergy:** Blue and green count as each other for prerequisites. Lets you get some late green tech like X-89.
+**B↔G Synergy:** Blue and green count as each other for prerequisites. Lets you get some late green tech like <span class="tg">X-89</span>.
 
 **Map Control:** Might be really impactful and takes some know-how in how to use them. The more you play Empyrean, you'll see what's needed in what systems. Some suggested uses: blocking Fracture planet and Styx, blocking key wormhole into your system, or just say no to battlethirsty neighbor. Definitely useful and should be pretty easy to get.
 
@@ -169,7 +169,7 @@ When you activate a system that contains or is adjacent to a unit or planet you 
 **Nice to Have:**
 
 - Fracture access (very helpful).
-- Systems with anomalies (supports Aetherstream).
+- Systems with anomalies (supports <span class="tb">Aetherstream</span>).
 - Entropic Scar (both techs worth a token).
 
 **Avoid:**
@@ -204,7 +204,7 @@ You have a hard time being on the offense. Have to rely on diplomatic dealing to
 
 **Starting Tech:** <span class="tb">Dark Energy Tap</span>.
 
-You're flexible within blue to get what you need. Priority is Aetherstream for game-changing movement. Breakthrough allows X-89 as flex tech in late game R5.
+You're flexible within blue to get what you need. Priority is <span class="tb">Aetherstream</span> for game-changing movement. Breakthrough allows X-89 as flex tech in late game R5.
 
 ### B. Technology Paths
 
@@ -214,7 +214,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility to get more things in your slice.
 
-**Round 2:** Aetherstream (BB)
+**Round 2:** <span class="tb">Aetherstream</span> (BB)
 - After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action
 - **Why:** Game-changing movement. Sellable ability.
 
@@ -265,7 +265,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 
 **Like:**
 
-- **Technology** - Continue Aetherstream path.
+- **Technology** - Continue <span class="tb">Aetherstream</span> path.
 - **Politics** - Setup for objectives. Voting power with 4 influence.
 
 **Situational:**
@@ -296,7 +296,7 @@ No cruisers. Focus on exploration ships (destroyers) and defensive carriers with
 
 **Early Game:** Send destroyers to explore empty systems with <span class="tb">Dark Energy Tap</span>. Agent refunds tokens, letting you keep exploring 2-3 empty systems per round. Trade Dark Pact to key neighbor to establish economic partnership. Expand to 2-3 systems with dual carriers. Build defensive carrier + fighter fleet leveraging nebula home. Research <span class="tb">Gravity Drive</span> to get more things in your slice.
 
-**Mid Game:** Aetherstream provides game-changing movement—sell/enable others while benefiting yourself. Build more destroyers for continued exploration. Void Tether provides map control—block key routes, protect your systems, deny battlethirsty neighbors. Carrier II and <span class="tb">Fleet Logistics</span> increase tempo. Your defensive carriers with fighter screens protect controlled territory while destroyers explore.
+**Mid Game:** <span class="tb">Aetherstream</span> provides game-changing movement—sell/enable others while benefiting yourself. Build more destroyers for continued exploration. Void Tether provides map control—block key routes, protect your systems, deny battlethirsty neighbors. Carrier II and <span class="tb">Fleet Logistics</span> increase tempo. Your defensive carriers with fighter screens protect controlled territory while destroyers explore.
 
 **Late Game:** Hero floods board with frontier tokens, exploring all of them for massive spike. Commander provides board control—reclaim tokens when opponents activate near you. Useful for winslaying (coordinate with table to walk fleet somewhere) and scoring security (grab objective, if blown out, retaliate and grab it back). Light/Wave for final mobility. X-89 via B↔G breakthrough as late flex tech. Close out through exploration advantage, diplomatic leverage, and economic superiority.
 
@@ -467,7 +467,7 @@ Empyrean is the faction for players who understand that exploration and diplomat
 
 Your biggest strength is frontier token exploration. <span class="tb">Dark Energy Tap</span> lets you milk the frontier deck for value. Agent refunds tokens so you keep exploring 2-3 empty systems per round. Hero floods the board with frontier tokens and explores all of them simultaneously for massive spike. Combined with 4 commodities and two promissory notes, you build economic and diplomatic advantages without fighting.
 
-When you master Empyrean, you leverage Aetherstream's game-changing movement as both personal benefit and sellable ability. You're a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos. Your defensive nebula home with carriers and fighters protects your slice. Commander reclaims board space when opponents activate near you. Void Tether blocks key routes when needed. You have a hard time being on offense, so you rely on diplomatic dealing to solve problems.
+When you master Empyrean, you leverage <span class="tb">Aetherstream</span>'s game-changing movement as both personal benefit and sellable ability. You're a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos. Your defensive nebula home with carriers and fighters protects your slice. Commander reclaims board space when opponents activate near you. Void Tether blocks key routes when needed. You have a hard time being on offense, so you rely on diplomatic dealing to solve problems.
 
 Your destroyers keep finding value in empty systems where others see nothing. Your economic base from 4 commodities and Dark Pact partnerships funds continuous fleet expansion. Your defensive tools (nebula home, Watcher mechs, Void Tether) keep you safe without offensive strength. You don't conquer through force—you succeed through exploration, negotiation, and economic superiority.
 

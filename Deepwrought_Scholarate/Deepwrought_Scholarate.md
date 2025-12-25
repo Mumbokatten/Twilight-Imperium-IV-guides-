@@ -266,34 +266,34 @@ Your breakthrough lets players pay 3 TG and give you a PN to research tech, and 
 *Blue:*
 - <span class="tb">Antimass Deflectors</span> - Offer PN back
 - <span class="tb">Dark Energy Tap</span> - Offer PN back
-- Sling Relay - Willing to pay
+- <span class="ty">Sling Relay</span> - Willing to pay
 - <span class="tb">Gravity Drive</span> - Willing to pay
 - <span class="tb">Fleet Logistics</span> - Willing to pay
 - <span class="tb">Lightwave Deflector</span> - Willing to pay
 
 *Yellow:*
 - <span class="ty">Sarween Tools</span> - Offer PN back
-- Scanlink Drone Network - Offer PN back
-- Graviton Laser System - Offer PN back
-- Predictive Intelligence - Offer PN back
-- Transit Diodes - Willing to pay
-- Integrated Economy - Offer PN back
+- <span class="ty">Scanlink Drone Network</span> - Offer PN back
+- <span class="ty">Graviton Laser System</span> - Offer PN back
+- <span class="ty">Predictive Intelligence</span> - Offer PN back
+- <span class="ty">Transit Diodes</span> - Willing to pay
+- <span class="ty">Integrated Economy</span> - Offer PN back
 
 *Red:*
 - <span class="tr">Plasma Scoring</span> - Offer PN back
-- AI Development Algorithm - Offer PN back
+- <span class="ty">AI Development Algorithm</span> - Offer PN back
 - <span class="tr">Magen Defense Grid</span> - Offer PN back
 - Self-Assembly Routines - Offer PN back
 - <span class="tr">Duranium Armor</span> - Willing to pay
-- Assault Cannon - Willing to pay
+- <span class="tr">Assault Cannon</span> - Willing to pay
 
 *Green:*
 - <span class="tg">Neural Motivator</span> - Offer PN back if not starting tech
 - <span class="tg">Bio-Stims</span> - Willing to pay
 - <span class="tg">Hyper Metabolism</span> - Willing to pay
-- X-89 Bacterial Weapon - Willing to pay
-- Psychoarchaeology - Low priority
-- Dacxive Animators - Low priority
+- <span class="tg">X-89 Bacterial Weapon</span> - Willing to pay
+- <span class="tg">Psychoarchaeology</span> - Low priority
+- <span class="tg">Dacxive Animators</span> - Low priority
 
 **Note on Tech Flexibility:**
 You have incredible tech flexibility. Never be afraid to research a tech yourself if it helps with scoring objectives - you can always afford it with your economy. Be proactive with people about coordinating tech acquisition - ask what they're planning to research, offer breakthrough deals, and work together to ensure everyone gets what they need while you collect free techs.

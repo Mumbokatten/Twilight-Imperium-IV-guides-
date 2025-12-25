@@ -95,7 +95,7 @@ This unit cannot be destroyed by "Direct Hit" action cards. After a round of spa
 
 Upgraded version of your Exotrireme I with Move 2 (instead of 1), immunity to Direct Hit, and kamikaze ability to destroy 2 ships by sacrificing the dreadnought.
 
-**Valkyrie Particle Weave (RR):**
+**<span class="tr">Valkyrie Particle Weave</span> (RR):**
 *After making combat rolls during a round of ground combat, if your opponent produced 1 or more hits, you produce 1 additional hit.*
 
 Strong defensive ground combat tech. If your opponent gets any hits during ground combat, you get 1 bonus hit back. Synergizes well with your Valkyrie Exoskeleton mech's ability.
@@ -242,11 +242,11 @@ Being spread out is not that good. What you want from an enemy is a bit of a tug
 
 You start with **0 technologies.**
 
-There's really only 1 tech path these days: **AI Development Algorithm + <span class="tb">Gravity Drive</span> (B)**. Use N'orr Supremacy to research unit upgrades from combat wins.
+There's really only 1 tech path these days: **<span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> (B)**. Use N'orr Supremacy to research unit upgrades from combat wins.
 
-**What AI Development Algorithm + <span class="tb">Gravity Drive</span> (B) unlocks:**
+**What <span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> (B) unlocks:**
 
-- AI Development Algorithm + <span class="tb">Gravity Drive</span> (B) = 1R + 1B
+- <span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> (B) = 1R + 1B
 - With B↔R synergy: 3 Red OR 3 Blue (interchangeable)
 - AI Dev ignores 1 prerequisite for unit upgrades
 
@@ -267,7 +267,7 @@ There's really only 1 tech path these days: **AI Development Algorithm + <span c
 
 ### B. Tech Path
 
-**Round 1: AI Development Algorithm (R)**
+**Round 1: <span class="ty">AI Development Algorithm</span> (R)**
 - When you research unit upgrade tech, ignore 1 prerequisite. When using PRODUCTION, reduce cost by number of unit upgrade techs you own.
 - **Why:** Mainly for ignoring prerequisites on unit upgrades. Lets you research more unit upgrades via N'orr Supremacy.
 

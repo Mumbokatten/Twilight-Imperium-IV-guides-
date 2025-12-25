@@ -100,12 +100,12 @@ Passive theft ability. After a NEIGHBOR (adjacent player) gains TGs or resolves 
 
 **Faction Technologies:**
 
-**Mirror Computing (YYY):**
+**<span class="ty">Mirror Computing</span> (YYY):**
 *When you spend trade goods, each trade good is worth 2 resources or influence instead of 1.*
 
 Economic amplifier tech. Each trade good spent provides 2 resources or 2 influence instead of 1. This doubles the value of your Pillaged trade goods and makes you incredibly efficient when spending TGs.
 
-**Salvage Operations (YY):**
+**<span class="ty">Salvage Operations</span> (YY):**
 *After you win or lose a space combat, gain 1 trade good; if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.*
 
 Combat profit tech. Win or lose space combat = gain 1 TG. If you WIN, also produce 1 ship matching any destroyed ship type. This turns every fight into profit and lets you rebuild instantly.
@@ -189,7 +189,7 @@ Cruiser super-upgrade. Requires Cruiser II first, then expedition this breakthro
 
 - **Prioritize a strong system nearby if you can't get multiple carriers** - Move 1 carriers limit expansion
 - **Access to wormholes or other players** - You need wormhole access to reach other players for Pillage positioning and expansion
-- **Entropic Scar is beast** - Your faction techs (Mirror Computing, Salvage Operations) are super strong
+- **Entropic Scar is beast** - Your faction techs (<span class="ty">Mirror Computing</span>, <span class="ty">Salvage Operations</span>) are super strong
 - **Focus on high optimals** - You're flexible with slices since you'll have lots of TG from Pillage
 - **Influence planets** - You have 1 influence at home, need influence-heavy planets to balance
 
@@ -269,16 +269,16 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 - **Why:** Your #1 priority tech. Upgrades Ambush from 7+ (40% hit) to 6+ (50% hit). Move 3 gives repositioning flexibility. The capacity 1 is a bonus. Essential for your cruiser-based playstyle.
 - **Prerequisites:** 1 green, 1 red, 1 yellow (<span class="ty">Sarween Tools</span>, <span class="tr">Plasma Scoring</span>, <span class="tg">Neural Motivator</span>)
 
-**Round 3: Salvage Operations (YY) - Faction Tech**
+**Round 3: <span class="ty">Salvage Operations</span> (YY) - Faction Tech**
 - After you win or lose a space combat, gain 1 trade good; if you won and you destroyed 1 or more of your opponent's ships, you may place 1 ship from your reinforcements in that system's space area.
 - **Why:** Your signature combat tech. Gain 1 TG after EVERY combat (win or lose). If you win, also produce 1 free ship. For aggressive Mentak, this generates 7+ TGs and 7+ free ships over the game. Incredible value.
 - **Prerequisites:** 2 yellow (<span class="tg">Neural Motivator</span> + <span class="ty">Sarween Tools</span>)
-- **Note:** If you can't get Salvage Operations Round 3, you need to find a double tech opportunity—research 1 yellow prerequisite + Salvage Operations in the same round using Technology strategy card or other double-tech methods
+- **Note:** If you can't get <span class="ty">Salvage Operations</span> Round 3, you need to find a double tech opportunity—research 1 yellow prerequisite + <span class="ty">Salvage Operations</span> in the same round using Technology strategy card or other double-tech methods
 
-**Round 4: Mirror Computing (YYY) - Faction Tech**
+**Round 4: <span class="ty">Mirror Computing</span> (YYY) - Faction Tech**
 - When you spend trade goods, each trade good is worth 2 resources or 2 influence instead of 1.
-- **Why:** Doubles the value of every TG you Pillage. If you steal 20 TGs via Pillage, Mirror Computing makes them worth 40 resources/influence. Synergizes with Salvage Operations. Late-game economy multiplier.
-- **Prerequisites:** 3 yellow (Salvage Operations + <span class="tg">Neural Motivator</span> or <span class="ty">Sarween Tools</span> + another yellow)
+- **Why:** Doubles the value of every TG you Pillage. If you steal 20 TGs via Pillage, <span class="ty">Mirror Computing</span> makes them worth 40 resources/influence. Synergizes with <span class="ty">Salvage Operations</span>. Late-game economy multiplier.
+- **Prerequisites:** 3 yellow (<span class="ty">Salvage Operations</span> + <span class="tg">Neural Motivator</span> or <span class="ty">Sarween Tools</span> + another yellow)
 
 **Round 5+:** Objectives-based techs or late-game options
 
@@ -287,7 +287,7 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 **Cruiser II (GYR):**
 Essential for your faction. Upgrades Ambush hit chance and gives move 3 for repositioning. Your cruiser swarm strategy depends on this tech. Get this Round 2.
 
-**Mirror Computing (YYY):**
+**<span class="ty">Mirror Computing</span> (YYY):**
 Your economic multiplier. Doubles value of Pillaged TGs. Every TG you steal becomes worth 2 resources/influence. Late-game this makes you extremely wealthy. Critical tech for leveraging your pirate economy.
 
 ### C. Late-Game Options
@@ -299,7 +299,7 @@ If you blue-skip <span class="tb">Gravity Drive</span> (using Technology strateg
 Good combo with your starting structure and <span class="tr">Plasma Scoring</span>. If you need a 2nd unit upgrade for "Develop Weaponry" objective, PDS II works well. Your <span class="tr">Plasma Scoring</span> already gives +1 die to Space Cannon, and upgrading to PDS II (Space Cannon 5 x2) makes your home defense very strong.
 
 **<span class="ty">Integrated Economy</span> (YYY) - For Spice:**
-Late-game tech to leverage your riches. After you gain control of a planet, you may produce up to 2 units on that planet. With your wealth from Pillage + Mirror Computing, you can afford massive production across the map. Use this to convert your economic advantage into fleet superiority.
+Late-game tech to leverage your riches. After you gain control of a planet, you may produce up to 2 units on that planet. With your wealth from Pillage + <span class="ty">Mirror Computing</span>, you can afford massive production across the map. Use this to convert your economic advantage into fleet superiority.
 
 ---
 
@@ -323,13 +323,13 @@ Late-game tech to leverage your riches. After you gain control of a planet, you 
 **Love:**
 
 - **Leadership** - CCs for expansion and positioning near wealthy neighbors for Pillage
-- **Technology** - Top priority to accelerate to Mirror Computing. Cruiser II and Salvage Operations are essential techs
+- **Technology** - Top priority to accelerate to <span class="ty">Mirror Computing</span>. Cruiser II and <span class="ty">Salvage Operations</span> are essential techs
 
 **Like:**
 
 - **Imperial** - Points are points
 - **Politics** - Agenda control, though low influence limits effectiveness
-- **Construction** - Forward dock for continued production. You also have decent PDS with Plasma Scoring
+- **Construction** - Forward dock for continued production. You also have decent PDS with <span class="tr">Plasma Scoring</span>
 
 **Situational:**
 
@@ -363,7 +363,7 @@ Your fleet composition is unique—cruisers operate independently from your main
 - **Fighters** - Absorb hits
 - **Infantry** - Ground forces
 
-With Mirror Computing economy, you can afford expensive ships like dreadnoughts for slice defense while your mobile cruisers operate independently across the map. Cruisers do the pirate work, capital ships defend territory.
+With <span class="ty">Mirror Computing</span> economy, you can afford expensive ships like dreadnoughts for slice defense while your mobile cruisers operate independently across the map. Cruisers do the pirate work, capital ships defend territory.
 
 ### B. Game Plan
 
@@ -379,14 +379,14 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 - **Priority: Keep your ships out on the board.** More ships on board = more Pillage opportunities and threat projection
 
 **Round 3-4: Acceleration**
-- Get Salvage Operations and Mirror Computing
+- Get <span class="ty">Salvage Operations</span> and Mirror Computing
 - Build cruiser swarms with Ambush
 - **Cruiser II gives excellent opportunity to find value in Fracture.** Use move 3 cruisers to reach Fracture for relics and legendary planets
 - Start extracting promissory notes via Commander (unlock at 4 cruisers)
 - Mecatol Rex is probably out of reach—focus on Fracture and objectives instead
 
 **R5+: Dominance**
-- You're now rich from Pillage + Mirror Computing
+- You're now rich from Pillage + <span class="ty">Mirror Computing</span>
 - Cruiser swarms with Ambush make you dangerous in combat
 - Use Hero to replicate enemy dreadnoughts/war suns for massive tempo swing
 - Convert economic advantage to points
@@ -407,7 +407,7 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 
 ### A. Objective Summary
 
-**Strengths:** Mentak excels at spending objectives once Pillage and Mirror Computing economies kick in mid-game. Combat objectives are easy with Ambush pre-combat hits and cruiser-focused fleets, and mobile cruisers provide good map presence for territorial objectives.
+**Strengths:** Mentak excels at spending objectives once Pillage and <span class="ty">Mirror Computing</span> economies kick in mid-game. Combat objectives are easy with Ambush pre-combat hits and cruiser-focused fleets, and mobile cruisers provide good map presence for territorial objectives.
 
 **Weaknesses:** Early game spending objectives are challenging before Pillage accumulates trade goods. Influence spending is difficult with only 1 home influence, requiring aggressive planet conquest to compensate.
 
@@ -582,6 +582,6 @@ The hardest part of playing Mentak is managing the table's anger. Everyone hates
 - Accept that you'll be a target, and position accordingly
 
 **Economic Scaling:**
-You start weak but scale into a wealthy, mobile menace. Pillage generates passive income. Mirror Computing doubles your stolen TG value. By late game, you're rich enough to afford expensive fleets and buy political influence.
+You start weak but scale into a wealthy, mobile menace. Pillage generates passive income. <span class="ty">Mirror Computing</span> doubles your stolen TG value. By late game, you're rich enough to afford expensive fleets and buy political influence.
 
 **What's yours is ours, AAARRRRR!**

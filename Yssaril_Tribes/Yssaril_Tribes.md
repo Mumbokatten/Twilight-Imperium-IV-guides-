@@ -182,7 +182,7 @@ People will sometimes pay for a stall or Scheming use, but two problems: do you 
 
 **Round 1 Priority Rankings:**
 
-1. **Technology** - Get <span class="tg">Bio-Stims</span> to start toward Mageon Implants ASAP. This is your key villain tech.
+1. **Technology** - Get <span class="tg">Bio-Stims</span> to start toward <span class="tg">Mageon Implants</span> ASAP. This is your key villain tech.
 
 2. **Expansion + Production** - Expand to 2-3 systems. Dual carriers allow splitting forces effectively.
 
@@ -220,11 +220,11 @@ Your faction rewards high-skill play. You need to know which action cards are go
 
 You start with **<span class="tg">Neural Motivator</span> (Green)** (draw 2 action cards during status phase instead of 1).
 
-There is really no argument for skipping Mageon Implants. It is incredibly impactful—stealing opponents' best action cards while knowing exactly what they have. Your tech path should always work toward GGG for Mageon. After that, you can flex into blue for mobility or yellow for economy, but Mageon comes first.
+There is really no argument for skipping <span class="tg">Mageon Implants</span>. It is incredibly impactful—stealing opponents' best action cards while knowing exactly what they have. Your tech path should always work toward GGG for Mageon. After that, you can flex into blue for mobility or yellow for economy, but Mageon comes first.
 
 ### B. Tech Path (Standard)
 
-**Starting Tech:** Neural Motivator
+**Starting Tech:** <span class="tg">Neural Motivator</span>
 
 **Round 1: <span class="tg">Bio-Stims</span> (G)**
 - At the end of your turn, you may exhaust this card to ready 1 planet you control with a technology specialty OR 1 of your other technologies
