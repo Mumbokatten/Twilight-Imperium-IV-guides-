@@ -659,7 +659,7 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 
 **Good:**
 
-6. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Scales with Obsidian builds.
+6. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Cards help score secrets.
 7. **Empyrean (Xuange)** - Return command token when others move into your systems. Token efficiency.
 8. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION. Extra capacity.
 9. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Works with dreads.
