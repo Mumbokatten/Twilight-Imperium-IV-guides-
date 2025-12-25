@@ -15,26 +15,19 @@ This guide explains community shorthand and terminology used throughout the fact
 
 Technologies show prerequisite requirements using colored icons:
 
-- <img src="icons/tech_propulsion.png" class="tech-icon" alt="B"> = Blue (Propulsion) technology
-- <img src="icons/tech_warfare.png" class="tech-icon" alt="R"> = Red (Warfare) technology
-- <img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> = Yellow (Cybernetic) technology
-- <img src="icons/tech_biotic.png" class="tech-icon" alt="G"> = Green (Biotic) technology
+| Icon | Type | Color |
+|------|------|-------|
+| <img src="icons/tech_propulsion.png" class="tech-icon"> | Propulsion | Blue |
+| <img src="icons/tech_warfare.png" class="tech-icon"> | Warfare | Red |
+| <img src="icons/tech_cybernetic.png" class="tech-icon"> | Cybernetic | Yellow |
+| <img src="icons/tech_biotic.png" class="tech-icon"> | Biotic | Green |
 
-**Multiple Prerequisites:**
-- <img src="icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="icons/tech_propulsion.png" class="tech-icon" alt="B"> = 2 Blue techs required (e.g., Carrier II)
-- <img src="icons/tech_warfare.png" class="tech-icon" alt="R"><img src="icons/tech_warfare.png" class="tech-icon" alt="R"> = 2 Red techs required (e.g., <span class="tr">Duranium Armor</span>)
-- <img src="icons/tech_biotic.png" class="tech-icon" alt="G"><img src="icons/tech_biotic.png" class="tech-icon" alt="G"> = 2 Green techs required (e.g., Infantry II)
-- <img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> = 2 Yellow techs required (e.g., Space Dock II)
-
-**Mixed Prerequisites (Unit Upgrades):**
-- <img src="icons/tech_biotic.png" class="tech-icon" alt="G"><img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="icons/tech_warfare.png" class="tech-icon" alt="R"> = 1 Green + 1 Yellow + 1 Red required (e.g., Cruiser II)
-- <img src="icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> = 2 Blue + 1 Yellow required (e.g., Dreadnought II)
-- <img src="icons/tech_warfare.png" class="tech-icon" alt="R"><img src="icons/tech_warfare.png" class="tech-icon" alt="R"><img src="icons/tech_warfare.png" class="tech-icon" alt="R"><img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> = 3 Red + 1 Yellow required (e.g., War Sun)
+Multiple icons means multiple prerequisites required (e.g., <img src="icons/tech_propulsion.png" class="tech-icon"><img src="icons/tech_propulsion.png" class="tech-icon"> = 2 Blue techs).
 
 **Breakthrough Synergy Notation:**
-- <img src="icons/tech_propulsion.png" class="tech-icon" alt="B">↔<img src="icons/tech_warfare.png" class="tech-icon" alt="R"> = Blue and Red count as each other for prerequisites
-- <img src="icons/tech_warfare.png" class="tech-icon" alt="R">↔<img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> = Red and Yellow count as each other
-- <img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y">↔<img src="icons/tech_biotic.png" class="tech-icon" alt="G"> = Yellow and Green count as each other
+- <img src="icons/tech_propulsion.png" class="tech-icon">↔<img src="icons/tech_warfare.png" class="tech-icon"> = Blue and Red count as each other for prerequisites
+- <img src="icons/tech_warfare.png" class="tech-icon">↔<img src="icons/tech_cybernetic.png" class="tech-icon"> = Red and Yellow count as each other
+- <img src="icons/tech_cybernetic.png" class="tech-icon">↔<img src="icons/tech_biotic.png" class="tech-icon"> = Yellow and Green count as each other
 
 ### Round Abbreviations
 
