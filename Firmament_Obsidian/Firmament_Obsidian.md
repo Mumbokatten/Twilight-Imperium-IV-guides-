@@ -13,7 +13,7 @@
 1. [Introduction](#i-introduction)
 2. [Playstyle](#ii-playstyle)
 3. [Faction Info and Drafting](#iii-faction-info-and-drafting)
-   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-considerations)
+   - [Home System & Commodities](#a-home-system--commodities) · [Starting Fleet](#b-starting-fleet) · [Faction Abilities](#c-faction-abilities) · [Technologies](#d-starting-and-faction-technologies) · [Leaders](#e-leaders) · [Promissory Note](#f-promissory-note) · [Alliance](#g-alliance) · [Mech](#h-mech) · [Flagship](#i-flagship) · [Breakthrough](#j-breakthrough) · [Slice and Draft](#k-slice-and-draft-considerations)
 4. [Round 1 Problems and Faction Weakness](#iv-round-1-problems-and-faction-weakness)
    - [First Turn Priorities](#a-first-turn-priorities)
 5. [Technology](#v-technology)
@@ -220,38 +220,40 @@ Extremely situational. You have to build early mechs, get them into coexistence 
 
 **Heaven's Eye (Firmament):** Cost 8, Combat 5 (x2), Move 1, Capacity 3, Sustain Damage. If the active system contains units from a puppeted player, apply +1 to move and repair at end of every combat round.
 
-Conditional bonuses vs puppeted players—extra movement and self-repair makes you sustainable in prolonged battles. Decent but requires setup.
+Rare to have early, but incredibly versatile. Strong combat numbers, self-repair, and 2 move vs puppeted players. Crazy strong when targeting puppeted neighbors—which is most likely who you're fighting anyway.
 
 **Heaven's Hollow (Obsidian):** Cost 8, Combat 5 (x3), Move 1, Capacity 3, Sustain Damage.
 
-Straight upgrade—3 dice instead of 2. Loses conditional bonuses but gains permanent extra die. Better raw combat power.
+Strong battle values, especially for extended battles with that third die. But losing the 2 movement and self-repair versatility is a real cost—slight downgrade overall.
 
 ### J. Breakthrough - **The Sowing / The Reaping (Y↔G)**
 
 **The Sowing (Firmament):** At status phase, place up to 3 trade goods on this card.
 
-Bank trade goods before transformation. Not amazing but nice to have some savings ready.
+Getting breakthrough at the cost of not scoring plots and falling behind in scoring tempo is probably not worth it. The Sowing gives you literally nothing before you flip—hard sell for a faction with a weak start. If you can get it without paying that opportunity cost, it's nice to have.
 
 **The Reaping (Obsidian):** Gain 1 trade good on this card each time you win combat vs puppeted player. At status phase, gain all trade goods on card, then double them.
 
-Massive economic engine if you're fighting puppeted players. Win 3 combats = 6 trade goods at status. Requires aggression to trigger.
+Very nice and will pay big if you're in a few combats. But your Obsidian economic engine (6-resource home) should be solid enough that you won't miss this if you decided to get an extra plot instead of unlocking breakthrough.
 
-### K. Slice Considerations
+### K. Slice and Draft Considerations
+
+**Speaker Order:** Unlocking breakthrough isn't key, so speaker position matters less for that—but getting a premium round 1 strategy card and a strong slice should happen every time you play Firmament. For neighbors, try to get people willing to deal with you early who won't just grab a chunk of your slice while you're puny Firmament.
 
 **Slice Priorities:**
 
-- **Influence-rich planets** - You lose all home influence when you transform. Need slice to compensate.
-- **Planet type diversity** - Cultural/hazardous/industrial mix for scoring varied secrets.
-- **Yellow/green tech skips** - Supports Sarween start and potential Neural Parasite path.
+- **Easy expansion** - No special techs like Antimass required.
+- **Balanced and rich** - You need resources and influence.
+- **Scoreable secrets** - Planet composition doesn't matter a ton, but making secrets scoreable is a priority.
 
 **Nice to Have:**
 
-- Access to multiple neighbors (more secrets to score).
-- Moderate Mecatol proximity.
+- Tech skips to help skip into better tech early.
+- Combat planets like Hope's End or Primor—makes a big difference.
 
 **Avoid:**
 
-- Resource-heavy slice with no influence—you'll be politically dead as Obsidian.
+- The usual weird stuff in the middle of your slice (supernova, gravity rift, asteroid field).
 
 ---
 
@@ -261,29 +263,21 @@ Massive economic engine if you're fighting puppeted players. Win 3 combats = 6 t
 
 **Round 1 Priority Rankings:**
 
-1. **Scoring** - Trade your PN for a plot and commander unlock. Position to score opponent secrets.
+1. **Scoring** - Trade your PN for a plot and commander unlock. Deal for secrets to be scored ASAP so you have a chance to plan around them. Your hero needs to be unlocked before round 3.
 
-2. **Expansion** - Expand to 2-3 systems. You need board presence to score secrets.
+2. **Expansion and Production** - Key priority. You start weak—if you spend too much on tech you'll be an easy target. Expand to 2-3 systems and build plastic to not look inviting.
 
-3. **Technology** - Sarween Tools helps efficiency. Don't over-prioritize tech over plots.
+3. **Technology** - Nice to have and you'll feel miserable if you don't get any as Firmament, but you have mechanics to catch up later. If teching screws your early game, just don't.
 
-4. **Diplomacy** - Make deals, stay friendly. You need everyone to like you during Firmament phase.
+4. **Breakthrough** - Same deal. Only easy and cheap unlocks—this does zero for you early when you need the most juice.
 
-**Expansion Notes:** 1 carrier, 1 cruiser, 1 destroyer, 3 infantry. Send carrier to nearby systems, use cruiser/destroyer for exploration. Weak start—be efficient.
+**Expansion Notes:** 1 carrier, 1 cruiser, 1 destroyer, 3 infantry. Try to build a carrier. Send carrier to nearby systems, use cruiser/destroyer for exploration. Weak start—be efficient.
 
 ### B. Faction Weaknesses
 
-**Victory Point Deficit:** You appear behind on scoreboard during Firmament phase. Must catch up rapidly as Obsidian.
+**Weak Start, Lots to Do:** You start weak exactly when you need to do the most to build up strength for later. A lot has to go right during Firmament phase.
 
-**Transformation Timing:** Too early = weak Obsidian. Too late = can't score enough to win. Aim for Round 3.
-
-**Opponent Secret Dependency:** If opponents draw secrets you can't also score, you can't gain plots. Bad luck hurts.
-
-**Influence Poverty:** Zero home influence after transformation. Politically dead unless you expanded to influence planets.
-
-**Plot Randomization:** You don't choose which plot you get—random from 5 types. Bad draws hurt.
-
-**Complexity:** TI4's most complicated faction. Mistakes in timing lose games.
+**No Magic Catchup Tricks:** As the Obsidian, no great catchup mechanics—since you're a bit flexible and will likely receive techs from one of your plots. When playing from behind (which you likely will be), you have to use brute force—troop strength and a strong economic engine. No shortcuts.
 
 ---
 
@@ -291,24 +285,60 @@ Massive economic engine if you're fighting puppeted players. Win 3 combats = 6 t
 
 ### A. Overview
 
-**Starting Tech:** Sarween Tools (choose from green/yellow with no prereqs).
+**Starting Tech:** Choose from green/yellow with no prereqs.
 
-You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Faction techs require prereqs you may not have time to get.
+- **Sarween Tools** for Path 1 (Mobility Safe Path) - covers yellow prereq for Dreadnought II.
+- **Neural Motivator** for Path 2 (Ground Dominance Spicy Path) - starts green for faction tech and X-89.
 
-### B. Technology Path
+You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Path 1 is safe and doesn't require breakthrough. Path 2 requires breakthrough unlocked for the Y↔G synergy.
 
-**Standard Path:**
+Always look for what you're missing via Extract plots. If you're in Path 1 (blue mobility, unit upgrades), look for combat power—Assault Cannon, Duranium Armor, Integrated Economy, X-89. If you're in Path 2 (slow ground dominance), look for blue mobility and unit upgrades—Gravity Drive, Carrier II, Dreadnought II, Fleet Logistics.
 
-**Round 1:** Sarween Tools
-- +1 resource per production. Helps weak economy.
+### B. Technology Paths
 
-**Round 2:** Gravity Drive or skip tech
-- Mobility helps reach secrets. But plots come first.
+**Path 1: Mobility Safe Path (Recommended)**
 
-**Round 3+:** Whatever you need
-- By now you're transforming or close to it. Tech less important than scoring.
+**Round 1:** Dark Energy Tap
+- After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units.
+- **Why:** Explore frontier tokens, retreat flexibility.
 
-**Faction Tech Reality:** Planesplitter and Neural Parasite require 2 prereqs each. Most games you won't research them—too much opportunity cost during Firmament phase. Focus on plots, not tech.
+**Round 2:** Gravity Drive (B)
+- After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **Why:** Mobility to reach secrets and position for plots.
+
+**Round 3:** Carrier II (BB)
+- Cost 3, Combat 9, Move 2, Capacity 6.
+- **Why:** Fleet mobility and transport capacity.
+
+**Round 4:** Dreadnought II (BBY)
+- Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.
+- **Why:** Move 2 dreads are your Obsidian backbone. Sarween start covers yellow prereq.
+
+**Round 5:** Fleet Logistics (BB)
+- During each of your turns of the action phase, you may perform 2 actions instead of 1.
+- **Why:** Late game power spike. Double actions as Obsidian.
+
+**Path 2: Ground Dominance Spicy Path (Neural Motivator Start, Requires BT)**
+
+**Round 1:** Bio-Stims (G)
+- You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.
+- **Why:** Economy boost, readies tech planets.
+
+**Round 2:** Neural Parasite (GG)
+- Firmament: Place 1 infantry on home planet at status phase. Obsidian: Destroy 1 enemy infantry adjacent to your infantry at start of turn.
+- **Why:** Free infantry as Firmament, cripple neighbors as Obsidian.
+
+**Round 3:** X-89 Bacterial Weapon (GGG)
+- After using BOMBARDMENT, destroy all infantry on planet if at least 1 destroyed. Double BOMBARDMENT and ground combat hits.
+- **Why:** Clear planets fast as Obsidian.
+
+**Round 4:** Integrated Economy (YYY)
+- After you gain control of a planet, you may produce units on that planet equal to its resource value.
+- **Why:** Y↔G breakthrough covers prereqs. Instant production on conquered planets.
+
+**Round 5:** Transit Diodes (YY) - Flex
+- You may exhaust this card at the start of your turn; remove up to 4 ground forces and place them on planets you control.
+- **Why:** Teleport infantry for invasions. This is flex—if an Extract plot target goes for Light/Wave Deflector, Fleet Logistics, etc., consider copying those instead of teching yourself.
 
 ---
 
@@ -316,22 +346,60 @@ You're flexible but limited by opportunity cost. Focus on plots over tech during
 
 ### A. Round 1
 
-**Priority Rankings:**
+**Round 1 Priority Ranking:**
 
-1. **Politics** - Speaker helps, action cards are nice.
-2. **Technology** - If you need a specific tech.
-3. **Leadership** - Tokens for expansion.
-4. **Trade** - 3 commodities, trade your PN.
-5. **Construction** - Forward dock helps.
-6. **Warfare** - Situational.
+1. **Trade** - 3 commodities, trade your PN for a plot. You need resources.
+2. **Technology** - If you need a specific tech for your path.
+3. **Construction** - Get out carrier for second system expansion. Use for forward dock if possible, or double dock home to combo better with Warfare later.
+4. **Leadership** - Can be awkward, but means you can splurge on secondaries. Not a fan of throwing the secret as Firmament, but could be a way of unlocking BT.
+5. **Politics** - Setup scoring for round 2. Speaker selling can allow you to enable a secret to be scored.
+6. **Warfare** - Situational. Only if you need repositioning.
 7. **Diplomacy** - Low priority early.
-8. **Imperial** - Avoid. You don't want points as Firmament.
+8. **Imperial** - Never round 1.
+
+**Note:** Trading your PN early is key—gets you a plot and commander unlock.
 
 ### B. Round 2+
 
-**As Firmament:** Avoid Imperial. Everything else is fine—pick what helps you score plots.
+**Note:** Whatever helps you score secrets/plots should be priority—as long as it doesn't lose you a PO.
 
-**As Obsidian:** NOW you want Imperial. Warfare and Construction also strong with your 6-resource home.
+**As Firmament:**
+
+**Love:**
+
+- **Trade** - Keep economy flowing, make deals.
+- **Leadership** - Tokens for activations.
+- **Technology** - Continue your tech path.
+
+**Like:**
+
+- **Politics** - Action cards, speaker control.
+
+**Situational:**
+
+- **Imperial** - You most likely can't afford to score points.
+- **Warfare** - Only if you need repositioning.
+- **Construction** - Forward docks help position for secrets.
+- **Diplomacy** - If you got an aggressive neighbor, might have to be picked.
+
+**As Obsidian:**
+
+**Love:**
+
+- **Imperial** - Take it many times—you need to catch up. Try to get MR point. Maybe even pick twice if allowed (Imperial, Politics, Imperial R3-R5).
+- **Leadership** - Great. You got tons of resources but few tokens.
+
+**Like:**
+
+- **Trade** - Flexible economy to solve objectives.
+- **Technology** - Might have to double tech to catch up if you weren't able to tech early rounds.
+- **Politics** - Need to ensure Imperial.
+
+**Situational:**
+
+- **Warfare** - Fleet token return, repositioning for aggression.
+- **Construction** - 6-resource home means big production.
+- **Diplomacy** - Only for key defensive plays or refresh.
 
 ---
 
@@ -339,175 +407,243 @@ You're flexible but limited by opportunity cost. Focus on plots over tech during
 
 ### A. Unit Composition
 
-**Firmament Phase:**
-Build light—carriers for transport, infantry for invasions. You're not fighting, you're positioning.
+You can afford heavy capital ships like your flagship and dreads.
 
-**Obsidian Phase:**
-Build heavy—leverage 6 resources for real fleet. Dreadnoughts, flagship, whatever you need to stop leaders and score.
+- **Carriers** - Core transport. Standard fleet backbone. Carrier II for Move 2.
+- **Fighters** - Fighting power with carriers. Cheap hitpoints.
+- **Dreadnoughts** - Your late game backbone. Move 2 with Dreadnought II. Sustain and bombardment.
+- **Destroyers** - Supplemental ships. Cheap early expansion and exploration.
+- **Infantry** - Ground presence. Need them to take and hold planets.
+- **Mechs** - Ground combat power. Firmament mech for coexistence, Obsidian mech situational.
+- **Flagship** - Versatile vs puppeted players. 2 move, self-repair, strong combat.
+
+Build light as Firmament—you're positioning for secrets. Build heavy as Obsidian—leverage 6-resource home for the real fleet.
 
 ### B. Game Plan
 
-**Rounds 1-2 (Firmament):** Trade PN for plot, unlock commander, expand to 2-3 systems, position to score opponent secrets. Stay diplomatic.
+**Early Game (R1-2, Firmament):** Trade PN for plot and commander unlock. Expand to 2-3 systems. Position to score opponent secrets. Stay diplomatic—you need deals to get secrets scored. Build light, focus on plots not points.
 
-**Round 3 (Transform):** Use Puppets of the Blade. Home readies with 6 resources, plots flip, all components upgrade.
+**Mid Game (R3, Transform):** Use Puppets of the Blade when you have 3+ plots. Focus on economic and tech plots if not forced to do aggressive ones. Home readies with 6 resources, plots flip to revealed side, all components upgrade. Big power spike.
 
-**Rounds 4+ (Obsidian):** Aggression time. Stop leaders, extend game, score rapidly. Use plot abilities against puppeted players. Leverage resource advantage for big builds.
+**Late Game (R4+, Obsidian):** Aggression time. Stop leaders, extend game if needed, score rapidly. Use plot abilities against puppeted players. Take Imperial multiple times. Leverage resource advantage for big builds. Close out through military pressure and scoring catch-up.
 
 ---
 
 ## VIII. Objectives
 
-### A. Objective Summary
+### Firmament Phase Objective Summary
 
-**Strengths:** Firmament/Obsidian excels at tech objectives with strong research focus and flexible tech paths. Plots within Plots ability enables scoring opponent secret objectives, and revealed plots provide additional objective scoring opportunities through asymmetric information.
+**Strengths:** You have 3 home influence so influence spendies are more doable than as Obsidian. Secrets that involve positioning rather than combat work.
 
-**Weaknesses:** Planet control objectives require more effort without natural expansion bonuses. Combat objectives are challenging in Firmament phase without military focus, though Obsidian phase improves combat capability significantly.
+**Weaknesses:** Firmament home system poor in general, no real moneymaking tactics. You should be getting plots, not scoring points.
 
-**Note:** Firmament Obsidian's dual-phase nature makes objective difficulty vary significantly. Ratings below reflect Obsidian phase (post-transformation).
+### B. Stage I Objectives (Firmament)
 
-### B. Stage I Objectives
-
-**Spendies**
 | Stage I Objective                                                       | Status |
 |-------------------------------------------------------------------------|--------|
-| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟡     |
-| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
-| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
-| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟡     |
+| **Spendies**                                                            |        |
+| Erect a Monument (Spend 8 resources)                                    | 🔴     |
 | Sway the Council (Spend 8 influence)                                    | 🔴     |
-
-**Control**
-| Stage I Objective                                                       | Status |
-|-------------------------------------------------------------------------|--------|
-| Corner the Market (Control 4 planets with same trait)                   | 🟢     |
-| Defend the Homeworld (Control 3 planets in your home system)            | N/A    |
-| Demonstrate Your Power (Destroy 4 units during a combat)                | N/A    |
-| Establish a Perimeter (Control 5 planets in non-home systems)           | N/A    |
-| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
-
-**Ships in Systems**
-| Stage I Objective                                                       | Status |
-|-------------------------------------------------------------------------|--------|
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟡     |
-| Discover Lost Outposts (Control 2 planets with attachments)             | 🟡     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
-| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🔴     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟡     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🔴     |
+| **Control**                                                             |        |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🔴     |
+| Corner the Market (Control 4 planets with same trait)                   | 🔴     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🔴     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
+| Push Boundaries (Control more planets than each neighbor)               | 🔴     |
+| **Ships in Systems**                                                    |        |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟡     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟡     |
 | Populate the Outer Rim (Units in 3 edge systems)                        | 🟡     |
-| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
-| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
-
-**Tech**
-| Stage I Objective                                                       | Status |
-|-------------------------------------------------------------------------|--------|
-| Found Research Outposts (Control 3 planets with tech specialties)       | 🟡     |
-
-**Structure**
-| Stage I Objective                                                       | Status |
-|-------------------------------------------------------------------------|--------|
-| Build Defenses (Have 4 or more structures)                              | 🟡     |
-| Erect a Monument (Spend 8 resources)                                    | 🟢     |
-| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🔴     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟡     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🔴     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🔴     |
+| **Structure**                                                           |        |
+| Build Defenses (Have 4 or more structures)                              | 🔴     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🔴     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
 
-As Firmament, focus on scoring opponent secrets for plots. As Obsidian, leverage 6-resource home for military dominance.
+### C. Secret Objectives (Firmament)
 
-### C. Secret Objectives
-
-**Combat**
 | Secret Objective                                                         | Status |
 |--------------------------------------------------------------------------|--------|
-| Become a Martyr (Lose control of planet in home system)                 | 🟡     |
-| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
-| Brave the Void (Win combat in anomaly)                                  | 🟡     |
-| Darken the Skies (Win combat in another player's HS)                    | 🟡     |
-| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
-| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
-| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
+| **Combat**                                                               |        |
+| Unveil Flagship (Win space combat with flagship)                         | 🔴     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🔴     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟡     |
-| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🟡     |
-
-**Ships in Systems**
-| Secret Objective                                                         | Status |
-|--------------------------------------------------------------------------|--------|
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟡     |
+| Brave the Void (Win combat in anomaly)                                  | 🔴     |
+| Darken the Skies (Win combat in another player's HS)                    | 🔴     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟡     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                         | 🔴     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟡     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🔴     |
 | Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟡     |
-| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
-| Establish a Perimeter II (Have 4 PDS on board)                          | 🟡     |
-| Forge an Alliance (Control 4 cultural planets)                           | 🟢     |
-| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟡     |
-| Seize an Icon (Control legendary planet)                                | 🟡     |
-| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
-
-**Control**
-| Secret Objective                                                         | Status |
-|--------------------------------------------------------------------------|--------|
-| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
-| Control the Region (Ships in 6 systems)                                 | 🟢     |
-| Defy Space and Time (Units in wormhole nexus)                           | 🟡     |
-| Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
+| Control the Region (Ships in 6 systems)                                 | 🔴     |
 | Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟡     |
-| Mechanize the Military (1 mech on each of 4 planets)                    | 🟡     |
-| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟢     |
-| Stake Your Claim (Control planet in contested system)                   | 🟡     |
-
-**Tech**
-| Secret Objective                                                         | Status |
-|--------------------------------------------------------------------------|--------|
-| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
-| Unveil Flagship (Win space combat with flagship)                         | 🟡     |
-
-**Structure/Units**
-| Secret Objective                                                         | Status |
-|--------------------------------------------------------------------------|--------|
-| Dictate Policy (3+ laws in play)                                        | 🟡     |
+| **Control**                                                              |        |
+| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🟡     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟡     |
+| Monopolize Production (Control 4 industrial planets)                     | 🟡     |
+| Hoard Raw Materials (Control planets with 12+ resources)                | 🔴     |
 | Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
-| Fuel the War Machine (Have 3 space docks)                               | 🟢     |
-| Monopolize Production (Control 4 industrial planets)                     | 🟢     |
-| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
-| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
-
-**Other**
-| Secret Objective                                                         | Status |
-|--------------------------------------------------------------------------|--------|
-| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟡     |
-| Drive the Debate (You/your planet elected by agenda)                    | 🟡     |
-| Form a Spy Network (Discard 5 action cards)                             | 🟡     |
-| Foster Cohesion (Be neighbors with all players)                         | 🟡     |
-| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟡     |
-| Prove Endurance (Last to pass)                                          | 🟡     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🔴     |
+| Stake Your Claim (Control planet in contested system)                   | 🔴     |
+| **Tech/Units**                                                           |        |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🔴     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🔴     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🔴     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🔴     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🔴     |
+| **Structure**                                                            |        |
+| Fuel the War Machine (Have 3 space docks)                               | 🔴     |
+| Establish a Perimeter II (Have 4 PDS on board)                          | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🔴     |
+| **Other**                                                                |        |
+| Become a Martyr (Lose control of planet in home system)                 | 🔴     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🔴     |
+| Dictate Policy (3+ laws in play)                                        | 🔴     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🔴     |
+| Form a Spy Network (Discard 5 action cards)                             | 🔴     |
+| Foster Cohesion (Be neighbors with all players)                         | 🔴     |
+| Prove Endurance (Last to pass)                                          | 🔴     |
 | Strengthen Bonds (Have another player's PN)                             | 🟢     |
 
-### D. Stage II Objectives
+---
+
+### Obsidian Phase Objective Summary
+
+**Strengths:** Resource spendies are easy with 6-resource home. Fleet and combat objectives doable with strong production. Aggression objectives play into your game plan. Can afford heavy capital ships.
+
+**Weaknesses:** Influence objectives are brutal—zero home influence. Structure objectives still not natural. PDS/Space Cannon objectives don't fit your build.
+
+### D. Stage I Objectives (Obsidian)
+
+| Stage I Objective                                                       | Status |
+|-------------------------------------------------------------------------|--------|
+| **Spendies**                                                            |        |
+| Erect a Monument (Spend 8 resources)                                    | 🟢     |
+| Sway the Council (Spend 8 influence)                                    | 🔴     |
+| Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
+| Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🔴     |
+| **Control**                                                             |        |
+| Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
+| Corner the Market (Control 4 planets with same trait)                   | 🟢     |
+| Found Research Outposts (Control 3 planets with tech specialties)       | 🟢     |
+| Discover Lost Outposts (Control 2 planets with attachments)             | 🟢     |
+| Push Boundaries (Control more planets than each neighbor)               | 🟢     |
+| **Ships in Systems**                                                    |        |
+| Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟢     |
+| Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
+| Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
+| Populate the Outer Rim (Units in 3 edge systems)                        | 🟢     |
+| Raise a Fleet (5+ non-fighter ships in 1 system)                        | 🟢     |
+| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| **Tech**                                                                |        |
+| Diversify Research (Own 2 tech in each of 2 colors)                     | 🟢     |
+| Develop Weaponry (Own 2 unit upgrade technologies)                      | 🟢     |
+| **Structure**                                                           |        |
+| Build Defenses (Have 4 or more structures)                              | 🟡     |
+| Improve Infrastructure (Structures on 3 planets outside HS)             | 🟡     |
+
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
+
+### E. Secret Objectives (Obsidian)
+
+| Secret Objective                                                         | Status |
+|--------------------------------------------------------------------------|--------|
+| **Combat**                                                               |        |
+| Unveil Flagship (Win space combat with flagship)                         | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
+| Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
+| Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
+| Brave the Void (Win combat in anomaly)                                  | 🟢     |
+| Darken the Skies (Win combat in another player's HS)                    | 🟢     |
+| Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
+| Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
+| Make an Example (BOMBARDMENT destroy last ground forces)                | 🟢     |
+| Fight With Precision (AFB destroy last fighter)                         | 🔴     |
+| **Ships in Systems**                                                     |        |
+| Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
+| Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
+| Become the Gatekeeper (Ships in alpha and beta wormhole systems)        | 🟢     |
+| Control the Region (Ships in 6 systems)                                 | 🟢     |
+| Learn Secrets of the Cosmos (Ships in 3 systems adjacent to anomalies)  | 🟢     |
+| **Control**                                                              |        |
+| Seize an Icon (Control legendary planet)                                | 🟢     |
+| Forge an Alliance (Control 4 cultural planets)                           | 🟢     |
+| Mine Rare Minerals (Control 4 hazardous planets)                         | 🟢     |
+| Monopolize Production (Control 4 industrial planets)                     | 🟢     |
+| Hoard Raw Materials (Control planets with 12+ resources)                | 🟢     |
+| Establish Hegemony (Control planets with 12+ influence)                 | 🔴     |
+| Occupy the Seat of the Empire (Control MR with 3+ ships)                | 🟢     |
+| Stake Your Claim (Control planet in contested system)                   | 🟢     |
+| **Tech/Units**                                                           |        |
+| Adapt New Strategies (Own 2 faction technologies)                       | 🟢     |
+| Master the Laws of Physics (Own 4 tech of same color)                   | 🟢     |
+| Mechanize the Military (1 mech on each of 4 planets)                    | 🟢     |
+| Occupy the Fringe (9+ ground forces on planet without space dock)       | 🟢     |
+| Gather a Mighty Fleet (Have 5 dreadnoughts)                             | 🟢     |
+| **Structure**                                                            |        |
+| Fuel the War Machine (Have 3 space docks)                               | 🟡     |
+| Establish a Perimeter II (Have 4 PDS on board)                          | 🔴     |
+| Produce en Masse (Units with PRODUCTION 8+ in single system)            | 🟢     |
+| **Other**                                                                |        |
+| Become a Martyr (Lose control of planet in home system)                 | 🟢     |
+| Defy Space and Time (Units in wormhole nexus)                           | 🟢     |
+| Dictate Policy (3+ laws in play)                                        | 🟢     |
+| Drive the Debate (You/your planet elected by agenda)                    | 🔴     |
+| Destroy Heretical Works (Purge 2 relic fragments)                       | 🟢     |
+| Form a Spy Network (Discard 5 action cards)                             | 🟢     |
+| Foster Cohesion (Be neighbors with all players)                         | 🟢     |
+| Prove Endurance (Last to pass)                                          | 🟢     |
+| Strengthen Bonds (Have another player's PN)                             | 🟢     |
+
+**Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
+
+### F. Stage II Objectives (Obsidian)
 
 | Stage II Objective                                                       | Status |
 |--------------------------------------------------------------------------|--------|
-| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟡     |
+| **Spendies**                                                             |        |
 | Found a Golden Age (Spend 16 resources)                                  | 🟢     |
-| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟡     |
 | Manipulate Galactic Law (Spend 16 influence)                             | 🔴     |
-| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🟡     |
-| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
-| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟡     |
-| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟡     |
-| Conquer the Weak (Control 1 planet in another player's HS)               | 🟡     |
-| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟡     |
-| Patrol Vast Territories (Units in 5 systems without planets)             | 🟡     |
-| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟡     |
+| Centralize Galactic Trade (Spend 10 trade goods)                         | 🟢     |
+| Galvanize the People (Spend 6 tokens from tactic/strategy pools)         | 🟢     |
+| Hold Vast Reserves (Spend 6 influence, 6 resources, 6 trade goods)       | 🔴     |
+| **Control**                                                              |        |
 | Subdue the Galaxy (Control 11 planets in non-home systems)               | 🟢     |
-| Unify the Colonies (Control 6 planets with same trait)                   | 🟡     |
-| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟡     |
-| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🔴     |
-| Construct Massive Cities (Have 7+ structures)                            | 🟡     |
-| Protect the Border (Structures on 5 planets outside HS)                  | 🟢     |
+| Unify the Colonies (Control 6 planets with same trait)                   | 🟢     |
+| Form Galactic Brain Trust (Control 5 planets with tech specialties)      | 🟡     |
+| Reclaim Ancient Monuments (Control 3 planets with attachments)           | 🟢     |
+| Conquer the Weak (Control 1 planet in another player's HS)               | 🟢     |
+| Rule Distant Lands (Control 2 planets in/adjacent to different players' HS) | 🟢     |
+| **Ships in Systems**                                                     |        |
+| Command an Armada (Have 8+ non-fighter ships in 1 system)                | 🟢     |
+| Achieve Supremacy (Flagship/War Sun in another player's HS or MR)        | 🟢     |
+| Become a Legend (Units in 4 systems with legendary/MR/anomalies)         | 🟢     |
+| Patrol Vast Territories (Units in 5 systems without planets)             | 🟢     |
+| Control the Borderlands (Units in 5 edge systems not HS)                 | 🟢     |
+| **Tech**                                                                 |        |
 | Master of Sciences (Own 2 techs in each of 4 colors)                     | 🟢     |
-| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟡     |
+| Revolutionize Warfare (Own 3 unit upgrade technologies)                  | 🟢     |
+| **Structure**                                                            |        |
+| Construct Massive Cities (Have 7+ structures)                            | 🔴     |
+| Protect the Border (Structures on 5 planets outside HS)                  | 🟡     |
 
 **Legend:** 🟢 Likely | 🟡 Possible | 🔴 Difficult
-
-Firmament gains plots by scoring opponent secrets. Obsidian leverages 6-resource hollow home and revealed plots for rapid scoring.
 
 ---
 
