@@ -660,7 +660,7 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 **Good:**
 
 6. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Cards help score secrets.
-7. **Empyrean (Xuange)** - Return command token when others move into your systems. Token efficiency.
+7. **Empyrean (Xuange)** - Return command token when others move into your systems. Late game slaying tool.
 8. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION. Extra capacity.
 9. **Barony of Letnev (Rear Admiral Farran)** - Gain 1 TG after unit uses Sustain Damage. Works with dreads.
 10. **Naaz-Rokha (Dart and Tai)** - Explore planet after conquering. Extra value from Obsidian aggression.
@@ -669,11 +669,13 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 
 ## X. Bonus Game Elements
 
-**Action Cards:** Anything that helps you score secrets (Skilled Retreat, Flank Speed) or survive combat (Direct Hit, Morale Boost) has extra value given your unique scoring mechanic.
+This section highlights action cards that synergize particularly well with your faction's strengths or mitigate your weaknesses, relics that offer exceptional value for your faction's strategy and abilities, and agendas to pursue that benefit your position, and agendas to watch out for that could hurt you.
 
-**Relics:** The Crown of Emphidia is strong for any faction, but you particularly benefit from economy-boosting relics to offset your weak Firmament start.
+### A. High-Value Action Cards
 
-**Agendas:** Watch for anything that punishes low-influence factions—you'll have zero influence post-transformation. Support agendas that give you flexibility or hurt your puppeted targets.
+### B. Relic Priorities
+
+### C. Agenda Awareness
 
 ---
 
