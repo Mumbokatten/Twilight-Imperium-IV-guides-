@@ -98,7 +98,7 @@ Removes the 7-card hand limit. This is HUGE. While everyone else discards down t
 
 Your key villain tech. Look at any player's hand and take their best action card. You know exactly what they have, and they know you'll take the good stuff—making them feel the agony of playing suboptimal cards just so you can't have them. Combine with <span class="tg">Bio-Stims</span> to use twice per round.
 
-**Transparasteel Plating (G):**
+**<span class="tg">Transparasteel Plating</span> (G):**
 *During your turn of the action phase, players that have passed cannot play action cards.*
 
 Competes with <span class="tg">Bio-Stims</span> for the 1 green prereq slot. But if you're tech rich, it's wonderful to see all players pass (common occurrence) and know there is literally nothing they can do to stop you.
@@ -235,7 +235,7 @@ There is really no argument for skipping <span class="tg">Mageon Implants</span>
 - **With green skip:** Take Mageon directly. Green skip + <span class="tg">Neural Motivator</span> + <span class="tg">Bio-Stims</span> = GGG.
 - **Without green skip:** Try for double tech that round. Get either:
   - **<span class="tg">Hyper Metabolism</span> (GG)** + Mageon, or
-  - **Transparasteel Plating (G)** + Mageon
+  - **<span class="tg">Transparasteel Plating</span> (G)** + Mageon
 
 **Round 3: DET or <span class="tb">Antimass Deflectors</span>**
 - **<span class="tb">Dark Energy Tap</span>:** Your ships can retreat into adjacent systems with your units. You may produce 1 unit at the start of combat.

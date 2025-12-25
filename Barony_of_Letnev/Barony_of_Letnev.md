@@ -116,7 +116,7 @@ Easy unlock for Letnev (5 non-fighter ships). Generates trade goods when you use
 
 **Hero - Darktalon Treilla:** *Unlock: Have 3 scored objectives.*
 
-**Dark Matter Affinity** - ACTION: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round. At the end of that game round, purge this card.
+**<span class="tb">Dark Matter Affinity</span>** - ACTION: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round. At the end of that game round, purge this card.
 
 Massive repositioning tool. For one round, you ignore fleet limits entirely—build the biggest fleet imaginable and move it wherever you want. Use for critical MR push or final assault. Save for Round 4-5 (R4-R5) when it wins the game.
 

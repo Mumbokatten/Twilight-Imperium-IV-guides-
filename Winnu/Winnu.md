@@ -101,7 +101,7 @@ Free structures on Mecatol Rex. Instant fortification. Once you take it, you sho
 
 Very situational. Only useful in weird slices where it's problematic to get to MR but happens to have a well-placed wormhole. Very niche.
 
-**Hegemonic Trade Policy (YY):**
+**<span class="ty">Hegemonic Trade Policy</span> (YY):**
 *Exhaust this card when 1 or more of your units use PRODUCTION; swap the resource and influence values of 1 planet you control until the end of your turn.*
 
 Really weird tech that seems incredibly niche. When would you need this? If you want flexibility, just use your trade goods—they're already flexible. This does nothing for you and is costly on a bad tech path.

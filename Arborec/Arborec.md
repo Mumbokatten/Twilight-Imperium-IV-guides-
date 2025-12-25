@@ -104,7 +104,7 @@ After this unit is destroyed, roll 1 die. If the result is 6 or greater, place t
 - Requires 2 green prerequisites (green skip or <span class="tg">Bio-Stims</span> (G) with Psychospore R↔G synergy)
 - Non-blue tech path prioritizes this upgrade
 
-**Bioplasmosis (GG):**
+**<span class="tg">Bioplasmosis</span> (GG):**
 *At the end of the status phase, you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.*
 
 - Skip this tech - you're already spread out with your mobile production

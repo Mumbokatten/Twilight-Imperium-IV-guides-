@@ -106,10 +106,10 @@ This system is a gravity rift; your ships do not roll for this gravity rift. Pla
 
 Hard to get normally but crazy value if you get from Entropic Scar. Having the 7 production and 2 bonus from Commander while every unit is free—pretty crazy. The endless supply of free fighters able to sit and defend your docks from being blockaded is helpful.
 
-**Vortex (R):**
+**<span class="tr">Vortex</span> (R):**
 *ACTION: Exhaust this card to choose another player's non-structure unit in a system that is adjacent to 1 or more of your space docks. Capture 1 unit of that type from that player's reinforcements.*
 
-Vortex is a stall—it gives less diplomatic anger than fighting for the troops, but this is a bit overrated. Unless you feel like you really don't want to anger people and have good targets nearby your docks, probably skip it and focus on unit upgrades.
+<span class="tr">Vortex</span> is a stall—it gives less diplomatic anger than fighting for the troops, but this is a bit overrated. Unless you feel like you really don't want to anger people and have good targets nearby your docks, probably skip it and focus on unit upgrades.
 
 ### E. Leaders
 
@@ -260,7 +260,7 @@ Having the freedom to get 3 unit upgrades and then not spend any more thought on
 
 4. **Politics** - To setup a strong round and some bonus money selling speaker. Unlock breakthrough on all of Trade/Leadership/Politics/Diplomacy.
 
-5. **Technology** - Vortex early doesn't hurt but not my favorite.
+5. **Technology** - <span class="tr">Vortex</span> early doesn't hurt but not my favorite.
 
 6. **Diplomacy** - To get some bonus resources early.
 

@@ -94,7 +94,7 @@ Quash lets you veto agendas by spending 1 strategy command counter to discard an
 
 **<span class="tg">Instinct Training</span> (G):** You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
 
-Instinct Training gives you action card cancellation. By exhausting this technology and spending 1 strategy command counter, you can cancel any action card another player plays. This serves as a hard counter to game-changing action cards and provides exceptional defensive control throughout the game.
+<span class="tg">Instinct Training</span> gives you action card cancellation. By exhausting this technology and spending 1 strategy command counter, you can cancel any action card another player plays. This serves as a hard counter to game-changing action cards and provides exceptional defensive control throughout the game.
 
 **<span class="ty">Nullification Field</span> (YY):** After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
 

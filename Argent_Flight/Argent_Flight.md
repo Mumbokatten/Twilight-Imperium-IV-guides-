@@ -345,7 +345,7 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR)
 1. **Trade** - Get economy flowing early, extra TGs are solid
 2. **Leadership** - Great in round 1. Command tokens for more diversity in early game. Can be great in christmas land.
 3. **Technology** - Critical for getting on your tech path early, especially with skips
-4. **Construction** - Important for structure/PDS path and building economy with Aerie Hololattice
+4. **Construction** - Important for structure/PDS path and building economy with <span class="ty">Aerie Hololattice</span>
 5. **Politics** - Speaker token is fine, voting first on agendas is neutral
 6. **Warfare** - Your starting fleet is already strong enough for R1 expansion, less critical
 7. **Diplomacy** - Only for securing resource-rich planets or breakthrough opportunities, not for defense

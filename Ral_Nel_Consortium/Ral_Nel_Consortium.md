@@ -99,7 +99,7 @@ Your defining ability. Transport PDS and Space Docks with your fleet, deploy on 
 
 **Faction Technologies:**
 
-**Nanomachines (YY):**
+**<span class="tr">Nanomachines</span> (YY):**
 Exhaust this card to either:
 1. Place 1 PDS from reinforcements on planet you control
 2. Repair all units in 1 system
@@ -191,7 +191,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 2. **Breakthrough** - Data Skimmer gives you action card economy. Collect other players' discards and cherry-pick the best one.
 
-3. **Technology** - Get started early with Nanomachines.
+3. **Technology** - Get started early with <span class="tr">Nanomachines</span>.
 
 4. **Expansion and Production** - Aim for 2 systems, 3 if you got <span class="tb">Gravity Drive</span> and production or all planets are nearby.
 
@@ -217,13 +217,13 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - <span class="ty">AI Development Algorithm</span> Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on <span class="tb">Dark Energy Tap</span> for exploration and retreat synergy, then <span class="tb">Gravity Drive</span> for mobility, into Carrier II and Linkship II/<span class="tb">Fleet Logistics</span>.
 
-**Path 2 - <span class="tg">Psychoarchaeology</span> Start (Red + Blue Skip):** Requires tech skips in your slice. <span class="tg">Psychoarchaeology</span> lets you use tech specialties without exhausting them and generate TG from tech planets. Rush <span class="tb">Gravity Drive</span> R1, then Nanomachines, Carrier II, Linkship II.
+**Path 2 - <span class="tg">Psychoarchaeology</span> Start (Red + Blue Skip):** Requires tech skips in your slice. <span class="tg">Psychoarchaeology</span> lets you use tech specialties without exhausting them and generate TG from tech planets. Rush <span class="tb">Gravity Drive</span> R1, then <span class="tr">Nanomachines</span>, Carrier II, Linkship II.
 
 ### B. Technology Paths
 
 **Path 1 - <span class="ty">AI Development Algorithm</span> Start:**
 
-**Round 1:** Nanomachines (R) - Your faction tech
+**Round 1:** <span class="tr">Nanomachines</span> (R) - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
 **Round 2:** <span class="tb">Dark Energy Tap</span> - Exploration + retreat flexibility
@@ -246,7 +246,7 @@ Ral Nel has two distinct tech paths:
 **Round 1:** <span class="tb">Gravity Drive</span> (B) - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
 
-**Round 2:** Nanomachines (R) - Your faction tech
+**Round 2:** <span class="tr">Nanomachines</span> (R) - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
 **Round 3:** Carrier II (BB) - Transport capacity
@@ -265,7 +265,7 @@ Ral Nel has two distinct tech paths:
 
 - **<span class="ty">Graviton Laser System</span> (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
 
-- **<span class="tg">Bio-Stims</span> (G)** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y↔G breakthrough.
+- **<span class="tg">Bio-Stims</span> (G)** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready <span class="tr">Nanomachines</span> for double use. Needs green skip but works with Y↔G breakthrough.
 
 ---
 
@@ -279,7 +279,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 1. **Trade** - 4 commodities + economic foundation. Need resources with your weak home system.
 
-2. **Technology** - Start your tech path immediately. Nanomachines R1 for PDS placement and utility.
+2. **Technology** - Start your tech path immediately. <span class="tr">Nanomachines</span> R1 for PDS placement and utility.
 
 3. **Construction** - Forward space dock on better production planet. Your home is only 2 resources.
 
@@ -330,7 +330,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ### B. Game Plan
 
-**Early Game (R1-2):** Trade for breakthrough unlock via Politics secondary. Get Nanomachines R1. Expand to 2 systems (3 if <span class="tb">Gravity Drive</span> and good production). Move Space Dock to better production planet with Miniaturization. Deploy PDS on conquered planets for instant defense.
+**Early Game (R1-2):** Trade for breakthrough unlock via Politics secondary. Get <span class="tr">Nanomachines</span> R1. Expand to 2 systems (3 if <span class="tb">Gravity Drive</span> and good production). Move Space Dock to better production planet with Miniaturization. Deploy PDS on conquered planets for instant defense.
 
 **Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get <span class="tb">Gravity Drive</span> and Carrier II. Transport PDS with fleet for mobile coverage.
 

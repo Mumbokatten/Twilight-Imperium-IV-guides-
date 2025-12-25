@@ -96,9 +96,9 @@ Gashlai Physiology grants unique mobility through supernovas, which normally des
 
 <span class="tr">Prototype War Sun II</span> is your critical upgrade, reducing cost from 12 to 10 and dramatically increasing movement from 1 to 3. This mobility transformation makes your war sun significantly more flexible and threatening, allowing rapid repositioning and system control.
 
-**Magmus Reactor Ω (RR):** Your ships can move into supernovas. Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
+**<span class="tr">Magmus Reactor</span> Ω (RR):** Your ships can move into supernovas. Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
 
-Magmus Reactor allows your ships to move into and stop in supernovas, while also granting PRODUCTION 5 to any supernova containing your units. This creates powerful production hubs in systems other factions cannot access, combining your Gashlai Physiology mobility with economic benefits.
+<span class="tr">Magmus Reactor</span> allows your ships to move into and stop in supernovas, while also granting PRODUCTION 5 to any supernova containing your units. This creates powerful production hubs in systems other factions cannot access, combining your Gashlai Physiology mobility with economic benefits.
 
 ### E. Leaders
 
@@ -168,7 +168,7 @@ Speaker order is not particularly important for Muaat. Prefer to have one neighb
 
 **Nice to Have:**
 
-- Supernova access (Gashlai Physiology moves through them, Magmus Reactor creates PRODUCTION 5 zones in them)
+- Supernova access (Gashlai Physiology moves through them, <span class="tr">Magmus Reactor</span> creates PRODUCTION 5 zones in them)
 - Red technology specialties (accelerate path to Prototype War Sun II)
 - High planet count for influence generation
 
@@ -240,7 +240,7 @@ Your main technology path focuses on acquiring <span class="tr">Prototype War Su
 
 **Round 2:** <span class="tr">Self-Assembly Routines</span> (R) or <span class="tr">Magmus Reactor</span> (RR) if supernova available
 - *Self-Assembly Routines:* After PRODUCTION, place 1 mech. After mech destroyed, gain 1 TG
-- *Magmus Reactor:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
+- *<span class="tr">Magmus Reactor</span>:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
 
 **Round 3:** <span class="tr">Prototype War Sun II</span> (RRRY) - **MAJOR POWER SPIKE**
 - Your war sun transforms from move 1 to move 3
@@ -322,7 +322,7 @@ Your ideal fleet composition in each system:
 
 **Mid Game (R3-R4):** Acquire <span class="tr">Prototype War Sun II</span>—the move 3 upgrade changes everything. Build a second war sun to unlock Magmus commander. Use Star Forge aggressively, spending strategy tokens for fighters and destroyers. Once your commander unlocks, Star Forge generates trade goods while building your fleet. Position your war suns to threaten Mecatol Rex and opponent territories.
 
-**Late Game (R5-R6):** Control Mecatol Rex using your war sun's superior holding power. Park your war sun there with supporting ships and use Star Forge to reinforce. If you have Magmus Reactor, implement your supernova strategy for untouchable production zones. Deploy your hero Nova Seed for critical strategic moments—creating supernova barriers or denying objectives. Remember that turning systems into supernovas is permanent.
+**Late Game (R5-R6):** Control Mecatol Rex using your war sun's superior holding power. Park your war sun there with supporting ships and use Star Forge to reinforce. If you have <span class="tr">Magmus Reactor</span>, implement your supernova strategy for untouchable production zones. Deploy your hero Nova Seed for critical strategic moments—creating supernova barriers or denying objectives. Remember that turning systems into supernovas is permanent.
 
 ---
 

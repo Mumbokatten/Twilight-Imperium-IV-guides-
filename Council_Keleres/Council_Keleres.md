@@ -109,7 +109,7 @@ Ultimate law flexibility. Spend 1 TG/commodity to ignore ALL laws for the entire
 
 **Optimal:** **<span class="ty">Sarween Tools</span>** + **<span class="tb">Gravity Drive</span>**
 
-**Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. <span class="ty">Sarween Tools</span> gets you started on the yellow tech path, and <span class="tb">Gravity Drive</span> gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
+**Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. <span class="ty">Sarween Tools</span> gets you started on the yellow tech path, and <span class="tb">Gravity Drive</span> gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your <span class="ty">I.I.H.Q.</span> Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
 
 **Faction Technologies:**
 
@@ -185,7 +185,7 @@ Other players must spend 2 influence to activate the system that contains this s
 
 More annoying than great. Opponents must spend 2 influence to activate systems with your flagship, which can catch people off guard, but the stats are mediocre (7 combat x2, move 1). The influence tax is irritating but not game-breaking.
 
-### J. Breakthrough - **I.I.H.Q. Modernization (Y↔G)**
+### J. Breakthrough - **<span class="ty">I.I.H.Q.</span> Modernization (Y↔G)**
 
 When you gain this card, gain the Custodia Vigilia planet card and its legendary planet ability card. You are neighbours with all players that have units or control planets in or adjacent to the Mecatol Rex system.
 
@@ -209,7 +209,7 @@ Keleres wants flexibility and Mecatol Rex access. Your priorities:
 
 **Slice Priorities:**
 
-- **Access to Mecatol Rex** - CRITICAL. Your entire strategy revolves around MR control. You need a clear path to MR. I.I.H.Q. Modernization makes you neighbors with everyone near MR, so getting close is essential.
+- **Access to Mecatol Rex** - CRITICAL. Your entire strategy revolves around MR control. You need a clear path to MR. <span class="ty">I.I.H.Q.</span> Modernization makes you neighbors with everyone near MR, so getting close is essential.
 - **Position for forward space dock** - A planet next to Mecatol Rex where you can build a forward space dock is extremely valuable. This helps you reach and defend MR more easily.
 - **Legendary planets (Hope's End, Primor)** - Help solve your ground force problem (you only have 2 starting infantry).
 - **High value low planet count systems nearby** - Check nearby systems for high value single-planet systems to smooth out your early game expansion - single-planet systems are easier to capture with limited infantry.
@@ -221,7 +221,7 @@ Keleres wants flexibility and Mecatol Rex access. Your priorities:
 - **Extreme resource/influence imbalance** - You need both. Pure resource or pure influence slices limit your flexibility.
 
 **Summary:**
-Keleres needs Mecatol Rex access above all else. Choose your home system (Argent/Mentak/Xxcha) to match your slice's resource/influence distribution. Your I.I.H.Q. Modernization breakthrough makes MR control even more valuable—Custodia Vigilia buffs MR.
+Keleres needs Mecatol Rex access above all else. Choose your home system (Argent/Mentak/Xxcha) to match your slice's resource/influence distribution. Your <span class="ty">I.I.H.Q.</span> Modernization breakthrough makes MR control even more valuable—Custodia Vigilia buffs MR.
 
 ---
 
@@ -231,7 +231,7 @@ Keleres needs Mecatol Rex access above all else. Choose your home system (Argent
 
 Your Round 1 (R1) is rough due to limited ground forces. The priority order is:
 
-1. **Breakthrough Expedition** - Getting I.I.H.Q. Modernization (Y↔G) done early is very solid for value and peace of mind. You can unlock your breakthrough with your starting 2 commodities + 1 TG from Council Patronage (3 total), using your agent to spend commodities as trade goods. This lets you surprise the Trade holder and grab your breakthrough immediately using the Trade secondary.
+1. **Breakthrough Expedition** - Getting <span class="ty">I.I.H.Q.</span> Modernization (Y↔G) done early is very solid for value and peace of mind. You can unlock your breakthrough with your starting 2 commodities + 1 TG from Council Patronage (3 total), using your agent to spend commodities as trade goods. This lets you surprise the Trade holder and grab your breakthrough immediately using the Trade secondary.
 2. **Expansion** - Poor. You only have 2 infantry, which severely limits your ability to take multiple planets R1. You'll struggle to expand beyond 2 systems. This can be solved with Construction primary (building structures with infantry) or Warfare secondary (redeploying units). Production is part of the same problem - you have a space dock and decent production capacity, but limited ground forces means you can't capitalize on it fully.
 3. **Scoring** - Moderate. You can score some R1 objectives, but limited expansion hurts your scoring potential.
 4. **Technology** - Good. You start with 2 techs of your choice, giving you flexibility to begin your tech path immediately.
@@ -244,7 +244,7 @@ Your home system choice locks you into a specific economic profile. Choose poorl
 
 ### C. Mecatol Rex Dependence
 
-Your entire strategy revolves around controlling Mecatol Rex. I.I.H.Q. Modernization buffs MR with SPACE CANNON 5 and PRODUCTION 3, making it incredibly valuable. If you can't reach MR or lose control of it, you lose a major advantage. Always prioritize MR access and defense.
+Your entire strategy revolves around controlling Mecatol Rex. <span class="ty">I.I.H.Q.</span> Modernization buffs MR with SPACE CANNON 5 and PRODUCTION 3, making it incredibly valuable. If you can't reach MR or lose control of it, you lose a major advantage. Always prioritize MR access and defense.
 
 ---
 
@@ -252,7 +252,7 @@ Your entire strategy revolves around controlling Mecatol Rex. I.I.H.Q. Moderniza
 
 ### A. Starting Technologies
 
-You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well.
+You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Your <span class="ty">I.I.H.Q.</span> Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well.
 
 **Core Tech Goals:**
 
@@ -290,7 +290,7 @@ Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 - **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> (BBB)**, **<span class="ty">Predictive Intelligence</span> (YY)** - whatever you need
 
-**Note:** I.I.H.Q. Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
+**Note:** <span class="ty">I.I.H.Q.</span> Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
 
 ### C. Notes
 
@@ -348,7 +348,7 @@ Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade 
 
 ### B. Game Plan
 
-**Round 1 is critical - solve your expansion problem to get economy started.** You have one of the highest ceilings but lowest floors on start. With only 2 infantry, you need to execute R1 carefully. Get Construction primary for a bonus space dock to expand, or use Warfare secondary to produce more ground forces. You can also get I.I.H.Q. Modernization breakthrough R1 using your starting commodities + Council Patronage TG (3 total) with your agent. This gives you Custodia Vigilia, which provides 2 command tokens when opponents score Imperial and makes you neighbors with everyone near Mecatol Rex, opening up diplomatic options. Solving your R1 expansion problem gives you the ability to execute your strategy further down the line.
+**Round 1 is critical - solve your expansion problem to get economy started.** You have one of the highest ceilings but lowest floors on start. With only 2 infantry, you need to execute R1 carefully. Get Construction primary for a bonus space dock to expand, or use Warfare secondary to produce more ground forces. You can also get <span class="ty">I.I.H.Q.</span> Modernization breakthrough R1 using your starting commodities + Council Patronage TG (3 total) with your agent. This gives you Custodia Vigilia, which provides 2 command tokens when opponents score Imperial and makes you neighbors with everyone near Mecatol Rex, opening up diplomatic options. Solving your R1 expansion problem gives you the ability to execute your strategy further down the line.
 
 **Take Mecatol Rex R3 or later** once you have your techs and armada set up. With Custodia Vigilia's PRODUCTION 3 and SPACE CANNON 5, MR becomes a fortress. The PRODUCTION 3 lets you produce on MR without a space dock, and combined with <span class="ty">Agency Supply Network</span>, you can reinforce MR and another system simultaneously.
 
