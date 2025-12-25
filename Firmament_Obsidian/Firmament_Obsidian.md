@@ -681,11 +681,9 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Firmament Obsidian is the faction for players who like coming from behind and making big swing plays. You don't mind solving complicated board and diplomatic problems all game. You're not racing for early points—you're accumulating plots while appearing weak. You're building toward one of the biggest power spikes in the game when you transform into The Obsidian.
+Firmament Obsidian is the faction for players who like coming from behind and making big swing plays. You don't mind solving complicated board and diplomatic problems all game. You're not racing for early points—you're accumulating plots while appearing weak, building toward one of the biggest power spikes in the game.
 
-Your biggest strength is the dual-faction transformation. As Firmament, you puppet players by scoring their secrets, gaining facedown plot cards instead of victory points. As Obsidian, your home system doubles to 6 resources, all plots flip and activate, and your faction components upgrade to aggressive versions. Combined with strong flagship and combat abilities, you become a military juggernaut.
-
-Your value comes from diplomatic positioning and timing. Trade your PN early for commander unlock. Score opponent secrets to accumulate plots. Transform around Round 3 with 3+ plots—not too early, not too late. Your 6-resource Obsidian home funds big builds while plot abilities stack against puppeted targets.
+Your biggest strength is the dual-faction transformation. As Firmament, you puppet players by scoring their secrets. As Obsidian, your home system doubles to 6 resources, all plots activate, and you become a military juggernaut. Trade your PN early, score opponent secrets, transform around Round 3 with 3+ plots.
 
 The table learns to fear your transformation. You looked friendly, made deals, fell behind on points. Then you flip, and suddenly you're targeting them with stacked combat abilities and a resource advantage. You don't conquer through early aggression—you position quietly, then strike decisively.
 
