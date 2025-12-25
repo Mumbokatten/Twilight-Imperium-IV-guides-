@@ -34,11 +34,9 @@
 
 ## I. Introduction
 
-The Deepwrought Scholarate is TI4's coexistence and technology specialist, a faction that fundamentally reimagines how ground forces interact with planets. While other factions see invasion as winner-takes-all, you see it as an opportunity to establish shared research bases. You're the faction that can occupy enemy planets without controlling them, generate economic value from this coexistence, and use your technological superiority to outpace everyone at the table.
+The Deepwrought Scholarate is TI4's coexistence and technology specialist. While other factions see invasion as winner-takes-all, you establish shared research bases. Occupy enemy planets without controlling them, gain ocean cards from coexistence, and use technological superiority to outpace everyone at the table.
 
-Your defining trait is the coexistence mechanic combined with ocean cards. When your ground forces begin coexisting on a planet (sharing it with another player's units), you gain ocean cards that provide various economic and strategic benefits. This creates a unique playstyle where you're incentivized to spread your infantry across the galaxy, establishing research outposts on planets you don't fully control.
-
-The Deepwrought Scholarate excels at technological advancement, economic generation through ocean cards, and diplomatic flexibility. You start by researching 2 technologies during setup, giving you the strongest tech start in the entire game. Your faction technologies let you swap techs for better ones and generate trade goods from your ocean cards. You're not the strongest militarily, but you're the smartest - and intelligence wins wars.
+You start by researching 2 technologies during setup—the strongest tech start in the game. Spread infantry across the galaxy, coexist on planets you don't control, and generate passive income through ocean cards. You're not the strongest militarily, but you're the smartest—and intelligence wins wars.
 
 ## II. Playstyle
 

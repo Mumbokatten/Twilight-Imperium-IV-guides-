@@ -34,7 +34,7 @@
 
 Argent Flight is one of the most explosive combat factions in TI4. This faction excels at obliterating fighter screens with devastating ANTI-FIGHTER BARRAGE, spamming cheap destroyers for early aggression, and blasting enemies with PDS networks. Argent Flight isn't subtle—it's about destroying your opponents' fleets efficiently and controlling space through superior firepower.
 
-The payoff? Watching opponents realize their fighters are target practice for your Raid Formation, seeing capital ships get shredded by excess AFB hits, and denying entire systems with PDS coverage. When your destroyers arrive, space combat becomes a massacre.
+Watch opponents realize their fighters are target practice for your Raid Formation, capital ships get shredded by excess AFB hits, and entire systems get denied by PDS coverage. When your destroyers arrive, space combat becomes a massacre.
 
 ## II. Playstyle
 

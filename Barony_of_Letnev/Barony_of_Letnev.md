@@ -34,7 +34,7 @@
 
 The Barony of Letnev is the strongest fighting faction in TI4. This faction excels at building massive armadas of capital ships, controlling space through sheer naval superiority, and grinding opponents down in prolonged space combat. Letnev isn't about finesse—it's about overwhelming firepower and fleet capacity that other factions simply can't match.
 
-The payoff? Watching opponents realize they can't contest your 5-dreadnought deathball, seeing their fleets crumble under sustained rerolls from Munitions Reserves, and dominating every space battle through superior fleet composition. When Letnev shows up, space combat becomes a foregone conclusion.
+Watch opponents realize they can't contest your dreadnought deathball, their fleets crumble under sustained rerolls from Munitions Reserves, and every space battle becomes a foregone conclusion.
 
 ## II. Playstyle
 

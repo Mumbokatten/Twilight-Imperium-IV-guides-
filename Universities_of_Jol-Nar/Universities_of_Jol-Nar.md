@@ -34,11 +34,7 @@
 
 The Universities of Jol-Nar are TI4's technological elite—a faction for players who understand that knowledge is the ultimate currency. While other factions struggle to afford a single tech per round, you're researching two. While they debate which technology path to pursue, you have access to all of them. You're not competing in the tech race—you've already won it.
 
-This is a faction about being the most technologically advanced player at the table. Everyone at the table wants what you're selling, and selling it costs you nothing. The Fragile weakness that makes others dismiss you? It's offset by superior units, rerolls, and technological advantages they can't match. You don't look threatening on paper—until your "weak" fleet defeats their "strong" one.
-
-Watch opponents realize too late that you have twice their tech count. See the table line up to buy from you while you profit from doing what you planned anyway. You don't conquer through brute force—you win through overwhelming technological supremacy.
-
-**"Knowledge is power."**
+This faction is about being the most technologically advanced player at the table. Everyone wants what you're selling, and selling it costs you nothing. Your combat penalty makes others dismiss you—until your "weak" fleet defeats their "strong" one through superior upgrades. You don't conquer through brute force—you win through overwhelming technological supremacy.
 
 ## II. Playstyle
 

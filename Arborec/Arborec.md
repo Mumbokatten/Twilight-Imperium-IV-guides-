@@ -34,7 +34,7 @@
 
 Arborec is one of the most satisfying factions to master in TI4. This faction rewards patience and strategic thinking with an unstoppable late-game presence that can overwhelm the entire board. Arborec isn't about explosive early plays—it's about methodical expansion and leveraging a unique production economy to dominate by mid-to-late game.
 
-The payoff? Watching your opponents realize too late that you've quietly grown an empire of 30+ infantry across 10+ planets, each capable of producing units. The slow burn becomes an unstoppable wildfire.
+Watch opponents realize too late that you've quietly grown an empire of infantry across the board, each capable of producing units. The slow burn becomes an unstoppable wildfire.
 
 ## II. Playstyle
 

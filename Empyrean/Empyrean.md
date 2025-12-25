@@ -28,11 +28,11 @@
 
 ## I. Introduction
 
-The Empyrean are TI4's nebula specialists and diplomatic leverage masters—a faction that transforms restrictive terrain into tactical advantage. While others see nebulae as movement penalties, you see natural habitat. Your Voidborn ability ignores nebula movement restrictions entirely. Your two promissory notes create unprecedented diplomatic flexibility.
+The Empyrean are TI4's frontier exploration and diplomatic leverage masters. Your two promissory notes create unprecedented flexibility—grant movement through your ships or sever adjacencies to break the map for opponents. You're the faction that controls who can move where.
 
-This is a faction about spatial control through permission and positioning. You grant or deny movement through your ships with Aetherpassage. You sever adjacencies with Void Tether, breaking the map for opponents while maintaining your own routes. Everything builds toward becoming the faction that controls who can move where.
+This is a faction about spatial control and exploration dominance. Your agent refunds command tokens for constant frontier exploration. Your hero floods the board with frontier tokens and explores them all simultaneously. Everything builds toward becoming everyone's necessary ally while extracting value from empty space.
 
-Watch opponents realize their invasion plans depend on your permission. Your commander returns command tokens when they activate near you. You don't dominate through raw power—you dominate through controlling space itself.
+Watch opponents realize their plans depend on your permission. You don't dominate through raw power—you dominate through controlling space itself.
 
 ## II. Playstyle
 

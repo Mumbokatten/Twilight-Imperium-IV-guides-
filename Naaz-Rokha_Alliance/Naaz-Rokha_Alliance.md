@@ -26,11 +26,9 @@
 
 ## I. Introduction
 
-The Naaz-Rokha Alliance are TI4's triple-threat faction—a combination of planet optimization, relic acquisition, and devastating mech combat that few factions can match. While others explore once and accept whatever they draw, you're seeing two options for every planet and cherry-picking the absolute best. Your planets become superior through premium attachments. Your fragment collection converts into powerful relics. Your Z-Grav Eidolon mechs win the critical battles that matter.
+The Naaz-Rokha Alliance are TI4's triple-threat faction—planet optimization, relic acquisition, and devastating mech combat. While others explore once and accept whatever they draw, you see two options for every planet and cherry-pick the best. Your planets become superior through premium attachments. Your fragment collection converts into powerful relics. Your mechs win the critical battles that matter.
 
-This is a faction about quality over quantity. Your Distant Suns ability doubles your exploration draws—choose the best planet attachments to upgrade ordinary worlds into superior assets, select optimal relic fragments to complete sets for powerful relics through Fabrication, and discard mediocre results your opponents would be forced to accept. Your mechs are among the most powerful combat units in the game, flipping to space mode to devastate opponents in the critical battles you choose to fight. Fabrication converts excess fragments into relics for game-changing power or command tokens for expansion.
-
-Watch opponents realize their planets are inferior to yours, their relic count can't match yours, and their fleets crumble against your powerful mechs. You don't conquer through overwhelming numbers—you dominate through superior planets, powerful relics, and devastating mechs when battles matter most.
+This faction is about quality over quantity. Double exploration draws let you upgrade ordinary worlds into superior assets and complete relic sets faster than anyone. Your mechs flip to space mode during combat, devastating opponents when battles matter. You don't conquer through overwhelming numbers—you dominate through superior planets, powerful relics, and mechs that win the fights you choose.
 
 ## II. Playstyle
 

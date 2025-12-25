@@ -35,9 +35,7 @@
 
 The Titans of Ul are TI4's infrastructure specialists—a faction for players who understand that the galaxy belongs to those who build it. While other factions race to expand and conquer, you're planting sleeper tokens on every planet you explore. Those dormant markers transform into defensive networks and production facilities the moment you activate them. You're not just controlling territory—you're terraforming it into an extension of your will.
 
-This is a faction about distributed power. Your Hel-Titan PDS are both structures and ground forces, defending planets while producing ships simultaneously. Your Commander turns every production into trade goods. Your sleeper tokens let you awaken infrastructure anywhere, instantly.
-
-You don't fight for the galaxy—you build it, one awakened Hel-Titan at a time.
+This is a faction about distributed power. Your special PDS are both structures and ground forces, defending planets while producing ships simultaneously. Awaken infrastructure anywhere, instantly. You don't fight for the galaxy—you build it, one awakened titan at a time.
 
 ## II. Playstyle
 

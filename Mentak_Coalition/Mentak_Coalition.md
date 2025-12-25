@@ -32,9 +32,9 @@
 
 ## I. Introduction
 
-The Mentak Coalition are TI4's pirate faction that steal trade goods via Pillage and ambush opponents with pre-combat hits through Ambush. They excel at economic theft from wealthy neighbors and leverage cruiser-heavy fleets for sustained aggression. Mentak rewards positioning near high-commodity factions, understanding when to Pillage versus avoid conflict, and building cruiser swarms for Ambush and Commander synergies.
+The Mentak Coalition are TI4's pirate faction. Steal trade goods from wealthy neighbors, ambush opponents with pre-combat hits, and leverage cruiser-heavy fleets for sustained aggression. Position yourself near high-commodity factions and extract value from every transaction.
 
-The payoff? Being a potentially rich bitch leveraging your mobility and faction tech. Steal opponent economies through Pillage, strike with pre-combat Ambush hits, and extract promissory notes via Commander after every space combat victory.
+Watch your economy grow through theft while opponents fund your empire. Strike with free pre-combat hits, extract promissory notes after every space combat victory, and become surprisingly rich through piracy.
 
 ## II. Playstyle
 

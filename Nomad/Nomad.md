@@ -32,9 +32,7 @@
 
 ## I. Introduction
 
-The Nomad are temporal wanderers—collectors of agents and artifacts from across the multiverse. You're the only faction that starts with your flagship on the board, and you have three agents instead of one.
-
-Your Memoria flagship treats any system with your mechs as adjacent. Place mechs across the galaxy and your flagship can appear anywhere in a single move. Future Sight lets you see which way the political winds blow, rewarding you with trade goods for voting correctly.
+The Nomad are temporal wanderers—collectors of agents and artifacts from across the multiverse. You're the only faction that starts with your flagship on the board, and you have three agents instead of one. Your flagship treats any system with your mechs as adjacent, letting you appear anywhere in a single move. Correct agenda predictions reward you with trade goods.
 
 This is a faction about leverage. Every agent exhaust is a favor someone owes you. Every mech placement expands your reach. Every agenda is income. You're the table's broker, and everyone needs what you're selling.
 

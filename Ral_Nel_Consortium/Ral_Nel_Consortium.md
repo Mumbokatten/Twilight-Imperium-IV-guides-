@@ -32,7 +32,9 @@
 
 ## I. Introduction
 
-The Ral Nel Consortium (from Thunder's Edge expansion) are TI4's mobile structure specialists. They can transport PDS and Space Docks on their ships, trigger structure abilities remotely via Linkship destroyers, and respond defensively when opponents activate systems near them. Ral Nel rewards creative positioning, defensive play, and understanding when mobility beats static defenses.
+The Ral Nel Consortium are TI4's mobile structure specialists. While other factions build static PDS networks and anchored space docks, yours fly with your fleets. Transport structures on your ships, reposition them as the game evolves, and trigger PDS fire remotely through your destroyers. When opponents activate systems near you, respond defensively before they can act.
+
+This faction rewards creative positioning and understanding when mobility beats static defenses. Your infrastructure isn't a liability to protect—it's a weapon that moves where you need it. The galaxy learns that attacking near Ral Nel space means facing firepower from systems they thought were safe.
 
 ---
 

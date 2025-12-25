@@ -35,7 +35,7 @@
 
 The Council Keleres is TI4's most adaptable faction, built around choosing one of three sub-factions (Argent Flight, Mentak Coalition, or Xxcha Kingdom) and inheriting their home system. This faction excels at political manipulation, economic consistency, Mecatol Rex control, and insane production capabilities. Keleres isn't about raw power—it's about flexibility, agenda control, and leveraging political influence to shape the game.
 
-The payoff? Watching opponents realize you've controlled every agenda that matters, seeing your economy stay consistent with Council Patronage, producing on Mecatol Rex without a space dock thanks to Custodia Vigilia, and using Agency Supply Network to produce in two systems at once. When Keleres shows up, the galaxy bends to your will.
+Watch opponents realize you've controlled every agenda that matters, your economy stays consistent, and you're producing on Mecatol Rex without a space dock. When Keleres shows up, the galaxy bends to your will.
 
 ## II. Playstyle
 

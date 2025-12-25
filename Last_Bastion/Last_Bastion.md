@@ -26,11 +26,9 @@
 
 ## I. Introduction
 
-The Last Bastion are TI4's escalating combat faction—a faction for players who understand that every battle makes you stronger. While other factions avoid combat to preserve their fleets, you seek it. Each engagement permanently improves your units through Galvanize. That dreadnought you fought with three times? It's not the same ship anymore—it's evolved into something far more dangerous.
+The Last Bastion are TI4's escalating combat faction. While other factions avoid combat to preserve their fleets, you seek it. Each engagement permanently improves your units. That dreadnought you fought with three times? It's evolved into something far more dangerous.
 
-This is a faction about transformation through warfare. Your Liberate ability turns invasions into economic snowballs. Your Helios space docks transform worthless planets into production centers. Your flagship grows stronger with every system you conquer. Everything builds toward sustained aggression where losses don't matter because survivors become unstoppable.
-
-Watch opponents realize their early aggression against you was a mistake. Your units that survived those battles now roll extra dice in every fight. Your flagship that started weak now dominates every engagement. Your conquered planets produce more than their neighbors' pristine worlds. You don't avoid combat—you weaponize it.
+Watch opponents realize their early aggression against you was a mistake. Your survivors roll extra dice, your flagship grows stronger with every conquest, and your space docks transform worthless planets into production centers. You don't avoid combat—you weaponize it.
 
 ## II. Playstyle
 

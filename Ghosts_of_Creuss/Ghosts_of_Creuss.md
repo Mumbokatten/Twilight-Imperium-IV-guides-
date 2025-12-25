@@ -32,9 +32,9 @@
 
 ## I. Introduction
 
-Ghosts of Creuss owns the map. Quantum Entanglement makes every wormhole adjacent to every other wormhole—for you only. Slipstream gives +1 movement from wormholes. You start with Gravity Drive. While others crawl across the galaxy, you're already there.
+Ghosts of Creuss owns the map. Every wormhole is adjacent to every other wormhole—for you only. Extra movement from wormholes, starting with blue tech, and the ability to place new wormhole tokens. While others crawl across the galaxy, you're already there.
 
-Your Creuss Gate isn't a home system, which matters for rules interactions. You can place additional wormhole tokens through your tech, mech, and promissory note, building a personal highway network across the galaxy.
+Your home system isn't technically a home system, which matters for rules interactions. You build a personal highway network across the galaxy that only you can fully exploit.
 
 ## II. Playstyle
 

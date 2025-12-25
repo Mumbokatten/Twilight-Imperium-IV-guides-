@@ -32,9 +32,7 @@
 
 ## I. Introduction
 
-The Yin Brotherhood are TI4's suicide bombers—a faction for players who understand that sacrifice isn't loss, it's investment. While other factions protect their ships and mourn their casualties, you're calculating which destroyer to detonate next. Your cheap units exist to die profitably.
-
-This is a faction about asymmetric value. Your Devotion ability guarantees kills after combat rounds. Your Indoctrination steals enemy infantry before ground combat begins. Your Yin Spinner spawns free infantry everywhere you produce. Death fuels your expansion—every sacrifice generates more value than survival would have.
+The Yin Brotherhood are TI4's suicide bombers—a faction for players who understand that sacrifice isn't loss, it's investment. While other factions protect their ships and mourn their casualties, you're calculating which destroyer to detonate next. Your cheap units exist to die profitably. Guaranteed kills after combat rounds. Stolen infantry before ground combat begins. Free ground forces spawning with every production.
 
 Watch opponents hesitate before engaging your fleets. They know your destroyers are missiles waiting to launch. They know your flagship nukes everything when it dies. They know attacking you costs more than it gains. That fear, that careful calculation before every engagement, is your real advantage.
 

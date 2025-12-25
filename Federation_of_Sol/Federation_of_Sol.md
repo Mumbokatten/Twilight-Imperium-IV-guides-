@@ -32,7 +32,7 @@
 
 ## I. Introduction
 
-Federation of Sol is TI4's vanilla faction—and that's a compliment. No gimmicks, no weird restrictions, just solid fundamentals that let you do anything. Versatile gives you +1 command token per round. Neural Motivator draws you extra action cards. Your carriers and infantry are pre-upgraded. You have the tools to expand, fight, trade, or politic as the game demands.
+Federation of Sol is TI4's vanilla faction—and that's a compliment. No gimmicks, no weird restrictions, just solid fundamentals that let you do anything. Extra command tokens every round, extra action cards, pre-upgraded carriers and infantry. You have the tools to expand, fight, trade, or politic as the game demands.
 
 Sol's flexibility means you can adapt to any board state, any objective spread, any table dynamic. Other factions specialize; you generalize. That makes Sol excellent for learning the game and surprisingly strong at high levels when played by someone who understands how to leverage options.
 

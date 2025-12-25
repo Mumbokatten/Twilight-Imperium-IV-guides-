@@ -33,7 +33,9 @@
 
 ## I. Introduction
 
-The Firmament / The Obsidian are Twilight Imperium's **dual-faction transformation powerhouse**, the only faction that fundamentally changes identity mid-game. You begin as **The Firmament**, a shadow manipulator that scores other players' secret objectives without gaining points, instead collecting plot cards that grant powerful abilities against those "puppeted" players. When you choose, you transform into **The Obsidian**, a military juggernaut whose home planets become hollow (3/0 resource each, totaling 6 resources), all plots flip to revealed status unleashing their effects, and your faction components upgrade to aggressive versions. This faction rewards strategic deception, perfect transformation timing, and understanding both phases of your dual nature. No other faction plays two completely different games in sequence.
+The Firmament / The Obsidian are Twilight Imperium's dual-faction transformation powerhouse—the only faction that fundamentally changes identity mid-game. You begin as The Firmament, a shadow manipulator that scores other players' secret objectives, collecting plot cards instead of points.
+
+When you transform into The Obsidian, everything changes. Your home system doubles its resources, all plots activate against puppeted players, and your faction upgrades to aggressive versions. No other faction plays two completely different games in sequence.
 
 ---
 

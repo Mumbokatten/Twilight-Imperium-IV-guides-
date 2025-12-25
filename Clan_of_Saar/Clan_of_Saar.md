@@ -9,7 +9,9 @@
 
 ## I. Introduction
 
-The Clan of Saar are Twilight Imperium's **mobile production masters**, the only faction whose space docks float in space, move like ships, and produce without controlling planets. Your unique Floating Factories break fundamental TI4 rules: you can relocate infrastructure instantly, invade from unexpected angles, and score objectives through Nomadic even if you abandon your home system entirely. Saar excels at three things: **invasion mobility** (factories move to support attacks), **production flexibility** (distributed production with commander), and **asteroid control** (block opponents with Chaos Mapping). You leverage Scavenge (gain 1 trade good per planet conquered) for economic acceleration. This faction rewards aggressive expansion, positional flexibility, and understanding when to float your factories forward versus when to consolidate. No faction matches Saar's ability to produce anywhere on the map.
+The Clan of Saar are Twilight Imperium's mobile production masters—the only faction whose space docks float in space, move like ships, and produce without controlling planets. Your Floating Factories break fundamental TI4 rules: relocate infrastructure instantly, invade from unexpected angles, and score objectives even if you abandon your home system entirely.
+
+No faction matches Saar's ability to produce anywhere on the map. Aggressive expansion, positional flexibility, and knowing when to float forward versus consolidate—that's the Saar way.
 
 ## II. Playstyle
 

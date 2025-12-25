@@ -33,7 +33,9 @@
 
 ## I. Introduction
 
-The L1Z1X Mindnet is Twilight Imperium's **premier dreadnought faction**. Deploy massive Super Dreadnoughts, unleash devastating BOMBARDMENT against enemy ground forces, and conquer planets across the galaxy. Your faction excels at territorial expansion through overwhelming military force, stealing enemy infrastructure when you conquer their worlds, and projecting unstoppable late-game power. L1Z1X isn't about subtle diplomacy—it's about building the most terrifying fleet in the galaxy and using it to dominate through conquest.
+The L1Z1X Mindnet is Twilight Imperium's premier dreadnought faction. Deploy massive dreadnoughts, unleash devastating bombardment against enemy ground forces, and conquer planets across the galaxy. When you take worlds, you steal enemy infrastructure too.
+
+L1Z1X isn't about subtle diplomacy—it's about building the most terrifying fleet in the galaxy and using it to dominate through conquest.
 
 ## II. Playstyle
 
