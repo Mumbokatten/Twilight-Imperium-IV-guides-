@@ -171,7 +171,7 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 **Yellow:**
 
 - Likely to have teched: **<span class="ty">Sarween Tools</span>** (starting), **<span class="ty">Scanlink Drone Network</span>**
-- Hero targets: **E-Res Siphons** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), Predictive Intelligence (Y), Transit Diodes (YY), Integrated Economy (YYY)
+- Hero targets: **<span class="ty">E-Res Siphons</span>** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), Predictive Intelligence (Y), Transit Diodes (YY), Integrated Economy (YYY)
 
 **Red:**
 
