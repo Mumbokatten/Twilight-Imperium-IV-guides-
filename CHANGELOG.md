@@ -4,8 +4,10 @@
 
 ## Planned Features
 
+- **Exploration Deck Guide** - Comprehensive breakdown of cultural, industrial, and hazardous exploration decks
 - **Exploration Guide** - Add exploration tile analysis to Naaz-Rokha guide
 - **Objective Deep Dives** - Specific tips, tricks, and considerations for each objective under Stage I/II sections
+- **Secret Objectives Guide** - Stage 1 and Stage 2 secret objective analysis and strategies
 - **Bonus Game Elements** - Dedicated sections covering relics, exploration, agendas, and other variable components
 - **Enhanced Game Plans** - More detailed phase-by-phase strategy with decision trees
 - **Strategy Card Guides** - Faction-specific notes and considerations for each strategy card pick
