@@ -3,3 +3,6 @@
 
 # Transcripts
 *.mp3.txt
+
+# macOS
+.DS_Store
