@@ -255,7 +255,9 @@ Your entire strategy revolves around controlling Mecatol Rex. I.I.H.Q. Moderniza
 You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well.
 
 **Core Tech Goals:**
+
 1. **Executive Order (Y)** - Draw and immediately vote on an agenda. Political control.
+
 2. **Agency Supply Network (YY)** - Produce in two systems per action
 
 **Recommended Starting Techs:**

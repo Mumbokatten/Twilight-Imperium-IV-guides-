@@ -211,9 +211,13 @@ Argent is one of the most flexible factions in draft. You can adapt to any slice
 Your Round 1 (R1) priority order: **Scoring > Tech > Production > Breakthrough**
 
 Argent needs a quick start to capitalize on their strong early game. Focus on:
+
 1. **Scoring** - Expand to score your R1 Stage I objective while you're strong. Use your early power to get points on the board.
+
 2. **Tech** - Get on your tech path early
+
 3. **Production** - Build units to solidify your position
+
 4. **Breakthrough** - Secure Wing Transfer if going that route
 
 **Expansion Notes:** You have 2 destroyers (capacity 1 each), 1 carrier (capacity 4), and 5 infantry. This gives you incredible expansion flexibility—you can send each destroyer independently to grab 2 systems 2-move away, and use your carrier for a 3rd system. Aim for 3-4 systems R1. Consider nabbing an equidistant planet if your neighbor is a trade-minded faction who won't contest it aggressively.
@@ -225,7 +229,9 @@ You have 3 home planets which helps with objectives and gives you an extra comma
 ### B. Late Game Scaling
 
 Argent can struggle in late game for two reasons:
+
 1. **Big capital ship fleets** - Opponents building dreadnoughts and war suns reduces the value of your AFB advantage
+
 2. **Lack of transport capacity** - Relying on destroyers with capacity 1 makes it hard to move large armies and mechs around the board late game
 
 You'll need to transition to carriers and heavier ships for capacity, or lean on structure lockdown strategy with Aerie Hololattice.

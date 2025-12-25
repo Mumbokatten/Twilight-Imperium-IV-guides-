@@ -166,9 +166,13 @@ Saar wants resources for production and mobile positioning for factory flexibili
 Your Round 1 (R1) priority order: **Scoring > Expansion + Production > Technology > Breakthrough**
 
 Focus on:
+
 1. **Scoring** - Win from ahead as Saar. You need to capitalize on your super start and hope people can never catch up as you go. Score early and often.
+
 2. **Expansion + Production** - Priority to get a ton of ships/ground troops out to secure your bigger than average slice.
+
 3. **Technology** - Pushing toward Floating Factory II and Chaos Mapping. Tech is nice but you're fine without it if you have to prioritize troops.
+
 4. **Breakthrough** - Try to snipe Thunder's Edge if available, otherwise leave it. Definitely for R1.
 
 **Expansion Notes:** Grab your entire slice and maybe more Round 1. Get mechs and tons of ships out early to become a massive presence right away and grab more than your fair share. Your mobile factories and Scavenge ability reward maximum aggression.

@@ -200,9 +200,13 @@ Letnev needs access to Fracture or Mecatol Rex for scoring, high resources for f
 Your Round 1 (R1) priority order: **Breakthrough > Scoring > Production > Tech**
 
 Focus on:
+
 1. **Breakthrough (Gravleash Maneuvers)** - MUST GET. This is essential for your fleet mobility and combat power. Top priority.
+
 2. **Scoring** - Expand to score your R1 Stage I objective early.
+
 3. **Production** - Build ships to allow for more expansion.
+
 4. **Technology** - Fourth priority. Your tech path is slimmed so not a disaster to skip tech round 1.
 
 With your strong home system (6 resources), you can try to go for all of these R1 if possible. But if you have to choose, prioritize Breakthrough first, then Scoring, then Production, then Tech.
@@ -232,8 +236,11 @@ However, being the strongest fighting faction makes you a threat to everyone. Th
 You start with **Antimass Deflectors** and **Plasma Scoring**.
 
 Your main tech path focuses on:
+
 1. **Gravity Drive (B)** - Essential for mobility
+
 2. **Destroyer II (RR) and Non-Euclidean Shielding (RR)** - Upgraded destroyers and double Sustain Damage on all units
+
 3. **Fleet Logistics and Lightwave Deflector** - Late game mobility and defense
 
 ### B. Tech Path

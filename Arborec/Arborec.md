@@ -179,8 +179,11 @@ When drafting your slice and choosing speaker order as Arborec:
 - **If possible, sit next to a target neighbor** - Position yourself next to a faction you can pressure or extract value from.
 
 **Slice Priorities:**
+
 1. **Fracture access** - Positioning that lets you reach The Fracture easily. Fracture provides valuable planets and relics for expansion and objectives.
+
 2. **Scoring opportunities** - Access to Mecatol Rex, legendary planets, or objective-friendly systems. You need points to win.
+
 3. **Tech skip (blue preferred)** - Blue skip enables the blue tech path (Gravity Drive (B), Carrier II (BB), Fleet Logistics (BB)), which is your strongest option. Green/red skips can work for non-blue paths but are less impactful.
 
 **Slice Features to Avoid:**
@@ -406,7 +409,9 @@ You have three main strategic paths to choose from Round 2-3 (R2-R3):
 - **No vulnerable neighbor factions** (everyone around you is strong)
 
 **Fracture Execution:**
+
 1. **Move to Fracture** (first movement)
+
 2. **Use breakthrough to move again** (second movement - exploring happens at the end of this movement to grab the relic)
 
 **Prefer the 2-planet/relic side** over the 1-planet side, but both work depending on board state.

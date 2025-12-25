@@ -278,10 +278,15 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 **Round 3+:** Use N'orr Supremacy to research unit upgrades from combat wins.
 
 **Priority order for available upgrades:**
+
 1. **Carrier II** - Capacity 6 for transporting armies
+
 2. **Exotrireme II** - Move 2, Direct Hit immunity, kamikaze ability
+
 3. **Fighter II** - Move 2, can move without transport
+
 4. **Destroyer II** - AFB 6 (x3)
+
 5. **PDS II** - Deep Space Cannon
 
 **Flexibility:** If taking Technology strategy card, consider Duranium Armor (RR) or Fleet Logistics (BB) based on game needs.

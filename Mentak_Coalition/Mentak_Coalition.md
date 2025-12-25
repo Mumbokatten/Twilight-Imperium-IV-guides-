@@ -536,9 +536,13 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 Alliance preference ranking based on commander utility:
 
 **Top Tier (Money-Making):**
+
 1. **Muaat** (Magmus) - Gain 1 TG after spending strategy pool token. Incredible passive income.
+
 2. **Titans of Ul** (Tungstantus) - Gain 1 TG when using production. Synergizes perfectly with your playstyle.
+
 3. **Crimson Rebellion** (Ahk Siever) - Gain 1 commodity/TG after any combat. You fight constantly—this prints money.
+
 4. **Deepwrought** (Aello) - Gain commodity/TG when others research tech. Passive income.
 
 **Useful:**

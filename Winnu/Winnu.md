@@ -87,7 +87,9 @@ Free structures on Mecatol Rex. Instant fortification. Once you take it, you sho
 **Choose any 1 technology that has no prerequisites (0 cost techs only)**
 
 **Best Options:**
+
 1. **Dark Energy Tap** - For value and action-heavy playstyle.
+
 2. **AI Development Algorithm** - For defensive and slow roll playstyle.
 
 **Notes:** Being able to pick any tech is flexible, but not all techs are made equal. These 2 offer differing playstyles—DET for more value and actions, AI DEV for more defensive and slow rolling your way to victory.
