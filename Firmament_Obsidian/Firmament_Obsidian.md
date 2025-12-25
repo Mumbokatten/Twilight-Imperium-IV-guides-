@@ -534,10 +534,10 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 |-------------------------------------------------------------------------|--------|
 | **Spendies**                                                            |        |
 | Erect a Monument (Spend 8 resources)                                    | 🟢     |
-| Sway the Council (Spend 8 influence)                                    | 🔴     |
+| Sway the Council (Spend 8 influence)                                    | 🟢     |
 | Negotiate Trade Routes (Spend 5 trade goods)                            | 🟢     |
 | Lead from the Front (Spend 3 tokens from tactic/strategy pools)         | 🟢     |
-| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🔴     |
+| Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
 | **Control**                                                             |        |
 | Expand Borders (Control 6 planets in non-home systems)                  | 🟢     |
 | Corner the Market (Control 4 planets with same trait)                   | 🟢     |
