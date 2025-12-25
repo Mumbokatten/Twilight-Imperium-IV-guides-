@@ -681,7 +681,7 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Firmament Obsidian is the faction for players who understand that deception and transformation create unstoppable advantages. You're not racing for early points—you're accumulating plots while appearing weak. You're building toward one of the biggest power spikes in the game when you transform into The Obsidian.
+Firmament Obsidian is the faction for players who like coming from behind and making big swing plays. You don't mind solving complicated board and diplomatic problems all game. You're not racing for early points—you're accumulating plots while appearing weak. You're building toward one of the biggest power spikes in the game when you transform into The Obsidian.
 
 Your biggest strength is the dual-faction transformation. As Firmament, you puppet players by scoring their secrets, gaining facedown plot cards instead of victory points. As Obsidian, your home system doubles to 6 resources, all plots flip and activate, and your faction components upgrade to aggressive versions. Combined with strong flagship and combat abilities, you become a military juggernaut.
 
