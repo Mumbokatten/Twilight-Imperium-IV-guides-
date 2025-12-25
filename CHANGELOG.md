@@ -16,7 +16,7 @@
 
 ---
 
-## Version 0.1 - December 25, 2024
+## Version 0.1 - December 25, 2025
 
 ### Features
 
