@@ -566,7 +566,7 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 |--------------------------------------------------------------------------|--------|
 | **Combat**                                                               |        |
 | Unveil Flagship (Win space combat with flagship)                         | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
+| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |
 | Betray a Friend (Win combat vs player whose PN you have)                | 🟢     |
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
@@ -574,7 +574,7 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
 | Turn their Fleets to Dust (SPACE CANNON destroy last ship)              | 🔴     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟢     |
-| Fight With Precision (AFB destroy last fighter)                         | 🔴     |
+| Fight With Precision (AFB destroy last fighter)                         | 🟡     |
 | **Ships in Systems**                                                     |        |
 | Threaten Enemies (Ships adjacent to another player's HS)                | 🟢     |
 | Cut Supply Lines (Ships in system with enemy space dock)                | 🟢     |
