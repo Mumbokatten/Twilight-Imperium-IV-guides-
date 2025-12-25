@@ -240,21 +240,21 @@ After securing Psychospore breakthrough R1, your tech path splits based on objec
 
 This is your default path. More solid and consistent, prioritizes mobility and fleet composition.
 
-**Round 1:** Sarween Tools (Y) if you teched R1 and have influence slice (value pick), otherwise skip tech R1 and secure Psychospore breakthrough only
-- **Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1
+**Round 1:** <span class="ty">Sarween Tools</span> (Y) if you teched R1 and have influence slice (value pick), otherwise skip tech R1 and secure Psychospore breakthrough only
+- **<span class="ty">Sarween Tools</span>:** When you use PRODUCTION, reduce the combined cost of produced units by 1
 
-**Round 2:** Dark Energy Tap or Antimass Deflectors - Prefer Dark Energy Tap for resources. **With blue skip:** Can skip this and go Sarween Tools if greedy, or straight to Gravity Drive (B)
-- **Dark Energy Tap:** After you perform a tactical action in a system with a frontier token, if you have ships there, explore that token. Your ships can retreat into adjacent systems that don't contain other players' units
-- **Antimass Deflectors:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units
+**Round 2:** <span class="tb">Dark Energy Tap</span> or <span class="tb">Antimass Deflectors</span> - Prefer Dark Energy Tap for resources. **With blue skip:** Can skip this and go Sarween Tools if greedy, or straight to <span class="tb">Gravity Drive</span> (B)
+- **<span class="tb">Dark Energy Tap</span>:** After you perform a tactical action in a system with a frontier token, if you have ships there, explore that token. Your ships can retreat into adjacent systems that don't contain other players' units
+- **<span class="tb">Antimass Deflectors</span>:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units
 
-**Round 3:** Gravity Drive (B) if you skipped DET/Antimass, otherwise Carrier II (BB) - Magen (counts as blue) + Gravity Drive (B) + blue skip
-- **Gravity Drive (B):** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **Carrier II (BB):** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
+**Round 3:** <span class="tb">Gravity Drive</span> (B) if you skipped DET/Antimass, otherwise <span class="tb">Carrier II</span> (BB) - Magen (counts as blue) + Gravity Drive (B) + blue skip
+- **<span class="tb">Gravity Drive</span> (B):** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
+- **<span class="tb">Carrier II</span> (BB):** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
 
-**Round 4:** Carrier II (BB) if skipped R3, otherwise Fleet Logistics (BB)
-- **Fleet Logistics (BB):** During each of your turns in the action phase, you may perform 2 actions instead of 1
+**Round 4:** <span class="tb">Carrier II</span> (BB) if skipped R3, otherwise <span class="tb">Fleet Logistics</span> (BB)
+- **<span class="tb">Fleet Logistics</span> (BB):** During each of your turns in the action phase, you may perform 2 actions instead of 1
 
-**Round 5:** Fleet Logistics (BB) if skipped R4, otherwise flex for objectives
+**Round 5:** <span class="tb">Fleet Logistics</span> (BB) if skipped R4, otherwise flex for objectives
 
 **Tech Requirements:**
 

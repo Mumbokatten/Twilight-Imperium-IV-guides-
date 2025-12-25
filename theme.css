@@ -28,6 +28,12 @@
   --status-available: #4a9f6e;
   --status-unavailable: #c45c5c;
 
+  /* Tech Colors */
+  --tech-blue: #4a9fd4;
+  --tech-red: #d45a5a;
+  --tech-green: #5ad47a;
+  --tech-yellow: #d4c44a;
+
   /* Typography */
   --font-heading: 'Orbitron', sans-serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -751,6 +757,29 @@ dd {
   th, td {
     padding: var(--spacing-sm);
   }
+}
+
+/* ========================================
+   Tech Color Classes
+   ======================================== */
+.tech-blue, .tb {
+  color: var(--tech-blue);
+  font-weight: 600;
+}
+
+.tech-red, .tr {
+  color: var(--tech-red);
+  font-weight: 600;
+}
+
+.tech-green, .tg {
+  color: var(--tech-green);
+  font-weight: 600;
+}
+
+.tech-yellow, .ty {
+  color: var(--tech-yellow);
+  font-weight: 600;
 }
 
 /* ========================================
