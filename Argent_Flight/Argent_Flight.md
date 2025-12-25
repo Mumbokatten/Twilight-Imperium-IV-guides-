@@ -98,13 +98,13 @@ This makes your ANTI-FIGHTER BARRAGE terrifying. After destroying all fighters, 
 - **<span class="ty">Sarween Tools</span>** - Reduces production costs by 1 resource
 - **<span class="tr">Plasma Scoring</span>** - Provides red prerequisite and combat boost
 
-**Recommended:** **<span class="ty">Sarween Tools</span> + <span class="tr">Plasma Scoring</span>** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to <span class="ty">Aerie Hololattice</span> (Y) if going structure path. <span class="tr">Plasma Scoring</span> leads to <span class="tr">Strike Wing Alpha II</span> (RR). <span class="tg">Neural Motivator</span> is bait—green doesn't lead to any techs Argent actually wants.
+**Recommended:** **<span class="ty">Sarween Tools</span> + <span class="tr">Plasma Scoring</span>** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to <span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> if going structure path. <span class="tr">Plasma Scoring</span> leads to <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">. <span class="tg">Neural Motivator</span> is bait—green doesn't lead to any techs Argent actually wants.
 
 **Faction Technologies:**
 
 You typically acquire both faction technologies during the game.
 
-**<span class="tr">Strike Wing Alpha II</span> (RR):**
+**<span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 *Cost: 1 | Combat: 7 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 6 (x3)*
 
 When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry in the space area of the active system.
@@ -113,7 +113,7 @@ When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1
 - Strong upgrade that makes your destroyers even more lethal against fighters and now kills infantry in space
 - High priority tech for combat-focused builds
 
-**<span class="ty">Aerie Hololattice</span> (Y):**
+**<span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION: 1 ability as if it were a unit.*
 
 - Blocks enemy movement through systems with your structures (space docks, PDS), creating defensive zones
@@ -172,7 +172,7 @@ Solid flagship. SPACE CANNON immunity is situationally strong. Useful for assaul
 
 When you activate a system that contains only your units, you may place command tokens from your reinforcements into any systems adjacent to that system that contain only your units; at the end of this action, you may move ships among the active system and systems adjacent to it that contain your command tokens.
 
-**B↔Y Synergy:** Blue and yellow technologies count as each other for prerequisites. This opens up tech flexibility—<span class="ty">Sarween Tools</span> (Y) can count as blue, <span class="tb">Gravity Drive</span> (B) can count as yellow, etc.
+**B↔Y Synergy:** Blue and yellow technologies count as each other for prerequisites. This opens up tech flexibility—<span class="ty">Sarween Tools</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> can count as blue, <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> can count as yellow, etc.
 
 **Note:** The breakthrough ability itself is pretty bad (requires only your units in systems, awkward activation). You get this primarily for the B↔Y tech synergy to open up blue tech options.
 
@@ -242,32 +242,32 @@ You'll need to transition to carriers and heavier ships for capacity, or lean on
 
 ### A. Overview
 
-You start with **TWO technologies of your choice** from <span class="tg">Neural Motivator</span> (G), <span class="ty">Sarween Tools</span> (Y), or <span class="tr">Plasma Scoring</span> (R).
+You start with **TWO technologies of your choice** from <span class="tg">Neural Motivator</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">, <span class="ty">Sarween Tools</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, or <span class="tr">Plasma Scoring</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">.
 
 **Recommended R1 Tech Choices:**
 
 - **<span class="ty">Sarween Tools</span> + <span class="tr">Plasma Scoring</span>** - The only reasonable choice. Gives flexibility and easy expansion.
 
-Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR) for destroyer dominance. Deviations available for structure setup if needed.
+Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> for destroyer dominance. Deviations available for structure setup if needed.
 
 ### B. Tech Path (Standard)
 
-**Starting Tech Choices:** <span class="ty">Sarween Tools</span> (Y) + <span class="tr">Plasma Scoring</span> (R)
+**Starting Tech Choices:** <span class="ty">Sarween Tools</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> + <span class="tr">Plasma Scoring</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 
 **Assumptions:** You've obtained Wing Transfer breakthrough (B↔Y synergy) through expedition tokens or Thunder's Edge. This makes blue and yellow technologies count as each other for prerequisites.
 
-**Round 1: <span class="tr">Magen Defense Grid</span> (R)**
+**Round 1: <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">**
 - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces. (Ω) When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures.
 - **Why:** Free infantry on your structure planets when activated, AND free hit in ground combat. Excellent defensive tech. Easy to get with <span class="tr">Plasma Scoring</span> prerequisite.
 - **Prerequisites:** 1 red (<span class="tr">Plasma Scoring</span>)
 
-**Round 2: <span class="ty">Aerie Hololattice</span> (Y) - CAN DOUBLE TECH**
+**Round 2: <span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - CAN DOUBLE TECH**
 - Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION: 1 ability as if it were a unit.
 - **Why:** Blocks enemy movement through your systems (insane lockdown), AND makes every structure planet produce units without needing a space dock. Game-changing for board control.
 - **Prerequisites:** 1 yellow (<span class="ty">Sarween Tools</span>)
 - **Note:** If you have good economy, consider double teching this round to get ahead on tech path.
 
-**Round 3: <span class="tr">Strike Wing Alpha II</span> (RR) - CAN DOUBLE TECH**
+**Round 3: <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - CAN DOUBLE TECH**
 - Cost: 1 | Combat: 7 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 6 (x3)
 - When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry in the space area of the active system.
 - **Why:** This is your power spike. Better AFB (6 instead of 9), 3 dice instead of 2, AND kills infantry in space with 9-10 rolls. Devastating destroyer upgrade that defines your combat superiority.
@@ -278,7 +278,7 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR)
 
 **With Wing Transfer Breakthrough:**
 
-- **<span class="tb">Gravity Drive</span> (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
   - **Prerequisites:** 1 blue (<span class="ty">Sarween Tools</span> counts as blue with B↔Y)
 - **PDS II (RY)** - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
   - **Prerequisites:** 1 red + 1 yellow (<span class="tr">Plasma Scoring</span> + <span class="ty">Sarween Tools</span>)
@@ -286,10 +286,10 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR)
 
 **Without Wing Transfer Breakthrough (or with blue skip):**
 
-- **<span class="tb">Antimass Deflectors</span> (B) or <span class="tb">Dark Energy Tap</span> (B)** - Get blue prerequisite to join tech path
+- **<span class="tb">Antimass Deflectors</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or <span class="tb">Dark Energy Tap</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Get blue prerequisite to join tech path
   - <span class="tb">Antimass Deflectors</span>: Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
   - <span class="tb">Dark Energy Tap</span>: After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
-- **<span class="tb">Gravity Drive</span> (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
   - **Prerequisites:** 1 blue (<span class="tb">Antimass</span> or <span class="tb">DET</span>)
 - **Skip PDS II** - Without breakthrough, prioritize getting into blue tech path over PDS II
 
@@ -303,17 +303,17 @@ Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR)
 **Tech Path Summary:**
 
 **With Wing Transfer Breakthrough:**
-1. <span class="tr">Magen Defense Grid</span> (R) - Defense + free infantry
-2. <span class="ty">Aerie Hololattice</span> (Y) - Structure lockdown + production
-3. <span class="tr">Strike Wing Alpha II</span> (RR) - Destroyer power spike
-4. <span class="tb">Gravity Drive</span> (B) + PDS II (RY) - Mobility + SPACE CANNON spam (double tech)
+1. <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Defense + free infantry
+2. <span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Structure lockdown + production
+3. <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Destroyer power spike
+4. <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + PDS II (RY) - Mobility + SPACE CANNON spam (double tech)
 5. Carrier II (BB) - Capacity
 
 **Without Wing Transfer Breakthrough:**
-1. <span class="tr">Magen Defense Grid</span> (R) - Defense + free infantry
-2. <span class="ty">Aerie Hololattice</span> (Y) - Structure lockdown + production
-3. <span class="tr">Strike Wing Alpha II</span> (RR) - Destroyer power spike
-4. <span class="tb">Antimass Deflectors</span>/<span class="tb">Dark Energy Tap</span> (B) + <span class="tb">Gravity Drive</span> (B) - Join blue tech path (double tech, skip PDS II)
+1. <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Defense + free infantry
+2. <span class="ty">Aerie Hololattice</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Structure lockdown + production
+3. <span class="tr">Strike Wing Alpha II</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Destroyer power spike
+4. <span class="tb">Antimass Deflectors</span>/<span class="tb">Dark Energy Tap</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Join blue tech path (double tech, skip PDS II)
 5. Carrier II (BB) - Capacity
 
 **Key Notes:**
