@@ -93,15 +93,15 @@ No need to worry about alliances when you can grab them all. Jokes aside, a smal
 
 **Starting Technologies:**
 
-**Bio-Stims (Green):**
+**<span class="tg">Bio-Stims</span> (Green):**
 *You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.*
 
-Helps a lot early game for extra resources from tech specialty planets. Late game becomes a flexibility tool for resource/influence management or readying key technologies like Predictive Intelligence.
+Helps a lot early game for extra resources from tech specialty planets. Late game becomes a flexibility tool for resource/influence management or readying key technologies like <span class="ty">Predictive Intelligence</span>.
 
-**Predictive Intelligence (Yellow):**
+**<span class="ty">Predictive Intelligence</span> (Yellow):**
 *At the end of your turn, you may exhaust this card to redistribute your command tokens. When you cast votes during the agenda phase, you may cast 3 additional votes. If you do, and the outcome you voted for is not resolved, exhaust this card.*
 
-Combos extremely well with your surplus of tokens from home system, agent, and faction abilities. One of the most unpredictive factions because of Predictive—constant token redistribution and flexible voting keep opponents guessing.
+Combos extremely well with your surplus of tokens from home system, agent, and faction abilities. One of the most unpredictive factions because of <span class="ty">Predictive Intelligence</span>—constant token redistribution and flexible voting keep opponents guessing.
 
 **Faction Technologies:**
 
@@ -246,32 +246,32 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 
 **Relic Path (Vaults of the Heir Focused):**
 
-**Round 1:** Dark Energy Tap
+**Round 1:** <span class="tb">Dark Energy Tap</span>
 - *After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token*
 - Gives you 1 explore from frontier tokens
 
-**Round 2:** Transit Diodes (YY)
+**Round 2:** <span class="ty">Transit Diodes</span> (YY)
 - *Exhaust to remove up to 4 ground forces from the game board and place them on planets you control*
 - Now have 2 explores from DET
 
-**Round 3:** Gravity Drive (B)
+**Round 3:** <span class="tb">Gravity Drive</span> (B)
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 - Movement flexibility and positioning
 
-**Round 4:** Sling Relay (B), purge Predictive Intelligence for 3rd relic
+**Round 4:** <span class="tb">Sling Relay</span> (B), purge <span class="ty">Predictive Intelligence</span> for 3rd relic
 - *ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks*
 
-**Round 5:** Fleet Logistics (BB) if Tech is picked, purge Transit Diodes for 4th relic
+**Round 5:** <span class="tb">Fleet Logistics</span> (BB) if Tech is picked, purge <span class="ty">Transit Diodes</span> for 4th relic
 - *During each of your turns of the action phase, you may perform 2 actions instead of 1*
 - End with 4 relics and strong blue tech suite
 
 **Non-Relic Path (Standard Blue Tech):**
 
-**Round 1:** Dark Energy Tap
+**Round 1:** <span class="tb">Dark Energy Tap</span>
 - *After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token*
 - Explore value without committing to relic path
 
-**Round 2:** Gravity Drive (B)
+**Round 2:** <span class="tb">Gravity Drive</span> (B)
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 - Movement flexibility and positioning
 
@@ -279,11 +279,11 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 - *Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6*
 - Essential for mass Crimson Legionnaire transport
 
-**Round 4:** Fleet Logistics (BB), purge Bio-Stims
+**Round 4:** <span class="tb">Fleet Logistics</span> (BB), purge <span class="tg">Bio-Stims</span>
 - *During each of your turns of the action phase, you may perform 2 actions instead of 1*
 - Double activation for scoring and tactical flexibility
 
-**Round 5:** Light/Wave Deflector (BBB), purge DET after teching
+**Round 5:** <span class="tb">Lightwave Deflector</span> (BBB), purge DET after teching
 - *Your ships can move through systems that contain other players' ships*
 - Movement flexibility through enemy systems
 
@@ -345,13 +345,13 @@ Your ideal fleet composition:
 - **Mechs (late game)** - Starlancer disruption in critical systems (Mecatol, chokepoints)
 - **Flagship** - Strong combat vs non-stolen tokens, chase down opponents
 
-Your 3-resource home system limits early production—prioritize Crimson Legionnaires for efficiency and expand aggressively for more resources. Carrier II dramatically increases transport capacity for mass invasion forces. Fleet Logistics (R4-5) unlocks double activations for scoring and tactical flexibility.
+Your 3-resource home system limits early production—prioritize Crimson Legionnaires for efficiency and expand aggressively for more resources. Carrier II dramatically increases transport capacity for mass invasion forces. <span class="tb">Fleet Logistics</span> (R4-5) unlocks double activations for scoring and tactical flexibility.
 
 ### B. Game Plan
 
 Your game plan is patient accumulation into overwhelming late game power. Solve your 3-resource economy early through Trade and expansion. Build diplomatic relationships while quietly collecting tokens through small combats. Start your complicated tech path while managing the constant decision paralysis of what to purge and when. Your real strength emerges mid-late game when you've accumulated multiple commander abilities and endless tokens.
 
-**Early Game:** Expand aggressively to solve your 3-resource economy problem. Use Bio-Stims on tech skip planets for efficient breakthrough. Pick small fights with neighbors to start collecting tokens via Edict—you only get 1 token per opponent, so fight everyone, not just one player. Alternatively, negotiate diplomatically to avoid early aggression while still making deals with your agent. Make early deals with your agent to build relationships and solve economy. Start your tech path early since your path is complicated and requires planning.
+**Early Game:** Expand aggressively to solve your 3-resource economy problem. Use <span class="tg">Bio-Stims</span> on tech skip planets for efficient breakthrough. Pick small fights with neighbors to start collecting tokens via Edict—you only get 1 token per opponent, so fight everyone, not just one player. Alternatively, negotiate diplomatically to avoid early aggression while still making deals with your agent. Make early deals with your agent to build relationships and solve economy. Start your tech path early since your path is complicated and requires planning.
 
 **Mid Game:** Commander unlocks at 2 stolen tokens—this is when Imperia comes online and you start wielding other factions' abilities. Stack multiple commander abilities for combinations that break normal game rules. Your token economy becomes absurd with Leadership—use it for crazy late game stalls and screwing people's token pools. If pursuing relics, start purging techs through Vaults of the Heir. Make continuous trades to keep resources flowing for both plastic and tech.
 
@@ -383,7 +383,7 @@ Your game plan is patient accumulation into overwhelming late game power. Solve 
 | **Ships in Systems** | |
 | Amass Wealth (Spend 3 influence, 3 resources, 3 trade goods)            | 🟢     |
 | Discover Lost Outposts (Control 2 planets with attachments)             | 🔴     |
-| Engineer a Marvel (Have flagship or war sun on board)                   | 🟢     |
+| Engineer a Marvel (Have flagship or War Sun on board)                   | 🟢     |
 | Explore Deep Space (Units in 3 systems without planets)                 | 🟢     |
 | Intimidate the Council (Ships in 2 systems adjacent to MR)              | 🟡     |
 | Make History (Units in 2 systems with legendary/MR/anomalies)           | 🟢     |
@@ -409,7 +409,7 @@ Your game plan is patient accumulation into overwhelming late game power. Solve 
 | Brave the Void (Win combat in anomaly)                                  | 🟢     |
 | Darken the Skies (Win combat in another player's HS)                    | 🟢     |
 | Demonstrate your Power (3+ non-fighter ships after space combat)        | 🟢     |
-| Destroy their Greatest Ship (Destroy war sun/flagship)                   | 🟢     |
+| Destroy their Greatest Ship (Destroy War Sun/flagship)                   | 🟢     |
 | Fight With Precision (AFB destroy last fighter)                         | 🔴     |
 | Make an Example (BOMBARDMENT destroy last ground forces)                | 🟡     |
 | Spark a Rebellion (Win combat vs VP leader)                              | 🟢     |

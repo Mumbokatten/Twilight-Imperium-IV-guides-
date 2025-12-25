@@ -187,9 +187,9 @@ The table also feels since they can't stop you in the late game by taking your h
 
 ### A. Overview
 
-You start with **Antimass Deflectors** (0-cost Blue), allowing asteroid passage and -1 to space cannon rolls against you. Crucial to combo with your **Chaos Mapping** as asteroid belts are home—where you are and people nearby you are not.
+You start with **<span class="tb">Antimass Deflectors</span>** (0-cost Blue), allowing asteroid passage and -1 to space cannon rolls against you. Crucial to combo with your **<span class="tb">Chaos Mapping</span>** as asteroid belts are home—where you are and people nearby you are not.
 
-You're not very tech dependent—you like more plastic over techs. **Chaos Mapping** is your defining tech and you get it every game. It serves as security and flexibility—being able to produce every single turn either a destroyer or a flagship BEFORE you move is incredible and keeps people guessing on your true strength.
+You're not very tech dependent—you like more plastic over techs. **<span class="tb">Chaos Mapping</span>** is your defining tech and you get it every game. It serves as security and flexibility—being able to produce every single turn either a destroyer or a flagship BEFORE you move is incredible and keeps people guessing on your true strength.
 
 ### B. Technology Path
 

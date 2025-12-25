@@ -88,9 +88,9 @@ Free structures on Mecatol Rex. Instant fortification. Once you take it, you sho
 
 **Best Options:**
 
-1. **Dark Energy Tap** - For value and action-heavy playstyle.
+1. **<span class="tb">Dark Energy Tap</span>** - For value and action-heavy playstyle.
 
-2. **AI Development Algorithm** - For defensive and slow roll playstyle.
+2. **<span class="tr">AI Development Algorithm</span>** - For defensive and slow roll playstyle.
 
 **Notes:** Being able to pick any tech is flexible, but not all techs are made equal. These 2 offer differing playstyles—DET for more value and actions, AI DEV for more defensive and slow rolling your way to victory.
 
@@ -219,7 +219,7 @@ People know that if you get rolling, it's surprisingly hard to stop you. You can
 
 ### A. Overview
 
-You start with **one technology of your choice** (0-cost tech only). **Dark Energy Tap** or **AI Development Algorithm** are the best choices.
+You start with **one technology of your choice** (0-cost tech only). **<span class="tb">Dark Energy Tap</span>** or **<span class="tr">AI Development Algorithm</span>** are the best choices.
 
 Your starting tech determines your path: fast blue path or slow red path. Fast blue path gets you mobile early with Gravity Drive. Slow red path focuses on defensive tech and unit upgrades.
 

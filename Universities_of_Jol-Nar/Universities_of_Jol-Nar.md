@@ -160,8 +160,8 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 
 **Blue:**
 
-- Likely to have teched: **Antimass Deflectors** (starting), Gravity Drive (B), **Dark Energy Tap**
-- Hero targets: **Fleet Logistics** (BB), **Light/Wave Deflector** (BBB), Sling Relay (B)
+- Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), Gravity Drive (B), **<span class="tb">Dark Energy Tap</span>**
+- Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), Sling Relay (B)
 
 **Green:**
 
@@ -170,8 +170,8 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 
 **Yellow:**
 
-- Likely to have teched: **Sarween Tools** (starting), **Scanlink Drone Network**
-- Hero targets: **E-Res Siphons** (YY) (faction), **Graviton Laser System** (Y), Predictive Intelligence (Y), Transit Diodes (YY), Integrated Economy (YYY)
+- Likely to have teched: **<span class="ty">Sarween Tools</span>** (starting), **<span class="ty">Scanlink Drone Network</span>**
+- Hero targets: **E-Res Siphons** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), Predictive Intelligence (Y), Transit Diodes (YY), Integrated Economy (YYY)
 
 **Red:**
 

@@ -80,11 +80,11 @@ Incredible for getting cheap relics and super flexible for late game stalling. K
 
 **Starting Technologies:**
 
-**Psychoarchaeology** - You can use technology specialties on planets you control without exhausting them, even if those planets are exhausted. During the action phase, you can exhaust planets you control that have technology specialties to gain 1 trade good.
+**<span class="tg">Psychoarchaeology</span>** - You can use technology specialties on planets you control without exhausting them, even if those planets are exhausted. During the action phase, you can exhaust planets you control that have technology specialties to gain 1 trade good.
 
 Small economic flex tool. Most of the time you don't want to exhaust a tech skip planet for just 1 TG since they usually provide more resources/influence on their own. Mostly skip this in favor of increasing mobility through Gravity Drive and Carrier II.
 
-**AI Development Algorithm** - When you research a unit upgrade technology, you may exhaust this card to ignore any 1 prerequisite. When 1 or more of your units use PRODUCTION, you may exhaust this card to reduce the combined cost of the produced units by the number of unit upgrade technologies that you own.
+**<span class="tr">AI Development Algorithm</span>** - When you research a unit upgrade technology, you may exhaust this card to ignore any 1 prerequisite. When 1 or more of your units use PRODUCTION, you may exhaust this card to reduce the combined cost of the produced units by the number of unit upgrade technologies that you own.
 
 Great tool if you plan to go for a few unit upgrades. However, NRA commonly goes for value and utility techs instead, so not always the best value for your playstyle.
 

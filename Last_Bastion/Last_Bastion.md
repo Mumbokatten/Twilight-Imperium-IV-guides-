@@ -88,13 +88,13 @@ Your unique space dock. Increases planet resources by +1. Core unit for transfor
 
 **Blue:**
 
-- **Antimass Deflectors** - Move through asteroids, -1 to enemy SPACE CANNON. If your slice has a lot of/key asteroid belts.
-- **Dark Energy Tap** - Explore frontier tokens, retreat flexibility. If you have empty systems for bonus value.
+- **<span class="tb">Antimass Deflectors</span>** - Move through asteroids, -1 to enemy SPACE CANNON. If your slice has a lot of/key asteroid belts.
+- **<span class="tb">Dark Energy Tap</span>** - Explore frontier tokens, retreat flexibility. If you have empty systems for bonus value.
 
 **Yellow:**
 
-- **Sarween Tools** - Reduce production cost by 1. If you want to smooth out early game on top of getting to your faction docks.
-- **Scanlink Drone Network** - Explore 1 planet per activation. Would not suggest.
+- **<span class="ty">Sarween Tools</span>** - Reduce production cost by 1. If you want to smooth out early game on top of getting to your faction docks.
+- **<span class="ty">Scanlink Drone Network</span>** - Explore 1 planet per activation. Would not suggest.
 
 **Faction Technologies:**
 

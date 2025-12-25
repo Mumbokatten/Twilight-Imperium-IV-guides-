@@ -230,9 +230,9 @@ You don't score easy Round 1-2 (R1-R2) points like other factions. Accept this. 
 
 **Starting Technology:** Magen Defense Grid - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces.
 
-You start with **Magen Defense Grid**. Your R1 priority is securing **Psychospore breakthrough expedition (R↔G)**.
+You start with **<span class="tr">Magen Defense Grid</span>**. Your R1 priority is securing **Psychospore breakthrough expedition (R↔G)**.
 
-**Critical Synergy:** Psychospore's R↔G synergy allows your red and green techs to count as each other for prerequisites. The breakthrough itself is NOT a tech and does NOT count as a prerequisite. It simply enables your **Magen Defense Grid** to count as **green** when researching green techs, allowing you to get **Letani Warrior II (GG) on R2** with just 1 green skip!
+**Critical Synergy:** Psychospore's R↔G synergy allows your red and green techs to count as each other for prerequisites. The breakthrough itself is NOT a tech and does NOT count as a prerequisite. It simply enables your **<span class="tr">Magen Defense Grid</span>** to count as **green** when researching green techs, allowing you to get **Letani Warrior II (GG) on R2** with just 1 green skip!
 
 After securing Psychospore breakthrough R1, your tech path splits based on objectives and slice.
 
@@ -247,11 +247,11 @@ This is your default path. More solid and consistent, prioritizes mobility and f
 - **<span class="tb">Dark Energy Tap</span>:** After you perform a tactical action in a system with a frontier token, if you have ships there, explore that token. Your ships can retreat into adjacent systems that don't contain other players' units
 - **<span class="tb">Antimass Deflectors</span>:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units
 
-**Round 3:** <span class="tb">Gravity Drive</span> (B) if you skipped DET/Antimass, otherwise <span class="tb">Carrier II</span> (BB) - Magen (counts as blue) + Gravity Drive (B) + blue skip
+**Round 3:** <span class="tb">Gravity Drive</span> (B) if you skipped DET/Antimass, otherwise Carrier II (BB) - Magen (counts as blue) + Gravity Drive (B) + blue skip
 - **<span class="tb">Gravity Drive</span> (B):** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
-- **<span class="tb">Carrier II</span> (BB):** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
+- **Carrier II (BB):** Move 2, Capacity 6 (upgrade from Move 1, Capacity 4)
 
-**Round 4:** <span class="tb">Carrier II</span> (BB) if skipped R3, otherwise <span class="tb">Fleet Logistics</span> (BB)
+**Round 4:** Carrier II (BB) if skipped R3, otherwise <span class="tb">Fleet Logistics</span> (BB)
 - **<span class="tb">Fleet Logistics</span> (BB):** During each of your turns in the action phase, you may perform 2 actions instead of 1
 
 **Round 5:** <span class="tb">Fleet Logistics</span> (BB) if skipped R4, otherwise flex for objectives

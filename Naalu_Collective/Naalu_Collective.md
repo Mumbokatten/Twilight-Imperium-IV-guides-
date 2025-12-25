@@ -90,11 +90,11 @@ Combat 8 fighters provide additional combat power in early scraps. Can be impact
 
 **Starting Technologies:**
 
-**Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
+**<span class="ty">Sarween Tools</span>** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
 
-**Neural Motivator** - When you gain command tokens during the status phase, gain 1 additional command token.
+**<span class="tg">Neural Motivator</span>** - When you gain command tokens during the status phase, gain 1 additional command token.
 
-**Notes:** Two of those technologies you just love to start with. Neural Motivator gives 4-5 extra action cards over the course of the game. Sarween Tools saves probably 8-10 resources spent on production over the course of the game.
+**Notes:** Two of those technologies you just love to start with. <span class="tg">Neural Motivator</span> gives 4-5 extra action cards over the course of the game. <span class="ty">Sarween Tools</span> saves probably 8-10 resources spent on production over the course of the game.
 
 **Faction Technologies:**
 
@@ -219,22 +219,22 @@ Strong economic start with bonus action cards. Focus on fighter upgrades. Best p
 
 ### B. Tech Path
 
-**Starting Tech:** Sarween Tools + Neural Motivator
+**Starting Tech:** <span class="ty">Sarween Tools</span> + <span class="tg">Neural Motivator</span>
 
-**Round 1:** Dark Energy Tap (if available from slice/deals)
+**Round 1:** <span class="tb">Dark Energy Tap</span> (if available from slice/deals)
 - Extra frontier token, retreat flexibility.
 
 **Round 2:** Hybrid Crystal Fighter II (GB)
 - Faction tech. Independent movement, 0.5 fleet cost.
 
-**Round 3:** Gravity Drive (B)
+**Round 3:** <span class="tb">Gravity Drive</span> (B)
 - +1 move to 1 ship after activating.
 
-**Round 4:** Carrier II (BB) or Fleet Logistics (BB)
-- Carrier II for capacity, Fleet Logistics for double actions.
-- Fleet Logistics enables crazy Imperial scoring on Mecatol and then also scoring first with the Imperial card in the last round.
+**Round 4:** Carrier II (BB) or <span class="tb">Fleet Logistics</span> (BB)
+- Carrier II for capacity, <span class="tb">Fleet Logistics</span> for double actions.
+- <span class="tb">Fleet Logistics</span> enables crazy Imperial scoring on Mecatol and then also scoring first with the Imperial card in the last round.
 
-**Note:** If blue tech skip, can go Gravity Drive first (Round 2).
+**Note:** If blue tech skip, can go <span class="tb">Gravity Drive</span> first (Round 2).
 
 ---
 

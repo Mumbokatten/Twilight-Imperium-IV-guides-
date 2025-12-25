@@ -86,15 +86,15 @@ Gashlai Physiology grants unique mobility through supernovas, which normally des
 
 **Starting Technology:**
 
-**Plasma Scoring (R):** When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+**<span class="tr">Plasma Scoring</span> (R):** When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
 
-Plasma Scoring opens red technology paths and synergizes excellently with your war sun's BOMBARDMENT 3 (x3) capability. You can roll an additional die during bombardment, effectively creating BOMBARDMENT 3 (x4) for devastating ground invasions.
+<span class="tr">Plasma Scoring</span> opens red technology paths and synergizes excellently with your war sun's BOMBARDMENT 3 (x3) capability. You can roll an additional die during bombardment, effectively creating BOMBARDMENT 3 (x4) for devastating ground invasions.
 
 **Faction Technologies:**
 
-**Prototype War Sun II (RRRY):** Muaat War Sun | Cost: 10 | Combat: 3 (x3) | Move: 3 | Capacity: 6 | BOMBARDMENT 3 (x3) | Sustain Damage | Other players' units in this system lose the Planetary Shield ability.
+**<span class="tr">Prototype War Sun II</span> (RRRY):** Muaat War Sun | Cost: 10 | Combat: 3 (x3) | Move: 3 | Capacity: 6 | BOMBARDMENT 3 (x3) | Sustain Damage | Other players' units in this system lose the Planetary Shield ability.
 
-Prototype War Sun II is your critical upgrade, reducing cost from 12 to 10 and dramatically increasing movement from 1 to 3. This mobility transformation makes your war sun significantly more flexible and threatening, allowing rapid repositioning and system control.
+<span class="tr">Prototype War Sun II</span> is your critical upgrade, reducing cost from 12 to 10 and dramatically increasing movement from 1 to 3. This mobility transformation makes your war sun significantly more flexible and threatening, allowing rapid repositioning and system control.
 
 **Magmus Reactor Ω (RR):** Your ships can move into supernovas. Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
 
@@ -112,7 +112,7 @@ Umbat combos exceptionally well with mobile fighting fleets. Combined with Avern
 
 Magmus unlocks easily for Muaat since you start with a war sun and only need to produce one more. Once unlocked, every time you spend a strategy command counter, you gain 1 trade good. This transforms Star Forge usage into an economic engine—you generate trade goods while reinforcing your fleets, creating self-sustaining expansion.
 
-Typically, you build a second Prototype War Sun I before upgrading to Prototype War Sun II specifically to unlock this very strong commander. Once Magmus is active, you can use Star Forge and spend command counters on secondaries while generating trade goods, making every strategy token expenditure economically efficient.
+Typically, you build a second Prototype War Sun I before upgrading to <span class="tr">Prototype War Sun II</span> specifically to unlock this very strong commander. Once Magmus is active, you can use Star Forge and spend command counters on secondaries while generating trade goods, making every strategy token expenditure economically efficient.
 
 **Hero - Adjudicator Ba'al:** *Unlock: Have 3 scored objectives.* Nova Seed: After you move a war sun into a non-home system other than Mecatol Rex: You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile. If you do, purge this card and each planet card that corresponds to the replaced system tile.
 
@@ -220,7 +220,7 @@ Your war sun begins with move 1, making it extremely slow to project power acros
 
 **Solutions:**
 
-- Rush Prototype War Sun II (move 3) as highest priority tech
+- Rush <span class="tr">Prototype War Sun II</span> (move 3) as highest priority tech
 - Build a second war sun to cover more territory
 
 ---
@@ -229,27 +229,27 @@ Your war sun begins with move 1, making it extremely slow to project power acros
 
 ### A. Overview
 
-**Starting Technology:** Plasma Scoring - Not a great tech but is on the way to Prototype War Sun II.
+**Starting Technology:** <span class="tr">Plasma Scoring</span> - Not a great tech but is on the way to <span class="tr">Prototype War Sun II</span>.
 
-Your main technology path focuses on acquiring Prototype War Sun II (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is Magmus Reactor (RR) for supernova production.
+Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is Magmus Reactor (RR) for supernova production.
 
 ### B. Technology Path
 
-**Round 1:** AI Development Algorithm - Sometimes you have a great round
+**Round 1:** <span class="ty">AI Development Algorithm</span> - Sometimes you have a great round
 - Exhaust to ignore 1 prereq when researching unit upgrades; reduce cost by number of unit upgrades owned
 
 **Round 2:** Self-Assembly Routines (R) or Magmus Reactor (RR) if supernova available
 - *Self-Assembly Routines:* After PRODUCTION, place 1 mech. After mech destroyed, gain 1 TG
 - *Magmus Reactor:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
 
-**Round 3:** Prototype War Sun II (RRRY) - **MAJOR POWER SPIKE**
+**Round 3:** <span class="tr">Prototype War Sun II</span> (RRRY) - **MAJOR POWER SPIKE**
 - Your war sun transforms from move 1 to move 3
 
-**Round 4:** Gravity Drive (B) if you have blue skip, otherwise Destroyer II (RR)
-- *Gravity Drive:* +1 move to 1 ship per tactical action
+**Round 4:** <span class="tb">Gravity Drive</span> (B) if you have blue skip, otherwise Destroyer II (RR)
+- *<span class="tb">Gravity Drive</span>:* +1 move to 1 ship per tactical action
 - *Destroyer II:* Cost 1, Combat 8, Move 2, AFB 6 (x3)
 
-**Note:** If you need 3 unit upgrades for objectives, consider Cruiser II (flagship synergy) or Space Dock II.
+**Note:** If you need 3 unit upgrades for objectives, consider <span class="tb">Cruiser II</span> (flagship synergy) or <span class="tb">Space Dock II</span>.
 
 ---
 
@@ -263,7 +263,7 @@ Your R1 priority is establishing economic foundation while protecting your war s
 
 1. **Trade** - With 4 commodities, you generate substantial trade good income that helps you achieve all R1 goals including tech.
 
-2. **Technology** - Begin the path toward Prototype War Sun II (RRRY). The mobility upgrade from move 1 to move 3 solves your most critical weakness.
+2. **Technology** - Begin the path toward <span class="tr">Prototype War Sun II</span> (RRRY). The mobility upgrade from move 1 to move 3 solves your most critical weakness.
 
 3. **Leadership** - Command tokens for Star Forge activations and territorial expansion. Easy breakthrough unlock.
 
@@ -289,7 +289,7 @@ Your R1 priority is establishing economic foundation while protecting your war s
 
 **Like:**
 
-- **Technology** - Progress toward Prototype War Sun II and beyond. Essential until upgrade complete, then situational.
+- **Technology** - Progress toward <span class="tr">Prototype War Sun II</span> and beyond. Essential until upgrade complete, then situational.
 - **Warfare** - Double usage of big war sun fleets after potential Star Forge stall.
 - **Politics** - Speaker token utility for strategy card selection.
 
@@ -318,9 +318,9 @@ Your ideal fleet composition in each system:
 
 ### B. Game Plan
 
-**Early Game (R1-R2):** Focus on securing resource planets to build your economic foundation. You need minimum 8-10 total resources to sustain war sun production. Use Umbat R1 to produce a carrier for multi-system expansion. Protect your war sun and never expose it to unnecessary risk while beginning your tech path toward Prototype War Sun II.
+**Early Game (R1-R2):** Focus on securing resource planets to build your economic foundation. You need minimum 8-10 total resources to sustain war sun production. Use Umbat R1 to produce a carrier for multi-system expansion. Protect your war sun and never expose it to unnecessary risk while beginning your tech path toward <span class="tr">Prototype War Sun II</span>.
 
-**Mid Game (R3-R4):** Acquire Prototype War Sun II—the move 3 upgrade changes everything. Build a second war sun to unlock Magmus commander. Use Star Forge aggressively, spending strategy tokens for fighters and destroyers. Once your commander unlocks, Star Forge generates trade goods while building your fleet. Position your war suns to threaten Mecatol Rex and opponent territories.
+**Mid Game (R3-R4):** Acquire <span class="tr">Prototype War Sun II</span>—the move 3 upgrade changes everything. Build a second war sun to unlock Magmus commander. Use Star Forge aggressively, spending strategy tokens for fighters and destroyers. Once your commander unlocks, Star Forge generates trade goods while building your fleet. Position your war suns to threaten Mecatol Rex and opponent territories.
 
 **Late Game (R5-R6):** Control Mecatol Rex using your war sun's superior holding power. Park your war sun there with supporting ships and use Star Forge to reinforce. If you have Magmus Reactor, implement your supernova strategy for untouchable production zones. Deploy your hero Nova Seed for critical strategic moments—creating supernova barriers or denying objectives. Remember that turning systems into supernovas is permanent.
 
@@ -473,7 +473,7 @@ Trading for other factions' Alliance promissory notes grants you access to their
 
 6. **Jol-Nar (Ta Zern)** - Reroll unit ability dice. Directly benefits your war sun's BOMBARDMENT 3 (x3) capability.
 
-7. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Combined with Plasma Scoring, your war sun effectively rolls 5 bombardment dice.
+7. **Argent Flight (Trrakan Aun Zulok)** - Roll 1 additional die for unit abilities. Combined with <span class="tr">Plasma Scoring</span>, your war sun effectively rolls 5 bombardment dice.
 
 8. **Yin Brotherhood (Brother Omar)** - Green prerequisite + skip prereqs when researching others' tech. Helps with late game blue tech.
 
@@ -501,7 +501,7 @@ Trading for other factions' Alliance promissory notes grants you access to their
 
 Embers of Muaat is TI4's war sun superpower. You begin with the galaxy's most feared weapon while other factions are still building cruisers. Your entire strategy revolves around protecting, upgrading, and multiplying this devastating asset.
 
-Early game feels slow with move 1 war sun. Accept this—you're investing in economy and breakthrough while others expand aggressively. Your power spike comes R3-R4 with Prototype War Sun II. The move 3 upgrade transforms everything, letting you project power across the entire map.
+Early game feels slow with move 1 war sun. Accept this—you're investing in economy and breakthrough while others expand aggressively. Your power spike comes R3-R4 with <span class="tr">Prototype War Sun II</span>. The move 3 upgrade transforms everything, letting you project power across the entire map.
 
 Build a second war sun to unlock Magmus commander and achieve near-unstoppable map control. Use Star Forge constantly to screen your war sun with fighters and destroyers. Once Magmus unlocks, every strategy token spent generates a trade good, making Star Forge pay for itself.
 

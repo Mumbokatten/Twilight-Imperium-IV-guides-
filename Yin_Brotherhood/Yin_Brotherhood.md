@@ -86,7 +86,7 @@ Convert one enemy infantry to yours before ground combat starts. Costs 2 influen
 
 **Starting Technologies:**
 
-**Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
+**<span class="ty">Sarween Tools</span>** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
 
 Strong starting tech. Every production saves 1 resource, adding up over the game.
 
@@ -264,9 +264,9 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 Your Commander lets you research any tech someone else has by sacrificing an infantry to skip prerequisites. This means you can pick up powerful table techs if they're available:
 
-- **Sling Relay** - Produce 2 ships in any system with your ships (including other players' space docks). Synergizes with Yin Spinner.
+- **<span class="tb">Sling Relay</span>** - Produce 2 ships in any system with your ships (including other players' space docks). Synergizes with Yin Spinner.
 - **Light/Wave Deflector** - Your ships can move through opponent ships and systems. Excellent mobility.
-- **Fleet Logistics** - 2 actions per turn. Always strong if you can afford the prerequisites or skip them with Commander.
+- **<span class="tb">Fleet Logistics</span>** - 2 actions per turn. Always strong if you can afford the prerequisites or skip them with Commander.
 
 ---
 

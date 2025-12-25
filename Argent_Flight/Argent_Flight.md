@@ -94,9 +94,9 @@ This makes your ANTI-FIGHTER BARRAGE terrifying. After destroying all fighters, 
 
 **Choose TWO of the following:**
 
-- **Neural Motivator** - Provides green prerequisite
-- **Sarween Tools** - Reduces production costs by 1 resource
-- **Plasma Scoring** - Provides red prerequisite and combat boost
+- **<span class="tg">Neural Motivator</span>** - Provides green prerequisite
+- **<span class="ty">Sarween Tools</span>** - Reduces production costs by 1 resource
+- **<span class="tr">Plasma Scoring</span>** - Provides red prerequisite and combat boost
 
 **Recommended:** **Sarween Tools + Plasma Scoring** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to Aerie Hololattice (Y) if going structure path. Plasma Scoring leads to Strike Wing Alpha II (RR). Neural Motivator is bait—green doesn't lead to any techs Argent actually wants.
 

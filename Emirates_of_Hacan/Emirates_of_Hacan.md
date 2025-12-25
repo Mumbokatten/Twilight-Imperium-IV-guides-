@@ -97,15 +97,15 @@ Commonly underutilized ability. Trading action cards requires knowing who wants 
 
 **Starting Technologies:**
 
-**Antimass Deflectors:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units.
+**<span class="tb">Antimass Deflectors</span>:** Your ships can move through asteroid fields. Apply -1 to SPACE CANNON rolls against your units.
 
-**Sarween Tools:** When you use PRODUCTION, reduce the combined cost of produced units by 1.
+**<span class="ty">Sarween Tools</span>:** When you use PRODUCTION, reduce the combined cost of produced units by 1.
 
-Great starting techs. Antimass Deflectors is solid for slice considerations—gives flexible mobility through asteroid fields. Sarween Tools provides value on every activation with production, effectively giving you 1 free resource per build. Strong foundation for your economy.
+Great starting techs. <span class="tb">Antimass Deflectors</span> is solid for slice considerations—gives flexible mobility through asteroid fields. <span class="ty">Sarween Tools</span> provides value on every activation with production, effectively giving you 1 free resource per build. Strong foundation for your economy.
 
 **Faction Technologies:**
 
-**Quantum Datahub Node (YYY):**
+**<span class="ty">Quantum Datahub Node</span> (YYY):**
 *At the end of the strategy phase, you may spend 1 token from your strategy pool and give another player 3 of your trade goods. If you do, give 1 of your strategy cards to that player and take 1 of his strategy cards.*
 
 Tier 4 yellow tech—pricey, but what is cost to a wealthy man? Swap strategy cards with other players for 1 strategy token and 3 trade goods. Can you put a price on winning the game? The flexibility to take exactly the strategy card you need in a critical round can be the difference between victory and defeat.
@@ -211,7 +211,7 @@ As Emirates of Hacan, your first turn priorities:
 
 1. **Scoring** - You need to get started early. Your economic engine is good all game, but it's best in the early rounds. You rarely come from behind—you stay at the front. Score territorial objectives while your economy gives you the edge.
 
-2. **Technology** - Start your tech path early. You begin with excellent starting tech position (Sarween Tools + Antimass Deflectors). Push toward Gravity Drive (B) for custodian grab and early mobility, or get started on War Sun (RRRY) prereqs to maximize impact of your hero.
+2. **Technology** - Start your tech path early. You begin with excellent starting tech position (<span class="ty">Sarween Tools</span> + <span class="tb">Antimass Deflectors</span>). Push toward <span class="tb">Gravity Drive</span> (B) for custodian grab and early mobility, or get started on War Sun (RRRY) prereqs to maximize impact of your hero.
 
 3. **Expansion + Production** - With 2 starting carriers and strong early economy, expand to claim 2-3 systems. Your wealth funds the expansion.
 
@@ -237,9 +237,9 @@ Only 4 production in your home system. You need a forward space dock or two to l
 
 Hacan has two distinct tech paths available:
 
-**Path 1 - Blue-Yellow (Mobility & Carriers):** The default, reliable path. Focuses on mobility and unit upgrades using your starting Antimass Deflectors and Sarween Tools. Pushes toward Gravity Drive (B), Carrier II (BB), and Fleet Logistics (BB) for early aggression, custodian grab, and objective scoring. Faster to get started and not hero reliant—provides consistent performance throughout the game.
+**Path 1 - Blue-Yellow (Mobility & Carriers):** The default, reliable path. Focuses on mobility and unit upgrades using your starting <span class="tb">Antimass Deflectors</span> and <span class="ty">Sarween Tools</span>. Pushes toward <span class="tb">Gravity Drive</span> (B), Carrier II (BB), and <span class="tb">Fleet Logistics</span> (BB) for early aggression, custodian grab, and objective scoring. Faster to get started and not hero reliant—provides consistent performance throughout the game.
 
-**Path 2 - Red-Yellow (War Sun + Hero):** The high-risk, high-reward path. Requires getting Auto-Factories breakthrough (R↔Y synergy) early in R1/R2. Uses the R↔Y synergy to rush Magen Defense Grid (RR), Transit Diodes (YYY), Quantum Datahub Node (YYYY), and War Sun (RRRY) by Round 4. Maximizes your hero's ~15-35 resource production value but is slower to get online and heavily dependent on getting breakthrough early and timing your hero correctly.
+**Path 2 - Red-Yellow (War Sun + Hero):** The high-risk, high-reward path. Requires getting Auto-Factories breakthrough (R↔Y synergy) early in R1/R2. Uses the R↔Y synergy to rush <span class="tr">Magen Defense Grid</span> (RR), <span class="ty">Transit Diodes</span> (YYY), <span class="ty">Quantum Datahub Node</span> (YYYY), and War Sun (RRRY) by Round 4. Maximizes your hero's ~15-35 resource production value but is slower to get online and heavily dependent on getting breakthrough early and timing your hero correctly.
 
 Choose your path based on: breakthrough availability (R↔Y required for Path 2), slice positioning (safe slice favors Path 2's slower buildup), and game tempo (Path 1 better for aggressive tables).
 
@@ -253,7 +253,7 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 
 **Path 1 - Blue-Yellow (Mobility & Carriers):**
 
-**Round 1:** Gravity Drive (B) - +1 movement for custodian grab and positioning
+**Round 1:** <span class="tb">Gravity Drive</span> (B) - +1 movement for custodian grab and positioning
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 
 **Round 2:** Carrier II (BB) - Upgrade your 2 starting carriers
@@ -262,10 +262,10 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 **Round 3:** Dreadnought II (BBY) - Strong combat ships
 - *Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
 
-**Round 4:** Fleet Logistics (BB) - Double activation for scoring and surprise plays
+**Round 4:** <span class="tb">Fleet Logistics</span> (BB) - Double activation for scoring and surprise plays
 - *During each of your turns of the action phase, you may perform 2 actions instead of 1*
 
-**Round 5+:** Light/Wave Deflector (BBB) or flex techs
+**Round 5+:** <span class="tb">Lightwave Deflector</span> (BBB) or flex techs
 - *Your ships can move through systems that contain other players' ships*
 
 **Note:** Faster to get started and not hero reliant. Strong general path for consistent performance.
@@ -276,19 +276,19 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 
 **Prerequisite:** Get Auto-Factories breakthrough (R↔Y synergy) in R1/R2
 
-**Round 1:** Magen Defense Grid (RR) - With R↔Y, counts as both red and yellow prereqs
+**Round 1:** <span class="tr">Magen Defense Grid</span> (RR) - With R↔Y, counts as both red and yellow prereqs
 - *At the start of ground combat on a planet with your structures, produce 1 hit assigned to opponent's ground forces*
 
-**Round 2:** Transit Diodes (YYY) - Troop movement flexibility
+**Round 2:** <span class="ty">Transit Diodes</span> (YYY) - Troop movement flexibility
 - *Exhaust at start of your turn to remove up to 4 ground forces and place them on planets you control*
 
-**Round 3:** Quantum Datahub Node (YYY) - Strategy card swaps
+**Round 3:** <span class="ty">Quantum Datahub Node</span> (YYY) - Strategy card swaps
 - *Spend 1 strategy token + 3 TG to swap strategy cards with another player*
 
 **Round 4:** War Sun (RRRY) - For maximum hero value ~15-35 resources
 - *Cost 12, Combat 3(x3), Move 2, Capacity 6, Sustain Damage, BOMBARDMENT 3(x3). Other players' units in this system lose Planetary Shield*
 
-**Round 5+:** Gravity Drive (B) or other flex techs
+**Round 5+:** <span class="tb">Gravity Drive</span> (B) or other flex techs
 
 **Note:** Requires getting breakthrough early. High payoff with hero, but slower to get online than Path 1.
 
@@ -368,7 +368,7 @@ Your ideal fleet composition in each system:
 - **War Sun (R4)** - Overwhelming combat power, coordinate with hero timing
 - **Destroyers (upgrade to Destroyer II with R↔Y)** - Cheap combat ships, AFB screening
 - **Fighter screen** - Absorb hits and provide combat dice
-- **Infantry** - Ground forces for objectives, highly mobile with Transit Diodes (R3)
+- **Infantry** - Ground forces for objectives, highly mobile with <span class="ty">Transit Diodes</span> (R3)
 - **Mechs (situational)** - Can trade planets with structures for tactical advantages
 - **Flagship (with hero timing)** - Expensive but can be produced for free with hero turn
 
@@ -384,7 +384,7 @@ Your game plan is straightforward: score early, get custodian bonus if possible,
 
 **Mid Game:** Make trades constantly to keep commodities flowing and wealth accumulating. Broker deals between other players to extract value. Find ways to get bonus power by trading away your money—buy what you need, support others in exchange for favors, turn wealth into leverage. Your wealth becomes voting power when needed.
 
-**Late Game:** Your economy should be overwhelming. Convert wealth into an unexpectedly large fleet. Use hero for a critical production turn (War Sun + full fleet for free = ~15-35 resources). Use Quantum Datahub Node to swap strategy cards for exactly what you need. You rarely come from behind—you stay at the front and close out the game with flexibility and QDN.
+**Late Game:** Your economy should be overwhelming. Convert wealth into an unexpectedly large fleet. Use hero for a critical production turn (War Sun + full fleet for free = ~15-35 resources). Use <span class="ty">Quantum Datahub Node</span> to swap strategy cards for exactly what you need. You rarely come from behind—you stay at the front and close out the game with flexibility and QDN.
 
 ---
 
@@ -539,7 +539,7 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 8. **Nekro Virus (Nekro Acidos)** - After you gain a technology, draw 1 action card. You tech frequently and can afford it.
 
-9. **Yin Brotherhood (Brother Omar)** - This card satisfies a green tech prerequisite. When you research a tech owned by another player, return 1 infantry to ignore prerequisites. Tech path flexibility for War Sun or Quantum Datahub rushes.
+9. **Yin Brotherhood (Brother Omar)** - This card satisfies a green tech prerequisite. When you research a tech owned by another player, return 1 infantry to ignore prerequisites. Tech path flexibility for War Sun or <span class="ty">Quantum Datahub Node</span> rushes.
 
 10. **Yssaril Tribes (So Ata)** - After another player activates a system that contains your units, you may look at that player's action cards, promissory notes, or secret objectives. Strong deterrent - you don't want to be attacked.
 

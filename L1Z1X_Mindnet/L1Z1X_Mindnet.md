@@ -101,9 +101,9 @@ This means a Super Dreadnought with BOMBARDMENT can potentially roll multiple ti
 
 **Strategic Analysis:**
 
-**Neural Motivator** gives you action card advantage. Draw 2 action cards every status phase instead of 1, giving you more options and flexibility.
+**<span class="tg">Neural Motivator</span>** gives you action card advantage. Draw 2 action cards every status phase instead of 1, giving you more options and flexibility.
 
-**Plasma Scoring** boosts your BOMBARDMENT advantage. Your Super Dreadnoughts benefit massively from rolling extra dice. This also helps your PDS for SPACE CANNON defense.
+**<span class="tr">Plasma Scoring</span>** boosts your BOMBARDMENT advantage. Your Super Dreadnoughts benefit massively from rolling extra dice. This also helps your PDS for SPACE CANNON defense.
 
 These are not the tech colors we deserve, but what we got. Your Super Dreadnought II is as far away as it is for the techless Sardakk.
 

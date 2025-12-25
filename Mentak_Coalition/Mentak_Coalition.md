@@ -92,9 +92,9 @@ Passive theft ability. After a NEIGHBOR (adjacent player) gains TGs or resolves 
 
 **Starting Technologies:**
 
-**Sarween Tools** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
+**<span class="ty">Sarween Tools</span>** - When you use PRODUCTION, reduce the combined cost of produced units by 1.
 
-**Plasma Scoring** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+**<span class="tr">Plasma Scoring</span>** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
 
 **Notes:** Good for defense and economy early game, but not much else.
 
@@ -256,8 +256,8 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 
 **Starting Techs:**
 
-- **Sarween Tools** - Reduce production costs by 1 resource. Saves 25+ resources over the game.
-- **Plasma Scoring** - +1 die for Space Cannon or Bombardment. Good for home defense and invasions.
+- **<span class="ty">Sarween Tools</span>** - Reduce production costs by 1 resource. Saves 25+ resources over the game.
+- **<span class="tr">Plasma Scoring</span>** - +1 die for Space Cannon or Bombardment. Good for home defense and invasions.
 
 **Round 1: Neural Motivator**
 - When 1 or more of your units use Production, you may exhaust this card to reduce the combined cost by the number of that unit's production value.

@@ -100,11 +100,11 @@ Your destroyers place breaches after any combat (yours or others) in their syste
 **Choose one blue or red technology with no prerequisites**
 
 Recommended options:
-- **Dark Energy Tap** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
-- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
-- **Antimass Deflectors** - Only if slice requires asteroid/supernova mobility.
+- **<span class="tb">Dark Energy Tap</span>** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
+- **<span class="ty">AI Development Algorithm</span>** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
+- **<span class="tb">Antimass Deflectors</span>** - Only if slice requires asteroid/supernova mobility.
 
-Pick AI Dev or DET. Only take Antimass if your slice requires it.
+Pick <span class="ty">AI Dev</span> or DET. Only take Antimass if your slice requires it.
 
 **Faction Technologies:**
 
@@ -231,19 +231,19 @@ You start by choosing one blue or red technology with no prerequisites. You can 
 Pick AI Development Algorithm or Dark Energy Tap. Only take Antimass Deflectors if your slice requires it.
 
 Recommended options:
-- **Dark Energy Tap** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
-- **AI Development Algorithm** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
-- **Antimass Deflectors** - Only if slice requires asteroid/supernova mobility.
+- **<span class="tb">Dark Energy Tap</span>** - Best choice. Extra frontier token in Sorrow, retreat flexibility.
+- **<span class="tr">AI Development Algorithm</span>** - Enables low-tech game with Carrier II rush. Opens War Sun path with B↔R synergy.
+- **<span class="tb">Antimass Deflectors</span>** - Only if slice requires asteroid/supernova mobility.
 
 ### C. Tech Path
 
-**Starting Tech:** Dark Energy Tap or AI Development Algorithm or Antimass Deflectors
+**Starting Tech:** <span class="tb">Dark Energy Tap</span> or <span class="ty">AI Development Algorithm</span> or <span class="tb">Antimass Deflectors</span>
 
 **Minimal Tech Approach (Recommended):**
 
-**Round 2:** Sling Relay (B) or Carrier II (BB) with AI Development Algorithm
-- Sling Relay gives you 3 stalls total (agent, Dark Energy Tap, Sling Relay)
-- Carrier II with AI Development Algorithm start enables low-tech game
+**Round 2:** <span class="tb">Sling Relay</span> (B) or Carrier II (BB) with <span class="ty">AI Development Algorithm</span>
+- <span class="tb">Sling Relay</span> gives you 3 stalls total (agent, <span class="tb">Dark Energy Tap</span>, <span class="tb">Sling Relay</span>)
+- Carrier II with <span class="ty">AI Development Algorithm</span> start enables low-tech game
 
 **Round 3:** Exile II (RR)
 - AFB 6 (x3) deterrent. 2-away breach placement.
@@ -256,10 +256,10 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 
 **High Value:**
 
-- **Assault Cannon (RRR)** - Same timing as hero. Immune to Skilled Retreat.
+- **<span class="tr">Assault Cannon</span> (RRR)** - Same timing as hero. Immune to Skilled Retreat.
 - **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
-- **Fleet Logistics (BB)** - If needed.
-- **War Sun (RRRY)** - AI Development Algorithm + B↔R synergy enables. Requires wealth.
+- **<span class="tb">Fleet Logistics</span> (BB)** - If needed.
+- **War Sun (RRRY)** - <span class="ty">AI Development Algorithm</span> + B↔R synergy enables. Requires wealth.
 
 **Situational:**
 
@@ -333,11 +333,11 @@ Expand using agent swap strategy. Send carrier to take a system, swap with destr
 
 **Mid Game:**
 
-Commander unlocked—enter "post-planet economy" with constant TG generation from table combat. Build breach network connecting Sorrow → Mecatol → Fracture. Use Resonance Generator action to place/flip breaches without activating. Get Exile II for AFB deterrent. Consider Sling Relay for production flexibility.
+Commander unlocked—enter "post-planet economy" with constant TG generation from table combat. Build breach network connecting Sorrow → Mecatol → Fracture. Use Resonance Generator action to place/flip breaches without activating. Get Exile II for AFB deterrent. Consider <span class="tb">Sling Relay</span> for production flexibility.
 
 **Late Game:**
 
-Use hero to stack fighters and alpha strike key systems. Quietus flagship strips enemy Sustain Damage—HP wins fights. Final play: Mecatol Rex → Styx using breach network. Control objectives benefit from breach mechanics (Rule Distant Lands, deploy mechs anywhere).
+Use hero to stack fighters and alpha strike key systems. Quietus flagship strips enemy Sustain Damage—HP wins fights. Final play: Mecatol Rex → Styx using breach network. Control objectives benefit from breach mechanics (Rule Distant Lands, deploy mechs anywhere). Carrier II helps maintain capacity after deploying fighters.
 
 ---
 

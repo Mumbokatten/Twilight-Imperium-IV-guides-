@@ -86,9 +86,9 @@ Quash lets you veto agendas by spending 1 strategy command counter to discard an
 
 **Starting Technology:**
 
-**Graviton Laser System (Y):** You may exhaust this card before 1 or more of your units use SPACE CANNON; hits produced by those units must be assigned to non-fighter ships if able.
+**<span class="ty">Graviton Laser System</span> (Y):** You may exhaust this card before 1 or more of your units use SPACE CANNON; hits produced by those units must be assigned to non-fighter ships if able.
 
-Graviton Laser System bypasses fighter screens, forcing your SPACE CANNON hits to be assigned to enemy capital ships instead of expendable fighters. This is devastating against fleets that rely on fighters for protection—opponents can't just sacrifice cheap fighters to absorb your PDS fire. Combined with PDS II's improved hit rate and adjacent-system targeting, Graviton turns your defensive network into a capital ship killer. Opens yellow tech path for PDS II.
+<span class="ty">Graviton Laser System</span> bypasses fighter screens, forcing your SPACE CANNON hits to be assigned to enemy capital ships instead of expendable fighters. This is devastating against fleets that rely on fighters for protection—opponents can't just sacrifice cheap fighters to absorb your PDS fire. Combined with <span class="tb">PDS II</span>'s improved hit rate and adjacent-system targeting, <span class="ty">Graviton Laser System</span> turns your defensive network into a capital ship killer. Opens yellow tech path for <span class="tb">PDS II</span>.
 
 **Faction Technologies:**
 
@@ -189,31 +189,31 @@ Your faction is built for defense rather than offense. Your units have standard 
 
 ### A. Overview
 
-You start with **Graviton Laser System (Yellow)** (forces SPACE CANNON hits onto non-fighters).
+You start with **<span class="ty">Graviton Laser System</span> (Yellow)** (forces SPACE CANNON hits onto non-fighters).
 
 ### B. Tech Path 1: Defensive
 
-**R1:** Dark Energy Tap (B) – Explore frontier tokens after tactical actions, retreat to adjacent systems without units. Double cruiser explores offset poor starting fleet.
+**R1:** <span class="tb">Dark Energy Tap</span> (B) – Explore frontier tokens after tactical actions, retreat to adjacent systems without units. Double cruiser explores offset poor starting fleet.
 
-**R2:** Gravity Drive (B) – +1 move to 1 ship when activating a system. Fleet mobility for repositioning.
+**R2:** <span class="tb">Gravity Drive</span> (B) – +1 move to 1 ship when activating a system. Fleet mobility for repositioning.
 
-**R3:** Plasma Scoring – 1 additional die when using BOMBARDMENT or SPACE CANNON. Synergizes with mech and flagship.
+**R3:** <span class="tr">Plasma Scoring</span> – 1 additional die when using BOMBARDMENT or SPACE CANNON. Synergizes with mech and flagship.
 
-**R4:** PDS II (RY) – Planetary Shield, SPACE CANNON 5, can shoot adjacent systems. Hero should be down by now for PDS placement.
+**R4:** <span class="tb">PDS II</span> (RY) – Planetary Shield, SPACE CANNON 5, can shoot adjacent systems. Hero should be down by now for PDS placement.
 
-**R5+:** Fleet Logistics (BB) – 2 actions per turn. Carrier II (BB) – Move 2, Capacity 6. Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit.
+**R5+:** <span class="tb">Fleet Logistics</span> (BB) – 2 actions per turn. Carrier II (BB) – Move 2, Capacity 6. Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit.
 
 ### C. Tech Path 2: Offensive
 
-**R1:** Dark Energy Tap (B) – Explore frontier tokens after tactical actions. Double cruiser explores offset poor starting fleet.
+**R1:** <span class="tb">Dark Energy Tap</span> (B) – Explore frontier tokens after tactical actions. Double cruiser explores offset poor starting fleet.
 
-**R2:** Gravity Drive (B) – +1 move to 1 ship. Fleet mobility.
+**R2:** <span class="tb">Gravity Drive</span> (B) – +1 move to 1 ship. Fleet mobility.
 
 **R3:** Carrier II (BB) – Move 2, Capacity 6.
 
-**R4:** Fleet Logistics (BB) – 2 actions per turn.
+**R4:** <span class="tb">Fleet Logistics</span> (BB) – 2 actions per turn.
 
-**R5+:** Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit. Light-Wave Deflector (BBB) – Move through systems with enemy ships.
+**R5+:** Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit. <span class="tb">Lightwave Deflector</span> (BBB) – Move through systems with enemy ships.
 
 If yellow skip, consider Nullification Field (YY) as flex tech for maximum safety.
 
@@ -275,11 +275,11 @@ If yellow skip, consider Nullification Field (YY) as flex tech for maximum safet
 
 **Rounds 1-2: Expand and Economy**
 
-Scoring is top priority—no catchup mechanics. Trade R1 for flexibility if available. DET R1 enables double cruiser explores to offset poor starting fleet. Position flagship mid-slice with mechs for early area denial before PDS network comes online. Work toward 12 influence for commander unlock.
+Scoring is top priority—no catchup mechanics. Trade R1 for flexibility if available. <span class="tb">Dark Energy Tap</span> R1 enables double cruiser explores to offset poor starting fleet. Position flagship mid-slice with mechs for early area denial before PDS network comes online. Work toward 12 influence for commander unlock.
 
 **Rounds 3-4: Hero and PDS Network**
 
-PDS II online by R4. Activate hero to place 4 PDS/mechs on critical planets. Build out defensive network. Leverage commander for agenda dominance. Take Imperial for scoring.
+<span class="tb">PDS II</span> online by R4. Activate hero to place 4 PDS/mechs on critical planets. Build out defensive network. Leverage commander for agenda dominance. Take Imperial for scoring.
 
 **Round 5+: Victory Push**
 
@@ -460,9 +460,9 @@ This section highlights action cards that synergize particularly well with your 
 
 Xxcha Kingdom is TI4's defensive and political powerhouse. You build impenetrable positions while others bleed resources fighting, then dominate the agenda phase with overwhelming voting power.
 
-Early game feels awkward with limited carry capacity. Offset this with DET double cruiser explores and Peace Accords free planets. Position flagship mid-slice with mechs for area denial before your PDS network comes online. Unlock Elder Qanoj R2-R3 by controlling 12+ influence for voting dominance.
+Early game feels awkward with limited carry capacity. Offset this with <span class="tb">Dark Energy Tap</span> double cruiser explores and Peace Accords free planets. Position flagship mid-slice with mechs for area denial before your PDS network comes online. Unlock Elder Qanoj R2-R3 by controlling 12+ influence for voting dominance.
 
-Deploy your hero R3-R4 to place 4 PDS/mechs and establish your defensive network. Once PDS II is online, your slice becomes a minefield. Opponents calculate the cost of attacking through your defenses and decide it's not worth it.
+Deploy your hero R3-R4 to place 4 PDS/mechs and establish your defensive network. Once <span class="tb">PDS II</span> is online, your slice becomes a minefield. Opponents calculate the cost of attacking through your defenses and decide it's not worth it.
 
 Don't let opponents pressure you into premature aggression. You're the turtle, not the rabbit. Build your fortress, control the political landscape, and win through patience.
 

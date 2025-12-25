@@ -107,7 +107,7 @@ Ultimate law flexibility. Spend 1 TG/commodity to ignore ALL laws for the entire
 
 **Choose 2 non-faction technologies owned by other players**
 
-**Optimal:** **Sarween Tools** + **Gravity Drive**
+**Optimal:** **<span class="ty">Sarween Tools</span>** + **<span class="tb">Gravity Drive</span>**
 
 **Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Sarween Tools gets you started on the yellow tech path, and Gravity Drive gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
 
@@ -262,11 +262,11 @@ You choose 2 non-faction techs owned by other players - this means you're limite
 
 **Recommended Starting Techs:**
 
-Get **Sarween Tools** and a **blue tech** (preferably **Gravity Drive (B)**, but **Dark Energy Tap**, **Antimass Deflectors**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward Executive Order and Agency Supply Network. **Sarween has great synergy with Agency Supply Network** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. Gravity Drive gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **Scanlink Drone Network** is a fine replacement. **Predictive Intelligence (Y)** is also probably worth it as a yellow tech option.
+Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **Gravity Drive (B)**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward Executive Order and Agency Supply Network. **Sarween has great synergy with Agency Supply Network** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. Gravity Drive gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **Predictive Intelligence (Y)** is also probably worth it as a yellow tech option.
 
-**Green alternatives:** **Neural Motivator** and **Bio-Stims (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
+**Green alternatives:** **<span class="tg">Neural Motivator</span>** and **Bio-Stims (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
 
-**Last resort if there's truly no way to get to your blue/yellow path:** **AI Development Algorithm**, **Self-Assembly Routines (R)**, or **Magen Defense Grid (R)** can work, though these delay your core tech goals significantly.
+**Last resort if there's truly no way to get to your blue/yellow path:** **<span class="tr">AI Development Algorithm</span>**, **Self-Assembly Routines (R)**, or **Magen Defense Grid (R)** can work, though these delay your core tech goals significantly.
 
 ### B. Tech Paths
 

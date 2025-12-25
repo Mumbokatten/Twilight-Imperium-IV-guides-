@@ -289,8 +289,8 @@ Very nice and will pay big if you're in a few combats. But your Obsidian economi
 
 **Starting Tech:** Choose from green/yellow with no prereqs.
 
-- **Sarween Tools** for Path 1 (Mobility Safe Path) - covers yellow prereq for Dreadnought II.
-- **Neural Motivator** for Path 2 (Ground Dominance Spicy Path) - starts green for faction tech and X-89.
+- **<span class="ty">Sarween Tools</span>** for Path 1 (Mobility Safe Path) - covers yellow prereq for Dreadnought II.
+- **<span class="tg">Neural Motivator</span>** for Path 2 (Ground Dominance Spicy Path) - starts green for faction tech and X-89.
 
 You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Path 1 is safe and doesn't require breakthrough. Path 2 requires breakthrough unlocked for the Y↔G synergy.
 

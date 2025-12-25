@@ -89,7 +89,7 @@ You CANNOT research technologies normally. If you follow Technology primary/seco
 
 **Starting Technologies:**
 
-**Dacxive Animators (G)** - After you win a ground combat, you may place 1 infantry from your reinforcements on that planet.
+**<span class="tg">Dacxive Animators</span> (G)** - After you win a ground combat, you may place 1 infantry from your reinforcements on that planet.
 
 One of the worst starting technologies in the game—you'd take almost any other. However, it's helpful for unlocking your Commander and an extra infantry here and there never hurts.
 
@@ -220,77 +220,77 @@ Since you steal techs rather than researching, prioritize targets by tech value:
   - Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.
 - **Destroyer II (RR)** - Always
   - Cost 1, Combat 8, Move 2, AFB 6 (x3). Cheap fleet power.
-- **Cruiser II (GYR)** - Always
+- **<span class="tb">Cruiser II</span> (GYR)** - Always
   - Cost 2, Combat 6, Move 3, Capacity 1, Sustain. Fast mobile ships.
 - **Infantry II (GG)** - Always
   - Cost 1 (x2), Combat 7. 6+ chance to revive after death. Flagship makes these deadly.
-- **Space Dock II (YY)** - Always
+- **<span class="tb">Space Dock II</span> (YY)** - Always
   - PRODUCTION equals 4 + planet resources. Up to 3 fighters don't count against capacity.
-- **Fighter II (GB)** - Good
+- **<span class="tb">Fighter II</span> (GB)** - Good
   - Cost 1 (x2), Combat 8, Move 2. Less relevant with flagship infantry strategy.
 - **War Sun (RRRY)** - Good
   - Cost 12, Combat 3 (x3), Move 2, Capacity 6, Sustain, BOMBARDMENT 3 (x3). Removes Planetary Shield.
-- **PDS II (RY)** - Emergency
+- **<span class="tb">PDS II</span> (RY)** - Emergency
   - Planetary Shield, SPACE CANNON 5. Can shoot ships in adjacent systems.
 
 **Blue Technologies:**
 
-- **Gravity Drive (B)** - Always
+- **<span class="tb">Gravity Drive</span> (B)** - Always
   - +1 move to 1 ship after activating system. Critical for aggression.
-- **Fleet Logistics (BB)** - Always
+- **<span class="tb">Fleet Logistics</span> (BB)** - Always
   - Perform 2 actions per turn instead of 1. Game-changing.
-- **Sling Relay (B)** - Always
+- **<span class="tb">Sling Relay</span> (B)** - Always
   - ACTION: Produce 1 ship at any space dock.
-- **Light/Wave Deflector (BBB)** - Always
+- **<span class="tb">Lightwave Deflector</span> (BBB)** - Always
   - Move through systems with enemy ships. Bypass blockades.
-- **Antimass Deflectors** - Good
+- **<span class="tb">Antimass Deflectors</span>** - Good
   - Move through asteroid fields. -1 to enemy SPACE CANNON against you.
-- **Dark Energy Tap** - Good
+- **<span class="tb">Dark Energy Tap</span>** - Good
   - Explore frontier tokens after tactical actions. Retreat into systems without units/control.
 
 **Red Technologies:**
 
-- **Duranium Armor (RR)** - Always
+- **<span class="tr">Duranium Armor</span> (RR)** - Always
   - Repair 1 damaged unit per combat round that didn't use Sustain.
-- **Assault Cannon (RRR)** - Always
+- **<span class="tr">Assault Cannon</span> (RRR)** - Always
   - Opponent destroys 1 non-fighter ship at space combat start if you have 3+ non-fighters.
-- **Plasma Scoring** - Good
+- **<span class="tr">Plasma Scoring</span>** - Good
   - +1 die for BOMBARDMENT or SPACE CANNON.
-- **AI Development Algorithm** - Good
+- **<span class="ty">AI Development Algorithm</span>** - Good
   - Ignore 1 prerequisite for unit upgrades. Reduce production cost by unit upgrade count.
-- **Magen Defense Grid (R)** - Good
+- **<span class="tr">Magen Defense Grid</span> (R)** - Good
   - Place infantry with structures when activated. Produce 1 hit at ground combat start.
 - **Self-Assembly Routines (R)** - Good
   - Place mech after PRODUCTION. Gain TG when mech destroyed.
 
 **Yellow Technologies:**
 
-- **Sarween Tools** - Always
+- **<span class="ty">Sarween Tools</span>** - Always
   - -1 cost when using PRODUCTION.
-- **Integrated Economy (YYY)** - Always
+- **<span class="ty">Integrated Economy</span> (YYY)** - Always
   - Produce units on conquered planet equal to resource value.
-- **Scanlink Drone Network** - Good
+- **<span class="ty">Scanlink Drone Network</span>** - Good
   - Explore 1 planet when activating system.
-- **Graviton Laser System (Y)** - Good
+- **<span class="ty">Graviton Laser System</span> (Y)** - Good
   - SPACE CANNON hits assigned to non-fighters if able.
-- **Predictive Intelligence (Y)** - Good
+- **<span class="ty">Predictive Intelligence</span> (Y)** - Good
   - Redistribute CCs at turn end. Cast 3 additional votes.
-- **Transit Diodes (YY)** - Good
+- **<span class="ty">Transit Diodes</span> (YY)** - Good
   - Remove up to 4 ground forces and place on planets you control.
 
 **Green Technologies:**
 
-- **Bio-Stims (G)** - Always
+- **<span class="tg">Bio-Stims</span> (G)** - Always
   - Ready 1 planet with tech specialty or 1 technology at turn end.
-- **X-89 Bacterial Weapon Ω (GGG)** - Always
+- **<span class="tg">X-89 Bacterial Weapon</span> Ω (GGG)** - Always
   - Double BOMBARDMENT and ground combat hits. Destroy all enemy infantry if 1+ destroyed.
-- **Neural Motivator** - Good
+- **<span class="tg">Neural Motivator</span>** - Good
   - Draw 2 action cards per status phase instead of 1.
-- **Hyper Metabolism (GG)** - Good
+- **<span class="tg">Hyper Metabolism</span> (GG)** - Good
   - Gain 3 CCs in status phase instead of 2.
-- **Dacxive Animators (G)** - Emergency (you already have it)
+- **<span class="tg">Dacxive Animators</span> (G)** - Emergency (you already have it)
   - Place infantry after winning ground combat.
-- **Psychoarchaeology** - Emergency
+- **<span class="tg">Psychoarchaeology</span>** - Emergency
   - Use tech specialties without exhausting. Exhaust tech specialty planets for TG.
 
 ### C. Valefar Assimilator Token Placement

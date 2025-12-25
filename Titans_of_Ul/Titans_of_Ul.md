@@ -97,11 +97,11 @@ Your unique PDS. Functions as both structure (SPACE CANNON, PRODUCTION) and grou
 
 **Starting Technologies:**
 
-**Antimass Deflectors** - Ships move through asteroids; -1 to enemy SPACE CANNON
+**<span class="tb">Antimass Deflectors</span>** - Ships move through asteroids; -1 to enemy SPACE CANNON
 
 Love to have, hate to tech. Good to start with.
 
-**Scanlink Drone Network** - When you activate a system, explore 1 planet in that system
+**<span class="ty">Scanlink Drone Network</span>** - When you activate a system, explore 1 planet in that system
 
 Perfect synergy with Terragenesis. Every activation explores a planet, every exploration can place a sleeper token.
 

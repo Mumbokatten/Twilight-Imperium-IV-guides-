@@ -85,8 +85,8 @@ Your signature ability. If you have 3 fleet pool tokens, you can have 5 non-figh
 
 **Starting Technologies:**
 
-- **Antimass Deflectors** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
-- **Plasma Scoring** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+- **<span class="tb">Antimass Deflectors</span>** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
+- **<span class="tr">Plasma Scoring</span>** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
 
 **Notes:** Blue and red starting techs open multiple tech paths. Antimass helps with mobility through asteroids, Plasma Scoring boosts your BOMBARDMENT (important for dreadnought-heavy builds).
 
@@ -233,7 +233,7 @@ However, being the strongest fighting faction makes you a threat to everyone. Th
 
 ### A. Overview
 
-You start with **Antimass Deflectors** and **Plasma Scoring**.
+You start with **<span class="tb">Antimass Deflectors</span>** and **<span class="tr">Plasma Scoring</span>**.
 
 Your main tech path focuses on:
 
