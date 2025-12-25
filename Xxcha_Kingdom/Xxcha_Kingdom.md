@@ -86,17 +86,17 @@ Quash lets you veto agendas by spending 1 strategy command counter to discard an
 
 **Starting Technology:**
 
-**<span class="ty">Graviton Laser System</span> (Y):** You may exhaust this card before 1 or more of your units use SPACE CANNON; hits produced by those units must be assigned to non-fighter ships if able.
+**<span class="ty">Graviton Laser System</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** You may exhaust this card before 1 or more of your units use SPACE CANNON; hits produced by those units must be assigned to non-fighter ships if able.
 
 <span class="ty">Graviton Laser System</span> bypasses fighter screens, forcing your SPACE CANNON hits to be assigned to enemy capital ships instead of expendable fighters. This is devastating against fleets that rely on fighters for protection—opponents can't just sacrifice cheap fighters to absorb your PDS fire. Combined with <span class="tb">PDS II</span>'s improved hit rate and adjacent-system targeting, <span class="ty">Graviton Laser System</span> turns your defensive network into a capital ship killer. Opens yellow tech path for <span class="tb">PDS II</span>.
 
 **Faction Technologies:**
 
-**<span class="tg">Instinct Training</span> (G):** You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
+**<span class="tg">Instinct Training</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
 
 <span class="tg">Instinct Training</span> gives you action card cancellation. By exhausting this technology and spending 1 strategy command counter, you can cancel any action card another player plays. This serves as a hard counter to game-changing action cards and provides exceptional defensive control throughout the game.
 
-**<span class="ty">Nullification Field</span> (YY):** After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
+**<span class="ty">Nullification Field</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
 
 Nullification Field is a turn-ending defensive technology. When an opponent activates a system containing your ships, you can exhaust this technology and spend 1 strategy command counter to immediately end their entire turn. This denies them their tactical action, movement, and any combat or production they planned. <span class="ty">Nullification Field</span> is one of the most powerful defensive abilities in the game, capable of completely shutting down aggressive plays against your fleets.
 
@@ -193,29 +193,29 @@ You start with **<span class="ty">Graviton Laser System</span> (Yellow)** (force
 
 ### B. Tech Path 1: Defensive
 
-**R1:** <span class="tb">Dark Energy Tap</span> (B) – Explore frontier tokens after tactical actions, retreat to adjacent systems without units. Double cruiser explores offset poor starting fleet.
+**R1:** <span class="tb">Dark Energy Tap</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Explore frontier tokens after tactical actions, retreat to adjacent systems without units. Double cruiser explores offset poor starting fleet.
 
-**R2:** <span class="tb">Gravity Drive</span> (B) – +1 move to 1 ship when activating a system. Fleet mobility for repositioning.
+**R2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – +1 move to 1 ship when activating a system. Fleet mobility for repositioning.
 
 **R3:** <span class="tr">Plasma Scoring</span> – 1 additional die when using BOMBARDMENT or SPACE CANNON. Synergizes with mech and flagship.
 
 **R4:** <span class="tb">PDS II</span> (RY) – Planetary Shield, SPACE CANNON 5, can shoot adjacent systems. Hero should be down by now for PDS placement.
 
-**R5+:** <span class="tb">Fleet Logistics</span> (BB) – 2 actions per turn. Carrier II (BB) – Move 2, Capacity 6. Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit.
+**R5+:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – 2 actions per turn. Carrier II (BB) – Move 2, Capacity 6. Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit.
 
 ### C. Tech Path 2: Offensive
 
-**R1:** <span class="tb">Dark Energy Tap</span> (B) – Explore frontier tokens after tactical actions. Double cruiser explores offset poor starting fleet.
+**R1:** <span class="tb">Dark Energy Tap</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Explore frontier tokens after tactical actions. Double cruiser explores offset poor starting fleet.
 
-**R2:** <span class="tb">Gravity Drive</span> (B) – +1 move to 1 ship. Fleet mobility.
+**R2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – +1 move to 1 ship. Fleet mobility.
 
 **R3:** Carrier II (BB) – Move 2, Capacity 6.
 
-**R4:** <span class="tb">Fleet Logistics</span> (BB) – 2 actions per turn.
+**R4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – 2 actions per turn.
 
-**R5+:** Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit. <span class="tb">Lightwave Deflector</span> (BBB) – Move through systems with enemy ships.
+**R5+:** Dreadnought II (BBY) – Move 2, BOMBARDMENT 5, immune to Direct Hit. <span class="tb">Lightwave Deflector</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> – Move through systems with enemy ships.
 
-If yellow skip, consider <span class="ty">Nullification Field</span> (YY) as flex tech for maximum safety.
+If yellow skip, consider <span class="ty">Nullification Field</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> as flex tech for maximum safety.
 
 ---
 

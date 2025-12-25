@@ -96,12 +96,12 @@ Free structures on Mecatol Rex. Instant fortification. Once you take it, you sho
 
 **Faction Technologies:**
 
-**<span class="tb">Lazax Gate Folding</span> (BB):**
+**<span class="tb">Lazax Gate Folding</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:**
 *During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole. ACTION: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.*
 
 Very situational. Only useful in weird slices where it's problematic to get to MR but happens to have a well-placed wormhole. Very niche.
 
-**<span class="ty">Hegemonic Trade Policy</span> (YY):**
+**<span class="ty">Hegemonic Trade Policy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *Exhaust this card when 1 or more of your units use PRODUCTION; swap the resource and influence values of 1 planet you control until the end of your turn.*
 
 Really weird tech that seems incredibly niche. When would you need this? If you want flexibility, just use your trade goods—they're already flexible. This does nothing for you and is costly on a bad tech path.
@@ -227,7 +227,7 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 
 **Starting Tech:** <span class="tb">Dark Energy Tap</span>
 
-**Round 1:** <span class="tb">Gravity Drive</span> (B) - if you can afford tech
+**Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - if you can afford tech
 - After you activate a system, apply +1 to the move value of 1 of your ships
 - **Why:** Reach Mecatol faster. Critical for early MR assault.
 
@@ -235,12 +235,12 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Better transport for armies and reinforcements to MR.
 
-**Round 3:** <span class="ty">Sling Relay</span> (B) OR <span class="tb">Fleet Logistics</span> (BB)
+**Round 3:** <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - **<span class="ty">Sling Relay</span>:** ACTION: Exhaust to produce 1 ship in any system with your space docks
 - **<span class="tb">Fleet Logistics</span>:** Perform 2 actions per turn
 - **Why:** Production flexibility or double actions for positioning.
 
-**Round 4:** <span class="tb">Fleet Logistics</span> (BB) OR Light/Wave Deflector (BBB)
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Light/Wave Deflector (BBB)
 - **Light/Wave Deflector:** Your ships can move through systems that contain other players' ships
 - **Why:** Bypass blockades, extreme mobility.
 
@@ -256,11 +256,11 @@ Together with your breakthrough, this path offers great mobility to make some mo
 
 **Starting Tech:** <span class="ty">AI Development Algorithm</span>
 
-**Round 1:** <span class="tb">Gravity Drive</span> (B) - if you can afford tech
+**Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - if you can afford tech
 - After you activate a system, apply +1 to the move value of 1 of your ships
 - **Why:** Mobility for reaching targets.
 
-**Round 2:** <span class="tr">Magen Defense Grid</span> (R)
+**Round 2:** <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - When any player activates a system with your structures, place 1 infantry with each structure. At start of ground combat on planet with your structures, produce 1 hit
 - **Why:** Free infantry when systems activated, plus ground combat hit. Strong defensive tech.
 

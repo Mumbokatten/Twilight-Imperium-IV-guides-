@@ -113,12 +113,12 @@ Ultimate law flexibility. Spend 1 TG/commodity to ignore ALL laws for the entire
 
 **Faction Technologies:**
 
-**<span class="ty">Executive Order</span> (Y):**
+**<span class="ty">Executive Order</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *ACTION: Draw and reveal 1 agenda card from the top of the agenda deck. Players may cast votes for or against this agenda as if it were the outcome of an agenda. You are the speaker for this agenda.*
 
 Your signature political control technology. Draw and vote on agendas whenever you want - devastating for controlling the game. Force opponents to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic weapon, exhausting opponents' influence planets while keeping yours fresh. High priority tech to get by Round 2.
 
-**<span class="ty">Agency Supply Network</span> (YY):**
+**<span class="ty">Agency Supply Network</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system.*
 
 Game-changing production technology. Produce in two different systems in a single action. With <span class="ty">Sarween Tools</span>, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. With 3 space docks + Mecatol Rex (PRODUCTION 3 from Custodia Vigilia), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation). This lets you flood the board with units and reinforce multiple fronts simultaneously. Essential tech to get by Round 3.
@@ -256,17 +256,17 @@ You choose 2 non-faction techs owned by other players - this means you're limite
 
 **Core Tech Goals:**
 
-1. **<span class="ty">Executive Order</span> (Y)** - Draw and immediately vote on an agenda. Political control.
+1. **<span class="ty">Executive Order</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Draw and immediately vote on an agenda. Political control.
 
-2. **<span class="ty">Agency Supply Network</span> (YY)** - Produce in two systems per action
+2. **<span class="ty">Agency Supply Network</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Produce in two systems per action
 
 **Recommended Starting Techs:**
 
-Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **<span class="tb">Gravity Drive</span> (B)**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **<span class="ty">Sling Relay</span> (B)** also work). Sarween gets you started on the yellow tech path toward <span class="ty">Executive Order</span> and <span class="ty">Agency Supply Network</span>. **Sarween has great synergy with <span class="ty">Agency Supply Network</span>** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. <span class="tb">Gravity Drive</span> gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **<span class="ty">Predictive Intelligence</span> (Y)** is also probably worth it as a yellow tech option.
+Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **<span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** also work). Sarween gets you started on the yellow tech path toward <span class="ty">Executive Order</span> and <span class="ty">Agency Supply Network</span>. **Sarween has great synergy with <span class="ty">Agency Supply Network</span>** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. <span class="tb">Gravity Drive</span> gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **<span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** is also probably worth it as a yellow tech option.
 
-**Green alternatives:** **<span class="tg">Neural Motivator</span>** and **<span class="tg">Bio-Stims</span> (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, <span class="tg">Bio-Stims</span> synergizes well with your faction tech <span class="ty">Executive Order</span> and is definitely a fun option. <span class="tg">Bio-Stims</span> + <span class="ty">Executive Order</span> allows for a potential of 10 extra agendas - who wouldn't love that?
+**Green alternatives:** **<span class="tg">Neural Motivator</span>** and **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, <span class="tg">Bio-Stims</span> synergizes well with your faction tech <span class="ty">Executive Order</span> and is definitely a fun option. <span class="tg">Bio-Stims</span> + <span class="ty">Executive Order</span> allows for a potential of 10 extra agendas - who wouldn't love that?
 
-**Last resort if there's truly no way to get to your blue/yellow path:** **<span class="tr">AI Development Algorithm</span>**, **<span class="tr">Self-Assembly Routines</span> (R)**, or **<span class="tr">Magen Defense Grid</span> (R)** can work, though these delay your core tech goals significantly.
+**Last resort if there's truly no way to get to your blue/yellow path:** **<span class="tr">AI Development Algorithm</span>**, **<span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">**, or **<span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** can work, though these delay your core tech goals significantly.
 
 ### B. Tech Paths
 
@@ -276,19 +276,19 @@ Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 **Round 1:**
 
-- **<span class="tb">Gravity Drive</span> (B)** if needed for expansion, otherwise skip tech R1
+- **<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** if needed for expansion, otherwise skip tech R1
 
 **Round 2:**
 
-- **<span class="ty">Executive Order</span> (Y)** - You can now draw and vote on agendas whenever you want. This can be devastating - you force people to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic advantage, exhausting opponents' influence planets while keeping yours fresh.
+- **<span class="ty">Executive Order</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - You can now draw and vote on agendas whenever you want. This can be devastating - you force people to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic advantage, exhausting opponents' influence planets while keeping yours fresh.
 
 **Round 3:**
 
-- **<span class="ty">Agency Supply Network</span> (YY)** - Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system. This means you can produce in two different systems in a single action. **Incredible production:** With <span class="ty">Sarween Tools</span>, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. **Insane scaling:** With 3 space docks + Mecatol Rex (PRODUCTION 3), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation with ASN) - you can flood the board with units and reinforce multiple fronts simultaneously.
+- **<span class="ty">Agency Supply Network</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system. This means you can produce in two different systems in a single action. **Incredible production:** With <span class="ty">Sarween Tools</span>, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. **Insane scaling:** With 3 space docks + Mecatol Rex (PRODUCTION 3), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation with ASN) - you can flood the board with units and reinforce multiple fronts simultaneously.
 
 **Round 4-5:**
 
-- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> (BBB)**, **<span class="ty">Predictive Intelligence</span> (YY)** - whatever you need
+- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**, **<span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - whatever you need
 
 **Note:** <span class="ty">I.I.H.Q.</span> Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
 

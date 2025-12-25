@@ -105,7 +105,7 @@ This unit may move without being transported. Each fighter in excess of your shi
 
 Your faction's battle prowess. Incredible utility moving on its own. People will be shocked at how many hits you produce—a dreadnought hits on a 5, a HCF2 hits on a 7. Having your fighters be your battle power is so good economically since they're so cheap. **Battle example:** A 13-resource Naalu fleet (2 Carrier I + 14 Fighter II) fights 50/50 against a 23-resource fleet (4 Dreadnought II + 1 Carrier + 8 Fighters).
 
-**<span class="tg">Neuroglaive</span> (GGG):**
+**<span class="tg">Neuroglaive</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:**
 *After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.*
 
 Hard to reach tech. Not preferred path into green—try to get through Entropic Scar. Annoying for opponents that are poor influence-wise but usually able to be planned around.
@@ -227,10 +227,10 @@ Strong economic start with bonus action cards. Focus on fighter upgrades. Best p
 **Round 2:** Hybrid Crystal Fighter II (GB)
 - Faction tech. Independent movement, 0.5 fleet cost.
 
-**Round 3:** <span class="tb">Gravity Drive</span> (B)
+**Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - +1 move to 1 ship after activating.
 
-**Round 4:** Carrier II (BB) or <span class="tb">Fleet Logistics</span> (BB)
+**Round 4:** Carrier II (BB) or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Carrier II for capacity, <span class="tb">Fleet Logistics</span> for double actions.
 - <span class="tb">Fleet Logistics</span> enables crazy Imperial scoring on Mecatol and then also scoring first with the Imperial card in the last round.
 

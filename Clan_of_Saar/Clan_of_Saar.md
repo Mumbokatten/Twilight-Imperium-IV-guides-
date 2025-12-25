@@ -71,11 +71,11 @@ Your defining unit. Space dock that moves like a ship, produces in space, and ca
 
 **Faction Technologies:**
 
-**<span class="ty">Floating Factory II</span> (YY):** Saar Space Dock - Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
+**<span class="ty">Floating Factory II</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** Saar Space Dock - Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
 
 One of your preferred techs. Upgrades your factories to move 2, capacity 5, production 7. Doesn't hurt your incredible production to have even more—definitely worth getting if you happen to be running by an entropic scar.
 
-**<span class="tb">Chaos Mapping</span> (B):** Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
+**<span class="tb">Chaos Mapping</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
 
 Your defining tech—you get it every game. Serves as security and flexibility. Being able to produce every single turn BEFORE you move (a destroyer or a fighter) is incredible and keeps people guessing on your true strength. Opponents can't activate asteroids with your ships.
 
@@ -193,7 +193,7 @@ You're not very tech dependent—you like more plastic over techs. **<span class
 
 ### B. Technology Path
 
-**R1:** <span class="tb">Gravity Drive</span> (B)
+**R1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** Solid bonus mobility to keep space dock with your fleet and to reach key targets.
 
@@ -213,7 +213,7 @@ You're not very tech dependent—you like more plastic over techs. **<span class
 - Your ships can move through systems that contain other players' ships.
 - **Why:** Avoid combat while repositioning factories and fleets. Essential for late game mobility.
 
-**<span class="tb">Fleet Logistics</span> (BB)** - During each of your turns of the action phase, you may perform 2 actions instead of 1. Can be useful situationally.
+**<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - During each of your turns of the action phase, you may perform 2 actions instead of 1. Can be useful situationally.
 
 ## VI. Strategy Cards
 

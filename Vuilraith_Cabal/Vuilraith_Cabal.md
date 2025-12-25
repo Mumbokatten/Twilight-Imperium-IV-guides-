@@ -93,7 +93,7 @@ Your dimensional tear space docks turn systems into gravity rifts for mobility a
 
 **Starting Technologies:**
 
-**<span class="tr">Self-Assembly Routines</span> (R)** - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
+**<span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
 
 **Notes:** Solid starting tech. Place mech after production for free. Gain TG when mechs die. Feel free to let mechs die for TGs—you will be able to afford new mechs (might have some captured), but TGs are in short supply.
 
@@ -106,7 +106,7 @@ This system is a gravity rift; your ships do not roll for this gravity rift. Pla
 
 Hard to get normally but crazy value if you get from Entropic Scar. Having the 7 production and 2 bonus from Commander while every unit is free—pretty crazy. The endless supply of free fighters able to sit and defend your docks from being blockaded is helpful.
 
-**<span class="tr">Vortex</span> (R):**
+**<span class="tr">Vortex</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 *ACTION: Exhaust this card to choose another player's non-structure unit in a system that is adjacent to 1 or more of your space docks. Capture 1 unit of that type from that player's reinforcements.*
 
 <span class="tr">Vortex</span> is a stall—it gives less diplomatic anger than fighting for the troops, but this is a bit overrated. Unless you feel like you really don't want to anger people and have good targets nearby your docks, probably skip it and focus on unit upgrades.
@@ -217,13 +217,13 @@ You are the scary neighbor no one likes. Try to extort value from neighbors tryi
 
 ### A. Overview
 
-You start with **<span class="tr">Self-Assembly Routines</span> (R)** (place mech after production, gain TG when mech destroyed).
+You start with **<span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** (place mech after production, gain TG when mech destroyed).
 
 Use Riftmeld to skip prerequisites on unit upgrades when you have captured units. Try to play with very limited tech.
 
 ### B. Tech Path
 
-**Starting Tech:** <span class="tr">Self-Assembly Routines</span> (R)
+**Starting Tech:** <span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 
 **Round 2:** Carrier II (BB) - WITH RIFTMELD
 - Cost 3, Combat 9, Move 2, Capacity 6

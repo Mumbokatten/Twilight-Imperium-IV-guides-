@@ -83,8 +83,8 @@ Deploy infantry directly to any planet you control without needing carriers. Mid
 
 **Starting Technologies:**
 
-- **<span class="tg">Neural Motivator</span> (G):** Draw 2 action cards instead of 1 during status phase. Bonus action cards always nice, part of your flexibility. Sets up Spec Ops II path.
-- **<span class="tb">Antimass Deflectors</span> (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against you. Allows for slice diversity, solving most issues. Sets up Advanced Carrier II path.
+- **<span class="tg">Neural Motivator</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** Draw 2 action cards instead of 1 during status phase. Bonus action cards always nice, part of your flexibility. Sets up Spec Ops II path.
+- **<span class="tb">Antimass Deflectors</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Move through asteroid fields. -1 to SPACE CANNON rolls against you. Allows for slice diversity, solving most issues. Sets up Advanced Carrier II path.
 
 **Faction Unit Upgrades:**
 
@@ -204,11 +204,11 @@ Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobili
 
 **Starting Tech:** <span class="tg">Neural Motivator</span>, Antimass Deflectors
 
-**Round 1: <span class="tb">Gravity Drive</span> (B)**
+**Round 1: <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** 2-movement carriers. Essential for Sol's expansion and reach.
 
-**Round 2: <span class="ty">Sling Relay</span> (B)**
+**Round 2: <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
 - **Why:** Reposition carriers across the map. Combined with your production, this is huge.
 
@@ -218,8 +218,8 @@ Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobili
 
 **Flex Techs (Round 4/5):**
 
-- **<span class="tg">Bio-Stims</span> (G):** Ready a tech specialty planet or another technology at end of turn. Double <span class="ty">Sling Relay</span> use.
-- **<span class="tb">Fleet Logistics</span> (BB):** Perform 2 actions per turn instead of 1. Sneaky late game plays.
+- **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** Ready a tech specialty planet or another technology at end of turn. Double <span class="ty">Sling Relay</span> use.
+- **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Perform 2 actions per turn instead of 1. Sneaky late game plays.
 - **Fighter II (GB):** Combat 8, Move 2. Fighters can move independently. You produce so many anyway.
 - **Light/Wave Deflector (BBB):** Your ships can move through systems with other players' ships. Control plays and blocking people.
 - **Dreadnought II (BBY):** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, Bombardment 5. If you need fleet mobility and have too many resources.

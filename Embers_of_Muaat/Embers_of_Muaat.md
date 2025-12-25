@@ -86,7 +86,7 @@ Gashlai Physiology grants unique mobility through supernovas, which normally des
 
 **Starting Technology:**
 
-**<span class="tr">Plasma Scoring</span> (R):** When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
+**<span class="tr">Plasma Scoring</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
 
 <span class="tr">Plasma Scoring</span> opens red technology paths and synergizes excellently with your war sun's BOMBARDMENT 3 (x3) capability. You can roll an additional die during bombardment, effectively creating BOMBARDMENT 3 (x4) for devastating ground invasions.
 
@@ -231,21 +231,21 @@ Your war sun begins with move 1, making it extremely slow to project power acros
 
 **Starting Technology:** <span class="tr">Plasma Scoring</span> - Not a great tech but is on the way to <span class="tr">Prototype War Sun II</span>.
 
-Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is <span class="tr">Magmus Reactor</span> (RR) for supernova production.
+Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is <span class="tr">Magmus Reactor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> for supernova production.
 
 ### B. Technology Path
 
 **Round 1:** <span class="ty">AI Development Algorithm</span> - Sometimes you have a great round
 - Exhaust to ignore 1 prereq when researching unit upgrades; reduce cost by number of unit upgrades owned
 
-**Round 2:** <span class="tr">Self-Assembly Routines</span> (R) or <span class="tr">Magmus Reactor</span> (RR) if supernova available
+**Round 2:** <span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> or <span class="tr">Magmus Reactor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> if supernova available
 - *Self-Assembly Routines:* After PRODUCTION, place 1 mech. After mech destroyed, gain 1 TG
 - *<span class="tr">Magmus Reactor</span>:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
 
 **Round 3:** <span class="tr">Prototype War Sun II</span> (RRRY) - **MAJOR POWER SPIKE**
 - Your war sun transforms from move 1 to move 3
 
-**Round 4:** <span class="tb">Gravity Drive</span> (B) if you have blue skip, otherwise Destroyer II (RR)
+**Round 4:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if you have blue skip, otherwise Destroyer II (RR)
 - *<span class="tb">Gravity Drive</span>:* +1 move to 1 ship per tactical action
 - *Destroyer II:* Cost 1, Combat 8, Move 2, AFB 6 (x3)
 

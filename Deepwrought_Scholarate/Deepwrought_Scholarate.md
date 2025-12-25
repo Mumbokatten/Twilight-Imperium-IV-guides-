@@ -91,7 +91,7 @@ This is the strongest starting tech advantage in the game. You can research ANY 
 
 **Blue Path:**
 
-- **<span class="tb">Antimass Deflectors</span> + <span class="tb">Dark Energy Tap</span> (or <span class="tb">Gravity Drive</span>):** Movement flexibility and economy, sets up <span class="tb">Fleet Logistics</span> (BB) or Light/Wave Deflector (BBB)
+- **<span class="tb">Antimass Deflectors</span> + <span class="tb">Dark Energy Tap</span> (or <span class="tb">Gravity Drive</span>):** Movement flexibility and economy, sets up <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Light/Wave Deflector (BBB)
 
 **Green Path:**
 

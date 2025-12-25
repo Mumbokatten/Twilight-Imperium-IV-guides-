@@ -241,7 +241,7 @@ Recommended options:
 
 **Minimal Tech Approach (Recommended):**
 
-**Round 2:** <span class="tb">Sling Relay</span> (B) or Carrier II (BB) with <span class="ty">AI Development Algorithm</span>
+**Round 2:** <span class="tb">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Carrier II (BB) with <span class="ty">AI Development Algorithm</span>
 - <span class="tb">Sling Relay</span> gives you 3 stalls total (agent, <span class="tb">Dark Energy Tap</span>, <span class="tb">Sling Relay</span>)
 - Carrier II with <span class="ty">AI Development Algorithm</span> start enables low-tech game
 
@@ -258,7 +258,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 
 - **<span class="tr">Assault Cannon</span> (RRR)** - Same timing as hero. Immune to Skilled Retreat.
 - **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
-- **<span class="tb">Fleet Logistics</span> (BB)** - If needed.
+- **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If needed.
 - **War Sun (RRRY)** - <span class="ty">AI Development Algorithm</span> + B↔R synergy enables. Requires wealth.
 
 **Situational:**

@@ -100,12 +100,12 @@ Passive theft ability. After a NEIGHBOR (adjacent player) gains TGs or resolves 
 
 **Faction Technologies:**
 
-**<span class="ty">Mirror Computing</span> (YYY):**
+**<span class="ty">Mirror Computing</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *When you spend trade goods, each trade good is worth 2 resources or influence instead of 1.*
 
 Economic amplifier tech. Each trade good spent provides 2 resources or 2 influence instead of 1. This doubles the value of your Pillaged trade goods and makes you incredibly efficient when spending TGs.
 
-**<span class="ty">Salvage Operations</span> (YY):**
+**<span class="ty">Salvage Operations</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *After you win or lose a space combat, gain 1 trade good; if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.*
 
 Combat profit tech. Win or lose space combat = gain 1 TG. If you WIN, also produce 1 ship matching any destroyed ship type. This turns every fight into profit and lets you rebuild instantly.
@@ -269,13 +269,13 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 - **Why:** Your #1 priority tech. Upgrades Ambush from 7+ (40% hit) to 6+ (50% hit). Move 3 gives repositioning flexibility. The capacity 1 is a bonus. Essential for your cruiser-based playstyle.
 - **Prerequisites:** 1 green, 1 red, 1 yellow (<span class="ty">Sarween Tools</span>, <span class="tr">Plasma Scoring</span>, <span class="tg">Neural Motivator</span>)
 
-**Round 3: <span class="ty">Salvage Operations</span> (YY) - Faction Tech**
+**Round 3: <span class="ty">Salvage Operations</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Faction Tech**
 - After you win or lose a space combat, gain 1 trade good; if you won and you destroyed 1 or more of your opponent's ships, you may place 1 ship from your reinforcements in that system's space area.
 - **Why:** Your signature combat tech. Gain 1 TG after EVERY combat (win or lose). If you win, also produce 1 free ship. For aggressive Mentak, this generates 7+ TGs and 7+ free ships over the game. Incredible value.
 - **Prerequisites:** 2 yellow (<span class="tg">Neural Motivator</span> + <span class="ty">Sarween Tools</span>)
 - **Note:** If you can't get <span class="ty">Salvage Operations</span> Round 3, you need to find a double tech opportunity—research 1 yellow prerequisite + <span class="ty">Salvage Operations</span> in the same round using Technology strategy card or other double-tech methods
 
-**Round 4: <span class="ty">Mirror Computing</span> (YYY) - Faction Tech**
+**Round 4: <span class="ty">Mirror Computing</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - Faction Tech**
 - When you spend trade goods, each trade good is worth 2 resources or 2 influence instead of 1.
 - **Why:** Doubles the value of every TG you Pillage. If you steal 20 TGs via Pillage, <span class="ty">Mirror Computing</span> makes them worth 40 resources/influence. Synergizes with <span class="ty">Salvage Operations</span>. Late-game economy multiplier.
 - **Prerequisites:** 3 yellow (<span class="ty">Salvage Operations</span> + <span class="tg">Neural Motivator</span> or <span class="ty">Sarween Tools</span> + another yellow)
@@ -287,18 +287,18 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 **Cruiser II (GYR):**
 Essential for your faction. Upgrades Ambush hit chance and gives move 3 for repositioning. Your cruiser swarm strategy depends on this tech. Get this Round 2.
 
-**<span class="ty">Mirror Computing</span> (YYY):**
+**<span class="ty">Mirror Computing</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 Your economic multiplier. Doubles value of Pillaged TGs. Every TG you steal becomes worth 2 resources/influence. Late-game this makes you extremely wealthy. Critical tech for leveraging your pirate economy.
 
 ### C. Late-Game Options
 
-**<span class="tb">Gravity Drive</span> (B):**
+**<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:**
 If you blue-skip <span class="tb">Gravity Drive</span> (using Technology strategy card's blue-skip ability), your cruisers gain the base move 3 + <span class="tb">Gravity Drive</span>'s +1 movement = **move 4**. This creates surprise plays—you can reach targets opponents don't expect. Very powerful for Pillage positioning and combat strikes.
 
 **PDS II (RY) - For Unit Upgrade Objectives:**
 Good combo with your starting structure and <span class="tr">Plasma Scoring</span>. If you need a 2nd unit upgrade for "Develop Weaponry" objective, PDS II works well. Your <span class="tr">Plasma Scoring</span> already gives +1 die to Space Cannon, and upgrading to PDS II (Space Cannon 5 x2) makes your home defense very strong.
 
-**<span class="ty">Integrated Economy</span> (YYY) - For Spice:**
+**<span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - For Spice:**
 Late-game tech to leverage your riches. After you gain control of a planet, you may produce up to 2 units on that planet. With your wealth from Pillage + <span class="ty">Mirror Computing</span>, you can afford massive production across the map. Use this to convert your economic advantage into fleet superiority.
 
 ---

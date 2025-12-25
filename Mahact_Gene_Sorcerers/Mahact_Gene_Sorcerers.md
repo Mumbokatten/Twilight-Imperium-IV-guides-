@@ -105,7 +105,7 @@ Combos extremely well with your surplus of tokens from home system, agent, and f
 
 **Faction Technologies:**
 
-**<span class="tg">Genetic Recombination</span> (G):**
+**<span class="tg">Genetic Recombination</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:**
 *You may exhaust this card before a player casts votes; that player must cast at least 1 vote for an outcome of your choice or remove 1 token from their fleet pool and return it to their reinforcements.*
 
 Rarely used—you've got so much other tech you'd want. Funny if gotten with Entropic Scar though. Can absolutely screw someone with the right agenda. Requires 1 green prerequisite.
@@ -250,18 +250,18 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 - *After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token*
 - Gives you 1 explore from frontier tokens
 
-**Round 2:** <span class="ty">Transit Diodes</span> (YY)
+**Round 2:** <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - *Exhaust to remove up to 4 ground forces from the game board and place them on planets you control*
 - Now have 2 explores from DET
 
-**Round 3:** <span class="tb">Gravity Drive</span> (B)
+**Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 - Movement flexibility and positioning
 
-**Round 4:** <span class="tb">Sling Relay</span> (B), purge <span class="ty">Predictive Intelligence</span> for 3rd relic
+**Round 4:** <span class="tb">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, purge <span class="ty">Predictive Intelligence</span> for 3rd relic
 - *ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks*
 
-**Round 5:** <span class="tb">Fleet Logistics</span> (BB) if Tech is picked, purge <span class="ty">Transit Diodes</span> for 4th relic
+**Round 5:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> if Tech is picked, purge <span class="ty">Transit Diodes</span> for 4th relic
 - *During each of your turns of the action phase, you may perform 2 actions instead of 1*
 - End with 4 relics and strong blue tech suite
 
@@ -271,7 +271,7 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 - *After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token*
 - Explore value without committing to relic path
 
-**Round 2:** <span class="tb">Gravity Drive</span> (B)
+**Round 2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action*
 - Movement flexibility and positioning
 
@@ -279,11 +279,11 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 - *Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6*
 - Essential for mass Crimson Legionnaire transport
 
-**Round 4:** <span class="tb">Fleet Logistics</span> (BB), purge <span class="tg">Bio-Stims</span>
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, purge <span class="tg">Bio-Stims</span>
 - *During each of your turns of the action phase, you may perform 2 actions instead of 1*
 - Double activation for scoring and tactical flexibility
 
-**Round 5:** <span class="tb">Lightwave Deflector</span> (BBB), purge DET after teching
+**Round 5:** <span class="tb">Lightwave Deflector</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, purge DET after teching
 - *Your ships can move through systems that contain other players' ships*
 - Movement flexibility through enemy systems
 

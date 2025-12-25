@@ -97,7 +97,7 @@ You may treat this unit as if it were adjacent to systems that contain 1 or more
 
 Move 2, Capacity 6. Heavy prerequisites but strong upgrade if you can get there. Also increases your Cavalry promissory value.
 
-**<span class="ty">Temporal Command Suite</span> (Y):**
+**<span class="ty">Temporal Command Suite</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *After any player's agent becomes exhausted, you may exhaust this card to ready that agent; if you ready another player's agent, you may perform a transaction with that player.*
 
 Can be a diplomatic tool and combos well with your breakthrough to gain even more leverage. Needs a strong target agent to make use of and fairly optimal setup.
@@ -217,25 +217,25 @@ Your entire faction revolves around your flagship. You're only strong in one spo
 
 ### A. Overview
 
-You start with **<span class="ty">Sling Relay</span> (B)** (ACTION: produce 1 ship at any space dock).
+You start with **<span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** (ACTION: produce 1 ship at any space dock).
 
 Prefer to have a green or yellow skip.
 
 ### B. Tech Path
 
-**Starting Tech:** <span class="ty">Sling Relay</span> (B)
+**Starting Tech:** <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 
-**Round 1:** <span class="tb">Gravity Drive</span> (B)
+**Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - +1 move to 1 ship per activation
 - **Why:** Mobility for flagship and carriers. Reach more systems.
 
-**Round 2:** <span class="tg">Bio-Stims</span> (G) if you have skip/breakthrough, otherwise Scanlink or Neural Motivator
+**Round 2:** <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> if you have skip/breakthrough, otherwise Scanlink or Neural Motivator
 - **<span class="tg">Bio-Stims</span>:** Ready a tech specialty planet or another tech
 - **Scanlink:** Explore when you activate a system with your units
 - **Neural:** Draw 2 action cards instead of 1
 - **Why:** <span class="tg">Bio-Stims</span> combos with <span class="ty">Sling Relay</span> for stalling. Scanlink/Neural as prereq if no skip.
 
-**Round 3:** <span class="tg">Bio-Stims</span> (G) if you didn't get it R2, otherwise Carrier II (BB)
+**Round 3:** <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> if you didn't get it R2, otherwise Carrier II (BB)
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Get <span class="tg">Bio-Stims</span> online, then transport capacity.
 
@@ -246,7 +246,7 @@ Prefer to have a green or yellow skip.
 **Round 5:** Memoria II (GBY) or unit upgrades
 - **Why:** Flagship upgrade if you can reach it, otherwise flex.
 
-**Flex:** <span class="tb">Fleet Logistics</span> (BB), Light/Wave Deflector (BBB), Dreadnought II (BBY) if you got more techs.
+**Flex:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Light/Wave Deflector (BBB), Dreadnought II (BBY) if you got more techs.
 
 
 ---

@@ -85,7 +85,7 @@ All alpha and beta wormholes are adjacent to each other—for you only. Cannot b
 
 **Starting Technologies:**
 
-**<span class="tb">Gravity Drive</span> (B):** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+**<span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 
 **Notes:** By far the best starting tech in the game. Combined with Slipstream (+1 from wormholes), your carriers move 3 from wormhole systems.
 
@@ -96,7 +96,7 @@ All alpha and beta wormholes are adjacent to each other—for you only. Cannot b
 
 Very solid faction tech with increased value from Particle Synthesis breakthrough. On-demand wormhole placement for scoring, surprise attacks, or production. But it's still a valid strategy to skip this and ask people to place wormholes for you with your promissory note.
 
-**<span class="tr">Dimensional Splicer</span> (R):**
+**<span class="tr">Dimensional Splicer</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 *At the start of a space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships.*
 
 Hard to get because it's red, but nice to have. Free pre-combat hit at wormholes makes opponents think twice before attacking you on your turf.
@@ -201,18 +201,18 @@ You start with **<span class="tb">Gravity Drive</span> (Blue)**. Your tech path 
 
 **Starting Tech:** <span class="tb">Gravity Drive</span>
 
-**Round 1: <span class="ty">Sling Relay</span> (B)**
+**Round 1: <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - ACTION: Exhaust to produce 1 ship in any system that contains 1 of your space docks.
 - **Why:** Enables breakthrough production. Critical for your R1 Mallice strategy—build a carrier at home while your fleet is elsewhere.
 
 **Round 2: <span class="tb">Dark Energy Tap</span> / <span class="tb">Wormhole Generator</span> / <span class="tb">Fleet Logistics</span>**
 - **<span class="tb">Dark Energy Tap</span>:** Explore frontier tokens when you activate systems with ships. Ships can retreat anywhere without needing units there.
 - **<span class="tb">Wormhole Generator</span> Ω (BB):** Place or move Creuss wormhole tokens. On-demand wormhole placement for scoring, attacks, or production.
-- **<span class="tb">Fleet Logistics</span> (BB):** Perform 2 actions per turn. Late game scoring options.
+- **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Perform 2 actions per turn. Late game scoring options.
 - **Why:** All solid options. DET for exploration value, WG for wormhole control, Fleet Log for late game scoring.
 
 **Round 3-5: Flex techs**
-- **<span class="tb">Fleet Logistics</span> (BB)** - If not taken R2. Late game scoring options.
+- **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If not taken R2. Late game scoring options.
 - **<span class="tb">Wormhole Generator</span> Ω (BB)** - If not taken R2. Core faction tech for wormhole placement.
 - **Light/Wave Deflector (BBB)** - Ships can move through enemy ships. Great for bypassing blockers.
 - **Carrier II (BB)** - Move 2, Capacity 6. More capacity + commander fighter generation.

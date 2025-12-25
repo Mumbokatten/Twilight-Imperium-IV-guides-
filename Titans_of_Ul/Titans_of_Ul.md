@@ -228,7 +228,7 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 
 **Standard Path:**
 
-**Round 1:** <span class="ty">AI Development Algorithm</span> (R)
+**Round 1:** <span class="ty">AI Development Algorithm</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - When you research a unit upgrade technology, you may exhaust to ignore 1 prerequisite. When using PRODUCTION, you may exhaust to reduce cost by number of unit upgrades you own
 - **Prerequisites:** 4 technologies (<span class="tb">Antimass</span> + <span class="ty">Scanlink</span> + 2 more)
 - **Why:** Get prereqs for Saturn Engine II.
@@ -237,11 +237,11 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 - Ul Cruiser: Cost 2, Combat 6, Move 3, Capacity 2, Sustain Damage
 - **Why:** Strongest ship in game. Elite fleet mobility.
 
-**Round 3:** <span class="tb">Gravity Drive</span> (B)
+**Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility boost for cruiser fleet.
 
-**Round 4:** <span class="tb">Fleet Logistics</span> (BB) OR Carrier II (BB) OR Dreadnought II (BBY)
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> OR Carrier II (BB) OR Dreadnought II (BBY)
 - **<span class="tb">Fleet Logistics</span>:** 2 actions per turn
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **Dreadnought II:** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5

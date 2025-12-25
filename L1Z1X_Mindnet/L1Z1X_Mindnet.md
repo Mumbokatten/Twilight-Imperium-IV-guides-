@@ -116,7 +116,7 @@ This unit cannot be destroyed by "Direct Hit" action cards.
 
 Upgraded version with better combat (4 instead of 5), Move 2 (instead of 1), BOMBARDMENT 4 (instead of 5), and immunity to Direct Hit. The mobility and Direct Hit immunity are game-changing.
 
-**<span class="ty">Inheritance Systems</span> (YY):**
+**<span class="ty">Inheritance Systems</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *You may exhaust this card and spend 2 resources when you research a technology; ignore all of that technology's prerequisites.*
 
 Tech skip card. Exhaust and pay 2 resources to ignore prerequisites when researching any tech. This lets you jump straight to high-tier technologies without building up prerequisite chains.
@@ -248,13 +248,13 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 **Round 1:** <span class="tb">Dark Energy Tap</span> - Retreat flexibility, frontier exploration | OR <span class="tb">Antimass Deflectors</span> - Move through asteroids, SPACE CANNON defense
 
-**Round 2:** <span class="tb">Gravity Drive</span> (B) - +1 move to one ship per activation
+**Round 2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - +1 move to one ship per activation
 
 **Round 3:** <span class="ty">AI Development Algorithm</span> - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II (BBY) - Move 2, immune to Direct Hit
 
-**Round 4:** <span class="tb">Fleet Logistics</span> (BB) - 2 actions per turn | OR Light/Wave Deflector (BBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - 2 actions per turn | OR Light/Wave Deflector (BBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
 
-**Round 5:** <span class="tb">Fleet Logistics</span> (BB) | Light/Wave Deflector (BBB) | Carrier II (BB)
+**Round 5:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> | Light/Wave Deflector (BBB) | Carrier II (BB)
 
 **Note:** Destroyer II (RR) is a good 3rd unit upgrade option for anti-fighter coverage.
 
@@ -262,13 +262,13 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 This path requires securing Fealty Uplink breakthrough Round 1.
 
-**Round 1:** <span class="tg">Hyper Metabolism</span> (GG) - 3 command tokens per status phase (economy)
+**Round 1:** <span class="tg">Hyper Metabolism</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - 3 command tokens per status phase (economy)
 
 **Round 2:** <span class="ty">AI Development Algorithm</span> - Skip unit upgrade prereqs, production cost reduction
 
 **Round 3:** War Sun (RRRY) - Massive capital ship, BOMBARDMENT 3 (x3), removes Planetary Shield
 
-**Round 4:** <span class="tg">X-89 Bacterial Weapon</span> (GGG) - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
+**Round 4:** <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
 
 **Round 5:** Flexible as Round 4
 

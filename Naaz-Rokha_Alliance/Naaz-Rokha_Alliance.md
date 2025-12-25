@@ -90,11 +90,11 @@ Great tool if you plan to go for a few unit upgrades. However, NRA commonly goes
 
 **Faction Technologies:**
 
-**<span class="tg">Pre-Fab Arcologies</span> (GGG):** After you explore a planet, ready that planet.
+**<span class="tg">Pre-Fab Arcologies</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** After you explore a planet, ready that planet.
 
 Very strong tech if you get it online early. Decide early if you're going for locked-down, self-sufficient NRA that can afford to go all the way down green, or if you need mobility instead. The tech is definitely strong, but needs green skip or Entropic Scar to be feasible with the steep triple-green prerequisite.
 
-**<span class="tr">Supercharge</span> (R):** At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
+**<span class="tr">Supercharge</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
 
 Exhaustable Morale Boost action card. Nothing to care about really—only get if it helps with objectives.
 
@@ -214,15 +214,15 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 
 **Green Path (Economic):**
 
-**Round 1:** <span class="tg">Bio-Stims</span> (G)
+**Round 1:** <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies
 - **Why:** Flexibility to ready tech planets or other technologies.
 
-**Round 2:** <span class="tg">Hyper Metabolism</span> (GG)
+**Round 2:** <span class="tg">Hyper Metabolism</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - During the status phase, gain 3 command counters instead of 2
 - **Why:** Command token economy for activations.
 
-**Round 3:** <span class="tg">Pre-Fab Arcologies</span> (GGG)
+**Round 3:** <span class="tg">Pre-Fab Arcologies</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - ACTION: Attach this card to a non-home planet you control. Its resource and influence values are each increased by 2. Attach only if the planet has 1 or more attachments or you have a mech on the planet
 - **Why:** Massively improves planets you've explored and upgraded.
 
@@ -230,7 +230,7 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 - Cost 1, Combat 8, Move 2, AFB 6 (x3)
 - **Why:** Cheap, mobile ships with strong anti-fighter.
 
-**Round 5:** <span class="tg">X-89 Bacterial Weapon</span> (GGG)
+**Round 5:** <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent's infantry was destroyed, destroy all of your opponent's infantry on that planet. Double the hits produced by your units' BOMBARDMENT and ground combat rolls. Exhaust each planet you use BOMBARDMENT against
 - **Why:** Devastating ground combat power.
 
@@ -240,7 +240,7 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 - After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system
 - **Why:** Exploration synergy and retreat flexibility.
 
-**Round 2:** <span class="tb">Gravity Drive</span> (B)
+**Round 2:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility for repositioning fleets and bringing mechs to exploration zones.
 

@@ -99,7 +99,7 @@ Your defining ability. Transport PDS and Space Docks with your fleet, deploy on 
 
 **Faction Technologies:**
 
-**<span class="tr">Nanomachines</span> (YY):**
+**<span class="tr">Nanomachines</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 Exhaust this card to either:
 1. Place 1 PDS from reinforcements on planet you control
 2. Repair all units in 1 system
@@ -223,19 +223,19 @@ Ral Nel has two distinct tech paths:
 
 **Path 1 - <span class="ty">AI Development Algorithm</span> Start:**
 
-**Round 1:** <span class="tr">Nanomachines</span> (R) - Your faction tech
+**Round 1:** <span class="tr">Nanomachines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
 **Round 2:** <span class="tb">Dark Energy Tap</span> - Exploration + retreat flexibility
 - *Explore frontier tokens after tactical actions. Ships can retreat into adjacent systems without your units*
 
-**Round 3:** <span class="tb">Gravity Drive</span> (B) - Mobility
+**Round 3:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
 
 **Round 4:** Carrier II (BB) - Transport capacity
 - *Cost 3, Combat 9, Move 2, Capacity 6*
 
-**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> (BB)
+**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
 - *<span class="tb">Fleet Logistics</span>: Perform 2 actions per turn*
 
@@ -243,10 +243,10 @@ Ral Nel has two distinct tech paths:
 
 **Path 2 - <span class="tg">Psychoarchaeology</span> Start (Red + Blue Skip):**
 
-**Round 1:** <span class="tb">Gravity Drive</span> (B) - Mobility
+**Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
 
-**Round 2:** <span class="tr">Nanomachines</span> (R) - Your faction tech
+**Round 2:** <span class="tr">Nanomachines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
 **Round 3:** Carrier II (BB) - Transport capacity
@@ -255,7 +255,7 @@ Ral Nel has two distinct tech paths:
 **Round 4:** Linkship II (RR) - Enhanced Linkships
 - *Cost 1, Combat 8, Move 4. Can trigger same structure multiple times. AFB 6 (x3)*
 
-**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> (BB)
+**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
 - *<span class="tb">Fleet Logistics</span>: Perform 2 actions per turn*
 
@@ -263,9 +263,9 @@ Ral Nel has two distinct tech paths:
 
 **Supplemental Techs:**
 
-- **<span class="ty">Graviton Laser System</span> (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
+- **<span class="ty">Graviton Laser System</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
 
-- **<span class="tg">Bio-Stims</span> (G)** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready <span class="tr">Nanomachines</span> for double use. Needs green skip but works with Y↔G breakthrough.
+- **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - Ready a tech specialty planet or technology. Combos with <span class="tg">Psychoarchaeology</span> - ready your tech planets to generate more TG, or ready <span class="tr">Nanomachines</span> for double use. Needs green skip but works with Y↔G breakthrough.
 
 ---
 

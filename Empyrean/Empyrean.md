@@ -90,11 +90,11 @@ Combos with your agent—since the deck involves a lot of token gain, you can of
 
 **Faction Technologies:**
 
-**<span class="tb">Aetherstream</span> (BB):** After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action.
+**<span class="tb">Aetherstream</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action.
 
 Might not always be the best but most of the time really is game-changing movement. Ability to sell/enable others makes it just too good to pass up.
 
-**<span class="tg">Voidwatch</span> (G):** After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
+**<span class="tg">Voidwatch</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
 
 Would really not recommend. People rarely will be forced to give you something useful. A tech and opportunity cost of not getting other tech is too much of a price. Since you have the tokens, definitely get it in Entropic Scar but otherwise skip.
 
@@ -210,11 +210,11 @@ You're flexible within blue to get what you need. Priority is <span class="tb">A
 
 **Standard Path:**
 
-**Round 1:** <span class="tb">Gravity Drive</span> (B)
+**Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility to get more things in your slice.
 
-**Round 2:** <span class="tb">Aetherstream</span> (BB)
+**Round 2:** <span class="tb">Aetherstream</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to the move value of all of that player's ships during this tactical action
 - **Why:** Game-changing movement. Sellable ability.
 
@@ -222,7 +222,7 @@ You're flexible within blue to get what you need. Priority is <span class="tb">A
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Transport capacity. Move 2 carriers.
 
-**Round 4:** <span class="tb">Fleet Logistics</span> (BB)
+**Round 4:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - During each of your turns of the action phase, you may perform 2 actions instead of 1
 - **Why:** Double actions for flexibility.
 
@@ -230,7 +230,7 @@ You're flexible within blue to get what you need. Priority is <span class="tb">A
 - Your ships can move through systems that contain other players' ships
 - **Why:** Move through enemy fleets.
 
-**Bonus Tech:** <span class="tg">X-89 Bacterial Weapon</span> (GGG) via B↔G breakthrough
+**Bonus Tech:** <span class="tg">X-89 Bacterial Weapon</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> via B↔G breakthrough
 - After using BOMBARDMENT, destroy all infantry on planet if at least 1 destroyed. Double BOMBARDMENT and ground combat hits. Exhaust planet.
 - **Why:** Late game flex tech using breakthrough synergy.
 

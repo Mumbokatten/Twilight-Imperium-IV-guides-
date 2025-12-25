@@ -101,10 +101,10 @@ You start with 4 techs, one of each color. Combined with Analytical skipping a p
 
 **Starting Technologies:**
 
-1. **<span class="tg">Neural Motivator</span> (G)** - During the status phase, draw 2 action cards instead of 1
-2. **<span class="tb">Antimass Deflectors</span> (B)** - Ships move through asteroids; -1 to enemy SPACE CANNON rolls
-3. **<span class="ty">Sarween Tools</span> (Y)** - Reduce production costs by 1
-4. **<span class="tr">Plasma Scoring</span> (R)** - When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die
+1. **<span class="tg">Neural Motivator</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - During the status phase, draw 2 action cards instead of 1
+2. **<span class="tb">Antimass Deflectors</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - Ships move through asteroids; -1 to enemy SPACE CANNON rolls
+3. **<span class="ty">Sarween Tools</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - Reduce production costs by 1
+4. **<span class="tr">Plasma Scoring</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die
 
 **Notes:** You start with MORE technologies than any faction (4 vs 1-2 for most). It's all the level zero tech from base game—16 resources worth of free research. Completely ridiculous start.
 
@@ -116,14 +116,14 @@ You're ahead of everyone technologically from R1, and it only accelerates from t
 
 **Faction Technologies:**
 
-**<span class="ty">E-Res Siphons</span> (YY):**
+**<span class="ty">E-Res Siphons</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *After another player activates a system that contains 1 or more of your ships, gain 4 trade goods.*
 
 Certifiably filthy. This component is disgusting. 4 TG every time someone activates a system with your ships. You can research this round one with Analytical (ignore 1 yellow prereq).
 
 It's important to gum (leave ships everywhere) as Jol-Nar—not just to protect your home, but because 4 TG is a lot of money. It's a deterrent against lazy attacks. People don't just pick off your stuff in the mid-game for nothing when it costs them 4 TG to you. In the end game, it doesn't protect you (if they need your home, they're coming), but you might have enough money to build defenses while they're on the way.
 
-**<span class="tb">Spacial Conduit Cylinder</span> (BB):**
+**<span class="tb">Spacial Conduit Cylinder</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:**
 *You may exhaust this card after you activate a system that contains 1 or more of your units; that system is adjacent to all other systems that contain 1 or more of your units during this activation.*
 
 Defensive in nature. Exhaust after activating a system with your units to treat it as adjacent to ALL other systems with your units. Incredible for defending Mecatol Rex or defending home—just send everything back. For a faction that often just needs to hold on to one or two things in the late game, it has its uses.
@@ -160,23 +160,23 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 
 **Blue:**
 
-- Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), <span class="tb">Gravity Drive</span> (B), **<span class="tb">Dark Energy Tap</span>**
-- Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), <span class="ty">Sling Relay</span> (B)
+- Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, **<span class="tb">Dark Energy Tap</span>**
+- Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 
 **Green:**
 
-- Likely to have teched: <span class="tg">Neural Motivator</span> (starting), <span class="tg">Hyper Metabolism</span> (GG)
-- Hero targets: <span class="tg">Bio-Stims</span> (G), <span class="tg">X-89 Bacterial Weapon</span> Ω (GGG)
+- Likely to have teched: <span class="tg">Neural Motivator</span> (starting), <span class="tg">Hyper Metabolism</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
+- Hero targets: <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">, <span class="tg">X-89 Bacterial Weapon</span> Ω (GGG)
 
 **Yellow:**
 
 - Likely to have teched: **<span class="ty">Sarween Tools</span>** (starting), **<span class="ty">Scanlink Drone Network</span>**
-- Hero targets: **<span class="ty">E-Res Siphons</span>** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), <span class="ty">Predictive Intelligence</span> (Y), <span class="ty">Transit Diodes</span> (YY), <span class="ty">Integrated Economy</span> (YYY)
+- Hero targets: **<span class="ty">E-Res Siphons</span>** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), <span class="ty">Predictive Intelligence</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Transit Diodes</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">, <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 
 **Red:**
 
-- Likely to have teched: <span class="tr">Plasma Scoring</span> (starting), <span class="tr">Self-Assembly Routines</span> (R)
-- Hero targets: <span class="tr">Magen Defense Grid</span> (R), <span class="tr">Duranium Armor</span> (RR), <span class="tr">Assault Cannon</span> (RRR)
+- Likely to have teched: <span class="tr">Plasma Scoring</span> (starting), <span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
+- Hero targets: <span class="tr">Magen Defense Grid</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">, <span class="tr">Assault Cannon</span> (RRR)
 
 ### F. Promissory Note - **Research Agreement**
 
@@ -296,13 +296,13 @@ Be flexible to your needs—you have almost all options available at all times. 
 
 ### B. Starting Technologies
 
-**<span class="tg">Neural Motivator</span> (G):** During the status phase, draw 2 action cards instead of 1. Extra cards mean more options and potential Sabotages.
+**<span class="tg">Neural Motivator</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** During the status phase, draw 2 action cards instead of 1. Extra cards mean more options and potential Sabotages.
 
-**<span class="tb">Antimass Deflectors</span> (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against your units. Enables flexible pathing and reduces enemy PDS effectiveness.
+**<span class="tb">Antimass Deflectors</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">:** Move through asteroid fields. -1 to SPACE CANNON rolls against your units. Enables flexible pathing and reduces enemy PDS effectiveness.
 
-**<span class="ty">Sarween Tools</span> (Y):** Reduce the combined cost of produced units by 1 when using PRODUCTION. Saves resources every time you build—adds up significantly over a game.
+**<span class="ty">Sarween Tools</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:** Reduce the combined cost of produced units by 1 when using PRODUCTION. Saves resources every time you build—adds up significantly over a game.
 
-**<span class="tr">Plasma Scoring</span> (R):** When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die. Synergizes with your 2 starting PDS for 3 shots instead of 2.
+**<span class="tr">Plasma Scoring</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die. Synergizes with your 2 starting PDS for 3 shots instead of 2.
 
 ### C. Greedy Economy Path
 
@@ -310,11 +310,11 @@ Be flexible to your needs—you have almost all options available at all times. 
 
 With Brilliant, you research 2 techs per round when following Technology.
 
-**R1:** <span class="tb">Gravity Drive</span> (B), <span class="tg">Hyper Metabolism</span> (GG)
+**R1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, <span class="tg">Hyper Metabolism</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 - <span class="tb">Gravity Drive</span>: +1 move to 1 ship per activation.
 - <span class="tg">Hyper Metabolism</span>: 3 command tokens instead of 2 in status phase.
 
-**R2:** <span class="tb">Dark Energy Tap</span>, <span class="tr">Self-Assembly Routines</span> (R)
+**R2:** <span class="tb">Dark Energy Tap</span>, <span class="tr">Self-Assembly Routines</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">
 - <span class="tb">Dark Energy Tap</span>: Explore frontiers, retreat into empty systems.
 - Self-Assembly Routines: Free mech on production, 1 TG when mech dies.
 - **Commander unlocks.**
@@ -324,7 +324,7 @@ With Brilliant, you research 2 techs per round when following Technology.
 - PDS II: SPACE CANNON 5, shoots adjacent systems.
 - Unit abilities with Commander rerolls.
 
-**R4:** Dreadnought II (BBY), <span class="ty">Sling Relay</span> (B)
+**R4:** Dreadnought II (BBY), <span class="ty">Sling Relay</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - Dreadnought II: Cost 4, Combat 5, Move 2, Capacity 1, Sustain, BOMBARDMENT 5. Immune to Direct Hit.
 - <span class="ty">Sling Relay</span>: Produce 1 ship at any space dock.
 - **Hero swap available**—see Hero section for swap targets.

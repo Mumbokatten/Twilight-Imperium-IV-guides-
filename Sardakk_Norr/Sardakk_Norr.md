@@ -95,7 +95,7 @@ This unit cannot be destroyed by "Direct Hit" action cards. After a round of spa
 
 Upgraded version of your Exotrireme I with Move 2 (instead of 1), immunity to Direct Hit, and kamikaze ability to destroy 2 ships by sacrificing the dreadnought.
 
-**<span class="tr">Valkyrie Particle Weave</span> (RR):**
+**<span class="tr">Valkyrie Particle Weave</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:**
 *After making combat rolls during a round of ground combat, if your opponent produced 1 or more hits, you produce 1 additional hit.*
 
 Strong defensive ground combat tech. If your opponent gets any hits during ground combat, you get 1 bonus hit back. Synergizes well with your Valkyrie Exoskeleton mech's ability.
@@ -242,11 +242,11 @@ Being spread out is not that good. What you want from an enemy is a bit of a tug
 
 You start with **0 technologies.**
 
-There's really only 1 tech path these days: **<span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> (B)**. Use N'orr Supremacy to research unit upgrades from combat wins.
+There's really only 1 tech path these days: **<span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**. Use N'orr Supremacy to research unit upgrades from combat wins.
 
-**What <span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> (B) unlocks:**
+**What <span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> unlocks:**
 
-- <span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> (B) = 1R + 1B
+- <span class="ty">AI Development Algorithm</span> + <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = 1R + 1B
 - With B↔R synergy: 3 Red OR 3 Blue (interchangeable)
 - AI Dev ignores 1 prerequisite for unit upgrades
 
@@ -267,11 +267,11 @@ There's really only 1 tech path these days: **<span class="ty">AI Development Al
 
 ### B. Tech Path
 
-**Round 1: <span class="ty">AI Development Algorithm</span> (R)**
+**Round 1: <span class="ty">AI Development Algorithm</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">**
 - When you research unit upgrade tech, ignore 1 prerequisite. When using PRODUCTION, reduce cost by number of unit upgrade techs you own.
 - **Why:** Mainly for ignoring prerequisites on unit upgrades. Lets you research more unit upgrades via N'orr Supremacy.
 
-**Round 2: <span class="tb">Gravity Drive</span> (B)**
+**Round 2: <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - +1 move to 1 ship per activation
 - **Why:** Mobility for raids and repositioning.
 
@@ -289,7 +289,7 @@ There's really only 1 tech path these days: **<span class="ty">AI Development Al
 
 5. **PDS II** - Deep Space Cannon
 
-**Flexibility:** If taking Technology strategy card, consider <span class="tr">Duranium Armor</span> (RR) or <span class="tb">Fleet Logistics</span> (BB) based on game needs.
+**Flexibility:** If taking Technology strategy card, consider <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> or <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> based on game needs.
 
 ---
 
@@ -375,7 +375,7 @@ Use your accumulated combat advantage to close out the game. Your unit upgrades 
 
 **Strengths:** N'orr Supremacy breakthrough makes every combat profitable with command tokens or unit upgrade tech. Combat objectives are excellent. Commander enables invasions from adjacent systems without moving ships. Territorial objectives from aggressive expansion.
 
-**Weaknesses:** Tech deficit - 0 starting tech, permanently tech-poor. Structures - no Space Dock II (YY) hurts production scaling. Mobility early - no movement tech until round 2, hard to reach targets without <span class="tb">Gravity Drive</span> (B).
+**Weaknesses:** Tech deficit - 0 starting tech, permanently tech-poor. Structures - no Space Dock II (YY) hurts production scaling. Mobility early - no movement tech until round 2, hard to reach targets without <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">.
 
 ### B. Stage I Objectives
 

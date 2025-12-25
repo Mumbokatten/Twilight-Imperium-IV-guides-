@@ -87,18 +87,18 @@ Removes the 7-card hand limit. This is HUGE. While everyone else discards down t
 
 **Starting Technologies:**
 
-**<span class="tg">Neural Motivator</span> (G):** During the status phase, draw 2 action cards instead of 1.
+**<span class="tg">Neural Motivator</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** During the status phase, draw 2 action cards instead of 1.
 
 **Notes:** One of the best starting techs in the game for Yssaril. Drawing 2 action cards during status phase instead of 1 triggers Scheming (draw +1, discard 1), so you actually see 3 cards and keep 2. Over a 5-round game, this doubles your action card acquisition. Combined with Crafty (unlimited hand size), you build massive hands faster than any other faction. Opens green tech path for faction techs.
 
 **Faction Technologies:**
 
-**<span class="tg">Mageon Implants</span> (GGG):**
+**<span class="tg">Mageon Implants</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:**
 *ACTION: Exhaust this card to look at another player's hand of action cards. Choose 1 of those cards and add it to your hand.*
 
 Your key villain tech. Look at any player's hand and take their best action card. You know exactly what they have, and they know you'll take the good stuff—making them feel the agony of playing suboptimal cards just so you can't have them. Combine with <span class="tg">Bio-Stims</span> to use twice per round.
 
-**<span class="tg">Transparasteel Plating</span> (G):**
+**<span class="tg">Transparasteel Plating</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:**
 *During your turn of the action phase, players that have passed cannot play action cards.*
 
 Competes with <span class="tg">Bio-Stims</span> for the 1 green prereq slot. But if you're tech rich, it's wonderful to see all players pass (common occurrence) and know there is literally nothing they can do to stop you.
@@ -226,22 +226,22 @@ There is really no argument for skipping <span class="tg">Mageon Implants</span>
 
 **Starting Tech:** <span class="tg">Neural Motivator</span>
 
-**Round 1: <span class="tg">Bio-Stims</span> (G)**
+**Round 1: <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">**
 - At the end of your turn, you may exhaust this card to ready 1 planet you control with a technology specialty OR 1 of your other technologies
 - **Why:** Enables double Mageon use per round. This is your core combo piece.
 - **Prerequisites:** 1 green (<span class="tg">Neural Motivator</span>)
 
-**Round 2: <span class="tg">Mageon Implants</span> (GGG)**
+**Round 2: <span class="tg">Mageon Implants</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">**
 - **With green skip:** Take Mageon directly. Green skip + <span class="tg">Neural Motivator</span> + <span class="tg">Bio-Stims</span> = GGG.
 - **Without green skip:** Try for double tech that round. Get either:
-  - **<span class="tg">Hyper Metabolism</span> (GG)** + Mageon, or
-  - **<span class="tg">Transparasteel Plating</span> (G)** + Mageon
+  - **<span class="tg">Hyper Metabolism</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** + Mageon, or
+  - **<span class="tg">Transparasteel Plating</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** + Mageon
 
 **Round 3: DET or <span class="tb">Antimass Deflectors</span>**
 - **<span class="tb">Dark Energy Tap</span>:** Your ships can retreat into adjacent systems with your units. You may produce 1 unit at the start of combat.
 - **<span class="tb">Antimass Deflectors</span>:** Your ships can move into and through asteroid fields. -1 to SPACE CANNON rolls against you.
 
-**Round 4: <span class="tb">Gravity Drive</span> (B)**
+**Round 4: <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">**
 - +1 move to 1 ship when you activate a system. Bonus fleet movement.
 
 **Round 5: Carrier II (BB)**

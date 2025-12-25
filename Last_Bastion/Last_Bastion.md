@@ -218,7 +218,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 
 **Starting Tech:** <span class="tb">Dark Energy Tap</span> or Antimass Deflectors
 
-**Round 1:** <span class="tb">Gravity Drive</span> (B)
+**Round 1:** <span class="tb">Gravity Drive</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - After you activate a system, apply +1 to move value of 1 ship
 - **Why:** Mobility out of nebula and across slice. Helps with your home system being a nebula.
 
@@ -234,7 +234,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5
 - **Why:** Move 2 capital ships. Combos with your galvanize.
 
-**Round 5:** Carrier II (BB) OR <span class="tb">Fleet Logistics</span> (BB)
+**Round 5:** Carrier II (BB) OR <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **<span class="tb">Fleet Logistics</span>:** 2 actions per turn
 - **Why:** Transport capacity or double actions.
@@ -245,7 +245,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 
 **Starting Tech:** <span class="ty">Sarween Tools</span>
 
-**Round 1:** <span class="ty">Scanlink Drone Network</span> (Y)
+**Round 1:** <span class="ty">Scanlink Drone Network</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - When you activate a system, explore 1 planet in that system
 - **Why:** Yellow prerequisite for Helios V2.
 
@@ -261,7 +261,7 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - Cost 12, Combat 3 (x3), Move 2, Capacity 6, Sustain Damage, BOMBARDMENT 3 (x3)
 - **Why:** Heavy combat power.
 
-**Round 5:** <span class="tr">Assault Cannon</span> (RRR) OR <span class="tr">Duranium Armor</span> (RR) OR Destroyer II (RR)
+**Round 5:** <span class="tr">Assault Cannon</span> (RRR) OR <span class="tr">Duranium Armor</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> OR Destroyer II (RR)
 - **<span class="tr">Assault Cannon</span>:** Destroy 1 enemy non-fighter ship at start of space combat if you have 3+ non-fighter ships. If versus factions with big ships.
 - **<span class="tr">Duranium Armor</span>:** Repair 1 damaged unit after assigning hits each combat round. If you need ground strength, helps a lot.
 - **Destroyer II:** Cost 1, Combat 8, Move 2, AFB 6 (x3). Versus fighter screens.
