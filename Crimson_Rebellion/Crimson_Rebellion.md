@@ -175,7 +175,7 @@ During your tactical actions, apply +1 to the move value of each of your ships t
 
 **ACTION:** Exhaust this card to flip any breach or place an active breach in a non-home system that contains your units.
 
-This breakthrough is essential to your strategy. The +1 movement from home/breaches stacks with Gravity Drive for 3 movement, and the action ability lets you create/flip breaches without activating systems. This is incredibly powerful for network management.
+This breakthrough is essential to your strategy. The +1 movement from home/breaches stacks with <span class="tb">Gravity Drive</span> for 3 movement, and the action ability lets you create/flip breaches without activating systems. This is incredibly powerful for network management.
 
 ### K. Slice Considerations
 
@@ -228,7 +228,7 @@ You start by choosing one blue or red technology with no prerequisites. You can 
 
 **Choose one blue or red technology with no prerequisites**
 
-Pick AI Development Algorithm or Dark Energy Tap. Only take Antimass Deflectors if your slice requires it.
+Pick AI Development Algorithm or <span class="tb">Dark Energy Tap</span>. Only take <span class="tb">Antimass Deflectors</span> if your slice requires it.
 
 Recommended options:
 - **<span class="tb">Dark Energy Tap</span>** - Best choice. Extra frontier token in Sorrow, retreat flexibility.

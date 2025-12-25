@@ -92,11 +92,11 @@ Strong starting tech. Every production saves 1 resource, adding up over the game
 
 **Faction Technologies:**
 
-**Yin Spinner (GG):** After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.
+**<span class="tg">Yin Spinner</span> (GG):** After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.
 
 Your priority faction tech. Triggers on "produce" not "PRODUCTION"—meaning Sling Relay, exploration cards, and Integrated Economy all trigger Yin Spinner. Look for small production opportunities to maximize infantry generation.
 
-**Impulse Core (YY):** At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.
+**<span class="ty">Impulse Core</span> (YY):** At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.
 
 Pre-combat Devotion that forces the hit onto a non-fighter. Situational—only worth it if you're heavily invested in the kamikaze playstyle.
 
@@ -146,7 +146,7 @@ Mutually assured destruction. Most likely a defensive tool parked at home. Fun t
 
 When you gain this card or score a public objective, gain the alliance ability of a random, unused faction.
 
-**Y↔G Synergy:** Sarween counts as green for Yin Spinner (GG) and opens Integrated Economy (YYY) + X-89 (GGG) paths.
+**Y↔G Synergy:** Sarween counts as green for <span class="tg">Yin Spinner</span> (GG) and opens <span class="ty">Integrated Economy</span> (YYY) + X-89 (GGG) paths.
 
 **Random Alliances:** Excellent ability. Expect 4-6 alliances over a game, which averages out to great value. Unlock before first public objective scores to maximize. Having multiple commander abilities stacking makes you significantly stronger than your components suggest.
 
@@ -183,7 +183,7 @@ When you gain this card or score a public objective, gain the alliance ability o
 
 3. **Expansion and Production** - Your dual carriers and 4 infantry give you strong expansion capability. Claim 3 systems R1 to establish economy. Build units with Sarween discount to prepare for R2 aggression.
 
-4. **Technology** - Start your path toward Yin Spinner (GG). This is your faction's core tech and should be online R2-R3. Every production after Yin Spinner generates 2 free infantry.
+4. **Technology** - Start your path toward <span class="tg">Yin Spinner</span> (GG). This is your faction's core tech and should be online R2-R3. Every production after Yin Spinner generates 2 free infantry.
 
 **Expansion Notes:** You have 2 carriers, 1 destroyer, and 4 infantry. Split forces across multiple systems using your dual carriers. Aim for 2-3 systems R1.
 
@@ -193,7 +193,7 @@ Only 2 commodities combined with expensive abilities creates constant economic p
 
 ### C. Lack of Mobility
 
-No mobility tech in your faction kit. You're stuck at move 1 until you research Gravity Drive. This makes early expansion slower and limits your ability to project force across the map. Plan your slice positioning carefully and prioritize blue tech if the map requires it.
+No mobility tech in your faction kit. You're stuck at move 1 until you research <span class="tb">Gravity Drive</span>. This makes early expansion slower and limits your ability to project force across the map. Plan your slice positioning carefully and prioritize blue tech if the map requires it.
 
 ---
 
@@ -201,36 +201,36 @@ No mobility tech in your faction kit. You're stuck at move 1 until you research 
 
 ### A. Overview
 
-**Starting Tech:** Sarween Tools (reduce production costs by 1).
+**Starting Tech:** <span class="ty">Sarween Tools</span> (reduce production costs by 1).
 
 Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The paths diverge on tech priorities:
 
 **Yin Spinner Path:** Rush your faction tech for infantry spam and ground dominance. Focuses on Yin Spinner early (R2) then pivots into Integrated Economy + X-89 Bacterial Weapon for production flexibility and nuclear ground combat. Maximizes your infantry generation and ground force control. Best when you need to hold planets and score control objectives.
 
-**Blue Path:** Prioritize mobility and unit upgrades over faction tech. Gets Gravity Drive R2, delays Yin Spinner to R3, then pushes into Carrier II and Dreadnought II for fleet strength. More flexible and well-rounded but sacrifices early infantry spam. Best for aggressive tables or slices requiring early mobility.
+**Blue Path:** Prioritize mobility and unit upgrades over faction tech. Gets <span class="tb">Gravity Drive</span> R2, delays Yin Spinner to R3, then pushes into Carrier II and Dreadnought II for fleet strength. More flexible and well-rounded but sacrifices early infantry spam. Best for aggressive tables or slices requiring early mobility.
 
 ### B. Technology Paths
 
 **Yin Spinner Path (No Skips):**
 
-**Round 1:** Bio-Stims (G)
+**Round 1:** <span class="tg">Bio-Stims</span> (G)
 - At the start of a combat round, you may exhaust this card to apply +2 to the result of 1 unit's combat roll
 - Ready a technology (or tech specialty planet if you own Psychoarchaeology)
 - **Why:** Green prereq for Yin Spinner. Combat bonus is useful.
 
-**Round 2:** Yin Spinner (GG)
+**Round 2:** <span class="tg">Yin Spinner</span> (GG)
 - After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
 - **Why:** Core faction tech. Free infantry with every production. Triggers on "produce" not PRODUCTION—works with Sling Relay, exploration, Integrated Economy.
 
-**Round 3:** Gravity Drive (B)
+**Round 3:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility. Move 2 carriers. Essential for map control.
 
-**Round 4:** Integrated Economy (YYY)
+**Round 4:** <span class="ty">Integrated Economy</span> (YYY)
 - When you gain trade goods or resolve the secondary ability of the Trade strategy card, gain 1 additional trade good
 - **Why:** If unlocking Yin Ascendant (Y↔G), this counts as 3 green techs for X-89. Extra trade goods help your weak economy.
 
-**Round 5:** X-89 Bacterial Weapon (GGG)
+**Round 5:** <span class="tg">X-89 Bacterial Weapon</span> (GGG)
 - At the start of ground combat, choose up to 2 planets and exhaust this card; destroy all infantry on those planets
 - **Why:** Nuclear ground combat option. Clears planets before invasions. Works with Indoctrination to convert survivors after X-89 kills their army.
 
@@ -238,22 +238,22 @@ Both paths assume you unlock Yin Ascendant breakthrough and Commander early. The
 
 **Blue Path (Boring but Reliable):**
 
-**Round 1:** Dark Energy Tap (B)
+**Round 1:** <span class="tb">Dark Energy Tap</span> (B)
 - After you exhaust a planet to activate a system, you may exhaust this card to explore that planet
 - Ships can retreat into adjacent systems that do not contain other players' units
-- **Why:** Exploration value. Retreat flexibility. Blue prereq for Gravity Drive.
+- **Why:** Exploration value. Retreat flexibility. Blue prereq for <span class="tb">Gravity Drive</span>.
 
-**Round 2:** Gravity Drive (B)
+**Round 2:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility. Move 2 carriers. Essential early.
 
-**Round 3:** Yin Spinner (GG)
+**Round 3:** <span class="tg">Yin Spinner</span> (GG)
 - After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships
 - **Why:** Core faction tech. Delayed to R3 for early mobility priority.
 
 **Round 4:** Carrier II (BB)
 - Cost 3 | Combat 9 | Move 2 | Capacity 6
-- **Why:** Transport capacity for Yin Spinner infantry. Move 2 + Gravity Drive = move 3 carriers.
+- **Why:** Transport capacity for Yin Spinner infantry. Move 2 + <span class="tb">Gravity Drive</span> = move 3 carriers.
 
 **Round 5:** Dreadnought II (BBY)
 - Cost 4 | Combat 5 | Move 2 | Capacity 1 | SUSTAIN DAMAGE | BOMBARDMENT 5

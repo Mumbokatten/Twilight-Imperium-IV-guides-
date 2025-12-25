@@ -87,7 +87,7 @@ Forced combat when awakening sleepers on contested planets or deploying flagship
 
 **Saturn Engine I (Special Unit):** Cost: 2 | Combat: 7 | Move: 2 | Capacity: 1
 
-Makes ton of difference for early expansion. Capacity and move 2 on an early ship frees you from needing Gravity Drive.
+Makes ton of difference for early expansion. Capacity and move 2 on an early ship frees you from needing <span class="tb">Gravity Drive</span>.
 
 **Hel-Titan I (Special Unit):** Cost: 4 | Combat: 7 | Planetary Shield | Sustain Damage | SPACE CANNON 6 | PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported.
 
@@ -220,7 +220,7 @@ You want to spend tokens to Scanlink (activations), awaken sleepers, use for bre
 
 ### A. Overview
 
-**Starting Tech:** Antimass Deflectors (Blue) and Scanlink Drone Network (0).
+**Starting Tech:** <span class="tb">Antimass Deflectors</span> (Blue) and Scanlink Drone Network (0).
 
 Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth getting.
 
@@ -237,12 +237,12 @@ Priority is Saturn Engine II. Hel-Titan II difference isn't huge but still worth
 - Ul Cruiser: Cost 2, Combat 6, Move 3, Capacity 2, Sustain Damage
 - **Why:** Strongest ship in game. Elite fleet mobility.
 
-**Round 3:** Gravity Drive (B)
+**Round 3:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility boost for cruiser fleet.
 
-**Round 4:** Fleet Logistics (BB) OR Carrier II (BB) OR Dreadnought II (BBY)
-- **Fleet Logistics:** 2 actions per turn
+**Round 4:** <span class="tb">Fleet Logistics</span> (BB) OR Carrier II (BB) OR Dreadnought II (BBY)
+- **<span class="tb">Fleet Logistics</span>:** 2 actions per turn
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **Dreadnought II:** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5
 - **Why:** Utility upgrades or unit upgrades based on objectives.
@@ -311,9 +311,9 @@ Your game plan is straightforward: excavate planets with Scanlink, seed sleeper 
 
 **Early Game (R1-2):** Explore 3-4 systems with Scanlink (only systems with planets need exploring), placing sleeper tokens everywhere. Get AI Development Algorithm R1 for tech prereqs. Try to have Commander unlocked by R2 (5 structures—awaken 3-4 sleepers + starting dock + built structures). Best case scenario: hero unlocked in status phase R2 as well—aim for that. Build cruisers and expand your slice. Commander transforms economy—every production generates trade goods. Start accumulating wealth.
 
-**Mid Game (R3-4):** Saturn Engine II online—your cruisers become elite fleet with move 3, capacity 2, Sustain Damage. Gravity Drive adds mobility. Awaken remaining sleepers for distributed production network. Commander generates passive TG income with every production. Build Saturn Engine fleet and swing across map for objectives. Distributed Hel-Titan production means you produce reinforcements wherever your fleet operates. Hero upgrades Elysium to 7/4 for extreme production capacity at home.
+**Mid Game (R3-4):** Saturn Engine II online—your cruisers become elite fleet with move 3, capacity 2, Sustain Damage. <span class="tb">Gravity Drive</span> adds mobility. Awaken remaining sleepers for distributed production network. Commander generates passive TG income with every production. Build Saturn Engine fleet and swing across map for objectives. Distributed Hel-Titan production means you produce reinforcements wherever your fleet operates. Hero upgrades Elysium to 7/4 for extreme production capacity at home.
 
-**Late Game (R5+):** Commander has generated significant wealth over the game. Your Saturn Engine fleet dominates contested space—fastest mobile capital ships with Sustain Damage. Structure objectives are doable with 6+ Hel-Titans. Most things are doable if you got a good start. Fleet Logistics or Light/Wave adds final layer of dominance. Close out with overwhelming mobility and production advantage.
+**Late Game (R5+):** Commander has generated significant wealth over the game. Your Saturn Engine fleet dominates contested space—fastest mobile capital ships with Sustain Damage. Structure objectives are doable with 6+ Hel-Titans. Most things are doable if you got a good start. <span class="tb">Fleet Logistics</span> or Light/Wave adds final layer of dominance. Close out with overwhelming mobility and production advantage.
 
 ---
 

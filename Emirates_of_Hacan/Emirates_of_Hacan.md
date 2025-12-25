@@ -245,9 +245,9 @@ Choose your path based on: breakthrough availability (R↔Y required for Path 2)
 
 ### B. Starting Technologies
 
-**Antimass Deflectors:** Move through asteroid fields. -1 to SPACE CANNON rolls against your units.
+**<span class="tb">Antimass Deflectors</span>:** Move through asteroid fields. -1 to SPACE CANNON rolls against your units.
 
-**Sarween Tools:** Reduce the combined cost of produced units by 1 when using PRODUCTION.
+**<span class="ty">Sarween Tools</span>:** Reduce the combined cost of produced units by 1 when using PRODUCTION.
 
 ### C. Technology Paths
 

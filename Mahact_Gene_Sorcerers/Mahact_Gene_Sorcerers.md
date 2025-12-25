@@ -212,13 +212,13 @@ Your Round 1 (R1) priority order: **Expansion + Production > Breakthrough > Scor
 
 1. **Expansion + Production** - Getting your plastic economy started and setting up all future turns. Expand to 2-3 systems R1 with your starting fleet.
 
-2. **Breakthrough** - Easy to unlock with Bio-Stims helping on tech specialty planets, otherwise tough to use Round 1.
+2. **Breakthrough** - Easy to unlock with <span class="tg">Bio-Stims</span> helping on tech specialty planets, otherwise tough to use Round 1.
 
 3. **Scoring** - You'll be a threat either way—people know what you can do late. Your real power emerges Round 3-4 when you've stolen multiple tokens and can use commander abilities.
 
 4. **Technology** - Tech is a luxury with low resource start. Setup for late game relics dominance via Vaults of the Heir when you can afford it. Token theft and territorial control come first.
 
-**Expansion Notes:** Go out into a tech skip planet, use Bio-Stims to ready it and do your expedition right away for a quick, cheap, and efficient way to solve breakthrough. Might have to spend home system on resources Round 1 to afford things. Hard to grab more than 2 systems, but with Bio-Stims and token economy early game can still be fine. Getting out some scary looking plastic is key for your survival.
+**Expansion Notes:** Go out into a tech skip planet, use <span class="tg">Bio-Stims</span> to ready it and do your expedition right away for a quick, cheap, and efficient way to solve breakthrough. Might have to spend home system on resources Round 1 to afford things. Hard to grab more than 2 systems, but with <span class="tg">Bio-Stims</span> and token economy early game can still be fine. Getting out some scary looking plastic is key for your survival.
 
 **Strategy Card Priority:** Diplomacy (4), Warfare (6), or Tech (7) for R1. If you manage to buy extra tokens, Construction (4) is also nice with the right planet and timing. Try to score early deals for your agent.
 
@@ -238,7 +238,7 @@ This creates decision paralysis. You can't just grab useful techs—you have to 
 
 ### B. Starting Technologies
 
-**Bio-Stims (Green):** Ready planets with tech specialties or other technologies at end of turn.
+**<span class="tg">Bio-Stims</span> (Green):** Ready planets with tech specialties or other technologies at end of turn.
 
 **Predictive Intelligence (Yellow):** Redistribute command tokens or cast +3 votes during agenda phase.
 
@@ -297,7 +297,7 @@ Your R1 priority is solving your economy, making early deals, and setting up tok
 
 1. **Trade** - Solves Round 1 economy and makes early deals. 3 commodities isn't amazing but Trade gives you the flexibility to negotiate with everyone and get your resource engine started.
 
-2. **Technology** - Dark Energy Tap or tech skip path setup. Tech is actually strong Round 1 to get ahead on your complicated tech path.
+2. **Technology** - <span class="tb">Dark Energy Tap</span> or tech skip path setup. Tech is actually strong Round 1 to get ahead on your complicated tech path.
 
 3. **Leadership** - Crazy token economy for R1/R2. Your 5 influence home system makes Leadership incredibly strong for token generation early.
 

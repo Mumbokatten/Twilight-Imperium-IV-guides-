@@ -19,7 +19,7 @@ You are scavengers, ready to exploit every planet you land on and grab more than
 
 Your strength is **invasion mobility, production flexibility, and asteroid control**. Floating Factories move like ships—invade from unexpected angles, reposition production anywhere, retreat when threatened. Nomadic means you have less of a home and live on the road while opponents hungrily eye the planets you left behind. Unlock commander to place infantry/fighters at any dock and leverage Scavenge to turn every conquest into trade goods. Extract maximum value from every planet you touch, then move on to the next target.
 
-Asteroids become safe havens with Chaos Mapping—opponents cannot activate asteroid fields containing your ships. Position factories in asteroids to block opponent movement and bombard from range. Your factories are your home, asteroids are your fortresses.
+Asteroids become safe havens with <span class="tb">Chaos Mapping</span>—opponents cannot activate asteroid fields containing your ships. Position factories in asteroids to block opponent movement and bombard from range. Your factories are your home, asteroids are your fortresses.
 
 Victory comes from wandering the galaxy, scoring objectives through mobile production, conquering planets for Scavenge income, and controlling key positions.
 
@@ -65,17 +65,17 @@ Your defining unit. Space dock that moves like a ship, produces in space, and ca
 
 **Starting Technologies:**
 
-- **Antimass Deflectors (0)** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
+- **<span class="tb">Antimass Deflectors</span> (0)** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
 
-**Notes:** Crucial tech that combos with Chaos Mapping. Asteroid belts become your home—where you are, people nearby feel it. Position your factories in asteroids and opponents can't activate those systems. Good to get started in blue tech path.
+**Notes:** Crucial tech that combos with <span class="tb">Chaos Mapping</span>. Asteroid belts become your home—where you are, people nearby feel it. Position your factories in asteroids and opponents can't activate those systems. Good to get started in blue tech path.
 
 **Faction Technologies:**
 
-**Floating Factory II (YY):** Saar Space Dock - Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
+**<span class="ty">Floating Factory II</span> (YY):** Saar Space Dock - Move 2, Capacity 5, PRODUCTION 7. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship. If this unit is blockaded, it is destroyed.
 
 One of your preferred techs. Upgrades your factories to move 2, capacity 5, production 7. Doesn't hurt your incredible production to have even more—definitely worth getting if you happen to be running by an entropic scar.
 
-**Chaos Mapping (B):** Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
+**<span class="tb">Chaos Mapping</span> (B):** Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
 
 Your defining tech—you get it every game. Serves as security and flexibility. Being able to produce every single turn BEFORE you move (a destroyer or a fighter) is incredible and keeps people guessing on your true strength. Opponents can't activate asteroids with your ships.
 
@@ -129,7 +129,7 @@ ACTION: Exhaust this card and spend any amount of resources to choose a planet u
 
 Mostly used as a stall. The ability is not impactful enough except for edge cases. You'll also annoy people that are probably already annoyed by you.
 
-**B↔R Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using Chaos Mapping is the most interesting part.
+**B↔R Synergy:** Blue and red technologies count as each other for prerequisites. Getting it to unlock Destroyer 2 that you can easily produce every turn using <span class="tb">Chaos Mapping</span> is the most interesting part.
 
 Try to place Thunder's Edge in an asteroid field—you can always use the extra resources.
 
@@ -147,9 +147,9 @@ Saar wants resources for production and mobile positioning for factory flexibili
 
 **Slice Priorities:**
 
-- **Asteroid belt** - Priority. Essential for Chaos Mapping and safe factory positioning.
+- **Asteroid belt** - Priority. Essential for <span class="tb">Chaos Mapping</span> and safe factory positioning.
 - **High resources** - You're token efficient since you produce and move with the same token. You got massive production and need resources to spend it.
-- **Favor tech skips (blue/yellow)** - Industrial or cybernetic for Floating Factory II path. Tech skip to get access to Fracture.
+- **Favor tech skips (blue/yellow)** - Industrial or cybernetic for <span class="ty">Floating Factory II</span> path. Tech skip to get access to Fracture.
 
 **Nice to Have:**
 
@@ -171,7 +171,7 @@ Focus on:
 
 2. **Expansion + Production** - Priority to get a ton of ships/ground troops out to secure your bigger than average slice.
 
-3. **Technology** - Pushing toward Floating Factory II and Chaos Mapping. Tech is nice but you're fine without it if you have to prioritize troops.
+3. **Technology** - Pushing toward <span class="ty">Floating Factory II</span> and <span class="tb">Chaos Mapping</span>. Tech is nice but you're fine without it if you have to prioritize troops.
 
 4. **Breakthrough** - Try to snipe Thunder's Edge if available, otherwise leave it. Definitely for R1.
 
@@ -193,11 +193,11 @@ You're not very tech dependent—you like more plastic over techs. **<span class
 
 ### B. Technology Path
 
-**R1:** Gravity Drive (B)
+**R1:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** Solid bonus mobility to keep space dock with your fleet and to reach key targets.
 
-**R2-3:** Chaos Mapping (B - Faction Tech)
+**R2-3:** <span class="tb">Chaos Mapping</span> (B - Faction Tech)
 - Other players cannot activate asteroid fields that contain 1 or more of your ships. At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
 - **Why:** Produce 1 unit every turn before movement. Security in asteroid belts. Keeps opponents guessing.
 
@@ -207,13 +207,13 @@ You're not very tech dependent—you like more plastic over techs. **<span class
 
 **R4:** Destroyer II (RR) if you have Deorbit Barrage breakthrough R4
 - Automated Defense Turrets. Cost: 1, Combat: 8, Move: 2, ANTI-FIGHTER BARRAGE 6 (x3).
-- **Why:** Cheap screening, AFB 6(x3) for fighter defense. Easy to produce with Chaos Mapping.
+- **Why:** Cheap screening, AFB 6(x3) for fighter defense. Easy to produce with <span class="tb">Chaos Mapping</span>.
 
 **R5:** Light/Wave Deflector (BBB)
 - Your ships can move through systems that contain other players' ships.
 - **Why:** Avoid combat while repositioning factories and fleets. Essential for late game mobility.
 
-**Fleet Logistics (BB)** - During each of your turns of the action phase, you may perform 2 actions instead of 1. Can be useful situationally.
+**<span class="tb">Fleet Logistics</span> (BB)** - During each of your turns of the action phase, you may perform 2 actions instead of 1. Can be useful situationally.
 
 ## VI. Strategy Cards
 
@@ -251,7 +251,7 @@ You are so incredibly flexible Round 1 that it's hard to say which cards are the
 **Good:**
 
 - **Construction** - Build 2nd and 3rd Floating Factories for commander unlock. Forward factory positioning creates production nodes.
-- **Technology** - Gravity Drive, Chaos Mapping, Carrier II progression.
+- **Technology** - <span class="tb">Gravity Drive</span>, <span class="tb">Chaos Mapping</span>, Carrier II progression.
 - **Warfare** - Redistribution after mobile factory repositioning. Useful for multi-front expansion.
 - **Politics** - Breakthrough unlock and custodian setup.
 - **Leadership** - Command tokens for factory movement and Scavenge conquests.
@@ -268,7 +268,7 @@ Your ideal fleet composition:
 
 - **Floating Factories** - Your capital ships. Protect them like flagships. Build 3 for commander unlock, position them in strategic locations (asteroid belts, Mecatol adjacent, high-resource systems).
 - **Carriers** - Transport factories and infantry. Essential for mobility. Carrier II (capacity 6) for mass troop transport.
-- **Destroyers** - If you have Destroyer II, cheap screening with AFB 6(x3). Easy to produce with Chaos Mapping.
+- **Destroyers** - If you have Destroyer II, cheap screening with AFB 6(x3). Easy to produce with <span class="tb">Chaos Mapping</span>.
 - **Fighters** - Screening and hit absorption.
 - **Infantry** - Mass conquest for Scavenge income. Produce everywhere with commander.
 - **Mechs** - Deploy via Scavenge trade goods on conquered planets for instant defense.
@@ -280,7 +280,7 @@ Your ideal fleet composition:
 
 **Early Game (Rounds 1-2):**
 
-Grab your entire slice and maybe more. Your Floating Factories let you produce anywhere—priority is getting a ton of ships and ground troops out to secure your bigger-than-average slice. Build additional factories for commander unlock (need 3 total). Every planet conquered gives you 1 trade good from Scavenge—fund your expansion engine. Get Gravity Drive for mobility. Grab custodian or score an early Imperial point to get ahead.
+Grab your entire slice and maybe more. Your Floating Factories let you produce anywhere—priority is getting a ton of ships and ground troops out to secure your bigger-than-average slice. Build additional factories for commander unlock (need 3 total). Every planet conquered gives you 1 trade good from Scavenge—fund your expansion engine. Get <span class="tb">Gravity Drive</span> for mobility. Grab custodian or score an early Imperial point to get ahead.
 
 **Mid Game (Rounds 3-4):**
 
@@ -423,7 +423,7 @@ Trading for other factions' Alliance promissory notes (which give you access to 
 
 **Top Tier:**
 
-1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Incredible combo with Chaos Mapping—produce one free flagship every turn.
+1. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Incredible combo with <span class="tb">Chaos Mapping</span>—produce one free flagship every turn.
 2. **Crimson Rebellion (Ahk Siever)** - At end of combat, gain commodity/TG. Excellent for combat-heavy Saar.
 3. **Muaat (Magmus)** - After you spend strategy token, gain 1 trade good. Good TG income for Saar's token-heavy playstyle.
 4. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home system, legendary planet systems. Excellent for holding Mecatol Rex.
@@ -453,7 +453,7 @@ This section highlights action cards that synergize particularly well with your 
 
 Clan of Saar is the faction for players who understand that stationary infrastructure is a limitation. Your Floating Factories rewrite TI4's fundamental rules—produce in space, retreat from combat, reposition across the galaxy. Combined with Scavenge income and Nomadic scoring, you operate with freedoms other factions don't have.
 
-Your strength is mobility and aggressive expansion. Grab your entire slice Round 1 and fund it through Scavenge. Build 3 factories early for commander unlock. Position factories in asteroid belts with Chaos Mapping for security and free production every turn. Take Mecatol Rex and hold it through mobile reinforcement. When opponents threaten your home, you've already abandoned it—Nomadic lets you score without looking back.
+Your strength is mobility and aggressive expansion. Grab your entire slice Round 1 and fund it through Scavenge. Build 3 factories early for commander unlock. Position factories in asteroid belts with <span class="tb">Chaos Mapping</span> for security and free production every turn. Take Mecatol Rex and hold it through mobile reinforcement. When opponents threaten your home, you've already abandoned it—Nomadic lets you score without looking back.
 
 When you master Saar, the galaxy bends to your production. Factories move with your fleets. Commander distributes infantry and fighters across multiple docks. Your mobility lets you reach Styx, Fracture, and objectives that others struggle with. Opponents can't pin you down—you're already somewhere else, producing another fleet.
 

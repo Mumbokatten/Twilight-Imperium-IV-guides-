@@ -88,7 +88,7 @@ Easily forgotten but helpful for small bonus income. Only triggers if you vote f
 
 **Faction Technologies:**
 
-Kind of hard to tech—usually requires a yellow skip or green skip. With Gravity Drive, you can send your flagship all over the map to inflict damage and take objectives freely. If someone kills it, another one appears (commander + Sling Relay).
+Kind of hard to tech—usually requires a yellow skip or green skip. With <span class="tb">Gravity Drive</span>, you can send your flagship all over the map to inflict damage and take objectives freely. If someone kills it, another one appears (commander + Sling Relay).
 
 **Memoria II (GBY):**
 *Nomad Flagship - Cost: 8 | Combat: 5 (x2) | Move: 2 | Capacity: 6 | Sustain Damage | ANTI-FIGHTER BARRAGE 5 (x3)*
@@ -168,7 +168,7 @@ At the start of any player's turn, you may exhaust 1 of your agents to ready any
 
 Double-use agents or ready opponent agents for favors. Get if optimal agents available to combo with.
 
-**Y↔G Synergy:** Helpful for Memoria II and Bio-Stims Sling Relay combo for stalling. Other than that, you're probably more blue focused.
+**Y↔G Synergy:** Helpful for Memoria II and <span class="tg">Bio-Stims</span> Sling Relay combo for stalling. Other than that, you're probably more blue focused.
 
 ### K. Slice and Draft Considerations
 
@@ -201,11 +201,11 @@ Speaker is great. Earlier better but can handle most positions. Looking for frie
 
 2. **Expansion + Production** - Get more planets and stronger economy. Better at ship objectives than tech objectives.
 
-3. **Technology** - If you need to reach stuff with Gravity Drive.
+3. **Technology** - If you need to reach stuff with <span class="tb">Gravity Drive</span>.
 
 4. **Breakthrough** - If easily obtainable and good game for it.
 
-**Expansion Notes:** Solid start. Can handle almost all slices. Aim for 2 systems nearby, get a 3rd if you got Gravity Drive.
+**Expansion Notes:** Solid start. Can handle almost all slices. Aim for 2 systems nearby, get a 3rd if you got <span class="tb">Gravity Drive</span>.
 
 ### B. Flagship Reliance
 
@@ -225,19 +225,19 @@ Prefer to have a green or yellow skip.
 
 **Starting Tech:** Sling Relay (B)
 
-**Round 1:** Gravity Drive (B)
+**Round 1:** <span class="tb">Gravity Drive</span> (B)
 - +1 move to 1 ship per activation
 - **Why:** Mobility for flagship and carriers. Reach more systems.
 
-**Round 2:** Bio-Stims (G) if you have skip/breakthrough, otherwise Scanlink or Neural Motivator
-- **Bio-Stims:** Ready a tech specialty planet or another tech
+**Round 2:** <span class="tg">Bio-Stims</span> (G) if you have skip/breakthrough, otherwise Scanlink or Neural Motivator
+- **<span class="tg">Bio-Stims</span>:** Ready a tech specialty planet or another tech
 - **Scanlink:** Explore when you activate a system with your units
 - **Neural:** Draw 2 action cards instead of 1
-- **Why:** Bio-Stims combos with Sling Relay for stalling. Scanlink/Neural as prereq if no skip.
+- **Why:** <span class="tg">Bio-Stims</span> combos with Sling Relay for stalling. Scanlink/Neural as prereq if no skip.
 
-**Round 3:** Bio-Stims (G) if you didn't get it R2, otherwise Carrier II (BB)
+**Round 3:** <span class="tg">Bio-Stims</span> (G) if you didn't get it R2, otherwise Carrier II (BB)
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
-- **Why:** Get Bio-Stims online, then transport capacity.
+- **Why:** Get <span class="tg">Bio-Stims</span> online, then transport capacity.
 
 **Round 4:** Carrier II (BB) or Memoria II (GBY)
 - **Memoria II:** Cost 8, Combat 5 (x2), Move 2, Capacity 6, AFB 5 (x3)
@@ -246,7 +246,7 @@ Prefer to have a green or yellow skip.
 **Round 5:** Memoria II (GBY) or unit upgrades
 - **Why:** Flagship upgrade if you can reach it, otherwise flex.
 
-**Flex:** Fleet Logistics (BB), Light/Wave Deflector (BBB), Dreadnought II (BBY) if you got more techs.
+**Flex:** <span class="tb">Fleet Logistics</span> (BB), Light/Wave Deflector (BBB), Dreadnought II (BBY) if you got more techs.
 
 
 ---
@@ -259,7 +259,7 @@ Prefer to have a green or yellow skip.
 
 1. **Trade** - 4 commodities + TG generation. Bank with Artuno for later.
 
-2. **Technology** - Blue path toward Gravity Drive for mobility.
+2. **Technology** - Blue path toward <span class="tb">Gravity Drive</span> for mobility.
 
 3. **Leadership** - Many extra secondaries and good free value.
 
@@ -286,7 +286,7 @@ Prefer to have a green or yellow skip.
 **Good:**
 
 - **Politics** - Future Sight TG generation + agenda control.
-- **Technology** - Unit upgrades and Bio-Stims.
+- **Technology** - Unit upgrades and <span class="tg">Bio-Stims</span>.
 
 **Situational:**
 
@@ -315,11 +315,11 @@ Use strong production to build cost effective fleets.
 
 **Early Game (Rounds 1-2):**
 
-Use your flagship presence to expand safely and grab an extra equidistant if possible. Place mechs to start building your teleportation network. Get Gravity Drive for mobility. Trade your agents for favors and bank TGs with Artuno when Trade fires. Custodians if setup for it.
+Use your flagship presence to expand safely and grab an extra equidistant if possible. Place mechs to start building your teleportation network. Get <span class="tb">Gravity Drive</span> for mobility. Trade your agents for favors and bank TGs with Artuno when Trade fires. Custodians if setup for it.
 
 **Mid Game (Rounds 3-4):**
 
-Your flagship with Gravity Drive can reach anywhere. Use mech teleportation to appear where needed. Unlock commander (1 secret) so flagship becomes free to reproduce. Start solving objectives with your wealth and diplomatic leverage.
+Your flagship with <span class="tb">Gravity Drive</span> can reach anywhere. Use mech teleportation to appear where needed. Unlock commander (1 secret) so flagship becomes free to reproduce. Start solving objectives with your wealth and diplomatic leverage.
 
 **Late Game (Round 5+):**
 

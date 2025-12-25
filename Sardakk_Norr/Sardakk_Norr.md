@@ -242,11 +242,11 @@ Being spread out is not that good. What you want from an enemy is a bit of a tug
 
 You start with **0 technologies.**
 
-There's really only 1 tech path these days: **AI Development Algorithm + Gravity Drive (B)**. Use N'orr Supremacy to research unit upgrades from combat wins.
+There's really only 1 tech path these days: **AI Development Algorithm + <span class="tb">Gravity Drive</span> (B)**. Use N'orr Supremacy to research unit upgrades from combat wins.
 
-**What AI Development Algorithm + Gravity Drive (B) unlocks:**
+**What AI Development Algorithm + <span class="tb">Gravity Drive</span> (B) unlocks:**
 
-- AI Development Algorithm + Gravity Drive (B) = 1R + 1B
+- AI Development Algorithm + <span class="tb">Gravity Drive</span> (B) = 1R + 1B
 - With B↔R synergy: 3 Red OR 3 Blue (interchangeable)
 - AI Dev ignores 1 prerequisite for unit upgrades
 
@@ -271,7 +271,7 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 - When you research unit upgrade tech, ignore 1 prerequisite. When using PRODUCTION, reduce cost by number of unit upgrade techs you own.
 - **Why:** Mainly for ignoring prerequisites on unit upgrades. Lets you research more unit upgrades via N'orr Supremacy.
 
-**Round 2: Gravity Drive (B)**
+**Round 2: <span class="tb">Gravity Drive</span> (B)**
 - +1 move to 1 ship per activation
 - **Why:** Mobility for raids and repositioning.
 
@@ -289,7 +289,7 @@ There's really only 1 tech path these days: **AI Development Algorithm + Gravity
 
 5. **PDS II** - Deep Space Cannon
 
-**Flexibility:** If taking Technology strategy card, consider Duranium Armor (RR) or Fleet Logistics (BB) based on game needs.
+**Flexibility:** If taking Technology strategy card, consider <span class="tr">Duranium Armor</span> (RR) or <span class="tb">Fleet Logistics</span> (BB) based on game needs.
 
 ---
 
@@ -375,7 +375,7 @@ Use your accumulated combat advantage to close out the game. Your unit upgrades 
 
 **Strengths:** N'orr Supremacy breakthrough makes every combat profitable with command tokens or unit upgrade tech. Combat objectives are excellent. Commander enables invasions from adjacent systems without moving ships. Territorial objectives from aggressive expansion.
 
-**Weaknesses:** Tech deficit - 0 starting tech, permanently tech-poor. Structures - no Space Dock II (YY) hurts production scaling. Mobility early - no movement tech until round 2, hard to reach targets without Gravity Drive (B).
+**Weaknesses:** Tech deficit - 0 starting tech, permanently tech-poor. Structures - no Space Dock II (YY) hurts production scaling. Mobility early - no movement tech until round 2, hard to reach targets without <span class="tb">Gravity Drive</span> (B).
 
 ### B. Stage I Objectives
 

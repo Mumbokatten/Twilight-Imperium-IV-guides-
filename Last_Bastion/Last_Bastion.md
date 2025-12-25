@@ -206,7 +206,7 @@ You'll most likely have small impact on your neighbors if you need it, but nothi
 
 ### A. Overview
 
-**Starting Tech:** Choose 1 blue or yellow technology with no prerequisites (Antimass, Dark Energy Tap, or Sarween).
+**Starting Tech:** Choose 1 blue or yellow technology with no prerequisites (Antimass, <span class="tb">Dark Energy Tap</span>, or Sarween).
 
 Blue path gives slightly less economy but more mobility and flexibility. Yellow/red path gives more economy and raw combat power.
 
@@ -216,9 +216,9 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 
 **Blue Path:**
 
-**Starting Tech:** Dark Energy Tap or Antimass Deflectors
+**Starting Tech:** <span class="tb">Dark Energy Tap</span> or Antimass Deflectors
 
-**Round 1:** Gravity Drive (B)
+**Round 1:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to move value of 1 ship
 - **Why:** Mobility out of nebula and across slice. Helps with your home system being a nebula.
 
@@ -234,9 +234,9 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5
 - **Why:** Move 2 capital ships. Combos with your galvanize.
 
-**Round 5:** Carrier II (BB) OR Fleet Logistics (BB)
+**Round 5:** Carrier II (BB) OR <span class="tb">Fleet Logistics</span> (BB)
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
-- **Fleet Logistics:** 2 actions per turn
+- **<span class="tb">Fleet Logistics</span>:** 2 actions per turn
 - **Why:** Transport capacity or double actions.
 
 ---
@@ -261,9 +261,9 @@ Both paths require The Icon breakthrough for Helios V2 via Y↔R synergy.
 - Cost 12, Combat 3 (x3), Move 2, Capacity 6, Sustain Damage, BOMBARDMENT 3 (x3)
 - **Why:** Heavy combat power.
 
-**Round 5:** Assault Cannon (RRR) OR Duranium Armor (RR) OR Destroyer II (RR)
+**Round 5:** <span class="tr">Assault Cannon</span> (RRR) OR <span class="tr">Duranium Armor</span> (RR) OR Destroyer II (RR)
 - **Assault Cannon:** Destroy 1 enemy non-fighter ship at start of space combat if you have 3+ non-fighter ships. If versus factions with big ships.
-- **Duranium Armor:** Repair 1 damaged unit after assigning hits each combat round. If you need ground strength, helps a lot.
+- **<span class="tr">Duranium Armor</span>:** Repair 1 damaged unit after assigning hits each combat round. If you need ground strength, helps a lot.
 - **Destroyer II:** Cost 1, Combat 8, Move 2, AFB 6 (x3). Versus fighter screens.
 
 ---

@@ -73,7 +73,7 @@ Your 4 commodities complete the economic picture. Between E-Res Siphons and Rese
 - 1 Space Dock
 - 2 PDS
 
-**Notes:** Great ships—literally the best possible ships outside of two war suns. 1 dreadnought + 2 carriers = 9 total capacity and strong presence. 2 PDS + Plasma Scoring = 3 SPACE CANNON shots from the get-go.
+**Notes:** Great ships—literally the best possible ships outside of two war suns. 1 dreadnought + 2 carriers = 9 total capacity and strong presence. 2 PDS + <span class="tr">Plasma Scoring</span> = 3 SPACE CANNON shots from the get-go.
 
 **Your Achilles heel is the 2 infantry.** You have 9 capacity but only 3 things to put inside it (1 fighter, 2 infantry). You don't have enough infantry to take planets round one.
 
@@ -101,29 +101,29 @@ You start with 4 techs, one of each color. Combined with Analytical skipping a p
 
 **Starting Technologies:**
 
-1. **Neural Motivator (G)** - During the status phase, draw 2 action cards instead of 1
-2. **Antimass Deflectors (B)** - Ships move through asteroids; -1 to enemy SPACE CANNON rolls
-3. **Sarween Tools (Y)** - Reduce production costs by 1
-4. **Plasma Scoring (R)** - When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die
+1. **<span class="tg">Neural Motivator</span> (G)** - During the status phase, draw 2 action cards instead of 1
+2. **<span class="tb">Antimass Deflectors</span> (B)** - Ships move through asteroids; -1 to enemy SPACE CANNON rolls
+3. **<span class="ty">Sarween Tools</span> (Y)** - Reduce production costs by 1
+4. **<span class="tr">Plasma Scoring</span> (R)** - When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die
 
 **Notes:** You start with MORE technologies than any faction (4 vs 1-2 for most). It's all the level zero tech from base game—16 resources worth of free research. Completely ridiculous start.
 
-- **Neural Motivator + Sarween Tools:** Two techs you love to just start with. Everyone wants these.
-- **Antimass Deflectors:** A tech you love to have and not have to research. Flexible pathing.
-- **Plasma Scoring + 2 PDS:** Nobody else starts with 2 PDS. You have 3 SPACE CANNON shots immediately.
+- **<span class="tg">Neural Motivator</span> + <span class="ty">Sarween Tools</span>:** Two techs you love to just start with. Everyone wants these.
+- **<span class="tb">Antimass Deflectors</span>:** A tech you love to have and not have to research. Flexible pathing.
+- **<span class="tr">Plasma Scoring</span> + 2 PDS:** Nobody else starts with 2 PDS. You have 3 SPACE CANNON shots immediately.
 
 You're ahead of everyone technologically from R1, and it only accelerates from there.
 
 **Faction Technologies:**
 
-**E-Res Siphons (YY):**
+**<span class="ty">E-Res Siphons</span> (YY):**
 *After another player activates a system that contains 1 or more of your ships, gain 4 trade goods.*
 
 Certifiably filthy. This component is disgusting. 4 TG every time someone activates a system with your ships. You can research this round one with Analytical (ignore 1 yellow prereq).
 
 It's important to gum (leave ships everywhere) as Jol-Nar—not just to protect your home, but because 4 TG is a lot of money. It's a deterrent against lazy attacks. People don't just pick off your stuff in the mid-game for nothing when it costs them 4 TG to you. In the end game, it doesn't protect you (if they need your home, they're coming), but you might have enough money to build defenses while they're on the way.
 
-**Spacial Conduit Cylinder (BB):**
+**<span class="tb">Spacial Conduit Cylinder</span> (BB):**
 *You may exhaust this card after you activate a system that contains 1 or more of your units; that system is adjacent to all other systems that contain 1 or more of your units during this activation.*
 
 Defensive in nature. Exhaust after activating a system with your units to treat it as adjacent to ALL other systems with your units. Incredible for defending Mecatol Rex or defending home—just send everything back. For a faction that often just needs to hold on to one or two things in the late game, it has its uses.
@@ -148,7 +148,7 @@ Your power spike. You started with 4 techs. Research 2 per round, unlock this R2
 
 - **BOMBARDMENT:** All your dreadnoughts can reroll. Clear planets efficiently.
 - **Anti-Fighter Barrage:** Destroyers become excellent fighter killers with rerolls. Get Destroyer II and you're on easy street.
-- **SPACE CANNON:** This is the big one. You started with 2 PDS + Plasma Scoring = 3 shots. With rerolls, half your dice effectively become coin flips that you try twice. 5 shots with rerolls is nothing to scoff at.
+- **SPACE CANNON:** This is the big one. You started with 2 PDS + <span class="tr">Plasma Scoring</span> = 3 shots. With rerolls, half your dice effectively become coin flips that you try twice. 5 shots with rerolls is nothing to scoff at.
 
 PDS II becomes a real strategy for Jol-Nar—fill your slice with PDS because it's a considerable amount of heat opponents have to take to invade. Add Graviton Laser System late and your slice becomes a fortress.
 
@@ -160,23 +160,23 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 
 **Blue:**
 
-- Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), Gravity Drive (B), **<span class="tb">Dark Energy Tap</span>**
+- Likely to have teched: **<span class="tb">Antimass Deflectors</span>** (starting), <span class="tb">Gravity Drive</span> (B), **<span class="tb">Dark Energy Tap</span>**
 - Hero targets: **<span class="tb">Fleet Logistics</span>** (BB), **Light/Wave Deflector** (BBB), Sling Relay (B)
 
 **Green:**
 
-- Likely to have teched: Neural Motivator (starting), Hyper Metabolism (GG)
-- Hero targets: Bio-Stims (G), X-89 Bacterial Weapon Ω (GGG)
+- Likely to have teched: <span class="tg">Neural Motivator</span> (starting), <span class="tg">Hyper Metabolism</span> (GG)
+- Hero targets: <span class="tg">Bio-Stims</span> (G), X-89 Bacterial Weapon Ω (GGG)
 
 **Yellow:**
 
 - Likely to have teched: **<span class="ty">Sarween Tools</span>** (starting), **<span class="ty">Scanlink Drone Network</span>**
-- Hero targets: **<span class="ty">E-Res Siphons</span>** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), Predictive Intelligence (Y), Transit Diodes (YY), Integrated Economy (YYY)
+- Hero targets: **<span class="ty">E-Res Siphons</span>** (YY) (faction), **<span class="ty">Graviton Laser System</span>** (Y), <span class="ty">Predictive Intelligence</span> (Y), <span class="ty">Transit Diodes</span> (YY), <span class="ty">Integrated Economy</span> (YYY)
 
 **Red:**
 
-- Likely to have teched: Plasma Scoring (starting), Self-Assembly Routines (R)
-- Hero targets: Magen Defense Grid (R), Duranium Armor (RR), Assault Cannon (RRR)
+- Likely to have teched: <span class="tr">Plasma Scoring</span> (starting), <span class="tr">Self-Assembly Routines</span> (R)
+- Hero targets: <span class="tr">Magen Defense Grid</span> (R), <span class="tr">Duranium Armor</span> (RR), <span class="tr">Assault Cannon</span> (RRR)
 
 ### F. Promissory Note - **Research Agreement**
 
@@ -264,7 +264,7 @@ Resources and mid-slice planets for PDS are your priorities. Tech skips are nice
 
 **Round 1 Priority Rankings:**
 
-1. **Technology** - You research 2 techs when others get 1. Every round without Technology slows your Commander unlock (8 techs), delays E-Res Siphons income, and wastes Brilliant. Mobility and economy techs like Hyper Metabolism and Gravity Drive are great to research—and great to sell via Research Agreement.
+1. **Technology** - You research 2 techs when others get 1. Every round without Technology slows your Commander unlock (8 techs), delays E-Res Siphons income, and wastes Brilliant. Mobility and economy techs like <span class="tg">Hyper Metabolism</span> and <span class="tb">Gravity Drive</span> are great to research—and great to sell via Research Agreement.
 
 2. **Expansion + Production** - Expand to 2-3 systems. Limited to 2 infantry restricts how many planets you can take. Your 2 carriers have great capacity (8 total) but you need to fill them with something—produce infantry early.
 
@@ -290,32 +290,32 @@ You're a rich faction with a lot of tech—4 commodities, Research Agreement sal
 
 ### A. Overview
 
-You start with **4 technologies:** Neural Motivator, Antimass Deflectors, Sarween Tools, Plasma Scoring—one base tech in each color. More starting tech than any other faction.
+You start with **4 technologies:** <span class="tg">Neural Motivator</span>, <span class="tb">Antimass Deflectors</span>, <span class="ty">Sarween Tools</span>, <span class="tr">Plasma Scoring</span>—one base tech in each color. More starting tech than any other faction.
 
 Be flexible to your needs—you have almost all options available at all times. Adapt your tech choices to objectives, neighbors, and game state.
 
 ### B. Starting Technologies
 
-**Neural Motivator (G):** During the status phase, draw 2 action cards instead of 1. Extra cards mean more options and potential Sabotages.
+**<span class="tg">Neural Motivator</span> (G):** During the status phase, draw 2 action cards instead of 1. Extra cards mean more options and potential Sabotages.
 
-**Antimass Deflectors (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against your units. Enables flexible pathing and reduces enemy PDS effectiveness.
+**<span class="tb">Antimass Deflectors</span> (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against your units. Enables flexible pathing and reduces enemy PDS effectiveness.
 
-**Sarween Tools (Y):** Reduce the combined cost of produced units by 1 when using PRODUCTION. Saves resources every time you build—adds up significantly over a game.
+**<span class="ty">Sarween Tools</span> (Y):** Reduce the combined cost of produced units by 1 when using PRODUCTION. Saves resources every time you build—adds up significantly over a game.
 
-**Plasma Scoring (R):** When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die. Synergizes with your 2 starting PDS for 3 shots instead of 2.
+**<span class="tr">Plasma Scoring</span> (R):** When using BOMBARDMENT or SPACE CANNON, 1 unit may roll 1 additional die. Synergizes with your 2 starting PDS for 3 shots instead of 2.
 
 ### C. Greedy Economy Path
 
-**Starting:** Neural Motivator, Antimass Deflectors, Sarween Tools, Plasma Scoring
+**Starting:** <span class="tg">Neural Motivator</span>, <span class="tb">Antimass Deflectors</span>, <span class="ty">Sarween Tools</span>, Plasma Scoring
 
 With Brilliant, you research 2 techs per round when following Technology.
 
-**R1:** Gravity Drive (B), Hyper Metabolism (GG)
-- Gravity Drive: +1 move to 1 ship per activation.
-- Hyper Metabolism: 3 command tokens instead of 2 in status phase.
+**R1:** <span class="tb">Gravity Drive</span> (B), <span class="tg">Hyper Metabolism</span> (GG)
+- <span class="tb">Gravity Drive</span>: +1 move to 1 ship per activation.
+- <span class="tg">Hyper Metabolism</span>: 3 command tokens instead of 2 in status phase.
 
-**R2:** Dark Energy Tap, Self-Assembly Routines (R)
-- Dark Energy Tap: Explore frontiers, retreat into empty systems.
+**R2:** <span class="tb">Dark Energy Tap</span>, <span class="tr">Self-Assembly Routines</span> (R)
+- <span class="tb">Dark Energy Tap</span>: Explore frontiers, retreat into empty systems.
 - Self-Assembly Routines: Free mech on production, 1 TG when mech dies.
 - **Commander unlocks.**
 
@@ -405,11 +405,11 @@ Your ideal fleet composition in each system:
 
 ### B. Game Plan
 
-**Early Game (R1-R2):** Expand to 2-3 systems with limited infantry. Produce ground forces to fill carrier capacity. Let others take Technology—Brilliant gives you primary anyway. Research Gravity Drive and Hyper Metabolism for economy. Trade commodities and sell Research Agreement for income. Start building toward Commander unlock (8 techs).
+**Early Game (R1-R2):** Expand to 2-3 systems with limited infantry. Produce ground forces to fill carrier capacity. Let others take Technology—Brilliant gives you primary anyway. Research <span class="tb">Gravity Drive</span> and <span class="tg">Hyper Metabolism</span> for economy. Trade commodities and sell Research Agreement for income. Start building toward Commander unlock (8 techs).
 
 **Mid Game (R3-R4):** Commander unlocks at 8 techs—now unit abilities become reliable with rerolls. Build PDS network across your slice. Research Destroyer II and PDS II. E-Res Siphons generates income when opponents activate your systems. Gum the map—leave ships in systems to trigger E-Res. Spread mechs to contested planets.
 
-**Late Game (R5+):** Hero swaps your tech portfolio for whatever you need to close. Fleet Logistics for double actions, Light/Wave Deflector for mobility, X-89 for ground clearing. Your PDS network and Commander rerolls make your slice painful to invade. Win through technological supremacy, not aggressive conquest.
+**Late Game (R5+):** Hero swaps your tech portfolio for whatever you need to close. <span class="tb">Fleet Logistics</span> for double actions, Light/Wave Deflector for mobility, X-89 for ground clearing. Your PDS network and Commander rerolls make your slice painful to invade. Win through technological supremacy, not aggressive conquest.
 
 **Research Agreement Economy:**
 

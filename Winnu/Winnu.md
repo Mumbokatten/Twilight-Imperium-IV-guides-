@@ -162,7 +162,7 @@ Apply +1 to the results of each of your unit's combat rolls for each "Support fo
 
 **B↔R Synergy:** Blue and red technologies count as each other for prerequisites.
 
-If planning to get custodian, very helpful to get this instead of tech. Functions as Gravity Drive for legendary planets. Combat bonus for each Support for the Throne opponents have.
+If planning to get custodian, very helpful to get this instead of tech. Functions as <span class="tb">Gravity Drive</span> for legendary planets. Combat bonus for each Support for the Throne opponents have.
 
 ### K. Slice and Draft Considerations
 
@@ -221,13 +221,13 @@ People know that if you get rolling, it's surprisingly hard to stop you. You can
 
 You start with **one technology of your choice** (0-cost tech only). **<span class="tb">Dark Energy Tap</span>** or **<span class="tr">AI Development Algorithm</span>** are the best choices.
 
-Your starting tech determines your path: fast blue path or slow red path. Fast blue path gets you mobile early with Gravity Drive. Slow red path focuses on defensive tech and unit upgrades.
+Your starting tech determines your path: fast blue path or slow red path. Fast blue path gets you mobile early with <span class="tb">Gravity Drive</span>. Slow red path focuses on defensive tech and unit upgrades.
 
 ### B. Tech Path 1: Blue Path (Fast)
 
 **Starting Tech:** Dark Energy Tap
 
-**Round 1:** Gravity Drive (B) - if you can afford tech
+**Round 1:** <span class="tb">Gravity Drive</span> (B) - if you can afford tech
 - After you activate a system, apply +1 to the move value of 1 of your ships
 - **Why:** Reach Mecatol faster. Critical for early MR assault.
 
@@ -235,12 +235,12 @@ Your starting tech determines your path: fast blue path or slow red path. Fast b
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Better transport for armies and reinforcements to MR.
 
-**Round 3:** Sling Relay (B) OR Fleet Logistics (BB)
+**Round 3:** Sling Relay (B) OR <span class="tb">Fleet Logistics</span> (BB)
 - **Sling Relay:** ACTION: Exhaust to produce 1 ship in any system with your space docks
-- **Fleet Logistics:** Perform 2 actions per turn
+- **<span class="tb">Fleet Logistics</span>:** Perform 2 actions per turn
 - **Why:** Production flexibility or double actions for positioning.
 
-**Round 4:** Fleet Logistics (BB) OR Light/Wave Deflector (BBB)
+**Round 4:** <span class="tb">Fleet Logistics</span> (BB) OR Light/Wave Deflector (BBB)
 - **Light/Wave Deflector:** Your ships can move through systems that contain other players' ships
 - **Why:** Bypass blockades, extreme mobility.
 
@@ -256,11 +256,11 @@ Together with your breakthrough, this path offers great mobility to make some mo
 
 **Starting Tech:** AI Development Algorithm
 
-**Round 1:** Gravity Drive (B) - if you can afford tech
+**Round 1:** <span class="tb">Gravity Drive</span> (B) - if you can afford tech
 - After you activate a system, apply +1 to the move value of 1 of your ships
 - **Why:** Mobility for reaching targets.
 
-**Round 2:** Magen Defense Grid (R)
+**Round 2:** <span class="tr">Magen Defense Grid</span> (R)
 - When any player activates a system with your structures, place 1 infantry with each structure. At start of ground combat on planet with your structures, produce 1 hit
 - **Why:** Free infantry when systems activated, plus ground combat hit. Strong defensive tech.
 
@@ -346,7 +346,7 @@ More unit focused. Tons of PDS defending your slice. Best utilized if you have m
 
 **Early Game (Round 1):**
 
-Your early game is about surviving your weak start and positioning for Mecatol Rex. Expand to 2-3 systems, prioritize Trade for economy, and build plastic to not look like an easy target. If you can afford tech Round 1, grab Gravity Drive for mobility. Build mechs early (2 minimum) and walk them toward Mecatol to create a structure-filled path.
+Your early game is about surviving your weak start and positioning for Mecatol Rex. Expand to 2-3 systems, prioritize Trade for economy, and build plastic to not look like an easy target. If you can afford tech Round 1, grab <span class="tb">Gravity Drive</span> for mobility. Build mechs early (2 minimum) and walk them toward Mecatol to create a structure-filled path.
 
 **Round 2 - Custodian Grab:**
 

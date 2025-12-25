@@ -188,7 +188,7 @@ Can be anywhere. Flexible. Tech-prone neighbors good.
 
 2. **Expansion** - Solving your 2 infantry problem. Expand to be able to reach people and get tech through combat.
 
-3. **Technology** - Try to make a deal for some early tech if possible—better than making an early enemy. If Gravity Drive is on the map, get it ASAP.
+3. **Technology** - Try to make a deal for some early tech if possible—better than making an early enemy. If <span class="tb">Gravity Drive</span> is on the map, get it ASAP.
 
 4. **Breakthrough** - Only for Thunder's Edge and screwing with people.
 
@@ -260,7 +260,7 @@ Since you steal techs rather than researching, prioritize targets by tech value:
   - Ignore 1 prerequisite for unit upgrades. Reduce production cost by unit upgrade count.
 - **<span class="tr">Magen Defense Grid</span> (R)** - Good
   - Place infantry with structures when activated. Produce 1 hit at ground combat start.
-- **Self-Assembly Routines (R)** - Good
+- **<span class="tr">Self-Assembly Routines</span> (R)** - Good
   - Place mech after PRODUCTION. Gain TG when mech destroyed.
 
 **Yellow Technologies:**
@@ -301,7 +301,7 @@ You have X and Y tokens to place on enemy faction technologies. Incredibly hard 
 
 **Notable non-unit upgrade faction techs:**
 
-- **Chaos Mapping (Saar)** - Others can't activate asteroids with your ships. Produce 1 unit in systems with PRODUCTION.
+- **<span class="tb">Chaos Mapping</span> (Saar)** - Others can't activate asteroids with your ships. Produce 1 unit in systems with PRODUCTION.
 - **Mirror Computing (Mentak)** - Each trade good worth 2 resources or influence instead of 1.
 - **Aetherstream (Empyrean)** - +1 move for you/neighbors activating adjacent to anomalies.
 - **Mageon Implants (Yssaril)** - ACTION: Look at player's action cards and steal one.
@@ -374,7 +374,7 @@ With access to every unit upgrade through tech theft, every unit you have an upg
 
 **Early Game (Rounds 1-2):**
 
-Your early game is about aggressive expansion and getting your first tech steals. Expand to 2-3 systems, make deals for your first techs if possible, and position yourself near tech-rich opponents. Fight early to steal unit upgrades and Gravity Drive if available. Build infantry and get your flagship as soon as you can. Commander unlocks at 3 technologies—push for this by Round 2.
+Your early game is about aggressive expansion and getting your first tech steals. Expand to 2-3 systems, make deals for your first techs if possible, and position yourself near tech-rich opponents. Fight early to steal unit upgrades and <span class="tb">Gravity Drive</span> if available. Build infantry and get your flagship as soon as you can. Commander unlocks at 3 technologies—push for this by Round 2.
 
 **Mid Game (Rounds 3-4):**
 

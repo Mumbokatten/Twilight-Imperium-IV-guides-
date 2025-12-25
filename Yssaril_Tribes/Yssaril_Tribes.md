@@ -77,7 +77,7 @@ This is your strategic timing tool. Spend an action to discard a card—this let
 
 **Scheming (Faction Ability):** When you draw 1 or more action cards, draw 1 additional action card. Then, choose and discard 1 action card from your hand.
 
-Your card advantage engine. Every time you draw action cards, you draw +1 additional and then discard 1. With Neural Motivator (draw 2 during status) and Politics (draw 2), you draw 3 and pick 2. You see more of the deck, get better card selection, and always have answers.
+Your card advantage engine. Every time you draw action cards, you draw +1 additional and then discard 1. With <span class="tg">Neural Motivator</span> (draw 2 during status) and Politics (draw 2), you draw 3 and pick 2. You see more of the deck, get better card selection, and always have answers.
 
 **Crafty (Faction Ability):** You can have any number of action cards in your hand. Game effects cannot prevent you from using this ability.
 
@@ -87,21 +87,21 @@ Removes the 7-card hand limit. This is HUGE. While everyone else discards down t
 
 **Starting Technologies:**
 
-**Neural Motivator (G):** During the status phase, draw 2 action cards instead of 1.
+**<span class="tg">Neural Motivator</span> (G):** During the status phase, draw 2 action cards instead of 1.
 
 **Notes:** One of the best starting techs in the game for Yssaril. Drawing 2 action cards during status phase instead of 1 triggers Scheming (draw +1, discard 1), so you actually see 3 cards and keep 2. Over a 5-round game, this doubles your action card acquisition. Combined with Crafty (unlimited hand size), you build massive hands faster than any other faction. Opens green tech path for faction techs.
 
 **Faction Technologies:**
 
-**Mageon Implants (GGG):**
+**<span class="tg">Mageon Implants</span> (GGG):**
 *ACTION: Exhaust this card to look at another player's hand of action cards. Choose 1 of those cards and add it to your hand.*
 
-Your key villain tech. Look at any player's hand and take their best action card. You know exactly what they have, and they know you'll take the good stuff—making them feel the agony of playing suboptimal cards just so you can't have them. Combine with Bio-Stims to use twice per round.
+Your key villain tech. Look at any player's hand and take their best action card. You know exactly what they have, and they know you'll take the good stuff—making them feel the agony of playing suboptimal cards just so you can't have them. Combine with <span class="tg">Bio-Stims</span> to use twice per round.
 
 **Transparasteel Plating (G):**
 *During your turn of the action phase, players that have passed cannot play action cards.*
 
-Competes with Bio-Stims for the 1 green prereq slot. But if you're tech rich, it's wonderful to see all players pass (common occurrence) and know there is literally nothing they can do to stop you.
+Competes with <span class="tg">Bio-Stims</span> for the 1 green prereq slot. But if you're tech rich, it's wonderful to see all players pass (common occurrence) and know there is literally nothing they can do to stop you.
 
 ### E. Leaders
 
@@ -113,7 +113,7 @@ Copies ALL other agents at the table. Notable agents to look for: Mahact (use op
 
 After another player activates a system that contains your units: You may look at that player's action cards, promissory notes, or secret objectives.
 
-Easy unlock with Neural Motivator and a few Politics follows. Once unlocked, you see opponents' hidden information whenever they activate systems with your units. Spread ships around the map to trigger this constantly. Also acts as a strong deterrent—opponents don't want you seeing their secrets.
+Easy unlock with <span class="tg">Neural Motivator</span> and a few Politics follows. Once unlocked, you see opponents' hidden information whenever they activate systems with your units. Spread ships around the map to trigger this constantly. Also acts as a strong deterrent—opponents don't want you seeing their secrets.
 
 **Hero - Kyver, Blade and Key:** *Unlock: Have 3 scored objectives.* **Guild of Spies** - ACTION: Each other player shows you 1 action card from their hand. For each player, you may either take that card or force that player to discard 3 random action cards from their hand. Then, purge this card.
 
@@ -182,7 +182,7 @@ People will sometimes pay for a stall or Scheming use, but two problems: do you 
 
 **Round 1 Priority Rankings:**
 
-1. **Technology** - Get Bio-Stims to start toward Mageon Implants ASAP. This is your key villain tech.
+1. **Technology** - Get <span class="tg">Bio-Stims</span> to start toward Mageon Implants ASAP. This is your key villain tech.
 
 2. **Expansion + Production** - Expand to 2-3 systems. Dual carriers allow splitting forces effectively.
 
@@ -218,7 +218,7 @@ Your faction rewards high-skill play. You need to know which action cards are go
 
 ### A. Overview
 
-You start with **Neural Motivator (Green)** (draw 2 action cards during status phase instead of 1).
+You start with **<span class="tg">Neural Motivator</span> (Green)** (draw 2 action cards during status phase instead of 1).
 
 There is really no argument for skipping Mageon Implants. It is incredibly impactful—stealing opponents' best action cards while knowing exactly what they have. Your tech path should always work toward GGG for Mageon. After that, you can flex into blue for mobility or yellow for economy, but Mageon comes first.
 
@@ -226,22 +226,22 @@ There is really no argument for skipping Mageon Implants. It is incredibly impac
 
 **Starting Tech:** Neural Motivator
 
-**Round 1: Bio-Stims (G)**
+**Round 1: <span class="tg">Bio-Stims</span> (G)**
 - At the end of your turn, you may exhaust this card to ready 1 planet you control with a technology specialty OR 1 of your other technologies
 - **Why:** Enables double Mageon use per round. This is your core combo piece.
-- **Prerequisites:** 1 green (Neural Motivator)
+- **Prerequisites:** 1 green (<span class="tg">Neural Motivator</span>)
 
-**Round 2: Mageon Implants (GGG)**
-- **With green skip:** Take Mageon directly. Green skip + Neural Motivator + Bio-Stims = GGG.
+**Round 2: <span class="tg">Mageon Implants</span> (GGG)**
+- **With green skip:** Take Mageon directly. Green skip + <span class="tg">Neural Motivator</span> + <span class="tg">Bio-Stims</span> = GGG.
 - **Without green skip:** Try for double tech that round. Get either:
-  - **Hyper Metabolism (GG)** + Mageon, or
+  - **<span class="tg">Hyper Metabolism</span> (GG)** + Mageon, or
   - **Transparasteel Plating (G)** + Mageon
 
-**Round 3: DET or Antimass Deflectors**
-- **Dark Energy Tap:** Your ships can retreat into adjacent systems with your units. You may produce 1 unit at the start of combat.
-- **Antimass Deflectors:** Your ships can move into and through asteroid fields. -1 to SPACE CANNON rolls against you.
+**Round 3: DET or <span class="tb">Antimass Deflectors</span>**
+- **<span class="tb">Dark Energy Tap</span>:** Your ships can retreat into adjacent systems with your units. You may produce 1 unit at the start of combat.
+- **<span class="tb">Antimass Deflectors</span>:** Your ships can move into and through asteroid fields. -1 to SPACE CANNON rolls against you.
 
-**Round 4: Gravity Drive (B)**
+**Round 4: <span class="tb">Gravity Drive</span> (B)**
 - +1 move to 1 ship when you activate a system. Bonus fleet movement.
 
 **Round 5: Carrier II (BB)**
@@ -259,7 +259,7 @@ There is really no argument for skipping Mageon Implants. It is incredibly impac
 
 1. **Trade** - Good way to make early allies. Strong economy solves R1 problems.
 
-2. **Technology** - Solves your low resource home system. Get Bio-Stims.
+2. **Technology** - Solves your low resource home system. Get <span class="tg">Bio-Stims</span>.
 
 3. **Leadership** - Helpful to follow a ton of secondaries.
 
@@ -315,7 +315,7 @@ Your ideal fleet composition in each system:
 
 **Early Game (Rounds 1-2):**
 
-Make a friend—you critically need an ally to survive. Setup your tech path with Bio-Stims R1 and Mageon R2. Reinforce your slice so it's not fun to engage with. Expand to your slice and build a deterrent fleet. Don't focus on building your action card pile yet—survive first.
+Make a friend—you critically need an ally to survive. Setup your tech path with <span class="tg">Bio-Stims</span> R1 and Mageon R2. Reinforce your slice so it's not fun to engage with. Expand to your slice and build a deterrent fleet. Don't focus on building your action card pile yet—survive first.
 
 **Mid Game (Rounds 3-4):**
 

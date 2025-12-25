@@ -162,7 +162,7 @@ Not critical for Xxcha. In 6-player games, Diplomacy might not get picked if you
 - High planet count for commander voting power
 - Defensive positioning with fewer aggressive neighbors
 
-**Nice to Have:** Blue tech skip for Gravity Drive and Carrier II. Entropic Scar access for tech path flexibility.
+**Nice to Have:** Blue tech skip for <span class="tb">Gravity Drive</span> and Carrier II. Entropic Scar access for tech path flexibility.
 
 **Avoid:** Complicated slices that require extra movement tech for early expansion.
 
@@ -174,7 +174,7 @@ Not critical for Xxcha. In 6-player games, Diplomacy might not get picked if you
 
 1. **Scoring** – No real catchup mechanics or strong fleet to grab Mecatol/Styx later
 2. **Expansion/Production** – Claim planets and build fleet for economy and defense
-3. **Technology** – Plasma Scoring enables R2 PDS II
+3. **Technology** – <span class="tr">Plasma Scoring</span> enables R2 PDS II
 4. **Breakthrough** – Not a priority until defensive infrastructure established
 
 **R1 Expansion Notes:** Building at home is priority with Warfare secondary if Diplomacy is not picked—you prefer Diplomacy but people probably won't do you favors. Hope for a breakthrough-dependent faction in last positions who might pick it.

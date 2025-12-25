@@ -231,14 +231,14 @@ Your war sun begins with move 1, making it extremely slow to project power acros
 
 **Starting Technology:** <span class="tr">Plasma Scoring</span> - Not a great tech but is on the way to <span class="tr">Prototype War Sun II</span>.
 
-Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is Magmus Reactor (RR) for supernova production.
+Your main technology path focuses on acquiring <span class="tr">Prototype War Sun II</span> (RRRY) for the critical mobility upgrade from move 1 to move 3. Secondary priority is <span class="tr">Magmus Reactor</span> (RR) for supernova production.
 
 ### B. Technology Path
 
 **Round 1:** <span class="ty">AI Development Algorithm</span> - Sometimes you have a great round
 - Exhaust to ignore 1 prereq when researching unit upgrades; reduce cost by number of unit upgrades owned
 
-**Round 2:** Self-Assembly Routines (R) or Magmus Reactor (RR) if supernova available
+**Round 2:** <span class="tr">Self-Assembly Routines</span> (R) or <span class="tr">Magmus Reactor</span> (RR) if supernova available
 - *Self-Assembly Routines:* After PRODUCTION, place 1 mech. After mech destroyed, gain 1 TG
 - *Magmus Reactor:* Ships can move into supernovas. Supernovas with your units gain PRODUCTION 5
 

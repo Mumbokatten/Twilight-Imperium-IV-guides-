@@ -93,7 +93,7 @@ Your dimensional tear space docks turn systems into gravity rifts for mobility a
 
 **Starting Technologies:**
 
-**Self-Assembly Routines (R)** - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
+**<span class="tr">Self-Assembly Routines</span> (R)** - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
 
 **Notes:** Solid starting tech. Place mech after production for free. Gain TG when mechs die. Feel free to let mechs die for TGs—you will be able to afford new mechs (might have some captured), but TGs are in short supply.
 
@@ -217,13 +217,13 @@ You are the scary neighbor no one likes. Try to extort value from neighbors tryi
 
 ### A. Overview
 
-You start with **Self-Assembly Routines (R)** (place mech after production, gain TG when mech destroyed).
+You start with **<span class="tr">Self-Assembly Routines</span> (R)** (place mech after production, gain TG when mech destroyed).
 
 Use Riftmeld to skip prerequisites on unit upgrades when you have captured units. Try to play with very limited tech.
 
 ### B. Tech Path
 
-**Starting Tech:** Self-Assembly Routines (R)
+**Starting Tech:** <span class="tr">Self-Assembly Routines</span> (R)
 
 **Round 2:** Carrier II (BB) - WITH RIFTMELD
 - Cost 3, Combat 9, Move 2, Capacity 6

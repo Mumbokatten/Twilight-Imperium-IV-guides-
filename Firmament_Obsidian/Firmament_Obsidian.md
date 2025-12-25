@@ -128,7 +128,7 @@ Pick Assail and Seethe cautiously—targeting a previously friendly neighbor wil
 
 **Starting Technology:**
 
-**Choose ONE Green or Yellow Technology with No Prerequisites.** Sarween Tools is highly recommended—you need the efficiency given your weak start. The other options (Scanlink, Neural Motivator, Psychoarchaeology) are too slow or give you nothing useful.
+**Choose ONE Green or Yellow Technology with No Prerequisites.** <span class="ty">Sarween Tools</span> is highly recommended—you need the efficiency given your weak start. The other options (Scanlink, <span class="tg">Neural Motivator</span>, Psychoarchaeology) are too slow or give you nothing useful.
 
 **Faction Technologies:**
 
@@ -294,7 +294,7 @@ Very nice and will pay big if you're in a few combats. But your Obsidian economi
 
 You're flexible but limited by opportunity cost. Focus on plots over tech during Firmament phase. Path 1 is safe and doesn't require breakthrough. Path 2 requires breakthrough unlocked for the Y↔G synergy.
 
-Always look for what you're missing via Extract plots. If you're in Path 1 (blue mobility, unit upgrades), look for combat power—Assault Cannon, Duranium Armor, Integrated Economy, X-89. If you're in Path 2 (slow ground dominance), look for blue mobility and unit upgrades—Gravity Drive, Carrier II, Dreadnought II, Fleet Logistics.
+Always look for what you're missing via Extract plots. If you're in Path 1 (blue mobility, unit upgrades), look for combat power—Assault Cannon, <span class="tr">Duranium Armor</span>, Integrated Economy, X-89. If you're in Path 2 (slow ground dominance), look for blue mobility and unit upgrades—<span class="tb">Gravity Drive</span>, Carrier II, Dreadnought II, <span class="tb">Fleet Logistics</span>.
 
 ### B. Technology Paths
 
@@ -304,7 +304,7 @@ Always look for what you're missing via Extract plots. If you're in Path 1 (blue
 - After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units.
 - **Why:** Explore frontier tokens, retreat flexibility.
 
-**Round 2:** Gravity Drive (B)
+**Round 2:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** Mobility to reach secrets and position for plots.
 
@@ -316,13 +316,13 @@ Always look for what you're missing via Extract plots. If you're in Path 1 (blue
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit.
 - **Why:** Move 2 dreads are your Obsidian backbone. Sarween start covers yellow prereq.
 
-**Round 5:** Fleet Logistics (BB)
+**Round 5:** <span class="tb">Fleet Logistics</span> (BB)
 - During each of your turns of the action phase, you may perform 2 actions instead of 1.
 - **Why:** Late game power spike. Double actions as Obsidian.
 
-**Path 2: Ground Dominance Spicy Path (Neural Motivator Start, Requires BT)**
+**Path 2: Ground Dominance Spicy Path (<span class="tg">Neural Motivator</span> Start, Requires BT)**
 
-**Round 1:** Bio-Stims (G)
+**Round 1:** <span class="tg">Bio-Stims</span> (G)
 - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.
 - **Why:** Economy boost, readies tech planets.
 
@@ -330,17 +330,17 @@ Always look for what you're missing via Extract plots. If you're in Path 1 (blue
 - Firmament: Place 1 infantry on home planet at status phase. Obsidian: Destroy 1 enemy infantry adjacent to your infantry at start of turn.
 - **Why:** Free infantry as Firmament, cripple neighbors as Obsidian.
 
-**Round 3:** X-89 Bacterial Weapon (GGG)
+**Round 3:** <span class="tg">X-89 Bacterial Weapon</span> (GGG)
 - After using BOMBARDMENT, destroy all infantry on planet if at least 1 destroyed. Double BOMBARDMENT and ground combat hits.
 - **Why:** Clear planets fast as Obsidian.
 
-**Round 4:** Integrated Economy (YYY)
+**Round 4:** <span class="ty">Integrated Economy</span> (YYY)
 - After you gain control of a planet, you may produce units on that planet equal to its resource value.
 - **Why:** Y↔G breakthrough covers prereqs. Instant production on conquered planets.
 
-**Round 5:** Transit Diodes (YY) - Flex
+**Round 5:** <span class="ty">Transit Diodes</span> (YY) - Flex
 - You may exhaust this card at the start of your turn; remove up to 4 ground forces and place them on planets you control.
-- **Why:** Teleport infantry for invasions. This is flex—if an Extract plot target goes for Light/Wave Deflector, Fleet Logistics, etc., consider copying those instead of teching yourself.
+- **Why:** Teleport infantry for invasions. This is flex—if an Extract plot target goes for Light/Wave Deflector, <span class="tb">Fleet Logistics</span>, etc., consider copying those instead of teching yourself.
 
 ---
 

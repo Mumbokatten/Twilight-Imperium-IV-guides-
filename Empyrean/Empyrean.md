@@ -36,7 +36,7 @@ Watch opponents realize their plans depend on your permission. You don't dominat
 
 ## II. Playstyle
 
-Playing Empyrean means mastering frontier token exploration like no other faction. Dark Energy Tap exploration lets you milk the frontier deck for value. Your hero floods the board with frontier tokens, exploring all of them simultaneously. Your kit revolves around empty system control and exploration dominance.
+Playing Empyrean means mastering frontier token exploration like no other faction. <span class="tb">Dark Energy Tap</span> exploration lets you milk the frontier deck for value. Your hero floods the board with frontier tokens, exploring all of them simultaneously. Your kit revolves around empty system control and exploration dominance.
 
 Your 4 commodities provide strong trade economy. Your two promissory notes create unprecedented diplomatic leverage. Your Voidborn ability keeps your fleet mobile through nebulae—easily send destroyers to explore empty systems while maintaining defensive nebula home with carriers and fighters. This combination of exploration mastery, economic strength, and diplomatic flexibility makes you powerful without relying on combat.
 
@@ -84,7 +84,7 @@ Two different promissory notes instead of one. Doubles your diplomatic leverage 
 
 **Starting Technologies:**
 
-**Dark Energy Tap:** After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
+**<span class="tb">Dark Energy Tap</span>:** After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
 
 Combos with your agent—since the deck involves a lot of token gain, you can often keep exploring 2-3 empty systems per round even though agent only refunds one. Solid starting tech opening up later blue techs. Retreat flexibility.
 
@@ -186,11 +186,11 @@ When you activate a system that contains or is adjacent to a unit or planet you 
 
 2. **Expansion and Production** - Explore empty systems with destroyer. Try to fit in building extra ships for more explores and system grabs. Expand to 2-3 systems R1.
 
-3. **Technology** - Gravity Drive to get more things in your slice.
+3. **Technology** - <span class="tb">Gravity Drive</span> to get more things in your slice.
 
 4. **Breakthrough** - Good to get out of the way and will be a useful tool.
 
-**Expansion Notes:** 2 carriers, 1 destroyer, 4 infantry. Send carriers into nearby systems. If you grab Gravity Drive, you can build an extra carrier and try to get a third system. Send destroyer to explore empty systems with Dark Energy Tap.
+**Expansion Notes:** 2 carriers, 1 destroyer, 4 infantry. Send carriers into nearby systems. If you grab <span class="tb">Gravity Drive</span>, you can build an extra carrier and try to get a third system. Send destroyer to explore empty systems with <span class="tb">Dark Energy Tap</span>.
 
 ### B. Combat Power
 
@@ -202,7 +202,7 @@ You have a hard time being on the offense. Have to rely on diplomatic dealing to
 
 ### A. Overview
 
-**Starting Tech:** Dark Energy Tap.
+**Starting Tech:** <span class="tb">Dark Energy Tap</span>.
 
 You're flexible within blue to get what you need. Priority is Aetherstream for game-changing movement. Breakthrough allows X-89 as flex tech in late game R5.
 
@@ -210,7 +210,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 
 **Standard Path:**
 
-**Round 1:** Gravity Drive (B)
+**Round 1:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility to get more things in your slice.
 
@@ -222,7 +222,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 - Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Transport capacity. Move 2 carriers.
 
-**Round 4:** Fleet Logistics (BB)
+**Round 4:** <span class="tb">Fleet Logistics</span> (BB)
 - During each of your turns of the action phase, you may perform 2 actions instead of 1
 - **Why:** Double actions for flexibility.
 
@@ -230,7 +230,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 - Your ships can move through systems that contain other players' ships
 - **Why:** Move through enemy fleets.
 
-**Bonus Tech:** X-89 Bacterial Weapon (GGG) via B↔G breakthrough
+**Bonus Tech:** <span class="tg">X-89 Bacterial Weapon</span> (GGG) via B↔G breakthrough
 - After using BOMBARDMENT, destroy all infantry on planet if at least 1 destroyed. Double BOMBARDMENT and ground combat hits. Exhaust planet.
 - **Why:** Late game flex tech using breakthrough synergy.
 
@@ -243,7 +243,7 @@ You're flexible within blue to get what you need. Priority is Aetherstream for g
 **Round 1 Priority Ranking:**
 
 1. **Trade** - Refresh 4 commodities. Super good since you have good chance to have a few neighbors to collect money from.
-2. **Technology** - Critical tech path. Start Gravity Drive early. Great to save resources.
+2. **Technology** - Critical tech path. Start <span class="tb">Gravity Drive</span> early. Great to save resources.
 3. **Leadership** - More activations is good. Can also throw bad secret for breakthrough.
 4. **Politics** - Sell speaker token and get first pick. Setup to prepare for R2 objectives.
 5. **Construction** - Can be nice to produce a carrier, destroyer, and infantry at home for more exploration and system takes for economic head start.
@@ -294,9 +294,9 @@ No cruisers. Focus on exploration ships (destroyers) and defensive carriers with
 
 ### B. Game Plan
 
-**Early Game:** Send destroyers to explore empty systems with Dark Energy Tap. Agent refunds tokens, letting you keep exploring 2-3 empty systems per round. Trade Dark Pact to key neighbor to establish economic partnership. Expand to 2-3 systems with dual carriers. Build defensive carrier + fighter fleet leveraging nebula home. Research Gravity Drive to get more things in your slice.
+**Early Game:** Send destroyers to explore empty systems with <span class="tb">Dark Energy Tap</span>. Agent refunds tokens, letting you keep exploring 2-3 empty systems per round. Trade Dark Pact to key neighbor to establish economic partnership. Expand to 2-3 systems with dual carriers. Build defensive carrier + fighter fleet leveraging nebula home. Research <span class="tb">Gravity Drive</span> to get more things in your slice.
 
-**Mid Game:** Aetherstream provides game-changing movement—sell/enable others while benefiting yourself. Build more destroyers for continued exploration. Void Tether provides map control—block key routes, protect your systems, deny battlethirsty neighbors. Carrier II and Fleet Logistics increase tempo. Your defensive carriers with fighter screens protect controlled territory while destroyers explore.
+**Mid Game:** Aetherstream provides game-changing movement—sell/enable others while benefiting yourself. Build more destroyers for continued exploration. Void Tether provides map control—block key routes, protect your systems, deny battlethirsty neighbors. Carrier II and <span class="tb">Fleet Logistics</span> increase tempo. Your defensive carriers with fighter screens protect controlled territory while destroyers explore.
 
 **Late Game:** Hero floods board with frontier tokens, exploring all of them for massive spike. Commander provides board control—reclaim tokens when opponents activate near you. Useful for winslaying (coordinate with table to walk fleet somewhere) and scoring security (grab objective, if blown out, retaliate and grab it back). Light/Wave for final mobility. X-89 via B↔G breakthrough as late flex tech. Close out through exploration advantage, diplomatic leverage, and economic superiority.
 
@@ -465,7 +465,7 @@ This section highlights action cards that synergize particularly well with your 
 
 Empyrean is the faction for players who understand that exploration and diplomatic leverage create power. You're not conquering through military force—you're succeeding through frontier token mastery, economic flexibility, and being positioned where everyone needs you to cooperate. Your kit revolves around empty system exploration and extracting value from being everyone's neighbor.
 
-Your biggest strength is frontier token exploration. Dark Energy Tap lets you milk the frontier deck for value. Agent refunds tokens so you keep exploring 2-3 empty systems per round. Hero floods the board with frontier tokens and explores all of them simultaneously for massive spike. Combined with 4 commodities and two promissory notes, you build economic and diplomatic advantages without fighting.
+Your biggest strength is frontier token exploration. <span class="tb">Dark Energy Tap</span> lets you milk the frontier deck for value. Agent refunds tokens so you keep exploring 2-3 empty systems per round. Hero floods the board with frontier tokens and explores all of them simultaneously for massive spike. Combined with 4 commodities and two promissory notes, you build economic and diplomatic advantages without fighting.
 
 When you master Empyrean, you leverage Aetherstream's game-changing movement as both personal benefit and sellable ability. You're a puppet master—offering people bonus movement to engage with each other and cause conflict while you benefit from the chaos. Your defensive nebula home with carriers and fighters protects your slice. Commander reclaims board space when opponents activate near you. Void Tether blocks key routes when needed. You have a hard time being on offense, so you rely on diplomatic dealing to solve problems.
 

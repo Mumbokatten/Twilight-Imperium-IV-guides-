@@ -88,14 +88,14 @@ Your signature ability. If you have 3 fleet pool tokens, you can have 5 non-figh
 - **<span class="tb">Antimass Deflectors</span>** - Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
 - **<span class="tr">Plasma Scoring</span>** - When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.
 
-**Notes:** Blue and red starting techs open multiple tech paths. Antimass helps with mobility through asteroids, Plasma Scoring boosts your BOMBARDMENT (important for dreadnought-heavy builds).
+**Notes:** Blue and red starting techs open multiple tech paths. Antimass helps with mobility through asteroids, <span class="tr">Plasma Scoring</span> boosts your BOMBARDMENT (important for dreadnought-heavy builds).
 
 **Faction Technologies:**
 
 **Non-Euclidean Shielding (RR):**
 *When 1 of your units uses Sustain Damage, cancel 2 hits instead of 1.*
 
-Makes all your units with Sustain Damage incredibly durable. Combined with Duranium Armor (which repairs 1 unit per combat round), your capital ships become nearly unkillable.
+Makes all your units with Sustain Damage incredibly durable. Combined with <span class="tr">Duranium Armor</span> (which repairs 1 unit per combat round), your capital ships become nearly unkillable.
 
 **L4 Disruptors (R):**
 *During space combat, after you roll dice, you may reroll any number of your dice; your opponent must choose and destroy 1 of their ships for each result of 1 or 2 you produce.*
@@ -142,7 +142,7 @@ Cost: 2 | Combat: 6 | **Sustain Damage**
 
 Expensive but can be deployed pre-combat by spending 2 resources. Good for surprise ground combat swings. Sustain Damage makes it durable.
 
-**With Duranium Armor + Non-Euclidean Shielding:** Your mechs become monsters. Non-Euclidean Shielding makes them cancel 2 hits instead of 1 when using Sustain Damage, and Duranium Armor repairs 1 damaged unit each combat round. Your mechs are only rivaled by Naaz-Rokha Alliance mechs—effectively unkillable in ground combat.
+**With <span class="tr">Duranium Armor</span> + Non-Euclidean Shielding:** Your mechs become monsters. Non-Euclidean Shielding makes them cancel 2 hits instead of 1 when using Sustain Damage, and <span class="tr">Duranium Armor</span> repairs 1 damaged unit each combat round. Your mechs are only rivaled by Naaz-Rokha Alliance mechs—effectively unkillable in ground combat.
 
 ### I. Flagship - **Arc Secundus**
 
@@ -158,9 +158,9 @@ Before you roll dice during space combat, apply +X to the results of 1 of your s
 
 **B↔R Synergy:** Blue and red technologies count as each other for prerequisites.
 
-**Movement ability - Great substitute for early Gravity Drive:** Your slow dreadnoughts and carriers can move with your faster destroyer. If you send your destroyer (move 2) with your carrier (move 1) and dreadnought (move 1), all ships move 2 because the destroyer has the highest move value. This solves a lot of slice mobility issues early game—you don't need Gravity Drive when you have this breakthrough. Excellent for fleet mobility and reaching distant planets R1.
+**Movement ability - Great substitute for early <span class="tb">Gravity Drive</span>:** Your slow dreadnoughts and carriers can move with your faster destroyer. If you send your destroyer (move 2) with your carrier (move 1) and dreadnought (move 1), all ships move 2 because the destroyer has the highest move value. This solves a lot of slice mobility issues early game—you don't need <span class="tb">Gravity Drive</span> when you have this breakthrough. Excellent for fleet mobility and reaching distant planets R1.
 
-**Breakthrough + Gravity Drive = ZOOMING:** When you eventually get Gravity Drive, your breakthrough becomes even more powerful. Gravity Drive gives +1 move to one ship (making your destroyer move 3), and Gravleash Maneuvers makes ALL your non-fighter ships move 3. Your entire fleet—dreadnoughts, carriers, flagship—can move 3 steps together. Incredible late-game mobility.
+**Breakthrough + <span class="tb">Gravity Drive</span> = ZOOMING:** When you eventually get <span class="tb">Gravity Drive</span>, your breakthrough becomes even more powerful. <span class="tb">Gravity Drive</span> gives +1 move to one ship (making your destroyer move 3), and Gravleash Maneuvers makes ALL your non-fighter ships move 3. Your entire fleet—dreadnoughts, carriers, flagship—can move 3 steps together. Incredible late-game mobility.
 
 **Combat bonus:** Each ship type gives +1 to one roll. With 5 ship types (carrier, dread, cruiser, destroyer, flagship), you get +5 to one combat roll—almost guaranteed hit.
 
@@ -237,17 +237,17 @@ You start with **<span class="tb">Antimass Deflectors</span>** and **<span class
 
 Your main tech path focuses on:
 
-1. **Gravity Drive (B)** - Essential for mobility
+1. **<span class="tb">Gravity Drive</span> (B)** - Essential for mobility
 
 2. **Destroyer II (RR) and Non-Euclidean Shielding (RR)** - Upgraded destroyers and double Sustain Damage on all units
 
-3. **Fleet Logistics and Lightwave Deflector** - Late game mobility and defense
+3. **<span class="tb">Fleet Logistics</span> and <span class="tb">Lightwave Deflector</span>** - Late game mobility and defense
 
 ### B. Tech Path
 
-**Starting Tech:** Antimass Deflectors + Plasma Scoring
+**Starting Tech:** <span class="tb">Antimass Deflectors</span> + Plasma Scoring
 
-**Round 1: Gravity Drive (B)**
+**Round 1: <span class="tb">Gravity Drive</span> (B)**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** ESSENTIAL. Combos with your Gravleash Maneuvers breakthrough to give your entire fleet move 3. Your destroyer becomes move 3 (2+1), and all your non-fighter ships move 3 with it. Must-have tech.
 - **Prerequisites:** 1 blue
@@ -262,7 +262,7 @@ Your main tech path focuses on:
 - **Why:** Your signature faction tech. Dreadnoughts, carriers, flagship—all take 2 hits to damage instead of 1. Makes your fleets incredibly durable.
 - **Prerequisites:** 2 red
 
-**Round 4: Duranium Armor (RR)**
+**Round 4: <span class="tr">Duranium Armor</span> (RR)**
 - During each combat round, after you assign hits to your units, repair 1 of your damaged units that did not use Sustain Damage during this combat round.
 - **Why:** Repairs a ship each combat round. Stacks with Non-Euclidean Shielding for nearly unkillable fleets.
 - **Prerequisites:** 2 red
@@ -277,7 +277,7 @@ Your main tech path focuses on:
 - **Why:** If you need a 2nd unit upgrade for "Develop Weaponry" objective (2 unit upgrade technologies), Carrier II works fine. The extra capacity is useful.
 - **Prerequisites:** 2 blue
 
-**Note on Dreadnought II:** Not recommended. The extra movement on dreadnoughts (move 2 instead of move 1) is not helpful with Gravleash Maneuvers breakthrough—your breakthrough already makes dreadnoughts move at the same speed as your destroyer (move 2, or move 3 with Gravity Drive). Skip Dreadnought II.
+**Note on Dreadnought II:** Not recommended. The extra movement on dreadnoughts (move 2 instead of move 1) is not helpful with Gravleash Maneuvers breakthrough—your breakthrough already makes dreadnoughts move at the same speed as your destroyer (move 2, or move 3 with <span class="tb">Gravity Drive</span>). Skip Dreadnought II.
 
 ---
 
@@ -344,15 +344,15 @@ Although you're the strongest fighting faction in TI4, it's better to go for neu
 
 **Fracture Strategy:**
 
-Getting relics in Fracture should be free for Letnev. Your superior fleet can easily take and hold Fracture without much resistance. With Gravleash Maneuvers breakthrough + Gravity Drive, your entire fleet can move 3 steps, giving you incredible reach to Fracture. Use this mobility to claim relics and legendary planets for easy points.
+Getting relics in Fracture should be free for Letnev. Your superior fleet can easily take and hold Fracture without much resistance. With Gravleash Maneuvers breakthrough + <span class="tb">Gravity Drive</span>, your entire fleet can move 3 steps, giving you incredible reach to Fracture. Use this mobility to claim relics and legendary planets for easy points.
 
 **Mecatol Rex Control:**
 
-Your massive fleets (thanks to Armada) and combat superiority make you the best faction for holding Mecatol Rex. Park a 5-dreadnought fleet on MR, take Imperial when you control it, and score those MR points. Your Non-Euclidean Shielding and Duranium Armor make it nearly impossible to dislodge you once established.
+Your massive fleets (thanks to Armada) and combat superiority make you the best faction for holding Mecatol Rex. Park a 5-dreadnought fleet on MR, take Imperial when you control it, and score those MR points. Your Non-Euclidean Shielding and <span class="tr">Duranium Armor</span> make it nearly impossible to dislodge you once established.
 
 **Styx Easy Access:**
 
-With your move 3 fleet (Gravleash + Gravity Drive), Styx is an easy point to access. Your mobility lets you reach distant legendary planets that other factions struggle to get to. Free points from hard-to-reach objectives.
+With your move 3 fleet (Gravleash + <span class="tb">Gravity Drive</span>), Styx is an easy point to access. Your mobility lets you reach distant legendary planets that other factions struggle to get to. Free points from hard-to-reach objectives.
 
 ---
 

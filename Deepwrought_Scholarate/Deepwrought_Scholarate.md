@@ -91,11 +91,11 @@ This is the strongest starting tech advantage in the game. You can research ANY 
 
 **Blue Path:**
 
-- **Antimass Deflectors + Dark Energy Tap (or Gravity Drive):** Movement flexibility and economy, sets up Fleet Logistics (BB) or Light/Wave Deflector (BBB)
+- **<span class="tb">Antimass Deflectors</span> + <span class="tb">Dark Energy Tap</span> (or <span class="tb">Gravity Drive</span>):** Movement flexibility and economy, sets up <span class="tb">Fleet Logistics</span> (BB) or Light/Wave Deflector (BBB)
 
 **Green Path:**
 
-- **Neural Motivator + Bio-Stims:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap Bio-Stims for Hyper Metabolism later for token economy
+- **<span class="tg">Neural Motivator</span> + <span class="tg">Bio-Stims</span>:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap <span class="tg">Bio-Stims</span> for <span class="tg">Hyper Metabolism</span> later for token economy
 
 **Faction Technologies:**
 
@@ -121,13 +121,13 @@ Your commander unlocks extremely early (as soon as you have 1 ocean card) and ge
 - **Unlock:** Have 3 scored objectives
 - **Wave Function Collapse:** Purge this card and a non-unit upgrade technology you own or from your deck. Then, purge all cards with the same name owned by other players and in other players' decks. Then, each player that purged a technology they owned researches another technology.
 
-This hero is a bit weak overall, but picking the right tech at the right timing can absolutely win games. Delete Gravity Drive from the player threatening to take Mecatol, purge Fleet Logistics from someone setting up a double-activation power play, or remove a critical unit upgrade before a key combat. The key is timing - use it when removing a specific tech swings the game state in your favor.
+This hero is a bit weak overall, but picking the right tech at the right timing can absolutely win games. Delete <span class="tb">Gravity Drive</span> from the player threatening to take Mecatol, purge <span class="tb">Fleet Logistics</span> from someone setting up a double-activation power play, or remove a critical unit upgrade before a key combat. The key is timing - use it when removing a specific tech swings the game state in your favor.
 
 ### F. Promissory Note
 
 **Share Knowledge:** Place this card faceup in your play area and gain 1 non-faction, non-unit upgrade technology that the Deepwrought player owns. Place that technology on this card. Return that technology to the deck and this card to the Deepwrought player at the end of the status phase.
 
-This is worth at least 2 TG every turn and you should sell it as much as possible. Be proactive - look for what people need. Someone needs Hyper Metabolism for infantry? Sell them Share Knowledge for a command token or trade goods. Someone needs Sarween Tools? That's worth even more. Since you research 2 techs at setup and have access to a diverse tech tree, you'll almost always have something valuable to lend. This promissory note is a constant income stream - treat it like a renewable resource.
+This is worth at least 2 TG every turn and you should sell it as much as possible. Be proactive - look for what people need. Someone needs <span class="tg">Hyper Metabolism</span> for infantry? Sell them Share Knowledge for a command token or trade goods. Someone needs <span class="ty">Sarween Tools</span>? That's worth even more. Since you research 2 techs at setup and have access to a diverse tech tree, you'll almost always have something valuable to lend. This promissory note is a constant income stream - treat it like a renewable resource.
 
 ### G. Alliance
 
@@ -235,12 +235,12 @@ This is the strongest starting tech advantage in the game. Focus on blue or gree
 
 **Blue Path (Most Common):**
 
-- **Dark Energy Tap (or Antimass Deflectors) + Gravity Drive:** Gives slice flexibility with increased movement
+- **<span class="tb">Dark Energy Tap</span> (or <span class="tb">Antimass Deflectors</span>) + <span class="tb">Gravity Drive</span>:** Gives slice flexibility with increased movement
 
 **Green Path:**
 More economic but less flexible.
-- **Neural Motivator + Bio-Stims:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap Bio-Stims for Hyper Metabolism later for token economy
-- **Neural Motivator + Radical Advancement:** Get your faction tech immediately for tech swapping flexibility
+- **<span class="tg">Neural Motivator</span> + <span class="tg">Bio-Stims</span>:** Command token efficiency plus fighter production boost, path to breakthrough unlock. Then use Radical Advancement to swap <span class="tg">Bio-Stims</span> for <span class="tg">Hyper Metabolism</span> later for token economy
+- **<span class="tg">Neural Motivator</span> + Radical Advancement:** Get your faction tech immediately for tech swapping flexibility
 
 ### B. Technology Acquisition Strategy
 
@@ -264,15 +264,15 @@ Deepwrought plays tech differently than any other faction. You acquire most tech
 Your breakthrough lets players pay 3 TG and give you a PN to research tech, and you copy whatever they research. The key is making this attractive - offer their PN back if you don't already have the tech they're researching, or even sweeten the deal by giving back PN + 1 TG to offset their tech cost. This turns breakthrough from "obviously helping Deepwrought too much" into "actually a pretty good deal."
 
 *Blue:*
-- Antimass Deflectors - Offer PN back
-- Dark Energy Tap - Offer PN back
+- <span class="tb">Antimass Deflectors</span> - Offer PN back
+- <span class="tb">Dark Energy Tap</span> - Offer PN back
 - Sling Relay - Willing to pay
-- Gravity Drive - Willing to pay
-- Fleet Logistics - Willing to pay
-- Lightwave Deflector - Willing to pay
+- <span class="tb">Gravity Drive</span> - Willing to pay
+- <span class="tb">Fleet Logistics</span> - Willing to pay
+- <span class="tb">Lightwave Deflector</span> - Willing to pay
 
 *Yellow:*
-- Sarween Tools - Offer PN back
+- <span class="ty">Sarween Tools</span> - Offer PN back
 - Scanlink Drone Network - Offer PN back
 - Graviton Laser System - Offer PN back
 - Predictive Intelligence - Offer PN back
@@ -280,17 +280,17 @@ Your breakthrough lets players pay 3 TG and give you a PN to research tech, and 
 - Integrated Economy - Offer PN back
 
 *Red:*
-- Plasma Scoring - Offer PN back
+- <span class="tr">Plasma Scoring</span> - Offer PN back
 - AI Development Algorithm - Offer PN back
-- Magen Defense Grid - Offer PN back
+- <span class="tr">Magen Defense Grid</span> - Offer PN back
 - Self-Assembly Routines - Offer PN back
-- Duranium Armor - Willing to pay
+- <span class="tr">Duranium Armor</span> - Willing to pay
 - Assault Cannon - Willing to pay
 
 *Green:*
-- Neural Motivator - Offer PN back if not starting tech
-- Bio-Stims - Willing to pay
-- Hyper Metabolism - Willing to pay
+- <span class="tg">Neural Motivator</span> - Offer PN back if not starting tech
+- <span class="tg">Bio-Stims</span> - Willing to pay
+- <span class="tg">Hyper Metabolism</span> - Willing to pay
 - X-89 Bacterial Weapon - Willing to pay
 - Psychoarchaeology - Low priority
 - Dacxive Animators - Low priority

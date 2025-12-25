@@ -82,7 +82,7 @@ Incredible for getting cheap relics and super flexible for late game stalling. K
 
 **<span class="tg">Psychoarchaeology</span>** - You can use technology specialties on planets you control without exhausting them, even if those planets are exhausted. During the action phase, you can exhaust planets you control that have technology specialties to gain 1 trade good.
 
-Small economic flex tool. Most of the time you don't want to exhaust a tech skip planet for just 1 TG since they usually provide more resources/influence on their own. Mostly skip this in favor of increasing mobility through Gravity Drive and Carrier II.
+Small economic flex tool. Most of the time you don't want to exhaust a tech skip planet for just 1 TG since they usually provide more resources/influence on their own. Mostly skip this in favor of increasing mobility through <span class="tb">Gravity Drive</span> and Carrier II.
 
 **<span class="tr">AI Development Algorithm</span>** - When you research a unit upgrade technology, you may exhaust this card to ignore any 1 prerequisite. When 1 or more of your units use PRODUCTION, you may exhaust this card to reduce the combined cost of the produced units by the number of unit upgrade technologies that you own.
 
@@ -152,7 +152,7 @@ When you have 4 mechs in the same system, you may return 3 of those mechs to you
 
 The super-mech trades 3 powerful mechs (Combat 6 x2 each with Sustain on ground, Combat 8 x2 in space) for one unit with Combat 4 (x4), Move 3, Sustain that repairs every round. You lose defensive power (multiple Sustains) and offensive flexibility (mechs in different systems). While you can take planets (it's both ship and ground force), winning both space and ground combat by yourself with one unit is very hard. Situational—most games you're better keeping normal mechs spread across the board.
 
-**B↔G Synergy:** Blue and green count as each other for prerequisites. Nice to skip into Gravity Drive and get mobility upgrades. If exploration gets you tech skips or you feel like you got an easy unlock, you can consider flipping the breakthrough.
+**B↔G Synergy:** Blue and green count as each other for prerequisites. Nice to skip into <span class="tb">Gravity Drive</span> and get mobility upgrades. If exploration gets you tech skips or you feel like you got an easy unlock, you can consider flipping the breakthrough.
 
 ### K. Slice and Draft Considerations
 
@@ -208,17 +208,17 @@ You have a hard time influencing others and they have a hard time influencing yo
 
 **AI Development Algorithm:** Skip unit upgrade prerequisites and reduce production costs by number of unit upgrades owned. Good if going for unit upgrades but you commonly go for value/utility techs instead.
 
-Your kit is not very tech dependent. Choose your path based on slice and game state. Green Path focuses on economic snowball with Pre-Fab Arcologies improving explored planets, Hyper Metabolism for command tokens, and X-89 for devastating ground combat—requires green skip or Entropic and works best with resource-heavy slices. Mobility Path prioritizes map control with Dark Energy Tap for exploration synergy, Gravity Drive + Carrier II for moving mechs around, and Dreadnought II for combat backbone—more flexible and adaptable but doesn't synergize with faction identity as strongly.
+Your kit is not very tech dependent. Choose your path based on slice and game state. Green Path focuses on economic snowball with Pre-Fab Arcologies improving explored planets, <span class="tg">Hyper Metabolism</span> for command tokens, and X-89 for devastating ground combat—requires green skip or Entropic and works best with resource-heavy slices. Mobility Path prioritizes map control with <span class="tb">Dark Energy Tap</span> for exploration synergy, <span class="tb">Gravity Drive</span> + Carrier II for moving mechs around, and Dreadnought II for combat backbone—more flexible and adaptable but doesn't synergize with faction identity as strongly.
 
 ### B. Technology Paths
 
 **Green Path (Economic):**
 
-**Round 1:** Bio-Stims (G)
+**Round 1:** <span class="tg">Bio-Stims</span> (G)
 - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies
 - **Why:** Flexibility to ready tech planets or other technologies.
 
-**Round 2:** Hyper Metabolism (GG)
+**Round 2:** <span class="tg">Hyper Metabolism</span> (GG)
 - During the status phase, gain 3 command counters instead of 2
 - **Why:** Command token economy for activations.
 
@@ -230,23 +230,23 @@ Your kit is not very tech dependent. Choose your path based on slice and game st
 - Cost 1, Combat 8, Move 2, AFB 6 (x3)
 - **Why:** Cheap, mobile ships with strong anti-fighter.
 
-**Round 5:** X-89 Bacterial Weapon (GGG)
+**Round 5:** <span class="tg">X-89 Bacterial Weapon</span> (GGG)
 - After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent's infantry was destroyed, destroy all of your opponent's infantry on that planet. Double the hits produced by your units' BOMBARDMENT and ground combat rolls. Exhaust each planet you use BOMBARDMENT against
 - **Why:** Devastating ground combat power.
 
 **Mobility Path:**
 
-**Round 1:** Dark Energy Tap (0)
+**Round 1:** <span class="tb">Dark Energy Tap</span> (0)
 - After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system
 - **Why:** Exploration synergy and retreat flexibility.
 
-**Round 2:** Gravity Drive (B)
+**Round 2:** <span class="tb">Gravity Drive</span> (B)
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action
 - **Why:** Mobility for repositioning fleets and bringing mechs to exploration zones.
 
 **Round 3:** Carrier II (BB)
 - Cost 3, Combat 9, Move 2, Capacity 6
-- **Why:** Transport capacity for mechs. Move 2 carriers with Gravity Drive gets you around the map.
+- **Why:** Transport capacity for mechs. Move 2 carriers with <span class="tb">Gravity Drive</span> gets you around the map.
 
 **Round 4:** Dreadnought II (BBY)
 - Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by "Direct Hit" action cards

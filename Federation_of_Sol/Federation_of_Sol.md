@@ -83,8 +83,8 @@ Deploy infantry directly to any planet you control without needing carriers. Mid
 
 **Starting Technologies:**
 
-- **Neural Motivator (G):** Draw 2 action cards instead of 1 during status phase. Bonus action cards always nice, part of your flexibility. Sets up Spec Ops II path.
-- **Antimass Deflectors (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against you. Allows for slice diversity, solving most issues. Sets up Advanced Carrier II path.
+- **<span class="tg">Neural Motivator</span> (G):** Draw 2 action cards instead of 1 during status phase. Bonus action cards always nice, part of your flexibility. Sets up Spec Ops II path.
+- **<span class="tb">Antimass Deflectors</span> (B):** Move through asteroid fields. -1 to SPACE CANNON rolls against you. Allows for slice diversity, solving most issues. Sets up Advanced Carrier II path.
 
 **Faction Unit Upgrades:**
 
@@ -196,15 +196,15 @@ The tradeoff is you're predictable. Everyone knows what Sol does—expand, produ
 
 ### A. Overview
 
-You start with **Neural Motivator (Green)** and **Antimass Deflectors (Blue)**.
+You start with **<span class="tg">Neural Motivator</span> (Green)** and **<span class="tb">Antimass Deflectors</span> (Blue)**.
 
-Tech path is easy for Sol. Rush Gravity Drive for mobility, Sling Relay for repositioning, then Advanced Carrier II for your incredible super carriers. Flex into whatever the game demands after that.
+Tech path is easy for Sol. Rush <span class="tb">Gravity Drive</span> for mobility, Sling Relay for repositioning, then Advanced Carrier II for your incredible super carriers. Flex into whatever the game demands after that.
 
 ### B. Tech Path (Standard)
 
-**Starting Tech:** Neural Motivator, Antimass Deflectors
+**Starting Tech:** <span class="tg">Neural Motivator</span>, Antimass Deflectors
 
-**Round 1: Gravity Drive (B)**
+**Round 1: <span class="tb">Gravity Drive</span> (B)**
 - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 - **Why:** 2-movement carriers. Essential for Sol's expansion and reach.
 
@@ -218,8 +218,8 @@ Tech path is easy for Sol. Rush Gravity Drive for mobility, Sling Relay for repo
 
 **Flex Techs (Round 4/5):**
 
-- **Bio-Stims (G):** Ready a tech specialty planet or another technology at end of turn. Double Sling Relay use.
-- **Fleet Logistics (BB):** Perform 2 actions per turn instead of 1. Sneaky late game plays.
+- **<span class="tg">Bio-Stims</span> (G):** Ready a tech specialty planet or another technology at end of turn. Double Sling Relay use.
+- **<span class="tb">Fleet Logistics</span> (BB):** Perform 2 actions per turn instead of 1. Sneaky late game plays.
 - **Fighter II (GB):** Combat 8, Move 2. Fighters can move independently. You produce so many anyway.
 - **Light/Wave Deflector (BBB):** Your ships can move through systems with other players' ships. Control plays and blocking people.
 - **Dreadnought II (BBY):** Cost 4, Combat 5, Move 2, Capacity 1, Sustain Damage, Bombardment 5. If you need fleet mobility and have too many resources.
@@ -234,7 +234,7 @@ Your R1 priority is maximizing expansion and establishing production base. Early
 
 1. **Trade** - 4 commodities for early resources. Easy Breakthrough unlock with the TGs.
 
-2. **Technology** - Early resources and get Gravity Drive. Accelerates your carrier swarm.
+2. **Technology** - Early resources and get <span class="tb">Gravity Drive</span>. Accelerates your carrier swarm.
 
 3. **Leadership** - Early resources and easy Breakthrough unlock.
 
@@ -291,7 +291,7 @@ Your ideal fleet composition in each system:
 
 **Early Game (Rounds 1-2):**
 
-Expand and get custodian. Your starting fleet solves any slice—split carriers and take what you need. Focus on getting Gravity Drive and setting up for Breakthrough unlock. Build carriers and expand aggressively.
+Expand and get custodian. Your starting fleet solves any slice—split carriers and take what you need. Focus on getting <span class="tb">Gravity Drive</span> and setting up for Breakthrough unlock. Build carriers and expand aggressively.
 
 **Mid Game (Rounds 3-4):**
 

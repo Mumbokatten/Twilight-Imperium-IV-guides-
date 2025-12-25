@@ -41,7 +41,7 @@ Watch opponents realize you've controlled every agenda that matters, your econom
 
 Playing Council Keleres is like commanding a top-tier political powerhouse with military backup. Your Tribunii ability lets you choose between three different home systems (Argent/Mentak/Xxcha), giving you flexibility based on map position and strategy. Your Council Patronage gives you free trade goods every round. Your Law's Order lets you ignore laws when needed.
 
-The key strength of Keleres is adaptability and consistency. Choose your home system wisely, leverage Council Patronage for steady economy, and use Executive Order tech to control agendas. You win through political dominance and strategic positioning. **Keleres excels at winning from ahead** - once you get your faction techs (Executive Order and Agency Supply Network), you become incredibly difficult to stop.
+The key strength of Keleres is adaptability and consistency. Choose your home system wisely, leverage Council Patronage for steady economy, and use <span class="ty">Executive Order</span> tech to control agendas. You win through political dominance and strategic positioning. **Keleres excels at winning from ahead** - once you get your faction techs (<span class="ty">Executive Order</span> and <span class="ty">Agency Supply Network</span>), you become incredibly difficult to stop.
 
 Opponents will struggle to predict your moves. That moment when they realize how many agendas they'll have to vote for and start crying? Just another day for Keleres.
 
@@ -109,19 +109,19 @@ Ultimate law flexibility. Spend 1 TG/commodity to ignore ALL laws for the entire
 
 **Optimal:** **<span class="ty">Sarween Tools</span>** + **<span class="tb">Gravity Drive</span>**
 
-**Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. Sarween Tools gets you started on the yellow tech path, and Gravity Drive gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
+**Notes:** You choose 2 non-faction techs owned by other players - this means you're limited to what your opponents have, not any 2 techs in the game. <span class="ty">Sarween Tools</span> gets you started on the yellow tech path, and <span class="tb">Gravity Drive</span> gives you the mobility to reach Mecatol Rex quickly. If these aren't available from other players, take any blue + yellow combination that is available. Your I.I.H.Q. Modernization breakthrough makes green and yellow count as each other for prerequisites, allowing green techs as well. See Section V (Technology) for detailed discussion of starting tech options and tech paths.
 
 **Faction Technologies:**
 
-**Executive Order (Y):**
+**<span class="ty">Executive Order</span> (Y):**
 *ACTION: Draw and reveal 1 agenda card from the top of the agenda deck. Players may cast votes for or against this agenda as if it were the outcome of an agenda. You are the speaker for this agenda.*
 
 Your signature political control technology. Draw and vote on agendas whenever you want - devastating for controlling the game. Force opponents to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic weapon, exhausting opponents' influence planets while keeping yours fresh. High priority tech to get by Round 2.
 
-**Agency Supply Network (YY):**
+**<span class="ty">Agency Supply Network</span> (YY):**
 *Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system.*
 
-Game-changing production technology. Produce in two different systems in a single action. With Sarween Tools, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. With 3 space docks + Mecatol Rex (PRODUCTION 3 from Custodia Vigilia), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation). This lets you flood the board with units and reinforce multiple fronts simultaneously. Essential tech to get by Round 3.
+Game-changing production technology. Produce in two different systems in a single action. With <span class="ty">Sarween Tools</span>, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. With 3 space docks + Mecatol Rex (PRODUCTION 3 from Custodia Vigilia), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation). This lets you flood the board with units and reinforce multiple fronts simultaneously. Essential tech to get by Round 3.
 
 ### E. Leaders
 
@@ -195,7 +195,7 @@ When you gain this card, gain the Custodia Vigilia planet card and its legendary
 
 **Y↔G Synergy:** Yellow and green technologies count as each other for prerequisites.
 
-Really solid breakthrough that gives a value planet and allows for big lategame Mecatol Rex moves. Custodia Vigilia provides different value depending on the game state: when you control MR, it gives SPACE CANNON 5 and PRODUCTION 3 for defense and production; when you don't control MR, you still gain 2 command tokens whenever another player scores with Imperial. Combining the PRODUCTION 3 with your Agency Supply Network faction tech makes you very hard to push off Mecatol Rex - you can produce on MR and another system in a single action. Becoming neighbors with everyone near MR opens up diplomatic options.
+Really solid breakthrough that gives a value planet and allows for big lategame Mecatol Rex moves. Custodia Vigilia provides different value depending on the game state: when you control MR, it gives SPACE CANNON 5 and PRODUCTION 3 for defense and production; when you don't control MR, you still gain 2 command tokens whenever another player scores with Imperial. Combining the PRODUCTION 3 with your <span class="ty">Agency Supply Network</span> faction tech makes you very hard to push off Mecatol Rex - you can produce on MR and another system in a single action. Becoming neighbors with everyone near MR opens up diplomatic options.
 
 **Y↔G synergy:** Opens yellow and green tech paths flexibly.
 
@@ -256,17 +256,17 @@ You choose 2 non-faction techs owned by other players - this means you're limite
 
 **Core Tech Goals:**
 
-1. **Executive Order (Y)** - Draw and immediately vote on an agenda. Political control.
+1. **<span class="ty">Executive Order</span> (Y)** - Draw and immediately vote on an agenda. Political control.
 
-2. **Agency Supply Network (YY)** - Produce in two systems per action
+2. **<span class="ty">Agency Supply Network</span> (YY)** - Produce in two systems per action
 
 **Recommended Starting Techs:**
 
-Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **Gravity Drive (B)**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward Executive Order and Agency Supply Network. **Sarween has great synergy with Agency Supply Network** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. Gravity Drive gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **Predictive Intelligence (Y)** is also probably worth it as a yellow tech option.
+Get **<span class="ty">Sarween Tools</span>** and a **blue tech** (preferably **<span class="tb">Gravity Drive</span> (B)**, but **<span class="tb">Dark Energy Tap</span>**, **<span class="tb">Antimass Deflectors</span>**, or **Sling Relay (B)** also work). Sarween gets you started on the yellow tech path toward <span class="ty">Executive Order</span> and <span class="ty">Agency Supply Network</span>. **Sarween has great synergy with <span class="ty">Agency Supply Network</span>** - when you produce in two systems per action, you get the -1 cost reduction in both systems, effectively getting double the discount. <span class="tb">Gravity Drive</span> gives you mobility to reach Mecatol Rex quickly. If Sarween isn't available, **<span class="ty">Scanlink Drone Network</span>** is a fine replacement. **<span class="ty">Predictive Intelligence</span> (Y)** is also probably worth it as a yellow tech option.
 
-**Green alternatives:** **<span class="tg">Neural Motivator</span>** and **Bio-Stims (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, Bio-Stims synergizes well with your faction tech Executive Order and is definitely a fun option. Bio-Stims + Executive Order allows for a potential of 10 extra agendas - who wouldn't love that?
+**Green alternatives:** **<span class="tg">Neural Motivator</span>** and **<span class="tg">Bio-Stims</span> (G)** work with the Y↔G breakthrough - Neural lets you use your Commander (Suffi An) more with component action cards, <span class="tg">Bio-Stims</span> synergizes well with your faction tech <span class="ty">Executive Order</span> and is definitely a fun option. <span class="tg">Bio-Stims</span> + <span class="ty">Executive Order</span> allows for a potential of 10 extra agendas - who wouldn't love that?
 
-**Last resort if there's truly no way to get to your blue/yellow path:** **<span class="tr">AI Development Algorithm</span>**, **Self-Assembly Routines (R)**, or **Magen Defense Grid (R)** can work, though these delay your core tech goals significantly.
+**Last resort if there's truly no way to get to your blue/yellow path:** **<span class="tr">AI Development Algorithm</span>**, **<span class="tr">Self-Assembly Routines</span> (R)**, or **<span class="tr">Magen Defense Grid</span> (R)** can work, though these delay your core tech goals significantly.
 
 ### B. Tech Paths
 
@@ -276,19 +276,19 @@ Assuming you found a way to start with yellow and blue (doesn't matter which):
 
 **Round 1:**
 
-- **Gravity Drive (B)** if needed for expansion, otherwise skip tech R1
+- **<span class="tb">Gravity Drive</span> (B)** if needed for expansion, otherwise skip tech R1
 
 **Round 2:**
 
-- **Executive Order (Y)** - You can now draw and vote on agendas whenever you want. This can be devastating - you force people to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic advantage, exhausting opponents' influence planets while keeping yours fresh.
+- **<span class="ty">Executive Order</span> (Y)** - You can now draw and vote on agendas whenever you want. This can be devastating - you force people to exhaust influence planets on agendas. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic advantage, exhausting opponents' influence planets while keeping yours fresh.
 
 **Round 3:**
 
-- **Agency Supply Network (YY)** - Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system. This means you can produce in two different systems in a single action. **Incredible production:** With Sarween Tools, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. **Insane scaling:** With 3 space docks + Mecatol Rex (PRODUCTION 3), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation with ASN) - you can flood the board with units and reinforce multiple fronts simultaneously.
+- **<span class="ty">Agency Supply Network</span> (YY)** - Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION ability in any system. This means you can produce in two different systems in a single action. **Incredible production:** With <span class="ty">Sarween Tools</span>, you get the -1 discount in BOTH systems, effectively doubling your Sarween value. **Insane scaling:** With 3 space docks + Mecatol Rex (PRODUCTION 3), you can activate all 4 systems and produce up to 8 times total (4 activations × 2 productions per activation with ASN) - you can flood the board with units and reinforce multiple fronts simultaneously.
 
 **Round 4-5:**
 
-- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **Fleet Logistics (BBB)**, **Predictive Intelligence (YY)** - whatever you need
+- **Carrier II (BB)**, **Dreadnought II (BBY)**, **Light/Wave Deflectors (BBBB)**, **<span class="tb">Fleet Logistics</span> (BBB)**, **Predictive Intelligence (YY)** - whatever you need
 
 **Note:** I.I.H.Q. Modernization breakthrough swaps yellow/green prerequisites, so you can get green techs with yellow prereqs and vice versa.
 
@@ -340,7 +340,7 @@ You have a straightforward and strong tech path that allows for multiple objecti
 
 Your ideal fleet composition: **Carrier + Dreadnought + Fighter screen**. Never cruisers in fleet.
 
-You'll have tons of infantry from production (thanks to Agency Supply Network and multiple space docks), so focus your fleet on carriers for capacity and dreadnoughts for combat power. Fighters absorb hits.
+You'll have tons of infantry from production (thanks to <span class="ty">Agency Supply Network</span> and multiple space docks), so focus your fleet on carriers for capacity and dreadnoughts for combat power. Fighters absorb hits.
 
 Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade - opponents must spend 1 influence per mech).
 
@@ -350,13 +350,13 @@ Deploy **mechs on key locations** (Omiopiares makes planets expensive to invade 
 
 **Round 1 is critical - solve your expansion problem to get economy started.** You have one of the highest ceilings but lowest floors on start. With only 2 infantry, you need to execute R1 carefully. Get Construction primary for a bonus space dock to expand, or use Warfare secondary to produce more ground forces. You can also get I.I.H.Q. Modernization breakthrough R1 using your starting commodities + Council Patronage TG (3 total) with your agent. This gives you Custodia Vigilia, which provides 2 command tokens when opponents score Imperial and makes you neighbors with everyone near Mecatol Rex, opening up diplomatic options. Solving your R1 expansion problem gives you the ability to execute your strategy further down the line.
 
-**Take Mecatol Rex R3 or later** once you have your techs and armada set up. With Custodia Vigilia's PRODUCTION 3 and SPACE CANNON 5, MR becomes a fortress. The PRODUCTION 3 lets you produce on MR without a space dock, and combined with Agency Supply Network, you can reinforce MR and another system simultaneously.
+**Take Mecatol Rex R3 or later** once you have your techs and armada set up. With Custodia Vigilia's PRODUCTION 3 and SPACE CANNON 5, MR becomes a fortress. The PRODUCTION 3 lets you produce on MR without a space dock, and combined with <span class="ty">Agency Supply Network</span>, you can reinforce MR and another system simultaneously.
 
-**Use Executive Order aggressively** to screw with people's economy (force them to exhaust influence planets on agendas) or get valuable laws in play. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic weapon.
+**Use <span class="ty">Executive Order</span> aggressively** to screw with people's economy (force them to exhaust influence planets on agendas) or get valuable laws in play. Since you're always speaker when you use it, you can decide not to vote and use it purely as an economic weapon.
 
-**Outproduce people with Agency Supply Network.** Once you have ASN and multiple space docks, you can flood the board with units. With 3 space docks + Mecatol Rex (PRODUCTION 3), you can produce up to 8 times total (4 activations × 2 productions per activation). This production advantage lets you maintain multiple fronts and replace losses easily.
+**Outproduce people with <span class="ty">Agency Supply Network</span>.** Once you have ASN and multiple space docks, you can flood the board with units. With 3 space docks + Mecatol Rex (PRODUCTION 3), you can produce up to 8 times total (4 activations × 2 productions per activation). This production advantage lets you maintain multiple fronts and replace losses easily.
 
-**Use your mobility to hit objectives.** With Gravity Drive and your strong tech path, you have the mobility to grab objectives efficiently. Carrier II and Dreadnought II give you combat power and capacity to take and hold key systems.
+**Use your mobility to hit objectives.** With <span class="tb">Gravity Drive</span> and your strong tech path, you have the mobility to grab objectives efficiently. Carrier II and Dreadnought II give you combat power and capacity to take and hold key systems.
 
 **Fracture is available due to unit upgrades.** Your fleet of upgraded carriers and dreadnoughts can split and apply pressure across multiple fronts, making you hard to contain.
 
@@ -525,6 +525,6 @@ This section highlights action cards that synergize particularly well with your 
 
 ## XI. End Notes
 
-Council Keleres is a top-tier faction that excels at winning from ahead. Solve your Round 1 (R1) expansion problem with Construction or Warfare secondary, get Executive Order R2 and Agency Supply Network R3 to unlock your insane production scaling, take Mecatol Rex R3 or later once you have your tech and armada setup, and use your production advantage to outproduce everyone and maintain multiple fronts simultaneously.
+Council Keleres is a top-tier faction that excels at winning from ahead. Solve your Round 1 (R1) expansion problem with Construction or Warfare secondary, get <span class="ty">Executive Order</span> R2 and <span class="ty">Agency Supply Network</span> R3 to unlock your insane production scaling, take Mecatol Rex R3 or later once you have your tech and armada setup, and use your production advantage to outproduce everyone and maintain multiple fronts simultaneously.
 
-You control the political game through Executive Order (force opponents to exhaust influence on agendas), dominate economically with up to 8 productions per round once you have ASN, and turn every trade good into more units on the board. Your mobility lets you hit objectives efficiently, your production lets you maintain pressure everywhere, and your Mecatol Rex control gives you consistent VP. Play smart, convert all income into board presence, and demonstrate why you have one of the highest ceilings in the game.
+You control the political game through <span class="ty">Executive Order</span> (force opponents to exhaust influence on agendas), dominate economically with up to 8 productions per round once you have ASN, and turn every trade good into more units on the board. Your mobility lets you hit objectives efficiently, your production lets you maintain pressure everywhere, and your Mecatol Rex control gives you consistent VP. Play smart, convert all income into board presence, and demonstrate why you have one of the highest ceilings in the game.

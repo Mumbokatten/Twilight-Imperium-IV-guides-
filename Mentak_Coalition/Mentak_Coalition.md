@@ -259,26 +259,26 @@ The hardest part of playing Mentak is managing diplomacy and dealing with everyo
 - **<span class="ty">Sarween Tools</span>** - Reduce production costs by 1 resource. Saves 25+ resources over the game.
 - **<span class="tr">Plasma Scoring</span>** - +1 die for Space Cannon or Bombardment. Good for home defense and invasions.
 
-**Round 1: Neural Motivator**
+**Round 1: <span class="tg">Neural Motivator</span>**
 - When 1 or more of your units use Production, you may exhaust this card to reduce the combined cost by the number of that unit's production value.
 - **Why:** Essential economic tech. Needed as prerequisite for Cruiser II. Helps with your weak starting economy by reducing production costs. Strong foundation for your tech path.
-- **Prerequisites:** 1 green (Sarween Tools)
+- **Prerequisites:** 1 green (<span class="ty">Sarween Tools</span>)
 
 **Round 2: Cruiser II (GYR)**
 - Cost: 2 | Combat: 6 | Move: 3 | Capacity: 1
 - **Why:** Your #1 priority tech. Upgrades Ambush from 7+ (40% hit) to 6+ (50% hit). Move 3 gives repositioning flexibility. The capacity 1 is a bonus. Essential for your cruiser-based playstyle.
-- **Prerequisites:** 1 green, 1 red, 1 yellow (Sarween Tools, Plasma Scoring, Neural Motivator)
+- **Prerequisites:** 1 green, 1 red, 1 yellow (<span class="ty">Sarween Tools</span>, <span class="tr">Plasma Scoring</span>, <span class="tg">Neural Motivator</span>)
 
 **Round 3: Salvage Operations (YY) - Faction Tech**
 - After you win or lose a space combat, gain 1 trade good; if you won and you destroyed 1 or more of your opponent's ships, you may place 1 ship from your reinforcements in that system's space area.
 - **Why:** Your signature combat tech. Gain 1 TG after EVERY combat (win or lose). If you win, also produce 1 free ship. For aggressive Mentak, this generates 7+ TGs and 7+ free ships over the game. Incredible value.
-- **Prerequisites:** 2 yellow (Neural Motivator + Sarween Tools)
+- **Prerequisites:** 2 yellow (<span class="tg">Neural Motivator</span> + <span class="ty">Sarween Tools</span>)
 - **Note:** If you can't get Salvage Operations Round 3, you need to find a double tech opportunity—research 1 yellow prerequisite + Salvage Operations in the same round using Technology strategy card or other double-tech methods
 
 **Round 4: Mirror Computing (YYY) - Faction Tech**
 - When you spend trade goods, each trade good is worth 2 resources or 2 influence instead of 1.
 - **Why:** Doubles the value of every TG you Pillage. If you steal 20 TGs via Pillage, Mirror Computing makes them worth 40 resources/influence. Synergizes with Salvage Operations. Late-game economy multiplier.
-- **Prerequisites:** 3 yellow (Salvage Operations + Neural Motivator or Sarween Tools + another yellow)
+- **Prerequisites:** 3 yellow (Salvage Operations + <span class="tg">Neural Motivator</span> or <span class="ty">Sarween Tools</span> + another yellow)
 
 **Round 5+:** Objectives-based techs or late-game options
 
@@ -292,13 +292,13 @@ Your economic multiplier. Doubles value of Pillaged TGs. Every TG you steal beco
 
 ### C. Late-Game Options
 
-**Gravity Drive (B):**
-If you blue-skip Gravity Drive (using Technology strategy card's blue-skip ability), your cruisers gain the base move 3 + Gravity Drive's +1 movement = **move 4**. This creates surprise plays—you can reach targets opponents don't expect. Very powerful for Pillage positioning and combat strikes.
+**<span class="tb">Gravity Drive</span> (B):**
+If you blue-skip <span class="tb">Gravity Drive</span> (using Technology strategy card's blue-skip ability), your cruisers gain the base move 3 + <span class="tb">Gravity Drive</span>'s +1 movement = **move 4**. This creates surprise plays—you can reach targets opponents don't expect. Very powerful for Pillage positioning and combat strikes.
 
 **PDS II (RY) - For Unit Upgrade Objectives:**
-Good combo with your starting structure and Plasma Scoring. If you need a 2nd unit upgrade for "Develop Weaponry" objective, PDS II works well. Your Plasma Scoring already gives +1 die to Space Cannon, and upgrading to PDS II (Space Cannon 5 x2) makes your home defense very strong.
+Good combo with your starting structure and <span class="tr">Plasma Scoring</span>. If you need a 2nd unit upgrade for "Develop Weaponry" objective, PDS II works well. Your <span class="tr">Plasma Scoring</span> already gives +1 die to Space Cannon, and upgrading to PDS II (Space Cannon 5 x2) makes your home defense very strong.
 
-**Integrated Economy (YYY) - For Spice:**
+**<span class="ty">Integrated Economy</span> (YYY) - For Spice:**
 Late-game tech to leverage your riches. After you gain control of a planet, you may produce up to 2 units on that planet. With your wealth from Pillage + Mirror Computing, you can afford massive production across the map. Use this to convert your economic advantage into fleet superiority.
 
 ---
@@ -350,7 +350,7 @@ Your fleet composition is unique—cruisers operate independently from your main
 
 **Independent Cruiser Strikes:**
 
-- **2-4 Cruisers (alone)** - Cruisers have move 3 (move 4 with Gravity Drive), allowing sneaky maneuvers
+- **2-4 Cruisers (alone)** - Cruisers have move 3 (move 4 with <span class="tb">Gravity Drive</span>), allowing sneaky maneuvers
 - Other ships can't follow cruisers due to movement speed difference
 - Send cruisers alone to strike targets, extract promissory notes, and Pillage positioning
 - Ambush pre-combat hits make solo cruiser groups dangerous
@@ -373,7 +373,7 @@ Mentak is weak early game but scales into a rich, mobile menace with cruiser swa
 
 **Round 1-2: Survival and Setup**
 - Expand with Construction and grab systems near rich neighbors
-- Tech to Neural Motivator → Cruiser II
+- Tech to <span class="tg">Neural Motivator</span> → Cruiser II
 - Position yourself adjacent to wealthy factions (Hacan, Empyrean, Jol-Nar, Deepwrought)
 - Start Pillaging TGs from neighbor transactions
 - **Priority: Keep your ships out on the board.** More ships on board = more Pillage opportunities and threat projection

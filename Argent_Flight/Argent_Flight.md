@@ -61,7 +61,7 @@ Opponents will respect your firepower early. That moment when your 2 destroyers 
 
 **Notes:** Three planets in your home system is fantastic for early expansion and objectives. The optimal count (2.5/2.5) means you have flexibility—Avar's balanced 1/1 can be spent as either resources or influence depending on what you need.
 
-**Defense Issue:** 3-planet home systems are harder to defend late game—you need to spread ground forces across 3 planets instead of 1-2, making it easier for opponents to invade. You'll need to rely on PDS networks and Aerie Hololattice (blocks movement through systems with your structures) to keep your home system safe.
+**Defense Issue:** 3-planet home systems are harder to defend late game—you need to spread ground forces across 3 planets instead of 1-2, making it easier for opponents to invade. You'll need to rely on PDS networks and <span class="ty">Aerie Hololattice</span> (blocks movement through systems with your structures) to keep your home system safe.
 
 ### B. Starting Fleet
 
@@ -98,13 +98,13 @@ This makes your ANTI-FIGHTER BARRAGE terrifying. After destroying all fighters, 
 - **<span class="ty">Sarween Tools</span>** - Reduces production costs by 1 resource
 - **<span class="tr">Plasma Scoring</span>** - Provides red prerequisite and combat boost
 
-**Recommended:** **Sarween Tools + Plasma Scoring** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to Aerie Hololattice (Y) if going structure path. Plasma Scoring leads to Strike Wing Alpha II (RR). Neural Motivator is bait—green doesn't lead to any techs Argent actually wants.
+**Recommended:** **<span class="ty">Sarween Tools</span> + <span class="tr">Plasma Scoring</span>** - This is the only reasonable choice. Gives you flexibility and enables easy expansion. Sarween provides economy and leads to <span class="ty">Aerie Hololattice</span> (Y) if going structure path. <span class="tr">Plasma Scoring</span> leads to <span class="tr">Strike Wing Alpha II</span> (RR). <span class="tg">Neural Motivator</span> is bait—green doesn't lead to any techs Argent actually wants.
 
 **Faction Technologies:**
 
 You typically acquire both faction technologies during the game.
 
-**Strike Wing Alpha II (RR):**
+**<span class="tr">Strike Wing Alpha II</span> (RR):**
 *Cost: 1 | Combat: 7 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 6 (x3)*
 
 When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry in the space area of the active system.
@@ -113,11 +113,11 @@ When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1
 - Strong upgrade that makes your destroyers even more lethal against fighters and now kills infantry in space
 - High priority tech for combat-focused builds
 
-**Aerie Hololattice (Y):**
+**<span class="ty">Aerie Hololattice</span> (Y):**
 *Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION: 1 ability as if it were a unit.*
 
 - Blocks enemy movement through systems with your structures (space docks, PDS), creating defensive zones
-- Gives PRODUCTION 1 to planets with structures, synergizes with Sarween Tools for cost reduction
+- Gives PRODUCTION 1 to planets with structures, synergizes with <span class="ty">Sarween Tools</span> for cost reduction
 - Expands your production capacity across multiple planets
 
 ### E. Leaders
@@ -172,7 +172,7 @@ Solid flagship. SPACE CANNON immunity is situationally strong. Useful for assaul
 
 When you activate a system that contains only your units, you may place command tokens from your reinforcements into any systems adjacent to that system that contain only your units; at the end of this action, you may move ships among the active system and systems adjacent to it that contain your command tokens.
 
-**B↔Y Synergy:** Blue and yellow technologies count as each other for prerequisites. This opens up tech flexibility—Sarween Tools (Y) can count as blue, Gravity Drive (B) can count as yellow, etc.
+**B↔Y Synergy:** Blue and yellow technologies count as each other for prerequisites. This opens up tech flexibility—<span class="ty">Sarween Tools</span> (Y) can count as blue, <span class="tb">Gravity Drive</span> (B) can count as yellow, etc.
 
 **Note:** The breakthrough ability itself is pretty bad (requires only your units in systems, awkward activation). You get this primarily for the B↔Y tech synergy to open up blue tech options.
 
@@ -188,7 +188,7 @@ Argent Flight is incredibly flexible and can thrive in any speaker position. You
 
 - **High value slice** - Lots of planets, lots of resources, AND lots of influence. Argent wants it all.
 - **Slight priority to influence** - Your fleets are cheap (destroyers cost 1), so you can afford to spend resources on production while using influence for more activations (command tokens).
-- **Red and blue skips very helpful** - Red skip accelerates Strike Wing Alpha II, blue skip helps Gravity Drive. But you've planned around all scenarios—incredibly flexible.
+- **Red and blue skips very helpful** - Red skip accelerates <span class="tr">Strike Wing Alpha II</span>, blue skip helps <span class="tb">Gravity Drive</span>. But you've planned around all scenarios—incredibly flexible.
 - **Double planet systems in the middle** - Excellent for PDS coverage. You can place PDS on both planets and lock down the system with SPACE CANNON.
 - **Planets next to Mecatol Rex** - Lets you build PDS and SPACE CANNON approaching fleets before they reach MR. Also makes Intimidate the Council (ships in 2 systems adjacent to MR) easier to score.
 
@@ -234,7 +234,7 @@ Argent can struggle in late game for two reasons:
 
 2. **Lack of transport capacity** - Relying on destroyers with capacity 1 makes it hard to move large armies and mechs around the board late game
 
-You'll need to transition to carriers and heavier ships for capacity, or lean on structure lockdown strategy with Aerie Hololattice.
+You'll need to transition to carriers and heavier ships for capacity, or lean on structure lockdown strategy with <span class="ty">Aerie Hololattice</span>.
 
 ---
 
@@ -242,87 +242,87 @@ You'll need to transition to carriers and heavier ships for capacity, or lean on
 
 ### A. Overview
 
-You start with **TWO technologies of your choice** from Neural Motivator (G), Sarween Tools (Y), or Plasma Scoring (R).
+You start with **TWO technologies of your choice** from <span class="tg">Neural Motivator</span> (G), <span class="ty">Sarween Tools</span> (Y), or <span class="tr">Plasma Scoring</span> (R).
 
 **Recommended R1 Tech Choices:**
 
-- **Sarween Tools + Plasma Scoring** - The only reasonable choice. Gives flexibility and easy expansion.
+- **<span class="ty">Sarween Tools</span> + <span class="tr">Plasma Scoring</span>** - The only reasonable choice. Gives flexibility and easy expansion.
 
-Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance. Deviations available for structure setup if needed.
+Your main tech path focuses on <span class="tr">Strike Wing Alpha II</span> (RR) for destroyer dominance. Deviations available for structure setup if needed.
 
 ### B. Tech Path (Standard)
 
-**Starting Tech Choices:** Sarween Tools (Y) + Plasma Scoring (R)
+**Starting Tech Choices:** <span class="ty">Sarween Tools</span> (Y) + <span class="tr">Plasma Scoring</span> (R)
 
 **Assumptions:** You've obtained Wing Transfer breakthrough (B↔Y synergy) through expedition tokens or Thunder's Edge. This makes blue and yellow technologies count as each other for prerequisites.
 
-**Round 1: Magen Defense Grid (R)**
+**Round 1: <span class="tr">Magen Defense Grid</span> (R)**
 - At the start of ground combat on a planet that contains 1 or more of your structures, you may produce 1 hit and assign it to 1 of your opponent's ground forces. (Ω) When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures.
-- **Why:** Free infantry on your structure planets when activated, AND free hit in ground combat. Excellent defensive tech. Easy to get with Plasma Scoring prerequisite.
-- **Prerequisites:** 1 red (Plasma Scoring)
+- **Why:** Free infantry on your structure planets when activated, AND free hit in ground combat. Excellent defensive tech. Easy to get with <span class="tr">Plasma Scoring</span> prerequisite.
+- **Prerequisites:** 1 red (<span class="tr">Plasma Scoring</span>)
 
-**Round 2: Aerie Hololattice (Y) - CAN DOUBLE TECH**
+**Round 2: <span class="ty">Aerie Hololattice</span> (Y) - CAN DOUBLE TECH**
 - Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION: 1 ability as if it were a unit.
 - **Why:** Blocks enemy movement through your systems (insane lockdown), AND makes every structure planet produce units without needing a space dock. Game-changing for board control.
-- **Prerequisites:** 1 yellow (Sarween Tools)
+- **Prerequisites:** 1 yellow (<span class="ty">Sarween Tools</span>)
 - **Note:** If you have good economy, consider double teching this round to get ahead on tech path.
 
-**Round 3: Strike Wing Alpha II (RR) - CAN DOUBLE TECH**
+**Round 3: <span class="tr">Strike Wing Alpha II</span> (RR) - CAN DOUBLE TECH**
 - Cost: 1 | Combat: 7 | Move: 2 | Capacity: 1 | ANTI-FIGHTER BARRAGE 6 (x3)
 - When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry in the space area of the active system.
 - **Why:** This is your power spike. Better AFB (6 instead of 9), 3 dice instead of 2, AND kills infantry in space with 9-10 rolls. Devastating destroyer upgrade that defines your combat superiority.
-- **Prerequisites:** 2 red (Plasma Scoring + Magen Defense Grid)
+- **Prerequisites:** 2 red (<span class="tr">Plasma Scoring</span> + <span class="tr">Magen Defense Grid</span>)
 - **Note:** Try to trade/exchange for Wing Transfer breakthrough this round if you haven't obtained it yet through exploration. You'll need it for Round 4. Can double tech this round if economy permits.
 
 **Round 4: DOUBLE TECH ROUND**
 
 **With Wing Transfer Breakthrough:**
 
-- **Gravity Drive (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
-  - **Prerequisites:** 1 blue (Sarween Tools counts as blue with B↔Y)
+- **<span class="tb">Gravity Drive</span> (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+  - **Prerequisites:** 1 blue (<span class="ty">Sarween Tools</span> counts as blue with B↔Y)
 - **PDS II (RY)** - Planetary Shield | SPACE CANNON 5 | You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
-  - **Prerequisites:** 1 red + 1 yellow (Plasma Scoring + Sarween Tools)
+  - **Prerequisites:** 1 red + 1 yellow (<span class="tr">Plasma Scoring</span> + <span class="ty">Sarween Tools</span>)
   - **Why:** Hit adjacent systems with SPACE CANNON. Area denial and PDS spam strategy. Works with your Commander for extra die.
 
 **Without Wing Transfer Breakthrough (or with blue skip):**
 
-- **Antimass Deflectors (B) or Dark Energy Tap (B)** - Get blue prerequisite to join tech path
-  - Antimass Deflectors: Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
-  - Dark Energy Tap: After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
-- **Gravity Drive (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **<span class="tb">Antimass Deflectors</span> (B) or <span class="tb">Dark Energy Tap</span> (B)** - Get blue prerequisite to join tech path
+  - <span class="tb">Antimass Deflectors</span>: Your ships can move into and through asteroid fields. When other players' units use SPACE CANNON against your units, apply -1 to the result of each die roll.
+  - <span class="tb">Dark Energy Tap</span>: After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
+- **<span class="tb">Gravity Drive</span> (B)** - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
   - **Prerequisites:** 1 blue (Antimass or DET)
 - **Skip PDS II** - Without breakthrough, prioritize getting into blue tech path over PDS II
 
 **Round 5: Carrier II (BB)**
 - Cost: 3 | Combat: 9 | Move: 2 | Capacity: 6
 - **Why:** Solves late game capacity issues. Move 6 ground forces at speed 2. Essential for large invasions since destroyers only have capacity 1.
-- **Prerequisites:** 2 blue (Sarween + Gravity Drive with B↔Y synergy, OR Antimass/DET + Gravity Drive)
+- **Prerequisites:** 2 blue (Sarween + <span class="tb">Gravity Drive</span> with B↔Y synergy, OR Antimass/DET + <span class="tb">Gravity Drive</span>)
 
-**Flex Techs (as needed):** Lightwave Deflector, Fleet Logistics - good options based on objectives
+**Flex Techs (as needed):** <span class="tb">Lightwave Deflector</span>, <span class="tb">Fleet Logistics</span> - good options based on objectives
 
 **Tech Path Summary:**
 
 **With Wing Transfer Breakthrough:**
-1. Magen Defense Grid (R) - Defense + free infantry
-2. Aerie Hololattice (Y) - Structure lockdown + production
-3. Strike Wing Alpha II (RR) - Destroyer power spike
-4. Gravity Drive (B) + PDS II (RY) - Mobility + SPACE CANNON spam (double tech)
+1. <span class="tr">Magen Defense Grid</span> (R) - Defense + free infantry
+2. <span class="ty">Aerie Hololattice</span> (Y) - Structure lockdown + production
+3. <span class="tr">Strike Wing Alpha II</span> (RR) - Destroyer power spike
+4. <span class="tb">Gravity Drive</span> (B) + PDS II (RY) - Mobility + SPACE CANNON spam (double tech)
 5. Carrier II (BB) - Capacity
 
 **Without Wing Transfer Breakthrough:**
-1. Magen Defense Grid (R) - Defense + free infantry
-2. Aerie Hololattice (Y) - Structure lockdown + production
-3. Strike Wing Alpha II (RR) - Destroyer power spike
-4. Antimass Deflectors/Dark Energy Tap (B) + Gravity Drive (B) - Join blue tech path (double tech, skip PDS II)
+1. <span class="tr">Magen Defense Grid</span> (R) - Defense + free infantry
+2. <span class="ty">Aerie Hololattice</span> (Y) - Structure lockdown + production
+3. <span class="tr">Strike Wing Alpha II</span> (RR) - Destroyer power spike
+4. <span class="tb">Antimass Deflectors</span>/<span class="tb">Dark Energy Tap</span> (B) + <span class="tb">Gravity Drive</span> (B) - Join blue tech path (double tech, skip PDS II)
 5. Carrier II (BB) - Capacity
 
 **Key Notes:**
 
 - **Double tech possible R2, R3, R4** - If you have good economy, you can double tech any of these rounds to accelerate your tech path
-- **Round 4 double tech** - With breakthrough: Gravity Drive + PDS II. Without breakthrough: Antimass/DET + Gravity Drive (skip PDS II)
-- **With Wing Transfer breakthrough:** Sarween counts as blue prerequisite, can get both Gravity Drive and PDS II in R4
+- **Round 4 double tech** - With breakthrough: <span class="tb">Gravity Drive</span> + PDS II. Without breakthrough: Antimass/DET + <span class="tb">Gravity Drive</span> (skip PDS II)
+- **With Wing Transfer breakthrough:** Sarween counts as blue prerequisite, can get both <span class="tb">Gravity Drive</span> and PDS II in R4
 - **Without breakthrough:** Must get Antimass/DET to join blue tech path, skip PDS II
-- **With red skip:** Skip Magen R1, go straight to Strike Wing Alpha II R2
+- **With red skip:** Skip Magen R1, go straight to <span class="tr">Strike Wing Alpha II</span> R2
 - **With blue skip:** Skip Antimass/DET, go straight to Gravity Drive
 
 ### C. Diversions
@@ -360,10 +360,10 @@ Your main tech path focuses on Strike Wing Alpha II (RR) for destroyer dominance
 
 **Like:**
 
-- **Technology** - Tech progression toward Strike Wing Alpha II or Aerie Hololattice. Need to take this at least once R2-R4 to stay on your tech path.
+- **Technology** - Tech progression toward <span class="tr">Strike Wing Alpha II</span> or <span class="ty">Aerie Hololattice</span>. Need to take this at least once R2-R4 to stay on your tech path.
 - **Politics** - You have voting power, but voting first limits your kingmaking ability. Good for speaker token and agenda influence.
 - **Imperial** - Pick when ready to score (R3-R4), good for claiming points once you're positioned
-- **Construction** - Always good for building PDS networks and structures with Aerie Hololattice/Magen synergies
+- **Construction** - Always good for building PDS networks and structures with <span class="ty">Aerie Hololattice</span>/Magen synergies
 
 **Situational:**
 
@@ -392,7 +392,7 @@ This composition gives you strong ANTI-FIGHTER BARRAGE, affordable production, a
 
 ### B. Custodian Strategy
 
-Argent Flight is an excellent "get in, get out" custodian faction. You can easily afford the 6 influence to claim Mecatol Rex Round 2-3 (R2-R3)—your home system provides 3 influence, your destroyers cost only 1 resource (leaving influence available for MR), and you'll have expanded to influence-heavy planets by then. Take MR early, grab the Custodians token for a free 1 VP, then evaluate whether holding it is worth the commitment. Your ANTI-FIGHTER BARRAGE and Raid Formation make you dangerous enough that opponents might not immediately contest MR, giving you breathing room. If going the Aerie Hololattice route, you can lock down MR with structure placement on adjacent planets and PDS networks—but be realistic: if you abandon MR, you probably won't see it again. Once you leave, another faction will take it and likely hold it for the rest of the game. The key insight: don't feel obligated to hold MR forever, but understand that walking away means giving it up permanently. Evaluate whether the custodians point is worth the eventual loss of MR access.
+Argent Flight is an excellent "get in, get out" custodian faction. You can easily afford the 6 influence to claim Mecatol Rex Round 2-3 (R2-R3)—your home system provides 3 influence, your destroyers cost only 1 resource (leaving influence available for MR), and you'll have expanded to influence-heavy planets by then. Take MR early, grab the Custodians token for a free 1 VP, then evaluate whether holding it is worth the commitment. Your ANTI-FIGHTER BARRAGE and Raid Formation make you dangerous enough that opponents might not immediately contest MR, giving you breathing room. If going the <span class="ty">Aerie Hololattice</span> route, you can lock down MR with structure placement on adjacent planets and PDS networks—but be realistic: if you abandon MR, you probably won't see it again. Once you leave, another faction will take it and likely hold it for the rest of the game. The key insight: don't feel obligated to hold MR forever, but understand that walking away means giving it up permanently. Evaluate whether the custodians point is worth the eventual loss of MR access.
 
 ---
 
@@ -400,7 +400,7 @@ Argent Flight is an excellent "get in, get out" custodian faction. You can easil
 
 ### A. Objective Summary
 
-**Strengths:** Argent Flight excels at combat-oriented objectives and can easily score fleet composition goals with cheap destroyer spam. Structure objectives are achievable when going the Aerie Hololattice path, and strong voting power helps with political objectives.
+**Strengths:** Argent Flight excels at combat-oriented objectives and can easily score fleet composition goals with cheap destroyer spam. Structure objectives are achievable when going the <span class="ty">Aerie Hololattice</span> path, and strong voting power helps with political objectives.
 
 **Weaknesses:** Planet control objectives can be challenging since you prioritize mobile fleets over territorial expansion. Late game capacity limitations from destroyer-focused fleets make large-scale invasions difficult without transitioning to carriers.
 
@@ -560,7 +560,7 @@ This section highlights action cards that synergize particularly well with your 
 Argent Flight is a powerhouse combat faction with flexible builds. Your job is to:
 
 1. **Expand aggressively Round 1-2** (use cheap destroyers and 3 home planets to claim territory)
-2. **Decide on your path R2-R3** - Destroyer rush (AFB spam) or Aerie Hololattice (PDS networks + structure lockdown)
+2. **Decide on your path R2-R3** - Destroyer rush (AFB spam) or <span class="ty">Aerie Hololattice</span> (PDS networks + structure lockdown)
 3. **Leverage AFB dominance** - Make fighter screens worthless with Raid Formation, shred capital ships with excess hits
 4. **Stay ahead on points** - Find a way to be in the running points-wise. Hopefully your slice setup is enough of a deterrent to keep you alive when playing from ahead.
 5. **Control space with firepower** - Destroyers for direct combat, PDS for area denial

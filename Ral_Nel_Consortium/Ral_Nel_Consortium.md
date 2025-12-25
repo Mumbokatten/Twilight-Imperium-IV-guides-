@@ -95,7 +95,7 @@ Your defining ability. Transport PDS and Space Docks with your fleet, deploy on 
 **Recommendations:**
 
 - **AI Development Algorithm (Red)** - Best for tech path efficiency
-- **Neural Motivator (Green)** - Flexible opener for action cards
+- **<span class="tg">Neural Motivator</span> (Green)** - Flexible opener for action cards
 
 **Faction Technologies:**
 
@@ -193,7 +193,7 @@ Excellent action card economy. Cherry-pick the best discarded action card each r
 
 3. **Technology** - Get started early with Nanomachines.
 
-4. **Expansion and Production** - Aim for 2 systems, 3 if you got Gravity Drive and production or all planets are nearby.
+4. **Expansion and Production** - Aim for 2 systems, 3 if you got <span class="tb">Gravity Drive</span> and production or all planets are nearby.
 
 **Expansion Notes:**
 
@@ -215,9 +215,9 @@ Data Skimmer collects discarded action cards visibly - opponents see you cherry-
 
 Ral Nel has two distinct tech paths:
 
-**Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on Dark Energy Tap for exploration and retreat synergy, then Gravity Drive for mobility, into Carrier II and Linkship II/Fleet Logistics.
+**Path 1 - AI Development Algorithm Start:** The default, reliable path. Uses AI Dev to efficiently research unit upgrades. Focuses on <span class="tb">Dark Energy Tap</span> for exploration and retreat synergy, then <span class="tb">Gravity Drive</span> for mobility, into Carrier II and Linkship II/<span class="tb">Fleet Logistics</span>.
 
-**Path 2 - Psychoarchaeology Start (Red + Blue Skip):** Requires tech skips in your slice. Psychoarchaeology lets you use tech specialties without exhausting them and generate TG from tech planets. Rush Gravity Drive R1, then Nanomachines, Carrier II, Linkship II.
+**Path 2 - Psychoarchaeology Start (Red + Blue Skip):** Requires tech skips in your slice. Psychoarchaeology lets you use tech specialties without exhausting them and generate TG from tech planets. Rush <span class="tb">Gravity Drive</span> R1, then Nanomachines, Carrier II, Linkship II.
 
 ### B. Technology Paths
 
@@ -226,24 +226,24 @@ Ral Nel has two distinct tech paths:
 **Round 1:** Nanomachines (R) - Your faction tech
 - *Place 1 PDS, repair all units, or discard 1 action card to draw 1 action card*
 
-**Round 2:** Dark Energy Tap - Exploration + retreat flexibility
+**Round 2:** <span class="tb">Dark Energy Tap</span> - Exploration + retreat flexibility
 - *Explore frontier tokens after tactical actions. Ships can retreat into adjacent systems without your units*
 
-**Round 3:** Gravity Drive (B) - Mobility
+**Round 3:** <span class="tb">Gravity Drive</span> (B) - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
 
 **Round 4:** Carrier II (BB) - Transport capacity
 - *Cost 3, Combat 9, Move 2, Capacity 6*
 
-**Round 5+:** Dreadnought II (BBY) or Fleet Logistics (BB)
+**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> (BB)
 - *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
-- *Fleet Logistics: Perform 2 actions per turn*
+- *<span class="tb">Fleet Logistics</span>: Perform 2 actions per turn*
 
 ---
 
 **Path 2 - Psychoarchaeology Start (Red + Blue Skip):**
 
-**Round 1:** Gravity Drive (B) - Mobility
+**Round 1:** <span class="tb">Gravity Drive</span> (B) - Mobility
 - *After you activate a system, apply +1 to the move value of 1 of your ships*
 
 **Round 2:** Nanomachines (R) - Your faction tech
@@ -255,17 +255,17 @@ Ral Nel has two distinct tech paths:
 **Round 4:** Linkship II (RR) - Enhanced Linkships
 - *Cost 1, Combat 8, Move 4. Can trigger same structure multiple times. AFB 6 (x3)*
 
-**Round 5+:** Dreadnought II (BBY) or Fleet Logistics (BB)
+**Round 5+:** Dreadnought II (BBY) or <span class="tb">Fleet Logistics</span> (BB)
 - *Dreadnought II: Move 2, Sustain Damage, BOMBARDMENT 5. Cannot be destroyed by Direct Hit*
-- *Fleet Logistics: Perform 2 actions per turn*
+- *<span class="tb">Fleet Logistics</span>: Perform 2 actions per turn*
 
 ---
 
 **Supplemental Techs:**
 
-- **Graviton Laser System (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
+- **<span class="ty">Graviton Laser System</span> (Y)** - Space Cannon hits must target non-fighters. Massive synergy with Linkships - your PDS shots kill real ships instead of fighters. Needs yellow skip but works with Y↔G breakthrough.
 
-- **Bio-Stims (G)** - Ready a tech specialty planet or technology. Combos with Psychoarchaeology - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y↔G breakthrough.
+- **<span class="tg">Bio-Stims</span> (G)** - Ready a tech specialty planet or technology. Combos with Psychoarchaeology - ready your tech planets to generate more TG, or ready Nanomachines for double use. Needs green skip but works with Y↔G breakthrough.
 
 ---
 
@@ -304,7 +304,7 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 **Like:**
 
-- **Technology** - Linkship II, Carrier II, Fleet Logistics all critical. Tons of good tech to research.
+- **Technology** - Linkship II, Carrier II, <span class="tb">Fleet Logistics</span> all critical. Tons of good tech to research.
 - **Imperial** - Score objectives. Start pushing for points.
 - **Politics** - Speaker priority and action cards. Data Skimmer loves action card flow.
 
@@ -330,9 +330,9 @@ Your R1 priority is getting your breakthrough and starting your tech path while 
 
 ### B. Game Plan
 
-**Early Game (R1-2):** Trade for breakthrough unlock via Politics secondary. Get Nanomachines R1. Expand to 2 systems (3 if Gravity Drive and good production). Move Space Dock to better production planet with Miniaturization. Deploy PDS on conquered planets for instant defense.
+**Early Game (R1-2):** Trade for breakthrough unlock via Politics secondary. Get Nanomachines R1. Expand to 2 systems (3 if <span class="tb">Gravity Drive</span> and good production). Move Space Dock to better production planet with Miniaturization. Deploy PDS on conquered planets for instant defense.
 
-**Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get Gravity Drive and Carrier II. Transport PDS with fleet for mobile coverage.
+**Mid Game (R3-4):** Data Skimmer collecting discarded action cards - cherry-pick the best. Survival Instinct consolidates ships when opponents attack. Get <span class="tb">Gravity Drive</span> and Carrier II. Transport PDS with fleet for mobile coverage.
 
 **Late Game (R5+):** Elusiveness and stall potential really strong. Commander makes your fleet hard to pin down - retreat and reposition safely. Hero lets you un-pass for surprise final turn. Linkships trigger PDS remotely. Graviton Laser System (if you have it) forces Space Cannon hits on real ships. Score structure objectives easily with Miniaturization.
 

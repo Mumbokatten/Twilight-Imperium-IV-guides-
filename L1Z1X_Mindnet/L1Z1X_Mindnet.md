@@ -90,14 +90,14 @@ Game-changing invasion ability. Unlike normal BOMBARDMENT (which only happens be
 5. **Harrow BOMBARDMENT** (you roll again)
 6. Continue until invasion ends
 
-This means a Super Dreadnought with BOMBARDMENT can potentially roll multiple times during a single invasion, systematically destroying ground forces. Combined with your mech's BOMBARDMENT and Plasma Scoring (+1 die to BOMBARDMENT), you can obliterate defenders without risking your own infantry.
+This means a Super Dreadnought with BOMBARDMENT can potentially roll multiple times during a single invasion, systematically destroying ground forces. Combined with your mech's BOMBARDMENT and <span class="tr">Plasma Scoring</span> (+1 die to BOMBARDMENT), you can obliterate defenders without risking your own infantry.
 
 ### D. Starting and Faction Technologies
 
 **Starting Technologies:**
 
-- **Neural Motivator:** *During the status phase, draw 2 action cards instead of 1.*
-- **Plasma Scoring:** *When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.*
+- **<span class="tg">Neural Motivator</span>:** *During the status phase, draw 2 action cards instead of 1.*
+- **<span class="tr">Plasma Scoring</span>:** *When 1 or more of your units use BOMBARDMENT or SPACE CANNON, 1 of those units may roll 1 additional die.*
 
 **Strategic Analysis:**
 
@@ -129,7 +129,7 @@ Trade this to players who need mechs. Not particularly strong for you since mech
 
 **Commander - 2RAM:** *Unlock: Have 4 dreadnoughts on the game board. Units that have Planetary Shield do not prevent you from using BOMBARDMENT.*
 
-**This is your key unlock.** Planetary Shield (from mechs, Magen Defense Grid tech, or faction abilities) normally prevents BOMBARDMENT entirely. With 2RAM unlocked, you ignore this restriction—you can BOMBARDMENT planets even if they have Planetary Shield. This removes the primary counter to your strategy. Aim to unlock Round 2-3 (R2-R3) by producing dreadnoughts early.
+**This is your key unlock.** Planetary Shield (from mechs, <span class="tr">Magen Defense Grid</span> tech, or faction abilities) normally prevents BOMBARDMENT entirely. With 2RAM unlocked, you ignore this restriction—you can BOMBARDMENT planets even if they have Planetary Shield. This removes the primary counter to your strategy. Aim to unlock Round 2-3 (R2-R3) by producing dreadnoughts early.
 
 **Hero - The Helmsman:** *Unlock: Have 3 scored objectives.* **Dark Space Navigation** - ACTION: Choose 1 system that does not contain other players' ships; you may move your flagship and any number of your dreadnoughts from other systems into the chosen system. Then, purge this card.
 
@@ -216,7 +216,7 @@ Your Round 1 (R1) is about establishing dreadnought production and expansion. Th
 
 ### B. Low Mobility Early
 
-Your dreadnoughts start with move 1. This severely limits mobility until you get Super Dreadnought II (move 2). You'll struggle to reach distant planets and Mecatol Rex quickly. Limits access to fractures early. Gravity Drive helps but costs a blue tech. Plan your expansion carefully—you can't reposition easily.
+Your dreadnoughts start with move 1. This severely limits mobility until you get Super Dreadnought II (move 2). You'll struggle to reach distant planets and Mecatol Rex quickly. Limits access to fractures early. <span class="tb">Gravity Drive</span> helps but costs a blue tech. Plan your expansion carefully—you can't reposition easily.
 
 ### C. Influence Poverty
 
@@ -232,11 +232,11 @@ Secondary issues: You can't claim Mecatol Rex easily and have no voting power du
 
 **Starting Technologies:**
 
-- Neural Motivator - Draw 2 action cards instead of 1 during status phase
-- Plasma Scoring - +1 die to BOMBARDMENT or SPACE CANNON
+- <span class="tg">Neural Motivator</span> - Draw 2 action cards instead of 1 during status phase
+- <span class="tr">Plasma Scoring</span> - +1 die to BOMBARDMENT or SPACE CANNON
 - **Note:** Impactful in New Age Path, kinda weak in Blue Path.
 
-**Core Technologies:** Gravity Drive, Super Dreadnought II
+**Core Technologies:** <span class="tb">Gravity Drive</span>, Super Dreadnought II
 
 L1Z1X is very tech-dependent. You need multiple technologies to make your kit work. Successful L1Z1X games are the ones where people ask "Why does L1 have so much tech?" -SCPT. Don't be shy about investing in technology—your faction thrives when you over-tech.
 
@@ -246,15 +246,15 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 **Note:** A blue skip allows faster progression but can be costly if you need to use it for every tech.
 
-**Round 1:** Dark Energy Tap - Retreat flexibility, frontier exploration | OR Antimass Deflectors - Move through asteroids, SPACE CANNON defense
+**Round 1:** <span class="tb">Dark Energy Tap</span> - Retreat flexibility, frontier exploration | OR <span class="tb">Antimass Deflectors</span> - Move through asteroids, SPACE CANNON defense
 
-**Round 2:** Gravity Drive (B) - +1 move to one ship per activation
+**Round 2:** <span class="tb">Gravity Drive</span> (B) - +1 move to one ship per activation
 
 **Round 3:** AI Development Algorithm - Skip unit upgrade prereqs, production cost reduction | AND Super Dreadnought II (BBY) - Move 2, immune to Direct Hit
 
-**Round 4:** Fleet Logistics (BB) - 2 actions per turn | OR Light/Wave Deflector (BBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
+**Round 4:** <span class="tb">Fleet Logistics</span> (BB) - 2 actions per turn | OR Light/Wave Deflector (BBB) - Move through enemy systems | OR Carrier II (BB) - Move 2, capacity 6
 
-**Round 5:** Fleet Logistics (BB) | Light/Wave Deflector (BBB) | Carrier II (BB)
+**Round 5:** <span class="tb">Fleet Logistics</span> (BB) | Light/Wave Deflector (BBB) | Carrier II (BB)
 
 **Note:** Destroyer II (RR) is a good 3rd unit upgrade option for anti-fighter coverage.
 
@@ -262,19 +262,19 @@ The classic path. Unfortunately, it requires you to move to blue without help fr
 
 This path requires securing Fealty Uplink breakthrough Round 1.
 
-**Round 1:** Hyper Metabolism (GG) - 3 command tokens per status phase (economy)
+**Round 1:** <span class="tg">Hyper Metabolism</span> (GG) - 3 command tokens per status phase (economy)
 
 **Round 2:** AI Development Algorithm - Skip unit upgrade prereqs, production cost reduction
 
 **Round 3:** War Sun (RRRY) - Massive capital ship, BOMBARDMENT 3 (x3), removes Planetary Shield
 
-**Round 4:** X-89 Bacterial Weapon (GGG) - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
+**Round 4:** <span class="tg">X-89 Bacterial Weapon</span> (GGG) - DOUBLE BOMBARDMENT every round. Death Star-level orbital annihilation. How does anyone stay alive on the ground? | OR Destroyer II (RR) - Cost 1, combat 8, ANTI-FIGHTER BARRAGE 6 (x3)
 
 **Round 5:** Flexible as Round 4
 
 You become an unstoppable monster on the ground with Harrow, easy access to mechs, and tons of bonus infantry from Fealty Uplink. However, you might struggle in space combat. Consider prioritizing Destroyer II first to shore up your anti-fighter capabilities.
 
-**Note:** A blue skip allows you to get Gravity Drive in this path. Cruiser II (GYR) is a good 3rd unit upgrade option for bonus mobility.
+**Note:** A blue skip allows you to get <span class="tb">Gravity Drive</span> in this path. Cruiser II (GYR) is a good 3rd unit upgrade option for bonus mobility.
 
 ### D. Path Choices
 
@@ -296,7 +296,7 @@ You become an unstoppable monster on the ground with Harrow, easy access to mech
 
 3. **Technology** - Solid. You're very tech-dependent.
 
-4. **Diplomacy** - Five-resource home system is amazing. Spend 5 on tech, ready it, spend 5 on plastic. With blue skip, grab Gravity Drive immediately.
+4. **Diplomacy** - Five-resource home system is amazing. Spend 5 on tech, ready it, spend 5 on plastic. With blue skip, grab <span class="tb">Gravity Drive</span> immediately.
 
 5. **Politics** - Breakthrough access and bonus money for good speaker position Round 2.
 
