@@ -649,9 +649,21 @@ Build light as Firmament—you're positioning for secrets. Build heavy as Obsidi
 
 ## IX. Alliance Priority
 
-As Firmament, your alliance is hard to sell—you're weak and giving others Plots within Plots means they also score plots instead of points. Mobile factions (Nomad, Ghosts, Naalu) could theoretically use it well, but most players won't want to trade points for plots.
+**Top Tier:**
 
-As Obsidian, your alliance is more valuable—you're a strong military partner with a 6-resource economy. Demand political support (you have zero influence), economic help, or military coordination against puppeted players.
+1. **Xxcha (Elder Qanoj)** - Exhaust planets in/adjacent to systems with your ships. Solves your zero-influence Obsidian problem.
+2. **Nomad (Navarch Feng)** - Produce flagship without spending resources. Free Heaven's Eye saves 8 resources.
+3. **Muaat (Magmus)** - Gain 1 TG after spending strategy token. Passive income helps weak Firmament economy.
+4. **Titans of Ul (Tungstantus)** - Gain 1 TG when using PRODUCTION. Passive income scales with your Obsidian builds.
+5. **Winnu (Rickar Rickani)** - Apply +2 combat in MR, home systems, legendary planets. Combat boost as Obsidian.
+
+**Good:**
+
+6. **Hacan (Gila the Silvertongue)** - Neighbors for trade purposes. Economy support as Firmament.
+7. **Nekro Virus (Nekro Acidos)** - Draw 1 action card after gaining tech. Cards help score secrets.
+8. **Vuil'raith Cabal (That Which Molds Flesh)** - Up to 2 fighters/infantry don't count against PRODUCTION. Extra capacity.
+9. **Arborec (Dirzuga Rophal)** - Produce up to 2 infantry in systems with your ground forces. Free infantry.
+10. **Naalu (M'aban)** - Look at 1 neighbor's hand. Information on which secrets to target.
 
 ---
 
