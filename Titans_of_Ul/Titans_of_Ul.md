@@ -111,7 +111,7 @@ Perfect synergy with Terragenesis. Every activation explores a planet, every exp
 
 Probably the strongest ship in the game. Versatility and combat power are unmatched. Get most of these on board for constant presence across the map.
 
-**Hel-Titan II (YR):** Ul PDS - Combat: 6 | Planetary Shield | Sustain Damage | SPACE CANNON 5 | PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
+**Hel-Titan II <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** Ul PDS - Combat: 6 | Planetary Shield | Sustain Damage | SPACE CANNON 5 | PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
 
 Difference isn't huge—shoots adjacent systems for defensive value and potential extortion. Won't affect people's willingness to attack you much considering your cruisers and well-defended planets already deter aggression.
 

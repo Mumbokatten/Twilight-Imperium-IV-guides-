@@ -146,7 +146,7 @@ Mutually assured destruction. Most likely a defensive tool parked at home. Fun t
 
 When you gain this card or score a public objective, gain the alliance ability of a random, unused faction.
 
-**Y↔G Synergy:** Sarween counts as green for <span class="tg">Yin Spinner</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> and opens <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> + X-89 (GGG) paths.
+**Y↔G Synergy:** Sarween counts as green for <span class="tg">Yin Spinner</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> and opens <span class="ty">Integrated Economy</span> <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> + X-89 <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> paths.
 
 **Random Alliances:** Excellent ability. Expect 4-6 alliances over a game, which averages out to great value. Unlock before first public objective scores to maximize. Having multiple commander abilities stacking makes you significantly stronger than your components suggest.
 

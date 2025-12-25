@@ -99,7 +99,7 @@ This is the strongest starting tech advantage in the game. You can research ANY 
 
 **Faction Technologies:**
 
-- **Hydrothermal Mining (G):** During status phase, gain 1 trade good for each ocean card you have in play. Your core economic engine—the more ocean cards you collect, the richer you become passively.
+- **Hydrothermal Mining <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** During status phase, gain 1 trade good for each ocean card you have in play. Your core economic engine—the more ocean cards you collect, the richer you become passively.
 
 - **Radical Advancement <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">:** As an action, you may return 1 non-faction, non-unit upgrade technology you own to the deck and research 1 technology. Swap techs on the fly to adapt to objectives or counter opponents. Use to exchange early game picks for late game power techs.
 

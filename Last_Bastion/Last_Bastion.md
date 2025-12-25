@@ -102,7 +102,7 @@ Your unique space dock. Increases planet resources by +1. Core unit for transfor
 
 Gives 3 bonus resources (if you have 3 docks). Get it early or not at all. Bonus production is nice but maybe not needed with your focus on strong capital ships.
 
-**Proxima Targeting VI (R):** Cancel 1 hit produced by BOMBARDMENT against your ground forces for each galvanized unit present. At start of ground combat, you may resolve BOMBARDMENT 8 (x3) against opponent's ground forces; if you do, make identical roll against your own ground forces.
+**Proxima Targeting VI <img src="../icons/tech_warfare.png" class="tech-icon" alt="R">:** Cancel 1 hit produced by BOMBARDMENT against your ground forces for each galvanized unit present. At start of ground combat, you may resolve BOMBARDMENT 8 (x3) against opponent's ground forces; if you do, make identical roll against your own ground forces.
 
 Not really that risky. If you have 1 galvanized unit, expected hits are 1 so it cancels out—net positive. If you have no galvanized units, do it if you have more units in the fight. Don't if you have less. Variance goes down in smaller fights—2v1 is better odds than 3v2.
 

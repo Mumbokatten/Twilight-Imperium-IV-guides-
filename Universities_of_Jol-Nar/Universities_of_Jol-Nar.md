@@ -166,7 +166,7 @@ Swap your non-unit techs for whatever you need. Hero typically fires R4-R5.
 **Green:**
 
 - Likely to have teched: <span class="tg">Neural Motivator</span> (starting), <span class="tg">Hyper Metabolism</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
-- Hero targets: <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">, <span class="tg">X-89 Bacterial Weapon</span> Ω (GGG)
+- Hero targets: <span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">, <span class="tg">X-89 Bacterial Weapon</span> Ω <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">
 
 **Yellow:**
 

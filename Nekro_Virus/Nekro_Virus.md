@@ -282,7 +282,7 @@ Since you steal techs rather than researching, prioritize targets by tech value:
 
 - **<span class="tg">Bio-Stims</span> <img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - Always
   - Ready 1 planet with tech specialty or 1 technology at turn end.
-- **<span class="tg">X-89 Bacterial Weapon</span> Ω (GGG)** - Always
+- **<span class="tg">X-89 Bacterial Weapon</span> Ω <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G">** - Always
   - Double BOMBARDMENT and ground combat hits. Destroy all enemy infantry if 1+ destroyed.
 - **<span class="tg">Neural Motivator</span>** - Good
   - Draw 2 action cards per status phase instead of 1.

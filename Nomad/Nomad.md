@@ -90,7 +90,7 @@ Easily forgotten but helpful for small bonus income. Only triggers if you vote f
 
 Kind of hard to tech—usually requires a yellow skip or green skip. With <span class="tb">Gravity Drive</span>, you can send your flagship all over the map to inflict damage and take objectives freely. If someone kills it, another one appears (commander + <span class="ty">Sling Relay</span>).
 
-**Memoria II (GBY):**
+**Memoria II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *Nomad Flagship - Cost: 8 | Combat: 5 (x2) | Move: 2 | Capacity: 6 | Sustain Damage | ANTI-FIGHTER BARRAGE 5 (x3)*
 
 You may treat this unit as if it were adjacent to systems that contain 1 or more of your mechs.
@@ -239,11 +239,11 @@ Prefer to have a green or yellow skip.
 - **Carrier II:** Cost 3, Combat 9, Move 2, Capacity 6
 - **Why:** Get <span class="tg">Bio-Stims</span> online, then transport capacity.
 
-**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Memoria II (GBY)
+**Round 4:** Carrier II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> or Memoria II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">
 - **Memoria II:** Cost 8, Combat 5 (x2), Move 2, Capacity 6, AFB 5 (x3)
 - **Why:** Transport capacity or flagship upgrade depending on game state.
 
-**Round 5:** Memoria II (GBY) or unit upgrades
+**Round 5:** Memoria II <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> or unit upgrades
 - **Why:** Flagship upgrade if you can reach it, otherwise flex.
 
 **Flex:** <span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Light/Wave Deflector <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">, Dreadnought II <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> if you got more techs.

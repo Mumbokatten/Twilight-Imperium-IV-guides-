@@ -6,9 +6,9 @@
 
 - **<span class="tb">Dark Energy Tap</span>** - After you perform a tactical action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token. Your ships can retreat into adjacent systems that do not contain other players' units even if you do not have units or control planets in that system.
 
-- **<span class="tb">Gravity Drive</span>** (B) - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
+- **<span class="tb">Gravity Drive</span>** <img src="icons/tech_propulsion.png" class="tech-icon" alt="B"> - After you activate a system, apply +1 to the move value of 1 of your ships during this tactical action.
 
-- **<span class="tb">Sling Relay</span>** (B) - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
+- **<span class="tb">Sling Relay</span>** <img src="icons/tech_propulsion.png" class="tech-icon" alt="B"> - ACTION: Exhaust this card to produce 1 ship in any system that contains 1 of your space docks.
 
 - **<span class="tb">Fleet Logistics</span>** <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> - During each of your turns of the action phase, you may perform 2 actions instead of 1.
 
@@ -20,9 +20,9 @@
 
 - **<span class="tr">AI Development Algorithm</span>** - When you research a unit upgrade technology, you may exhaust this card to ignore any 1 prerequisite. When 1 or more of your units use PRODUCTION, you may exhaust this card to reduce the combined cost of the produced units by the number of unit upgrade technologies that you own.
 
-- **<span class="tr">Magen Defense Grid</span>** (R) - When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures. At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent's ground forces.
+- **<span class="tr">Magen Defense Grid</span>** <img src="icons/tech_warfare.png" class="tech-icon" alt="R"> - When any player activates a system that contains 1 or more of your structures, place 1 infantry from your reinforcements with each of those structures. At the start of ground combat on a planet that contains 1 or more of your structures, produce 1 hit and assign it to 1 of your opponent's ground forces.
 
-- **<span class="tr">Self-Assembly Routines</span>** (R) - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
+- **<span class="tr">Self-Assembly Routines</span>** <img src="icons/tech_warfare.png" class="tech-icon" alt="R"> - After 1 or more of your units use PRODUCTION, you may exhaust this card to place 1 mech from your reinforcements on a planet you control in that system. After 1 of your mechs is destroyed, gain 1 trade good.
 
 - **<span class="tr">Duranium Armor</span>** <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"> - During each combat round, after you assign hits to your units, repair 1 of your damaged units that did not use Sustain Damage during this combat round.
 
@@ -34,13 +34,13 @@
 
 - **<span class="ty">Scanlink Drone Network</span>** - When you activate a system, you may explore 1 planet in that system that contains 1 or more of your units.
 
-- **<span class="ty">Graviton Laser System</span>** (Y) - You may exhaust this card before 1 or more of your units use SPACE CANNON; hits produced by those units must be assigned to non-fighter ships if able.
+- **<span class="ty">Graviton Laser System</span>** <img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - You may exhaust this card before 1 or more of your units use SPACE CANNON; hits produced by those units must be assigned to non-fighter ships if able.
 
-- **<span class="ty">Predictive Intelligence</span>** (Y) - At the end of your turn, you may exhaust this card to redistribute your command tokens. When you cast votes during the agenda phase, you may cast 3 additional votes. If you do, and the outcome you voted for is not resolved, exhaust this card.
+- **<span class="ty">Predictive Intelligence</span>** <img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - At the end of your turn, you may exhaust this card to redistribute your command tokens. When you cast votes during the agenda phase, you may cast 3 additional votes. If you do, and the outcome you voted for is not resolved, exhaust this card.
 
 - **<span class="ty">Transit Diodes</span>** <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - You may exhaust this card at the start of your turn during the action phase; remove up to 4 of your ground forces from the game board and place them on 1 or more planets you control.
 
-- **<span class="ty">Integrated Economy</span>** (YYY) - After you gain control of a planet, you may produce any number of units on that planet that have a combined cost equal or less than that planet's resource value.
+- **<span class="ty">Integrated Economy</span>** <img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"><img src="icons/tech_cybernetic.png" class="tech-icon" alt="Y"> - After you gain control of a planet, you may produce any number of units on that planet that have a combined cost equal or less than that planet's resource value.
 
 ## Green Technologies
 
@@ -48,19 +48,19 @@
 
 - **<span class="tg">Psychoarchaeology</span>** - You can use technology specialties on planets you control without exhausting them, even if those planets are exhausted. During the action phase, you can exhaust planets you control that have technology specialties to gain 1 trade good.
 
-- **<span class="tg">Dacxive Animators</span>** (G) - After you win a ground combat, you may place 1 infantry from your reinforcements on that planet.
+- **<span class="tg">Dacxive Animators</span>** <img src="icons/tech_biotic.png" class="tech-icon" alt="G"> - After you win a ground combat, you may place 1 infantry from your reinforcements on that planet.
 
-- **<span class="tg">Bio-Stims</span>** (G) - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.
+- **<span class="tg">Bio-Stims</span>** <img src="icons/tech_biotic.png" class="tech-icon" alt="G"> - You may exhaust this card at the end of your turn to ready 1 of your planets that has a technology specialty or 1 of your other technologies.
 
 - **<span class="tg">Hyper Metabolism</span>** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - During the status phase, gain 3 command counters instead of 2.
 
-- **<span class="tg">X-89 Bacterial Weapon</span> Ω** (GGG) - After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent's infantry was destroyed, destroy all of your opponent's infantry on that planet (Ω). Double the hits produced by your units' BOMBARDMENT and ground combat rolls. Exhaust each planet you use BOMBARDMENT against.
+- **<span class="tg">X-89 Bacterial Weapon</span> Ω** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - After 1 or more of your units use BOMBARDMENT against a planet, if at least 1 of your opponent's infantry was destroyed, destroy all of your opponent's infantry on that planet (Ω). Double the hits produced by your units' BOMBARDMENT and ground combat rolls. Exhaust each planet you use BOMBARDMENT against.
 
 ## Faction-Specific Technologies
 
 ### Mahact Gene-Sorcerers
 
-- **<span class="tg">Genetic Recombination</span>** (G) - You may exhaust this card before a player casts votes; that player must cast at least 1 vote for an outcome of your choice or remove 1 token from their fleet pool and return it to their reinforcements.
+- **<span class="tg">Genetic Recombination</span>** <img src="icons/tech_biotic.png" class="tech-icon" alt="G"> - You may exhaust this card before a player casts votes; that player must cast at least 1 vote for an outcome of your choice or remove 1 token from their fleet pool and return it to their reinforcements.
 
 - **Crimson Legionnaire II** <img src="../icons/tech_biotic.png" class="tech-icon" alt="G"><img src="../icons/tech_biotic.png" class="tech-icon" alt="G"> - Mahact Infantry. Cost: 1 (x2), Combat: 7. After this unit is destroyed, roll 1 die. If the result is 6 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
 
@@ -91,7 +91,7 @@
 **Prerequisite Key:**
 
 - No letter = No prerequisites (base technology)
-- (B) = 1 Blue tech required
+- <img src="icons/tech_propulsion.png" class="tech-icon" alt="B"> = 1 Blue tech required
 - <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = 2 Blue techs required
 - <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"> = 3 Blue techs required
 - Same pattern for R (Red), Y (Yellow), G (Green)

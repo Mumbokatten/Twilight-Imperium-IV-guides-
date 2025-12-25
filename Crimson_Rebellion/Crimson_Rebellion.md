@@ -115,7 +115,7 @@ At the end of any player's combat in this unit's system or up to 2 systems away,
 
 Main value is the AFB 6 (x3) upgrade—deterrent for fighter screens. The 2-away breach placement is nice. Reminder: If your destroyer dies in combat, it doesn't place a breach.
 
-**Subatomic Splicer (Y):**
+**Subatomic Splicer <img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">:**
 *When one of your ships is destroyed, you may produce a ship of the same type at a space dock in your home system.*
 
 Home system production is slow. Works well with Hero—rebuild ships and place on Fragment Reality card. Note: Fighters cost 1 each (not 1 for 2) when rebuilt this way.
@@ -257,7 +257,7 @@ You're one of the least tech-dependent factions. Plastic > Tech. Try to stay 1 t
 **High Value:**
 
 - **<span class="tr">Assault Cannon</span> <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R">** - Same timing as hero. Immune to Skilled Retreat.
-- **Subatomic Splicer (Y)** - Ship rebuilding. Hero synergy.
+- **Subatomic Splicer ** - Ship rebuilding. Hero synergy.
 - **<span class="tb">Fleet Logistics</span> <img src="../icons/tech_propulsion.png" class="tech-icon" alt="B"><img src="../icons/tech_propulsion.png" class="tech-icon" alt="B">** - If needed.
 - **War Sun <img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_warfare.png" class="tech-icon" alt="R"><img src="../icons/tech_cybernetic.png" class="tech-icon" alt="Y">** - <span class="ty">AI Development Algorithm</span> + B↔R synergy enables. Requires wealth.
 
